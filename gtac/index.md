@@ -7,7 +7,7 @@ description: "Course homepage for 18.S997 Graph Theory and Additive Combinatoric
 18.S997 Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="bridge.png" width="600" height="181" style="float:right; max-width: 50%; height: auto;"
+<img src="bridge.png" width="600" height="181" style="float:right; max-width: 50%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
 Fall 2017, MIT
