@@ -1,0 +1,22 @@
+baseurl:
+title: Yufei Zhao
+url: http://yufeizhao.com
+description:
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: pretty
+timezone: America/New_York
+excerpt_separator: <!--more-->
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: emacs
+git:
+  branch: master
+
+kramdown:
+  auto_ids: true
