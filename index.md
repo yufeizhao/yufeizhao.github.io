@@ -8,14 +8,14 @@ Assistant Professor
 Department of Mathematics  
 Massachusetts Institute of Technology
 
-<div class="row justify-content-start">
-<div class="col-4">
+<div class="row">
+<div class="col-md-4">
 <p><strong>Email:</strong>
 {% include email.html %}</p>
 
 <p><strong>Office:</strong> 2-271</p>
 </div>
-<div class="col-8">
+<div class="col-md-8">
 <p><strong>Mail:</strong><br>
 MIT Department of Mathematics<br>
 77 Massachusetts Ave, Room 2-271<br>
