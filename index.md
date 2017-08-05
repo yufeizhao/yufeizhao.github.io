@@ -28,10 +28,6 @@ Cambridge, MA 02139, USA</p>
 
 Combinatorics, discrete mathematics, graph theory
 
-## Videos
-
-{% include videos-embed.md %}
-
 ## Teaching
 
 **Upcoming** (Fall 2017 at MIT)
@@ -44,6 +40,12 @@ Combinatorics, discrete mathematics, graph theory
 * [Polynomial Method in Combinatorics](pm16), Trinity Term 2016, Oxford
 
 ### [Math Olympiad training handouts](olympiad)
+
+
+## Videos
+
+{% include videos-embed.md %}
+
 
 ## Short CV
 
