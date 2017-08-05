@@ -27,7 +27,6 @@ html{
     font-size: 11px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
   }
 
 @media screen and (min-width: 800px){ html{ font-size: 12px;} }
@@ -46,7 +45,7 @@ html{
 .mathblock{
   font-size: 1.3rem;
 }
-a {
+a, a:hover{
   color: $contrast-color;
   text-decoration: none;
 }
@@ -65,15 +64,20 @@ p > a { @if $link-style == underline
     }
   }
 
-body { width: 87.5%;
+body { width: 95%;
        margin-left: auto;
        margin-right: auto;
-       padding-left: 12.5%;
+       //padding-left: 12.5%;
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
-       max-width: 1400px;
+       max-width: 1000px;
        counter-reset: sidenote-counter; }
+
+// .container-fluid {
+//    max-width: 1000px;
+// }
+
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
@@ -186,18 +190,18 @@ th, td{ font-size: 1.2rem;
 
 /* Basic Layout stuff --*/
 
-article { position: relative;
-          padding: 1
-
-          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
+article { //position: relative;
+          //padding: 1rem 0rem 2.5rem 0rem;
+        } // reduced top and bottom padding by 50%
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 
 ul,ol { //width: 45%;
-     -webkit-padding-start: 3%;
-     -webkit-padding-end: 3%;
+     //-webkit-padding-start: 3%;
+     padding-left:3%;
+     //-webkit-padding-end: 3%;
      list-style-type: none; }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
@@ -254,20 +258,20 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
+//p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
 
 div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
-@media screen and (max-width: 760px) { p, footer,div.mathblock { width: 90%; }
-                                       pre code { width: 87.5%; }
-                                       ul { width: 85%; }
-                                       figure { max-width: 90%; }
-                                       figcaption, figure.fullwidth figcaption { margin-right: 0%;
-                                                                                 max-width: none; }
-                                       blockquote p, blockquote footer {  width: 80%;
-                                                                          padding-left: 5%;
-                                                                          padding-right: 5%;
-                                                                        }}
+// @media screen and (max-width: 760px) { p, footer,div.mathblock { width: 90%; }
+//                                        pre code { width: 87.5%; }
+//                                        ul { width: 85%; }
+//                                        figure { max-width: 90%; }
+//                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
+//                                                                                  max-width: none; }
+//                                        blockquote p, blockquote footer {  width: 80%;
+//                                                                           padding-left: 5%;
+//                                                                           padding-right: 5%;
+//                                                                         }}
 
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
 
@@ -275,9 +279,9 @@ pre, pre code, p pre code { width: 52.5%;
            padding-left: 2.5%;
            overflow-x: auto; }
 
-.fullwidth, li.listing div{ max-width: 90%; }
+//.fullwidth, li.listing div{ max-width: 90%; }
 
-.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
+//.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
 span.newthought { font-variant: small-caps;
                   font-size: 1.2em;
@@ -388,15 +392,16 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 90%;
+body.full-width, .content-listing, ul.content-listing li.listing{
+       //width: 90%;
        margin-left: auto;
        margin-right: auto;
-       padding: 0% 5%;
+       padding: 0% 0%;
+}
 
-}
-.full-width article p{
-  width: 90%;
-}
+// .full-width article p{
+//    width: 90%;
+// }
 
 
 h1.content-listing-header{
