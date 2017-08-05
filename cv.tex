@@ -1,0 +1,597 @@
+\documentclass[11pt]{amsart}
+\usepackage{amsmath, fancyhdr,multicol, etaremune, lastpage, xcolor, url,enumitem,graphics,titlesec, tabularx,longtable, booktabs}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\usepackage[left=.9in, right=.9in, top=.9in, bottom=.9in]{geometry}
+
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+\definecolor{darkblue}{rgb}{0,0,.6}
+\newcommand{\blue}{\color{darkblue}}
+\setlength{\parindent}{0in}
+
+
+\pagestyle{fancy}
+
+\lhead{\blue \sc Yufei Zhao}
+%\leftmark
+%\chead{\blue Yufei Zhao}
+\rhead{\blue {\thepage}/\pageref{LastPage}}
+%\rfoot{\tiny Updated: \today}
+%\rightmark
+%\renewcommand{\headrulewidth}{0pt}
+
+\cfoot{}
+
+%Section header formating
+%\renewcommand{\section*}[1]{{\vspace{14pt}\blue \bfseries \large #1 \par \vspace{7pt}}}
+
+\titleformat{\section}{\normalfont\bfseries\large\blue}{\thesection}{1em}{}
+\titlespacing*{\section}{0em}{1em}{.2em}
+\setlength{\parskip}{.4em}
+\setlength{\extrarowheight}{.4em}
+\setlength{\lineskip}{.2em}
+
+
+% \newenvironment{newlist}{\begin{list}{$\bullet$} {\setlength{\leftmargin}{1.5em}}}{\end{list}}
+
+% To add some paragraph space between lines.
+% This also tells LaTeX to preferably break a page on one of these gaps
+% if there is a needed pagebreak nearby.
+\newcommand{\blankline}{\quad\vspace{-6pt}\pagebreak[2]}
+
+
+
+
+\newcommand{\rightloc}[1]{\hfill {\raggedright #1}}
+\newcommand{\rightdate}[1]{\hfill {\raggedright #1}}
+\renewcommand{\labelenumi}{\theenumi.}
+
+\newcommand{\arXiv}[1]{\href{http://arxiv.org/abs/#1}{\tt arXiv:#1}}
+
+\newcommand{\p}[1]{{\bfseries #1}}
+\renewcommand{\j}[1]{{\frenchspacing\itshape #1}}
+\newcommand{\q}{\null\quad}
+
+\begin{document}
+
+\thispagestyle{empty}
+
+
+\parbox{.5\textwidth}{\scalebox{3}{\sffamily\bfseries Yufei Zhao}}
+\hfill
+\parbox{.5\textwidth}
+{  \begin{flushright} \small
+\url{http://yufeizhao.com} \\
+\url{yufeiz@mit.edu} 
+\\[2pt] \footnotesize
+MIT Department of Mathematics \\
+77 Massachusetts Ave, Room 2-271 \\  
+Cambridge, MA 02139, USA
+\end{flushright}
+}
+
+\vspace{12pt}
+
+{\blue
+\hrule
+\vspace{0.02in}
+\hrule
+%\vspace{0.1in}
+}
+
+\section*{Current Position}
+
+\p{Massachusetts Institute of Technology} \rightloc{Cambridge, MA} \\
+\null\quad Assistant Professor, Department of Mathematics \rightdate{2017---\phantom{2020}}
+
+\section*{Previous Positions}
+
+\textbf{UC Berkeley} \rightloc{Berkeley, CA} \\
+\q Simons Institute Research Fellow \rightdate{Spring 2017}
+
+\p{University of Oxford} \rightloc{Oxford, UK} \\
+\q Esm\'ee Fairbairn Junior Research Fellow in Mathematics, New College  \rightdate{2015---2017}
+
+\section*{Education}
+
+\p{Massachusetts Institute of Technology} \rightloc{Cambridge, MA}\\
+\q Ph.D.~Mathematics. Advisor: Jacob Fox
+\rightdate{2011---2015}
+
+\p{University of Cambridge} \rightloc{Cambridge, UK} \\
+\q M.A.St.~Mathematics with Distinction \rightdate{2010---2011}
+
+\p{Massachusetts Institute of Technology} \rightloc{Cambridge, MA} \\
+\q S.B.~Mathematics, with minor in Economics. \rightdate{2006---2010} \\
+\q S.B.~Computer Science and Engineering. % GPA: $5.0/5.0$.
+
+\section*{Research Interests}
+
+Extremal/probabilistic/additive combinatorics;
+graph theory and graph limits;
+sphere packing
+
+\section*{Selected Awards and Honors}
+
+Johnson Prize, MIT Mathematics Department, 2015
+
+%\quad {\small in recognition of an outstanding mathematics paper accepted for publication in a major journal}
+
+Microsoft Research PhD Fellowship, 2013--2015
+
+MIT Akamai Presidential Fellowship, 2011--2012
+
+Leslie Walshaw Prize, Examination Prize, and Senior Scholarship,
+Trinity College, Cambridge, 2011
+
+% \quad {\small for top results in Cambridge Part III Mathematics examinations}
+
+Morgan Prize Honorable Mention, 2011
+
+%\quad {\small for outstanding research in mathematics by an undergraduate student}
+
+Gates Cambridge Scholarship, 2010--2011
+
+%\blankline
+
+%Trinity College Cambridge Studentship in Mathematics, 2010
+
+% \blankline
+
+% Julie Payette---NSERC Research Scholarship (declined), 2010
+
+MIT Jon A.~Bucsela Prize in Mathematics, 2010
+
+%\quad {\small awarded to the top graduating senior in the MIT Mathematics Department}
+
+%William Lowell Putnam Mathematics Competition
+
+Putnam Math Competition: Three-time Putnam Fellow (top five rank) 2006, 2008, 2009; 7th Place 2007
+%\item Member of MIT Team: First Place 2009, Third Place 2007 and 2008
+
+% \blankline
+
+% MIT 6.370 BattleCode AI Programming Competition: first place team 2008
+
+International Mathematical Olympiad: Gold Medal 2005; Silver Medal
+2006; Bronze Medal 2004
+
+% \begin{newlist}
+% \item Silver Medal, 2006  \rightloc{Ljubljana, Slovenia}
+% \item Gold Medal, 2005    \rightloc{Merida, Mexico}
+% \item Bronze Medal, 2004  \rightloc{Athens, Greece}
+% \end{newlist}
+
+%\blankline
+%
+%USA Mathematical Olympiad: Third Place 2005 and 2006
+%
+%\blankline
+%
+%Canadian Mathematical Olympiad: First Place 2004
+
+%\blankline
+%
+%\textbf{Asian Pacific Mathematical Olympiad}
+%
+%\begin{newlist}
+%\item Perfect score, 2006
+%\end{newlist}
+
+% \blankline
+% Member of honor societies: Phi Beta Kappa, Eta Kappa Nu
+
+\section*{Research Internships}
+
+\p{Microsoft Research} New England \rightloc{Cambridge, MA} \\
+\q Mentor: Henry Cohn \rightdate{Summers 2010, 2011, 2013, 2014}
+
+\blankline
+
+\p{Microsoft Research} Theory Group
+\rightloc{Redmond, WA} \\
+\q Mentor: Eyal Lubetzky \rightdate{Summer 2012}
+
+% \blankline
+
+% NSF Research Experience For Undergraduates (REU) at Duluth
+% \rightloc{Duluth, MN}
+
+% \quad Mentor: Joseph Gallian  \rightdate{Summer 2009}
+
+% \begin{newlist}
+% 	\item Conducted independent research on additive combinatorics and graph theory at University of Minnesota Duluth REU under the supervision of Prof.~Joseph Gallian.
+% 	\item Wrote five papers intended for publication in professional research journals.
+% \end{newlist}
+
+% \blankline
+
+% MIT Undergraduate Research Opportunities Program (UROP)
+% \rightloc{Cambridge, MA}
+
+% \quad Mentors: Richard Stanley, Michel Goemans \rightdate{2006--2007, 2009}
+
+% \p{MIT Mathematics Department UROP} \hfill Cambridge, MA
+
+% {\em Undergraduate Researcher} \rightdate{10/2006---5/2007, 2/2009---12/2009}
+
+% \begin{newlist}
+% 	\item Conducted research as part of the MIT Undergraduate Research Opportunities Program (UROP), under the guidance of Prof.~Richard Stanley and Prof.~Michel Goemans.
+% \end{newlist}
+
+\section*{Papers}
+
+\begin{etaremune}[leftmargin=0.3in,itemsep=4pt,topsep=0pt,partopsep=0pt,parsep=0pt]
+
+\item Y.~Zhao, Group representations that resist worst-case sampling, \arXiv{1705.04675}.
+
+\item Y.~Zhao, Extremal regular graphs: independent sets and graph homomorphisms, \\
+  \j{Amer. Math. Monthly}, to appear.
+  %preprint \arXiv{1610.09210}.
+
+\item B.~B.~Bhattacharya, S.~Ganguly, X.~Shao, and Y.~Zhao, \\ 
+  Upper tails for arithmetic progressions in a random set, 
+  preprint \arXiv{1605.02994}.
+
+\item J.~Fox, L.~M.~Lov\'asz, Y.~Zhao,
+  On regularity lemmas and their algorithmic applications, \\
+  \j{Combin. Probab. Comput.}, to appear.
+%  preprint \arXiv{1604.00733}.
+	
+\item D.~Conlon and Y.~Zhao,
+  Quasirandom Cayley graphs, \\
+  \j{Discrete Analysis} 2017:6, 14 pp.
+  %preprint \arXiv{1603.03025}.
+
+\item B.~B.~Bhattacharya, S.~Ganguly, E.~Lubetzky, and Y.~Zhao, \\
+  Upper tails and independence polynomials in random graphs,
+  \\
+  \j{Adv. Math.}, to appear. 
+%  preprint \arXiv{1507.04074}.
+
+\item L.~M.~Lov\'asz and Y.~Zhao,
+  On derivatives of graphon parameters, \\
+  \j{J. Combin. Theory Ser. A} 145 (2017), 364--368.
+%  preprint \arXiv{1505.07448}.
+
+\item Y.~Zhao,
+  On the lower tail variational problem for random graphs, \\
+  \j{Combin. Probab. Comput.} 26 (2017), 301--320.
+%  preprint \arXiv{1502.00867}.
+
+\item C.~Borgs, J.~T.~Chayes, H.~Cohn, and Y.~Zhao, \\
+  An $L^p$ theory of sparse graph convergence II:
+  LD convergence, quotients, and right convergence, 
+  \\
+  \j{Ann. Probab.}, to appear.
+%  preprint \arXiv{1408.0744}.
+
+\item D.~Conlon, J.~Fox, and Y.~Zhao,
+  The Green-Tao theorem: an exposition, \\
+  \j{EMS Surv.~Math.~Sci.} 1 (2014), 249--282.
+  % Preprint \arXiv{1403.2957}.
+
+\item E.~Lubetzky and Y.~Zhao,
+  On the variational problem for upper tails in sparse random graphs, \\
+  \j{Random Structures Algorithms} 50 (2017), 420--436.
+  % \arXiv{1402.6011}
+
+\item C.~Borgs, J.~T.~Chayes, H.~Cohn, and Y.~Zhao, 
+  An $L^p$ theory of sparse graph convergence I: limits, sparse random
+  graph models, and power law distributions,
+  preprint \arXiv{1401.2906}.
+
+\item Y.~Zhao,
+  An arithmetic transference proof of a relative Szemer\'edi theorem, \\
+  \j{Math.~Proc.~Cambridge Philos.~Soc.} 156 (2014), 255--261.
+  % \arXiv{1307.4959}.
+
+\item J.~Fox and Y.~Zhao,
+  A short proof of the multidimensional Szemer\'edi theorem in the primes, \\
+  \j{Amer.~J.~Math.} 137 (2015), 1139--1145.
+  %Preprint \arXiv{1307.4679}.
+
+\item D.~Conlon, J.~Fox, and Y.~Zhao,
+  A relative Szemer\'edi theorem,  \\
+  \j{Geom. Funct. Anal.} 25 (2015), 733--762.
+  %Preprint \arXiv{1305.5440}.
+  %With companion note: Linear forms from the Gowers uniformity norm,
+  %\arXiv{1305.5565}.
+
+\item Y.~Zhao,
+  Hypergraph limits: a regularity approach, \\
+  \j{Random Structures Algorithms} 47 (2015), 205--226. %Preprint
+  % \arXiv{1302.1634}.
+
+\item H.~Cohn and Y.~Zhao,
+  Sphere packing bounds via spherical codes, \\
+  \j{Duke Math.~J.} 163 (2014), 1965--2002.
+  %  Preprint \arXiv{1212.5966}.
+
+\item H.~Cohn and Y.~Zhao,
+  Universally optimal error-correcting codes, \\
+  \j{IEEE Trans.~Inform.~Theory} 60 (2014), 7442--7450.
+  %Preprint \arXiv{1212.1913}
+
+\item E.~Lubetzky and Y.~Zhao,
+  On replica symmetry of large deviations in random graphs, \\
+  \j{Random Structures Algorithms} 47 (2015) 109--146. %\arXiv{1210.7013}.
+
+\item J.~Fox, P.~Loh, and Y.~Zhao,
+  The critical window for the classical Ramsey-Tur\'an problem, \\
+  \j{Combinatorica} 35 (2015) 435--476. %\arXiv{1208.3276}.
+
+\item D.~Conlon, J.~Fox, and Y.~Zhao,
+  Extremal results in sparse pseudorandom graphs, \\
+  \j{Adv.~Math.} {256} (2014), 206--290.
+    %Preprint \arXiv{1204.6645}.
+
+\item Y.~Zhao,
+  {The bipartite swapping trick on graph homomorphisms}, \\
+  \j{SIAM J.~Discrete Math.} 25 (2011), 660--680.
+
+\item Y.~Zhao,
+  {Sets characterized by the number of missing sums and differences}, \\
+  \j{J.~Number Theory} 11 (2011), 2107--2134.
+
+\item D.~Galvin and Y.~Zhao,
+  {The number of independent sets in graphs with small maximum degree}, \\
+  \j{Graphs Combin.} 27 (2011), 177--186.
+
+\item Y.~Zhao,
+  {Counting MSTD sets in finite abelian groups}, \\
+  \j{J.~Number Theory} {130} (2010), 2308--2322.
+
+\item Y.~Zhao,
+  {Constructing numerical semigroups of a given genus},\\
+  \j{Semigroup Forum} {80} (2010), 242--254.
+\item Y.~Zhao,
+  {Constructing MSTD sets using bidirectonal ballot sequences},\\
+  \j{J.~Number Theory} {130} (2010), 1212--1220.
+
+\item Y.~Zhao,
+  {The number of independent sets in a regular graph}, \\
+  \j{Combin.~Probab.~Comput.} {19} (2010), 315--320.
+
+\item Y.~Zhao,
+  {The coefficients of a truncated Fibonacci power series}, \\
+  \j{Fibonacci Quart.} {46/47} (2009), 53--55.
+  
+\end{etaremune}
+
+\section*{Invited Talks}
+
+\begin{itemize}[leftmargin=.4in,itemsep=5pt,topsep=0pt,label={}]
+
+\item[2017] Harvard CMSA workshop: Additive Combinatorics and Applications \rightloc{Cambridge, MA}
+% 10/2-6/17
+
+\item Birmingham workshop: Interactions with Combinatorics \rightloc{Birmingham, UK}
+% 6/29/17
+
+\item BGSMath workshop: Random Discrete Structures and Beyond \rightloc{Barcelona, Spain}
+% 6/9/17
+
+\item SFSU: ACG Seminar \rightloc{San Francisco, CA}
+% 5/10/17
+
+\item Stanford Math Department Colloquium \rightloc{Stanford, CA}
+% 5/4/17
+
+\item Simons Institute workshop: Structure and Randomness \rightloc{Berkeley, CA}
+% 4/10/17
+
+\item MIT Combinatorics Seminar \rightloc{Cambridge, MA}
+  % 2/22/17 Large deviations in discrete random structures
+  
+\item UC Berkeley Combinatorics Seminar
+\rightloc{Berkeley, CA}
+  % 1/25/17 Pseudorandomness in graph theory and combinatorics
+
+\item Simons Institute workshop: Pseudorandomness Boot Camp \rightloc{Berkeley, CA}
+  % 1/20/17 Pseudorandomness and Regularity in Graphs IV: Sparse regularity
+
+\item Stanford Combinatorics Seminar
+\rightloc{Stanford, CA}
+  % 1/12/17 Large deviations for arithmetic progressions
+
+\item Oberwolfach workshop: Combinatorics \rightloc{Oberwolfach, Germany}
+  % 
+
+\item[2016] Turing Institute workshop: Large-scale structures in random graphs \rightloc{London, UK}
+  % 12/15/16 Large deviations in random graphs
+
+\item Birmingham Combinatorics Seminar \rightloc{Birmingham, UK}
+  % 11/24/16 Large deviations in random graphs
+
+\item IH\'ES Seminar \rightloc{Bures-sur-Yvette, France}
+  % 11/17/16 Large deviations in random graphs
+
+\item Warwick DIMAP Seminar \rightloc{Coventry, UK}
+  % 6/21/16 Upper tails for arithmetic progressions in a random set
+
+
+\item LSE/Queen Mary Colloquia in Combinatorics \rightloc{London, UK}
+  % 5/11/16 Quasirandom Cayley graphs
+
+\item Oberwolfach workshop: Combinatorics and Probability \rightloc{Oberwolfach, Germany}
+  % 4/18/16 Quasirandom Cayley graphs 
+
+\item Simons Symposium: Analysis of Boolean Functions \rightloc{Kr\"un, Germany}
+  % 4/6/16 Quasirandom Cayley graphs
+  % 4/6/16 Pseudorandomness in the the Green-Tao theorem
+
+\item British Mathematical Colloquium: Combinatorics Workshop \rightloc{Bristol, UK}
+  % 3/22/16 Quasirandom Cayley graphs
+  
+\item Oxford Mathematical Institute North meets South Colloquium \rightloc{Oxford, UK}
+  % 2/19/16 Triangles and equations
+
+\item AMS-MAA Joint Mtgs: AMS Spec.~Session on Pseudorandomness and Its Applications \rightloc{Seattle, WA}
+  % 1/8/16 Pseudorandomness in the the Green-Tao theorem
+
+\item[2015] 
+  London School of Economics Discrete Mathematics and
+  Game Theory Seminar \rightloc{London, UK}
+  % 11/26/15 Large deviations in random graphs
+
+\item 
+  Queen Mary Combinatorics Seminar \rightloc{London, UK}
+  % 11/23/15 Large deviations in random graphs
+
+\item Warwick Combinatorics Seminar \rightloc{Coventry, UK}
+  % 11/20/15 Large deviations in random graphs
+
+\item Oxford Combinatorial Theory Seminar \rightloc{Oxford, UK}
+  % 11/17/15 Large deviations in random graphs
+\item Northeastern U.\ workshop: Random Graphs, Simplicial Complexes, and their Appl'ns \rightloc{Boston, MA}
+  % 5/21/15 Large deviations in random graphs
+
+\item U.\ of Chicago Combinatorics and Theoretical Computer
+  Science Seminar \rightloc{Chicago, IL}
+  % 5/19/15 Large deviations in random graphs
+
+\item Rutgers Discrete Math Seminar \rightloc{Piscataway, NJ}
+  % 3/23/15 Large deviations in random graphs
+
+
+\item ICERM workshop: Crystals, Quasicrystals and Random Networks
+  \rightloc{Providence, RI}
+  % 2/12/15 Large deviations in random graphs
+
+\item[2014] Atlanta Lectures Series in Combinatorics and Graph
+  Theory at Emory \rightloc{Atlanta, GA}
+  % 11/1/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item GSU Colloquium
+  \rightloc{Atlanta, GA}
+  % 10/31/2014 A century of progress on arithmetic progressions
+
+\item CRM workshop: New Topics in Additive Combinatorics
+  \rightloc{Montreal, QC}
+  % 10/6/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+
+\item IMA workshop: Additive and Analytic Combinatorics
+  \rightloc{Minneapolis, MN}
+  % 10/1/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+
+\item Clay Math Institute workshop: Extremal and
+  Probabilistic Combinatorics
+  \rightloc{Oxford, UK}
+  % 6/2/2014 Large deviations in random graphs: revisiting the infamous upper tail
+
+\item Georgia Tech Combinatorics Seminar
+  \rightloc{Atlanta, GA}
+  % 4/4/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item IAS Computer Science/Discrete Mathematics Seminar
+  \rightloc{Princeton, NJ}
+  % 3/3/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item Oxford Combinatorial Theory Seminar \rightloc{Oxford, UK}
+  % 1/2014 Sparse graph limits and scale-free networks
+
+\item London School of Economics Discrete Mathematics and
+  Game Theory Seminar \rightloc{London, UK}
+  % 1/16/2014 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item Eurandom: Minicourse on Graph Limits
+  \rightloc{Eindhoven, Netherlands} \\
+  \mbox{}\qquad (6-hour minicourse co-taught with Christian Borgs)
+  % 1/13/2014 Graph limits
+
+\item Oberwolfach workshop: Combinatorics
+  \rightloc{Oberwolfach, Germany}
+  % 1/2014 The Green-Tao theorem and a relative Szemer\'edi theorem 20min
+
+\item[2013] Simons Institute workshop: Neo-Classical Methods in
+  Discrete Analysis \rightloc{Berkeley, CA}
+  % 12/2013 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item Rutgers Discrete Math Seminar \rightloc{Piscataway,
+    NJ}
+  % 11/2013 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item MIT Combinatorics Seminar \rightloc{Cambridge, MA}
+  % 10/16/13 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item Yale Combinatorics and Probability Seminar
+  \rightloc{New Haven, CT}
+  % 10/11/13 The Green-Tao theorem and a relative Szemer\'edi theorem
+
+\item Microsoft Research Theory Reading Group \rightloc{Cambridge, MA}
+  % 6/28/2013 Green-Tao, Szemer\'edi, and transference
+
+\item Oberwolfach workshop: Combinatorics and Probability
+  \rightloc{Oberwolfach, Germany}
+  % 1/2013 large deviations in random graphs
+
+\item[2012] MIT Combinatorics Seminar \rightloc{Cambridge, MA}   % sparse graph regularity
+\item SIAM Conference on Discrete Mathematics
+  \rightloc{Halifax, NS}   % sparse graph regularity
+% \item[01/2011] AMS/MAA Joint Math Meetings, Undergrad Poster Session, {\em prize winner} \rightloc{New Orleans, LA}
+% \item[01/2010] AMS/MAA Joint Math Meetings, Undergrad Poster Session, {\em prize winner} \rightloc{San Francisco, CA}
+% \item[01/2010] AMS/MAA Joint Math Meetings Contributed Session \rightloc{San Francisco, CA}
+\item[2009] MIT Combinatorics Seminar \rightloc{Cambridge, MA}
+  %more sums than differences sets
+\end{itemize}
+
+%\section*{Workshop attendence (selected)}
+%
+%\begin{itemize}[leftmargin=.4in,itemsep=5pt,label={}]
+%
+%\item[2014] 
+%\item Clay Math Institute: Extremal and Probabilistic Combinatorics
+%\item Oberwolfach: Combinatorics \rightloc{Oberwolfach, Germany}
+%
+%\item[2013] Simons Institute: Neo-classical Methods in Discrete Analysis
+%  \rightloc{Berkeley, CA}
+%\item Banff: Geometric and Topological Graph Theory
+%  \rightloc{Banff, AB}
+%\item Oberwolfach: Combinatorics and Probability
+%  \rightloc{Oberwolfach, Germany}
+%\item UCLA/IPAM: Extremal and Probabilistic Combinatorics
+%  \rightloc{Los Angeles, CA}
+%\item Oberwolfach: Graph Theory \rightloc{Oberwolfach, Germany}
+%\end{itemize}
+
+
+%\newpage
+
+\section*{Teaching}
+\begin{longtable}[l]{rccl}
+	Fa 2017 & MIT & U & 18.A34 Mathematical Problem Solving Seminar \\
+	Fa 2017 & MIT & G & 18.S997 Graph Theory and Additive Combinatorics \\
+	MT 2016 & Oxford & U & Geometry (tutorial) \\
+	TT 2016 & Oxford & G & Polynomial Method in Combinatorics \\
+	Sp 2013 & MIT & U & 18.03: Differential Equations (recitation)
+\end{longtable}
+
+{\footnotesize [U = Undergraduate, G = Graduate]}
+
+
+\section*{Other Experiences and Activities}
+
+MIT PRIMES Mentor --- 2013--2015 (Lusztig PRIMES Mentor in 2015)
+
+Research Experience for Undergraduates at Duluth (mentor: Joe Gallian) --- Summer 2009
+
+Deputy Leader for Canadian IMO Team --- 2008
+
+Instructor at Canadian IMO Training Camps --- various summers and winters
+
+Mentor at AwesomeMath Summer Program --- Summer 2007
+
+Trainer at Math Olympiad Summer Program --- Summer 2007
+
+Teacher at Spirit of Math Schools in Toronto --- 2005--2006
+
+\vspace{\fill}
+
+{\hfill \footnotesize CV updated: \today}
+
+\end{document}

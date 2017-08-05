@@ -3,3 +3,4 @@ _site
 .DS\_Store
 config.codekit
 .texpadtmp
+cv.tex
