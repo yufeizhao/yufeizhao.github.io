@@ -7,9 +7,8 @@ description: Yufei Zhao's math olympiad training handouts
 
 # Math Olympiad training handouts
 
-[Materials from Canadian IMO Training camps](https://sites.google.com/site/imocanada/)
-
-[Book recommendations](#book-recommendations)
+- [Handouts from Canadian IMO Training camps](https://sites.google.com/site/imocanada/)
+- [Book recommendations](#book-recommendations)
 
 I have taught classes at various math olympiad training programs. Here are some of my handouts and training material.
 

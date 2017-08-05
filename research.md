@@ -35,14 +35,13 @@ Also see my listings on
 * [An arithmetic transference proof of a relative Szemerédi theorem](http://arxiv.org/abs/1307.4959) \\
   _Mathematical Proceedings of the Cambridge Philosophical Society_ 156 (2014), 255–261.  
 
-* <img class="side" alt="" width="100" height="100" src="primessquared.png"/>
+* <img class="side" alt="" height="80" src="primessquared.png"/>
   [A short proof of the multidimensional Szemerédi theorem in the primes](http://arxiv.org/abs/1307.4679)
   (with Jacob Fox) \\
   _American Journal of Mathematics_ 137 (2015), 1139—1145.
 
 **Large deviations in random graphs**
 <a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
-<a class="btn btn-secondary btn-sm" href="http://bit.ly/icerm_zhao">video</a>
 
 * <img class="side" alt="" height="79" src="gnp_ldp-thumb.png" width="80"/>
   [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
@@ -151,12 +150,12 @@ Also see my listings on
 
 ## Expositions and surveys
 
-* <img class="side" src="primes-AP.svg" height="70" alt="" />
+* <img class="side" src="primes-AP.svg" height="50" alt="" />
   [The Green-Tao theorem: an exposition](http://arxiv.org/abs/1403.2957)
   (with David Conlon and Jacob Fox) \\
   _EMS Surveys in Mathematical Sciences_ 1 (2014), 249–282.  
 
-* <img class="side" src="extremal-regular.png" height="60" alt="" />
+* <img class="side" src="extremal-regular.png" height="50" alt="" />
   [Extremal regular graphs: independent sets and graph homomorphisms](https://arxiv.org/abs/1610.09210) \\
   _American Mathematical Monthly_, to appear.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/">blog</a>
