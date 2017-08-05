@@ -33,13 +33,13 @@ Combinatorics, discrete mathematics, graph theory
 **Upcoming** (Fall 2017 at MIT)
 
 * 18.A34 Mathematical Problem Solving Seminar
-* [18.S997 Graph Theory and Additive Combinatorics](gtac)
+* [18.S997 Graph Theory and Additive Combinatorics](gtac/)
 
 **Previous**
 
-* [Polynomial Method in Combinatorics](pm16), Trinity Term 2016, Oxford
+* [Polynomial Method in Combinatorics](pm16/), Trinity Term 2016, Oxford
 
-### [Math Olympiad training handouts](olympiad)
+### [Math Olympiad training handouts](olympiad/)
 
 
 ## Videos
