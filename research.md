@@ -63,6 +63,8 @@ Also see my listings on
 
 * [Upper tails for arithmetic progressions in a random set](http://arxiv.org/abs/1605.02994)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Xuancheng Shao)
+  <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a>
+
 
 **Graph limits**
 
