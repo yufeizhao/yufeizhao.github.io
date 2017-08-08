@@ -45,7 +45,8 @@ html{
 .mathblock{
   font-size: 1.3rem;
 }
-a, a:hover{
+
+a, a:link, a:hover, a:active, a:visited{
   color: $contrast-color;
   text-decoration: none;
 }

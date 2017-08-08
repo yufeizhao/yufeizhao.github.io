@@ -1,7 +1,7 @@
 ---
 layout: personal
 title: Yufei Zhao | MIT Mathematics
-description: "Assistant Professor of Mathematics at MIT. Research interests: combinatorics and discrete Mathematics"
+description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics and discrete mathematics"
 ---
 
 Assistant Professor  
@@ -49,7 +49,7 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Short CV
 
-* Ph.D. Mathematics, MIT, 2015 (Advisor: Jacob Fox)
+* Ph.D. Mathematics, MIT, 2015 (Advisor: [Jacob Fox](http://math.mit.edu/~fox/))
 * M.A.St. Mathematics with Distinction, Cambridge, 2011
 * S.B. Mathematics, MIT, 2010
 * S.B. Computer Science and Engineering, MIT, 2010
