@@ -28,6 +28,8 @@ Cambridge, MA 02139, USA</p>
 
 Combinatorics, discrete mathematics, graph theory
 
+[**MIT Combinatorics Seminar**](http://math.mit.edu/seminars/combin/)
+
 ## Teaching
 
 **Upcoming** (Fall 2017 at MIT)
