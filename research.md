@@ -6,13 +6,14 @@ description: Yufei Zhao's research papers
 
 # Research
 
-* [_Research papers_](#research)
-* [_Expositions and surveys_](#expositions-and-surveys)
+* [Research papers](#research)
+* [Expositions and surveys](#expositions-and-surveys)
 
-Also see my listings on
-<a class="btn btn-secondary" href="http://arxiv.org/a/zhao_y_1">arXiv</a>
-<a class="btn btn-secondary" href="http://www.ams.org/mathscinet/search/author.html?mrauthid=864404">MathSciNet</a>
-<a class="btn btn-secondary" href="http://scholar.google.com/citations?user=H1vNRiUAAAAJ">Google Scholar</a>
+My papers are also listed on
+[arXiv](http://arxiv.org/a/zhao_y_1),
+[MathSciNet](http://www.ams.org/mathscinet/search/author.html?mrauthid=864404),
+and
+[Google Scholar](http://scholar.google.com/citations?user=H1vNRiUAAAAJ).
 
 ## Research Papers
 
