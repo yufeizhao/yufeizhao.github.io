@@ -13,7 +13,7 @@ Polynomial Method in Combinatorics
  alt="logo">
 Graduate course, Trinity Term 2016
 
-**Instructor:** [Dr Yufei Zhao](http://yufeizhao.com)
+**Instructor:** [Yufei Zhao](http://yufeizhao.com)
 
 **Time:** Tuesday 10---11.30
 
