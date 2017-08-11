@@ -66,11 +66,11 @@ The content of the course will primarily be drawn from several sources listed be
 
 **Pseudorandom graphs and graph limits**
 
-- Chapter 9 of Alon and Spencer, [The probabilitic method](http://amzn.to/2hsVSe1) (the 4th edition contains a new section on graph limits)
-- László Lovász, [Large networks and graph limits](http://amzn.to/2v2inLw)
+- Chapter 9 of Alon and Spencer, [The probabilitic method](https://www.amazon.com/gp/product/1119061954/) (the 4th edition contains a new section on graph limits)
+- László Lovász, [Large networks and graph limits](https://www.amazon.com/gp/product/0821890859/)
 
 **Additive combinatorics**
 
 - Ben Green's notes on [additive combinatorics](http://people.maths.ox.ac.uk/greenbj/notes.html)
 - K. Soundararajan's notes on [additive combinatorics](http://math.stanford.edu/~ksound/Notes.pdf)
-- Tao and Vu, [Additive combinatorics](http://amzn.to/2upZY7Q)
+- Tao and Vu, [Additive combinatorics](https://www.amazon.com/gp/product/0521136563/)

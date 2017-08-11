@@ -64,14 +64,14 @@ Here are some of my book recommendations for preparing for math competitions, in
 
 **Introductory**
 
-- Lehoczky and Rusczyk, [The Art of Problem Solving, Volume 1: the Basics](http://amzn.to/2wsW1Rm)
-- Lehoczky and Rusczyk, [The Art of Problem Solving, Volume 2: and Beyond](http://amzn.to/2v6l9h0)
-- Zeitz, [The Art and Craft of Problem Solving](http://amzn.to/2huTfs6)
+- Lehoczky and Rusczyk, [The Art of Problem Solving, Volume 1: the Basics](https://www.amazon.com/gp/product/0977304566/)
+- Lehoczky and Rusczyk, [The Art of Problem Solving, Volume 2: and Beyond](https://www.amazon.com/gp/product/0977304582/)
+- Zeitz, [The Art and Craft of Problem Solving](https://www.amazon.com/gp/product/0387982191/)
 
 **Advanced**
 
-- Engel, [Problem Solving Strategies](http://amzn.to/2v4wiRm)
-- Andreescu and Enescu, [Mathematical Olympiad Treasures](http://amzn.to/2v6Fvac)
-- Andreescu and Gelca, [Mathematical Olympiad Challenges](http://amzn.to/2v4u04t)
-- Andreescu and Dospinescu, [Problems from the Book](http://amzn.to/2v6ddfV)
-- Djukić et al., [The IMO Compendium](http://amzn.to/2fggKo5) (complete collection of IMO shortlist problems)
+- Engel, [Problem Solving Strategies](https://www.amazon.com/gp/product/0387982191/)
+- Andreescu and Enescu, [Mathematical Olympiad Treasures](https://www.amazon.com/gp/product/081768252X/)
+- Andreescu and Gelca, [Mathematical Olympiad Challenges](https://www.amazon.com/gp/product/0817645284/)
+- Andreescu and Dospinescu, [Problems from the Book](https://www.amazon.com/gp/product/0979926904/)
+- Djukić et al., [The IMO Compendium](https://www.amazon.com/gp/product/1441998535/) (complete collection of IMO shortlist problems)
