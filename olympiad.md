@@ -1,7 +1,7 @@
 ---
 layout: personal
 title: Math Olympiad training handouts
-description: Yufei Zhao's math olympiad training handouts
+description: Yufei Zhao's notes on algebra, combinatorics, geometry, and number theory for math olympiad training
 ---
 
 
@@ -11,6 +11,8 @@ description: Yufei Zhao's math olympiad training handouts
 - [Book recommendations](#book-recommendations)
 
 I have taught classes at various math olympiad training programs. Here are some of my handouts and training material.
+
+_If you don't know where to start, I recommend [Cyclic Quadrilaterals---The Big Picture](cyclic_quad.pdf) and [Three Lemmas in Geometry](three_geometry_lemmas.pdf)._
 
 ### Algebra
 
@@ -31,7 +33,6 @@ I have taught classes at various math olympiad training programs. Here are some 
 *   [Tiling](tiling.pdf) - MOP 2007 Blue group  
     Discussion of tiling boxes with bricks. Contains many coloring and tiling problems.
 *   [Counting in Two Ways](doublecounting_mop.pdf) - MOP 2007 Blue and Black group  
-
 *   [Combinatorics: bijections, catalan numbers, counting in two ways](wc08/comb.pdf) - Canadian 2008 Winter Training
 *   [Combinatorics: pigeonhole principle, coloring, binomial coefficients, bijections](comb1.pdf) - AwesomeMath 2007
 *   [Combinatorics: counting in two ways, generating functions, algebraic combinatorics](comb3.pdf) - AwesomeMath 2007
@@ -40,11 +41,9 @@ I have taught classes at various math olympiad training programs. Here are some 
 
 *   [Lemmas in Euclidean Geometry](geolemmas.pdf) - Canadian 2007 Summer Training  
     A collection of commonly occuring configurations in geometry problems.  
-
 *   [Cyclic Quadrilaterals – The Big Picture](cyclic_quad.pdf) - Canadian 2009 Winter Training  
     Explores many properties of the complete cyclic quadrilateral and its Miquel point, and also discusses several useful geometric techniques.
 *   [Three Lemmas in Geometry](three_geometry_lemmas.pdf) ([Solutions](three_geometry_lemmas_sol.pdf)) - Canadian 2010 Winter Training  
-
 *   [Power of a Point](power_of_a_point.pdf) ([Solutions](power_of_a_point_sol.pdf)) - UK Trinity Training 2011 (Mint group)
 *   [Circles](imo2008/zhao-circles.pdf) - Canadian 2008 Summer Training  
     Contains a section on a particular tangent circle configuration, and another section on projective geometry, poles and polars. [Here](imo2008/zhao-prelude.pdf)'s some additional food for thought.
