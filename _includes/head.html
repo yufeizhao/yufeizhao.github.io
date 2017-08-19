@@ -9,9 +9,9 @@
   {% endif %}
 
   {% if page.favicon %}
-  <link rel="shortcut icon" href="{{page.favicon}}" />
+  <link rel="shortcut icon" href="{{page.favicon}}">
   {% else %}
-  <link rel="shortcut icon" href="http://web.mit.edu/files/assets/images/favicon.ico" />
+  <link rel="shortcut icon" href="{{ "mit.ico" | prepend: relbase }}">
   {% endif %}
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
