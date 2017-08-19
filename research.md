@@ -30,16 +30,16 @@ and
 * <img class="side" alt="" height="100" src="relative-szemeredi-thumb.png" width="109" />
   [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
-  _Geometric and Functional Analysis_ 25 (2015), 733-762. \\
+  _Geometric and Functional Analysis_ 25 (2015), 733--762. \\
   Companion note: [Linear forms from the Gowers uniformity norm](http://arxiv.org/abs/1305.5565)
 
 * [An arithmetic transference proof of a relative Szemerédi theorem](http://arxiv.org/abs/1307.4959) \\
-  _Mathematical Proceedings of the Cambridge Philosophical Society_ 156 (2014), 255–261.  
+  _Mathematical Proceedings of the Cambridge Philosophical Society_ 156 (2014), 255--261.  
 
 * <img class="side" alt="" height="80" src="primessquared.png"/>
   [A short proof of the multidimensional Szemerédi theorem in the primes](http://arxiv.org/abs/1307.4679)
   (with Jacob Fox) \\
-  _American Journal of Mathematics_ 137 (2015), 1139—1145.
+  _American Journal of Mathematics_ 137 (2015), 1139--1145.
 
 **Large deviations in random graphs**
 <a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
@@ -47,16 +47,16 @@ and
 * <img class="side" alt="" height="79" src="gnp_ldp-thumb.png" width="80"/>
   [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
   (with Eyal Lubetzky) \\
-  _Random Structures & Algorithms_ 47 (2015) 109–146.
+  _Random Structures & Algorithms_ 47 (2015) 109--146.
   <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/">blog</a>
 
 * [On the variational problem for upper tails in sparse random graphs](http://arxiv.org/abs/1402.6011)
   (with Eyal Lubetzky) \\
-  _Random Structures & Algorithms_ 50 (2017), 420-436.
-  [blog](http://yufeizhao.wordpress.com/2014/02/25/upper-tail/)
+  _Random Structures & Algorithms_ 50 (2017), 420--436.
+  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2014/02/25/upper-tail/">blog</a>
 
 * [On the lower tail variational problem for random graphs](http://arxiv.org/abs/1502.00867) \\
-  _Combinatorics, Probability and Computing_ 26 (2017), 301–320.  
+  _Combinatorics, Probability and Computing_ 26 (2017), 301--320.  
 
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
@@ -70,7 +70,7 @@ and
 **Graph limits**
 
 * [Hypergraph limits: a regularity approach](http://arxiv.org/abs/1302.1634) \\
-  _Random Structures & Algorithms_ 47 (2015), 205–226.  
+  _Random Structures & Algorithms_ 47 (2015), 205--226.  
 
 * [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn)
@@ -81,35 +81,35 @@ and
 
 * [On derivatives of graphon parameters](http://arxiv.org/abs/1505.07448)
   (with László Miklós Lovász) \\
-  _Journal of Combinatorial Theory, Series A_ 145 (2017) 364–368.  
+  _Journal of Combinatorial Theory, Series A_ 145 (2017) 364--368.  
 
 **Graph regularity lemma and applications**
 
 * [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
   (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_, to appear.
+  _Combinatorics, Probability and Computing_, 26 (2017), 481--505.
 
 **Sphere packing and energy minimization**
 
 * <img class="side" alt="" height="80" src="spherebounds-thumb.png" width="104"/>
   [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
-  _Duke Mathematical Journal_ 163 (2014), 1965–2002.
+  _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
 * [Energy-minimizing error-correcting codes](http://arxiv.org/abs/1212.1913)
   (with Henry Cohn) \\
-  _IEEE Transactions on Information Theory_ 60 (2014), 7442–7450.
+  _IEEE Transactions on Information Theory_ 60 (2014), 7442--7450.
 
 **Extremal and Ramsey graph theory**
 
 * [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
   (with David Conlon and Jacob Fox) \\
-  _Advances in Mathematics_ 256 (2014), 206–290.
+  _Advances in Mathematics_ 256 (2014), 206--290.
   <a class="btn btn-secondary btn-sm" href="slides/sparse_regularity.pdf">slides</a>
 
 * [The critical window for the classical Ramsey-Turán problem](http://arxiv.org/abs/1208.3276)
   (with Jacob Fox and Po-Shen Loh) \\
-  _Combinatorica_ 35 (2015), 435—476.
+  _Combinatorica_ 35 (2015), 435--476.
 
 
 ### Undergraduate research
@@ -118,15 +118,15 @@ and
 
 * <img class="side" alt="" height="77" src="doublecover.png" width="99"/>
   [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
-  _Combinatorics, Probability and Computing_ 19 (2010), 315–320.
+  _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
   <a class="btn btn-secondary btn-sm" href="slides/indep_reg_poster.pdf">poster</a>
 
 * [The number of independent sets in a graph with small maximum degree](http://arxiv.org/abs/1007.4803)
   (with David Galvin) \\
-  _Graphs and Combinatorics_ 27 (2011), 177–186.
+  _Graphs and Combinatorics_ 27 (2011), 177--186.
 
 * [The bipartite swapping trick on graph homomorphisms](http://arxiv.org/abs/1104.3704) \\
-  _SIAM Journal on Discrete Mathematics_ 25 (2011), 660–680.
+  _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
   <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
 
 **More sums than differences sets**
@@ -134,29 +134,29 @@ and
 
 * <img class="side" alt="" height="78" src="bidirectional.png" width="200"/>
   [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
-  _Journal of Number Theory_ 130 (2010), 1212–1220.
+  _Journal of Number Theory_ 130 (2010), 1212--1220.
   <a class="btn btn-secondary btn-sm" href="bidirectional_ballot.pdf">extended version</a>
 
 * [Counting MSTD sets in finite Abelian groups](http://arxiv.org/abs/0911.2288) \\
-  _Journal of Number Theory_ 130 (2010), 2308–2322.  
+  _Journal of Number Theory_ 130 (2010), 2308--2322.  
 
 * [Sets characterized by missing sums and differences](http://arxiv.org/abs/0911.2292) \\
-  _Journal of Number Theory_ 131 (2011), 2107–2134.
+  _Journal of Number Theory_ 131 (2011), 2107--2134.
 
 **Other topics**
 
 * [Constructing numerical semigroups of a given genus](http://arxiv.org/abs/0910.2075) \\
-  _Semigroup Forum_ 80 (2010), 242–254.  
+  _Semigroup Forum_ 80 (2010), 242--254.  
 
 * [The coefficients of a truncated Fibonacci power series](fibprod.pdf) \\
-  _Fibonacci Quarterly_ 46/47 (2009), 53-55.  
+  _Fibonacci Quarterly_ 46/47 (2009), 53--55.  
 
 ## Expositions and surveys
 
 * <img class="side" src="primes-AP.svg" height="50" alt="" />
   [The Green-Tao theorem: an exposition](http://arxiv.org/abs/1403.2957)
   (with David Conlon and Jacob Fox) \\
-  _EMS Surveys in Mathematical Sciences_ 1 (2014), 249–282.  
+  _EMS Surveys in Mathematical Sciences_ 1 (2014), 249--282.  
 
 * <img class="side" src="extremal-regular.png" height="50" alt="" />
   [Extremal regular graphs: independent sets and graph homomorphisms](https://arxiv.org/abs/1610.09210) \\
@@ -174,4 +174,4 @@ and
 * [Biased riffle shuffles, quasisymmetric functions, and the RSK algorithm](shuffling.pdf)
 
 * [Young tableaux and the representations of the symmetric group](youngtab-hcmr.pdf)  
-  _Harvard College Mathematics Review_ 2 (2008), 33-45.  
+  _Harvard College Mathematics Review_ 2 (2008), 33--45.  
