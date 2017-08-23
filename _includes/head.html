@@ -1,5 +1,3 @@
-{% assign lvl = page.url | append:'X' | split:'/' | size %}
-{% capture relbase %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +9,7 @@
   {% if page.favicon %}
   <link rel="shortcut icon" href="{{page.favicon}}">
   {% else %}
-  <link rel="shortcut icon" href="{{ "mit.ico" | prepend: relbase }}">
+  <link rel="shortcut icon" href="{{ "/mit.ico" | prepend: site.baseurl }}">
   {% endif %}
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -23,7 +21,7 @@
   <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
   {% endif %}
 
-  <link rel="stylesheet" type="text/css" href="{{ "css/tufte.css" | prepend: relbase }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" | prepend: site.baseurl }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
