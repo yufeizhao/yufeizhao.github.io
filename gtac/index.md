@@ -10,11 +10,9 @@ description: "Course homepage for 18.S997 Graph Theory and Additive Combinatoric
 <img src="bridge.png" width="600" height="181" style="float:right; max-width: 50%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
-Fall 2017, MIT
+**Fall 2017, MIT**
 
-**Time:** Tuesdays and Thursdays 9:30---11am
-
-**Class location:** 2-139
+**Meetings:** Tuesdays and Thursdays 9:30---11am in 2-139
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com)
 

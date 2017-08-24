@@ -32,9 +32,9 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Teaching
 
-**Upcoming** (Fall 2017 at MIT)
+**Current** (Fall 2017 at MIT)
 
-* 18.A34 Mathematical Problem Solving Seminar
+* [18.A34 Mathematical Problem Solving Seminar](a34/)
 * [18.S997 Graph Theory and Additive Combinatorics](gtac/)
 
 **Previous**
