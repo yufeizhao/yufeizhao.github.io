@@ -21,7 +21,7 @@ description: "Course homepage for 18.A34 Mathematical Problem Solving (Putnam Se
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 2, 2017. **All students officially registered in the class are required to participate in the competition.** Sign up information will be available later in the term.
 
 
-**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is expected. A lot of unexcused absences is cause for concern.
+**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Too many unexcused absences is cause for concern.
 
 MIT students who are not officially enrolled are welcome to participate, but should not hand in homework.
 
