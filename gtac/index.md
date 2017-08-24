@@ -54,7 +54,7 @@ In addition, there will be a continually updated list of ungraded exercises to p
 
 ## References
 
-The content of the course will primarily be drawn from several sources listed below.
+The content of the course will primarily be drawn from several sources listed below. The books have been placed on reserve at Hayden Library.
 
 **Extremal graph theory**
 

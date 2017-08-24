@@ -35,14 +35,14 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 |     | 19 | Student presentations (HW2 due) | 21 | Probability
 |     | 26 | Student presentations (HW3 due) | 28 | Linear algebra
 |Oct  |  3 | Student presentations (HW4 due) |  5 | Polynomials
-|     | 10 | _Columbus Day (no classes)_     | 12 | Student presentations (HW5 due) |
+|     | 10 | _Columbus Day (no class)_     | 12 | Student presentations (HW5 due) |
 |     | 17 | Student presentations (HW6 due) | 19 | Generating functions
 |     | 24 | Student presentations (HW7 due) | 26 | Abstract algebra
 |     | 31 | Student presentations (HW8 due) |
 |Nov  |    |                                 |  2 | Analysis
 |     |  7 | Student presentations (HW9 due) |  9 | Inequalities
 |     | 14 | Student presentations (HW10 due)| 16 | Independence and uniformity
-|     | 21 | Student presentations (HW11 due)| 23 | _Thanksgiving (no classes)_ |
+|     | 21 | Student presentations (HW11 due)| 23 | _Thanksgiving (no class)_ |
 |     | 28 | Putnam practice |
 |Dec  |    |                                 |  1 | Putnam practice
 |     |    |                                 |    | **Putnam Competition: Sat Dec 2** |
@@ -51,11 +51,11 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 
 
 ## Homework
-You should hand in **exactly six problems** each week, at least four from the topics problem set based on the lecture.
+You should hand in carefully written solutions to **exactly six problems** each week, at least four from the topics problem set based on the lecture.
 
 Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 
-Please do not hand in more than six problems, as this creates extra work for the graders. (Non-registered students should not hand in solutions)
+You are encouraged to work on as many problems as you like, but please hand do not hand in more than six, as this creates extra work for the graders. (Non-registered students should not hand in solutions.)
 
 _Late policy._ Late homework will not be accepted.
 
@@ -86,7 +86,7 @@ Please ask me if you have questions about homework.
 
 ## Additional resources
 
-You may find the following optional resources helpful for additional preparation.
+You may find the following optional resources helpful for additional preparation. The books have been placed on reserve at Hayden Library.
 
 **Previous Putnam problems and solutions**
 
