@@ -14,7 +14,7 @@ description: "Course homepage for 18.S997 Graph Theory and Additive Combinatoric
 
 **Meetings:** Tuesdays and Thursdays 9:30---11am in 2-139
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com)
+**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website contact info)
 
 ## Course description
 
@@ -66,11 +66,11 @@ The content of the course will primarily be drawn from several sources listed be
 
 **Pseudorandom graphs and graph limits**
 
-- Chapter 9 of Alon and Spencer, [The probabilitic method](https://www.amazon.com/gp/product/1119061954/) (the 4th edition contains a new section on graph limits)
-- László Lovász, [Large networks and graph limits](https://www.amazon.com/gp/product/0821890859/)
+- Chapter 9 of Alon and Spencer, [The Probabilitic Method](https://www.amazon.com/gp/product/1119061954/) (the 4th edition contains a new section on graph limits)
+- László Lovász, [Large Networks and Graph Limits](https://www.amazon.com/gp/product/0821890859/)
 
 **Additive combinatorics**
 
 - Ben Green's notes on [additive combinatorics](http://people.maths.ox.ac.uk/greenbj/notes.html)
 - K. Soundararajan's notes on [additive combinatorics](http://math.stanford.edu/~ksound/Notes.pdf)
-- Tao and Vu, [Additive combinatorics](https://www.amazon.com/gp/product/0521136563/)
+- Tao and Vu, [Additive Combinatorics](https://www.amazon.com/gp/product/0521136563/)

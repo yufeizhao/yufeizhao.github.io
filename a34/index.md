@@ -51,9 +51,9 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 
 
 ## Homework
-You should hand in carefully written solutions to **exactly six problems** each week, at least four from the topics problem set based on the lecture.
 
-Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
+
+**Instructions.** You should hand in carefully written solutions to **exactly six problems** each week, at least four from the topics problem set based on the lecture. Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 
 You are encouraged to work on as many problems as you like, but please hand do not hand in more than six, as this creates extra work for the graders. (Non-registered students should not hand in solutions.)
 
@@ -97,5 +97,5 @@ You may find the following optional resources helpful for additional preparation
 
 **Additional books helpful for preparation**
 
-- [Problem-solving through problems](https://www.amazon.com/Problem-Solving-Through-Problems-Problem-Mathematics/dp/0387961712/) by Larson
-- [Putnam and beyond](https://www.amazon.com/Putnam-Beyond-Razvan-Gelca/dp/0387257659/) by Gelca and Andreescu
+- [Problem-Solving Through Problems](https://www.amazon.com/Problem-Solving-Through-Problems-Problem-Mathematics/dp/0387961712/) by Larson
+- [Putnam and Beyond](https://www.amazon.com/Putnam-Beyond-Razvan-Gelca/dp/0387257659/) by Gelca and Andreescu
