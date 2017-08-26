@@ -7,14 +7,14 @@ description: "Course homepage for 18.S997 Graph Theory and Additive Combinatoric
 18.S997 Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="bridge.png" width="600" height="181" style="float:right; max-width: 50%; height: auto;" class="side"
+<img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
 **Fall 2017, MIT**
 
 **Meetings:** Tuesdays and Thursdays 9:30---11am in 2-139
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website contact info)
+**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours by email appointment
 
 ## Course description
 
@@ -34,7 +34,7 @@ Here is a taste of some of the topics discussed in the course (time-permitting).
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
-**Prerequisite:** Mathematical maturity at the level of a first-year math graduate student.
+**Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
 ## Grading
 
