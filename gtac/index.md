@@ -12,7 +12,8 @@ description: "Course homepage for 18.S997 Graph Theory and Additive Combinatoric
 
 **Fall 2017, MIT**
 
-**Meetings:** Tuesdays and Thursdays 9:30---11am in 2-139
+**Meetings:** Tuesdays and Thursdays 9:30---11am in 2-139  
+_(First meeting Thursday Sept 7)_
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours by email appointment
 
