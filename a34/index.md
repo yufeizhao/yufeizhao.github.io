@@ -86,6 +86,9 @@ Please ask me if you have questions about homework.
 [Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.A34/)
 
 
+[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+
+
 ## Additional resources
 
 You may find the following optional resources helpful for additional preparation. The books have been placed on reserve at Hayden Library.

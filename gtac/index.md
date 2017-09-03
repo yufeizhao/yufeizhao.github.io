@@ -43,6 +43,8 @@ Although the course will be largely divided into two parts (graph theory in the 
 - 70% Problem sets
 - There will be no exams
 
+[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+
 ## Lectures
 
 Class participants will be responsible for writing and editing the course notes. More details coming soon.
@@ -54,6 +56,7 @@ There will be 3~4 graded homework assignments. Details to be decided.
 In addition, there will be a continually updated list of ungraded exercises to provide practice with the course material.
 
 [Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
+
 
 ## References
 
