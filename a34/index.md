@@ -20,8 +20,7 @@ description: "Course homepage for 18.A34 Mathematical Problem Solving (Putnam Se
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 2, 2017. **All students officially registered in the class are required to participate in the competition.** Sign up information will be available later in the term.
 
-
-**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Too many unexcused absences is cause for concern.
+**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
 
 MIT students who are not officially enrolled are welcome to participate, but should not hand in homework.
 
@@ -55,7 +54,7 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 
 **Instructions.** You should hand in carefully written solutions to **exactly six problems** each week, at least four from the topics problem set based on the lecture. Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 
-You are encouraged to work on as many problems as you like, but please hand do not hand in more than six, as this creates extra work for the graders. (Non-registered students should not hand in solutions.)
+You are encouraged to work on more problems for your own enjoyment, but they will not be graded. (Non-registered students should not hand in solutions.)
 
 _Late policy._ Late homework will not be accepted.
 
@@ -67,7 +66,7 @@ _Proper write-ups._ You are expected to write your solutions at a level of detai
 
 Please ask me if you have questions about homework.
 
-(The ordering of the topics may be subject to change. I will announce any changes at least one week in advance.)
+(The ordering of the topics may be subject to change.)
 
 |\#| Due date | Topic problem set | Supplementary problems |   
 -:|-------|:-----------------:|:------------------------:|
