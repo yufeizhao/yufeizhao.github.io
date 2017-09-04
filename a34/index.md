@@ -33,7 +33,7 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 |Sept |  5 | _Registration day_              |  7 | Congruences |
 |     | 12 | Student presentations (HW1 due) | 14 | Recursive sequences
 |     | 19 | Student presentations (HW2 due) | 21 | Probability
-|     | 26 | Student presentations (HW3 due) | 28 | Linear algebra
+|     | 26 | Student presentations (HW3 due) | 28 | Linear algebra (guest lecturer: Alexey Balitskiy)
 |Oct  |  3 | Student presentations (HW4 due) |  5 | Polynomials
 |     | 10 | _Columbus Day (no class)_     | 12 | Student presentations (HW5 due) |
 |     | 17 | Student presentations (HW6 due) | 19 | Generating functions
