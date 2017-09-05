@@ -51,12 +51,9 @@ Class participants will be responsible for writing and editing the course notes.
 
 ## Homework
 
-There will be 3~4 graded homework assignments. Details to be decided.
-
-In addition, there will be a continually updated list of ungraded exercises to provide practice with the course material.
+There will be 3~4 graded homework assignments.
 
 [Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
-
 
 ## References
 
