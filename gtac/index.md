@@ -17,6 +17,8 @@ _(First meeting Thursday Sept 7)_
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours by email appointment
 
+[Sign up for course email announcements](https://goo.gl/forms/IHD6blF6oyC6FGEP2) ---only needed if you are not officially registered (credit or listen) and would like to receive course-email announcements.
+
 ## Course description
 
 The course examines classical and modern developments in graph theory and additive combinatorics, with a focus on topics that connect the two subjects. Topics include: extremal graph theory, Szemerédi's regularity lemma and applications, pseudorandom graphs, graph limits, Roth's theorem and Szemerédi's theorem on arithmetic progressions, Gowers uniformity norms, and the Green-Tao theorem. The course also introduces students to current research topics and open problems.
