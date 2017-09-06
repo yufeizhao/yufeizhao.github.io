@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "18.S997 Graph Theory and Additive Combinatorics"
-description: "Course homepage for 18.S997 Graph Theory and Additive Combinatorics, taught by Yufei Zhao in Fall 2017 at MIT"
+description: "MIT Fall 2017. 18.S997 Special Subject: Graph Theory and Additive Combinatorics, taught by Yufei Zhao"
 ---
 
 18.S997 Graph Theory and Additive Combinatorics

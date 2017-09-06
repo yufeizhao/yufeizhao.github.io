@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 18.A34 Mathematical Problem Solving
-description: "Course homepage for 18.A34 Mathematical Problem Solving (Putnam Seminar)"
+description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar)"
 ---
 
 18.A34 Mathematical Problem Solving (Putnam Seminar)
@@ -18,7 +18,9 @@ description: "Course homepage for 18.A34 Mathematical Problem Solving (Putnam Se
 18.A34 is a freshman advising seminar on mathematical problem solving. It is intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Much (but not all) of the seminar will be geared toward preparing for the Putnam Competition.
 
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
-contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 2, 2017. **All students officially registered in the class are required to participate in the competition.** Sign up information will be available later in the term.
+contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 2, 2017.
+**All students officially registered in the class are required to participate in the competition.**
+Sign up information will be available later in the term.
 
 **Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
 
@@ -46,7 +48,7 @@ MIT students who are not officially enrolled are welcome to participate, but sho
 |Dec  |    |                                 |  1 | Putnam practice
 |     |    |                                 |    | **Putnam Competition: Sat Dec 2** |
 |     |  5 | Putnam solutions                |  7 | Putnam solutions |
-|     | 12 | TBD |
+|     | 12 | Presentations of student-created problems |
 
 
 ## Homework
@@ -81,6 +83,7 @@ Please ask me if you have questions about homework.
 9 | T 11/7  | [Analysis](analysis.pdf) | [Supplementary set \#9](hw9.pdf)
 10| T 11/14 | [Inequalities](inequalities.pdf) | [Supplementary set \#10](hw10.pdf)
 11| T 11/21 | [Independence and uniformity](indep.pdf) | [Supplementary set \#11](hw11.pdf)
+12| Su 12/10| Create your own problem |  
 
 [Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.A34/)
 
