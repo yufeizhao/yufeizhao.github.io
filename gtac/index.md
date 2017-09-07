@@ -45,9 +45,15 @@ Although the course will be largely divided into two parts (graph theory in the 
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 
-## Lectures
+## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
 
-Class participants will be responsible for writing and editing the course notes. More details coming soon.
+Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants will receive a separate link by email allowing read-write access to the project).
+
+Everyone should contribute to editing the notes.
+
+[Piazza forum](https://piazza.com/mit/fall2017/18s997) can be used for discussions of the notes, e.g., edit requests.
+
+More instructions are found in the "About this document" section of the notes.
 
 ## Homework
 
