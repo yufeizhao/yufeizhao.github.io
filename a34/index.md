@@ -20,7 +20,8 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 2, 2017.
 **All students officially registered in the class are required to participate in the competition.**
-Sign up information will be available later in the term.
+
+[MIT students should sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeQafYaPSqdOXhXP2GMkROtX6vEZJToDzDTzjx-rCQzP30GcA/viewform?usp=sf_link)  by noon, Friday, September 29.
 
 **Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
 
