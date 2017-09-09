@@ -45,6 +45,12 @@ Although the course will be largely divided into two parts (graph theory in the 
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 
+## Lectures
+
+- **Lec 1** (9/7) Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of developments in additive combinatorics.
+- **Lec 2** (9/12) Mantel's theorem and Turán's theorem ...
+
+
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
 
 Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants will receive a separate link by email allowing read-write access to the project).
@@ -55,11 +61,31 @@ Everyone should contribute to editing the notes.
 
 More instructions are found in the "About this document" section of the notes.
 
+
 ## Homework
 
-There will be 3~4 graded homework assignments.
 
-[Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
+[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
+
+_Submissions._ All homework submissions should be typed in LaTeX and submitted on [Stellar](http://stellar.mit.edu/S/course/18/fa17/18.S997/) by midnight of each due date.
+
+_Late policy._ Late submissions will be penalized by 20% per day.
+
+_Sources._ At the top of each assignment, you **must** write either _"Sources consulted: none"_ or a list of all sources consulted other than the course notes. Examples include: names of people you discussed homework with, books, other notes (including the ones listed in the references below) Wikipedia and other websites.
+
+You should not look up solutions to homework problems online (or offline).
+
+_Collaboration policy._ You are allowed and encouraged to collaborate, but everyone must write their solutions individually and acknowledge their collaborators.
+
+
+| Problem set | Due date (♣ tentative) |
+|:---------------:|:-----------:|
+| Problem set 1 | Friday Sept 29  ♣
+| Problem set 2 | Friday Oct 27 ♣
+| Problem set 3 | Friday Nov 17 ♣
+| Problem set 4 | Tuesday Dec 12 ♣
+
+
 
 ## References
 
