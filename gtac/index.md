@@ -67,9 +67,10 @@ More instructions are found in the "About this document" section of the notes.
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
 
+
 _Submissions._ All homework submissions should be typed in LaTeX and submitted on [Stellar](http://stellar.mit.edu/S/course/18/fa17/18.S997/).
 
-_Late policy._ Submissions are due on Stellar by midnight of each due date. Late submissions will be penalized by 20% per each late day.
+_Late policy._ Submissions are due on Stellar by midnight of each due date. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
 
 _Sources._ At the top of each assignment, you **must** write either _"Sources consulted: none"_ or a list of all sources consulted other than the course notes. Examples include: names of people you discussed homework with, books, other notes (including the ones listed in the references below), Wikipedia and other websites.
 
@@ -77,6 +78,7 @@ You should not look up solutions to homework problems online (or offline).
 
 _Collaboration policy._ You are allowed and encouraged to collaborate, but everyone must write their solutions individually and acknowledge their collaborators.
 
+The problem sets, below, will be updated with new problems after each lecture, up to until about a week before the due date. It is a good idea to start early and pace yourselves accordingly.
 
 
 | Problem set | Due date (♣ tentative) |
