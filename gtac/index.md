@@ -78,7 +78,7 @@ You should not look up solutions to homework problems online (or offline).
 
 _Collaboration policy._ You are allowed and encouraged to collaborate, but everyone must write their solutions individually and acknowledge their collaborators.
 
-The problem sets, below, will be updated with new problems after each lecture, up to until about a week before the due date. It is a good idea to start early and pace yourselves accordingly.
+The problem sets, below, will be updated with new problems after each lecture, up to until about a week before the due date. It is a good idea to start early and pace accordingly.
 
 
 | Problem set | Due date (♣ tentative) |
