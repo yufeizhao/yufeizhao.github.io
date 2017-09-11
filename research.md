@@ -47,7 +47,7 @@ and
 * <img class="side" alt="" height="79" src="gnp_ldp-thumb.png" width="80"/>
   [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
   (with Eyal Lubetzky) \\
-  _Random Structures & Algorithms_ 47 (2015) 109--146.
+  _Random Structures & Algorithms_ 47 (2015), 109--146.
   <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/">blog</a>
 
 * [On the variational problem for upper tails in sparse random graphs](http://arxiv.org/abs/1402.6011)
@@ -60,7 +60,7 @@ and
 
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
-  _Advances in Mathematics_, to appear.
+  _Advances in Mathematics_ 319 (2017), 313--347.
 
 * [Upper tails for arithmetic progressions in a random set](http://arxiv.org/abs/1605.02994)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Xuancheng Shao)
@@ -77,11 +77,11 @@ and
 
 * [An $L^p$ theory of sparse graph convergence II: LD convergence, quotients, and right convergence](http://arxiv.org/abs/1408.0744)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
-  _Annals of Probability_, to appear.  
+  _Annals of Probability_, to appear.
 
 * [On derivatives of graphon parameters](http://arxiv.org/abs/1505.07448)
   (with László Miklós Lovász) \\
-  _Journal of Combinatorial Theory, Series A_ 145 (2017) 364--368.  
+  _Journal of Combinatorial Theory, Series A_ 145 (2017), 364--368.  
 
 **Graph regularity lemma and applications**
 

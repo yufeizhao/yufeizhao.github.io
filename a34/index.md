@@ -86,7 +86,7 @@ Please ask me if you have questions about homework.
 11| T 11/21 | [Independence and uniformity](indep.pdf) | [Supplementary set \#11](hw11.pdf)
 12| Su 12/10| Create your own problem |  
 
-[Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.A34/)
+[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.A34/)
 
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
