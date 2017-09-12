@@ -12,7 +12,9 @@ description: "MIT Fall 2017. 18.S997 Special Subject: Graph Theory and Additive 
 
 **Fall 2017, MIT**
 
-**Meetings:** Tuesdays and Thursdays 9:30---11am in 66-144 (**Room change**)
+**Class time:** Tuesdays and Thursdays 9:30---11am
+
+**Location:** 66-144 (**Room change!**)
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours by email appointment
 
