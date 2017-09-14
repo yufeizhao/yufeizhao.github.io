@@ -49,12 +49,13 @@ Although the course will be largely divided into two parts (graph theory in the 
 ## Lectures
 
 - **Lecture 1** (9/7) Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of developments in additive combinatorics.
-- **Lecture 2** (9/12) Mantel's theorem and Turán's theorem ...
+- **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős-Stone-Simonovits theorem
+- **Lecture 3** (9/14) Proof of Erdős-Stone-Simonovits theorem ...
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
 
-Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants will receive a separate link by email allowing read-write access to the project).
+Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
 
 Everyone should contribute to editing the notes.
 
