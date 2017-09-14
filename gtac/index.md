@@ -50,7 +50,8 @@ Although the course will be largely divided into two parts (graph theory in the 
 
 - **Lecture 1** (9/7) Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of developments in additive combinatorics.
 - **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős-Stone-Simonovits theorem
-- **Lecture 3** (9/14) Proof of Erdős-Stone-Simonovits theorem ...
+- **Lecture 3** (9/14) Proof of Erdős-Stone-Simonovits theorem. Kővári–Sós–Turán theorem.
+- **Lecture 4** (9/19) Constructions of $K_{s,t}$-free graphs ...
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
