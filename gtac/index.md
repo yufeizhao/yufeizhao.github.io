@@ -52,7 +52,8 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős-Stone-Simonovits theorem
 - **Lecture 3** (9/14) Proof of Erdős-Stone-Simonovits theorem. Kővári–Sós–Turán theorem
 - **Lecture 4** (9/19) Constructions of $K_{s,t}$-free graphs
-- **Lecture 4** (9/21) Excluding bounded degree bipartite graphs. Dependent random choice. Start of Szemerédi's regularity lemma
+- **Lecture 5** (9/21) Excluding bounded degree bipartite graphs. Dependent random choice. Statement of Szemerédi's regularity lemma
+- **Lecture 6** (9/26) Proof of Szemerédi's regularity lemma ...
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
