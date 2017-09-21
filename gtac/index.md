@@ -77,7 +77,7 @@ _Submissions._ All homework submissions should be typed in LaTeX and submitted o
 
 _Late policy._ Submissions are due on Stellar by midnight of each due date. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
 
-_Sources._ At the top of each assignment, you **must** write either _"Sources consulted: none"_ or a list of all sources consulted other than the course notes. Examples include: names of people you discussed homework with, books, other notes (including the ones listed in the references below), Wikipedia and other websites.
+_Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other than the course notes. Examples include: names of people you discussed homework with, books, other notes (including the ones listed in the references below), Wikipedia and other websites.
 
 You should not look up solutions to homework problems online (or offline).
 
