@@ -61,7 +61,7 @@ You are encouraged to work on more problems for your own enjoyment, but they wil
 
 _Late policy._ Late homework will not be accepted.
 
-_Sources._ At the top of each assignment, you **must** write either _"Sources consulted: none"_ or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
+_Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
 
 _Collaborations._ You are encouraged to collaborate, but you must write up your homework independently. You should include names of your collaborators in your _sources consulted_.
 
