@@ -107,7 +107,7 @@ The content of the course will primarily be drawn from several sources listed be
 
 **Pseudorandom graphs and graph limits**
 
-- Chapter 9 of Alon and Spencer, [The Probabilitic Method](https://www.amazon.com/gp/product/1119061954/) (the 4th edition contains a new section on graph limits)
+- Chapter 9 of Alon and Spencer, [The Probabilitic Method](https://www.amazon.com/gp/product/1119061954/)
 - László Lovász, [Large Networks and Graph Limits](https://www.amazon.com/gp/product/0821890859/)
 
 **Additive combinatorics**
