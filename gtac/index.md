@@ -89,7 +89,7 @@ The problem sets, below, will be updated with new problems after each lecture, u
 | Problem set | Due date (♣ tentative) |
 |:---------------:|:-----------:|
 | [Problem set 1](ps1.pdf) | Friday Sept 29
-| Problem set 2 | Friday Oct 27 ♣
+| [Problem set 2](ps2.pdf) | Friday Oct 27 
 | Problem set 3 | Friday Nov 17 ♣
 | Problem set 4 | Tuesday Dec 12 ♣
 
