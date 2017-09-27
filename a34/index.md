@@ -76,7 +76,7 @@ Please ask me if you have questions about homework.
 1 | T  9/12 | [Congruences](cong.pdf) | [Supplementary set \#1](hw1.pdf)
 2 | T  9/19 | [Recursive sequences](rec.pdf) | [Supplementary set \#2](hw2.pdf)
 3 | T  9/26 | [Probability](prob.pdf) | [Supplementary set \#3](hw3.pdf)
-4 | T 10/3  | [Linear algebra](linalg.pdf) | [Supplementary set \#4](hw4.pdf)
+4 | T 10/3  | [Linear algebra](linalg.pdf) (updated 9/27) | [Supplementary set \#4](hw4.pdf)
 5 | **R** 10/12 | [Polynomials](poly.pdf) | [Supplementary set \#5](hw5.pdf)
 6 | T 10/17 | [Pigeonhole principle](pigeon.pdf) | [Supplementary set \#6](hw6.pdf)
 7 | T 10/24 | [Generating functions](genfn.pdf) | [Supplementary set \#7](hw7.pdf)
