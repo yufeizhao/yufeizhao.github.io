@@ -55,7 +55,9 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 5** (9/21) Excluding bounded degree bipartite graphs. Dependent random choice. Statement of Szemerédi's regularity lemma
 - **Lecture 6** (9/26) Proof of Szemerédi's regularity lemma. Triangle counting lemma. Triangle removal lemma
 - **Lecture 7** (9/28) Property testing. Graph theoretic proof of Roth's theorem. Behrend's construction of 3-AP-free set.
-- **Lecture 8** (10/3) General graph embedding and counting lemmas ...
+- **Lecture 8** (10/3) Corners. General graph embedding and counting lemmas.
+- **Lecture 8** (10/5) Regularity proof of Erdős-Stone-Simonovits theorem. Deducing Szemerédi's theorem from the hypergraph removal lemma
+
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
