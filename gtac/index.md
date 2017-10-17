@@ -59,6 +59,7 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 9** (10/5) Regularity proof of Erdős-Stone-Simonovits theorem. Deducing Szemerédi's theorem from the hypergraph removal lemma. Expander mixing lemma
 - **Lecture 10** (10/12) Cayley graphs. Fourier analysis on finite abelian groups
 - **Lecture 11** (10/17) Quasirandom graphs
+- **Lecture 12** (10/19) Introduction to graph limits
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
