@@ -4,22 +4,26 @@ title: Yufei Zhao | MIT Mathematics
 description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics and discrete mathematics"
 ---
 
-Assistant Professor\\
-Department of Mathematics\\
-Massachusetts Institute of Technology
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-6">
+<p>Assistant Professor<br>
+Department of Mathematics<br>
+Massachusetts Institute of Technology</p>
+
 <p><strong>Email:</strong>
 {% include email.html %}</p>
 
 <p><strong>Office:</strong> <a href="http://whereis.mit.edu/?go=2" target="_blank">2-271</a></p>
-</div>
-<div class="col-md-8">
+
 <p><strong>Mail:</strong><br>
 MIT Department of Mathematics<br>
 77 Massachusetts Ave, Room 2-271<br>
 Cambridge, MA 02139, USA</p>
+
+</div>
+<div class="col-md-6">
+<img src="zhao.jpg" alt="Yufei Zhao photo" width="200px">
 </div>
 </div>
 
