@@ -351,17 +351,23 @@ header > nav a{
   margin-bottom: 0;
   padding-right: 2rem;
   //margin-left: 1rem;
-  vertical-align: baseline;
+  //vertical-align: bottom;
 }
 header > nav a.title{
   font-size: 2rem;
   color: $text-color;
+  //vertical-align: baseline;
 }
 header > nav a img{
   height: 5rem;
   position: relative;
   max-width: 100%;
   top:-1.5rem;
+}
+
+.center-align {
+  display:flex;
+  align-items:center;
 }
 
 
