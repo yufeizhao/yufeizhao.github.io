@@ -60,7 +60,9 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 10** (10/12) Cayley graphs. Fourier analysis on finite abelian groups
 - **Lecture 11** (10/17) Quasirandom graphs
 - **Lecture 12** (10/19) Quasirandom Cayley graphs. Introduction to graph limits
-- **Lecture 13** (10/19) More on graph limits
+- **Lecture 13** (10/24) Graph limits: statement of main results (equivalence, limit, compactness), counting lemma, statement of weak regularity lemma
+- **Lecture 14** (10/26) Graph limits: proof of compactness, strong regularity lemma
+
 
 
 ## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
