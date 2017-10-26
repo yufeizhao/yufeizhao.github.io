@@ -62,7 +62,7 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 12** (10/19) Quasirandom Cayley graphs. Introduction to graph limits
 - **Lecture 13** (10/24) Graph limits: statement of main results (equivalence, limit, compactness), counting lemma, statement of weak regularity lemma
 - **Lecture 14** (10/26) Graph limits: proof of weak regularity lemma, martingale convergence theorem, compactness of the space of graphons
-- **Lecture 15** (10/31) Graph limits: applications of compactness 
+- **Lecture 15** (10/31) Graph limits: applications of compactness
 
 
 
