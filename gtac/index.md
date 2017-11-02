@@ -63,7 +63,9 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 13** (10/24) Graph limits: statement of main results (equivalence, limit, compactness), counting lemma, statement of weak regularity lemma
 - **Lecture 14** (10/26) Graph limits: proof of weak regularity lemma, martingale convergence theorem, compactness of the space of graphons
 - **Lecture 15** (10/31) Comments on problem set 2. Graph limits: applications of compactness, strong regularity lemma
-- **Lecture 16** (11/2)  Equivalence of convergence. Edge vs. triangle densities.
+- **Lecture 16** (11/2)  Equivalence of convergence. Edge vs. triangle densities. Linear inequalities between clique densities.
+- **Lecture 17** (11/7) More on extremal graph theory. Roth's theorem again
+
 
 
 
