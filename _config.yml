@@ -7,7 +7,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: pretty
 timezone: America/New_York
 excerpt_separator: <!--more-->
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md', 'cv.tex']
 post:
   template: _post.txt
   extension: md

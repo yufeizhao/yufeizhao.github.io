@@ -159,8 +159,8 @@ and
   _EMS Surveys in Mathematical Sciences_ 1 (2014), 249--282.  
 
 * <img class="side" src="extremal-regular.png" height="50" alt="" />
-  [Extremal regular graphs: independent sets and graph homomorphisms](https://arxiv.org/abs/1610.09210) \\
-  _American Mathematical Monthly_, to appear.
+  [Extremal regular graphs: independent sets and graph homomorphisms](extremal-regular-graphs.pdf) \\
+  _American Mathematical Monthly_ 124 (2017), 827--843.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/">blog</a>
 
 **Older expository papers and notes**
