@@ -64,9 +64,10 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 14** (10/26) Graph limits: proof of weak regularity lemma, martingale convergence theorem, compactness of the space of graphons
 - **Lecture 15** (10/31) Comments on problem set 2. Graph limits: applications of compactness, strong regularity lemma
 - **Lecture 16** (11/2)  Equivalence of convergence. Edge vs. triangle densities. Linear inequalities between clique densities. Razborov's theorem (without proof)
-- **Lecture 17** (11/7) More on extremal graph theory. Roth's theorem. Fourier analytic proof of Roth's theorem for $\mathbb{F}_3^n$
+- **Lecture 17** (11/7) More on extremal graph theory. History of Roth's theorem. Fourier analytic proof of Roth's theorem for $\mathbb{F}_3^n$
 - **Lecture 18** (11/9) Roth's proof of Roth's theorem
-- **Lecture 19** (11/14) Polynomial method proof of Roth's theorem in $\mathbb{F}_3^n$
+- **Lecture 19** (11/14) Polynomial method proof of Roth's theorem in $\mathbb{F}_3^n$. Statement of Freiman's theorem
+- **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke-Ruzsa inequality, Ruzsa covering lemma. Freiman's theorem in groups of bounded exponent
 
 
 
