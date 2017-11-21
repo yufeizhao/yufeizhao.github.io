@@ -68,7 +68,10 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 18** (11/9) Roth's proof of Roth's theorem
 - **Lecture 19** (11/14) Polynomial method proof of Roth's theorem in $\mathbb{F}_3^n$. Statement of Freiman's theorem
 - **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke-Ruzsa inequality, Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent
-- **Lecture 21** (11/21) Freiman homomorphisms, Ruzsa's model lemma, Bogolyubov's lemma.
+- **Lecture 21** (11/21) Freiman homomorphisms, Ruzsa's model lemma, statement of Bogolyubov's lemma
+- **Lecture 22** (11/28) Bogolyubov's lemma, geometry of numbers
+
+
 
 
 
