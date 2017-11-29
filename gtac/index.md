@@ -70,6 +70,12 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke-Ruzsa inequality, Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent
 - **Lecture 21** (11/21) Freiman homomorphisms, Ruzsa's model lemma, statement of Bogolyubov's lemma
 - **Lecture 22** (11/28) Bogolyubov's lemma, geometry of numbers
+- **Lecture 23** (11/30) Proof of Minkowski's second theorem, proof of Freiman's theorem
+{% comment %}
+- **Lecture 24** (12/5)
+- **Lecture 25** (12/7)
+- **Lecture 26** (12/12)
+{% endcomment %}
 
 
 
