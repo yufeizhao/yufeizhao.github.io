@@ -49,14 +49,14 @@ Although the course will be largely divided into two parts (graph theory in the 
 ## Lectures
 
 - **Lecture 1** (9/7) Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of developments in additive combinatorics
-- **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős-Stone-Simonovits theorem
-- **Lecture 3** (9/14) Proof of Erdős-Stone-Simonovits theorem. Kővári–Sós–Turán theorem
+- **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
+- **Lecture 3** (9/14) Proof of Erdős--Stone--Simonovits theorem. Kővári-–Sós–-Turán theorem
 - **Lecture 4** (9/19) Constructions of $K_{s,t}$-free graphs
 - **Lecture 5** (9/21) Excluding bounded degree bipartite graphs. Dependent random choice. Statement of Szemerédi's regularity lemma
 - **Lecture 6** (9/26) Proof of Szemerédi's regularity lemma. Triangle counting lemma. Triangle removal lemma
 - **Lecture 7** (9/28) Property testing. Graph theoretic proof of Roth's theorem. Behrend's construction of 3-AP-free set
 - **Lecture 8** (10/3) Corners. General graph embedding and counting lemmas
-- **Lecture 9** (10/5) Regularity proof of Erdős-Stone-Simonovits theorem. Deducing Szemerédi's theorem from the hypergraph removal lemma. Expander mixing lemma
+- **Lecture 9** (10/5) Regularity proof of Erdős--Stone--Simonovits theorem. Deducing Szemerédi's theorem from the hypergraph removal lemma. Expander mixing lemma
 - **Lecture 10** (10/12) Cayley graphs. Fourier analysis on finite abelian groups
 - **Lecture 11** (10/17) Quasirandom graphs
 - **Lecture 12** (10/19) Quasirandom Cayley graphs. Introduction to graph limits
@@ -67,17 +67,13 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 17** (11/7) More on extremal graph theory. History of Roth's theorem. Fourier analytic proof of Roth's theorem for $\mathbb{F}_3^n$
 - **Lecture 18** (11/9) Roth's proof of Roth's theorem
 - **Lecture 19** (11/14) Polynomial method proof of Roth's theorem in $\mathbb{F}_3^n$. Statement of Freiman's theorem
-- **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke-Ruzsa inequality, Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent
+- **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke--Ruzsa inequality, Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent
 - **Lecture 21** (11/21) Freiman homomorphisms, Ruzsa's model lemma, statement of Bogolyubov's lemma
 - **Lecture 22** (11/28) Bogolyubov's lemma, geometry of numbers
 - **Lecture 23** (11/30) Proof of Minkowski's second theorem, proof of Freiman's theorem
-- **Lecture 24** (12/5) Polynomial Freiman-Ruzsa conjecture. Balog-Szemerédi-Gowers theorem
-{% comment %}
-- **Lecture 25** (12/7)
-- **Lecture 26** (12/12)
-{% endcomment %}
-
-
+- **Lecture 24** (12/5) Polynomial Freiman--Ruzsa conjecture. Balog--Szemerédi--Gowers theorem
+- **Lecture 25** (12/7) Proof of graph BSG. Sum-product problem, crossing number inequality
+- **Lecture 26** (12/12) Szemerédi--Trotter theorem, Elekes' proof of sum-product. Solymosi's proof of sum-product
 
 
 
