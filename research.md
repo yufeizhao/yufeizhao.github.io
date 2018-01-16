@@ -17,10 +17,21 @@ and
 
 ## Research Papers
 
+**Regularity lemmas and applications**
+
+* [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
+  (with Jacob Fox and László Miklós Lovász) \\
+  _Combinatorics, Probability and Computing_, 26 (2017), 481--505.
+
+* [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
+  (with Noga Alon and Jacob Fox)
+
+
 **Cayley graphs**
 
 * [Quasirandom Cayley graphs](http://arxiv.org/abs/1603.03025) (with David Conlon) \\
   _Discrete Analysis_ 2017:6, 14 pp.
+
 * [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
 
 **The Green-Tao theorem and a relative Szemerédi theorem**
@@ -82,12 +93,6 @@ and
 * [On derivatives of graphon parameters](http://arxiv.org/abs/1505.07448)
   (with László Miklós Lovász) \\
   _Journal of Combinatorial Theory, Series A_ 145 (2017), 364--368.  
-
-**Graph regularity lemma and applications**
-
-* [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
-  (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_, 26 (2017), 481--505.
 
 **Sphere packing and energy minimization**
 
