@@ -23,6 +23,9 @@ and
   (with Jacob Fox and László Miklós Lovász) \\
   _Combinatorics, Probability and Computing_, 26 (2017), 481--505.
 
+* [A fast new algorithm for weak graph regularity](https://arxiv.org/abs/1801.05037)
+  (with Jacob Fox and László Miklós Lovász)
+
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
   (with Noga Alon and Jacob Fox)
 
