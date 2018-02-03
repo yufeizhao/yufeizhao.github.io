@@ -78,7 +78,7 @@ Although the course will be largely divided into two parts (graph theory in the 
 
 
 
-## [Course notes](https://www.overleaf.com/docs/10882601ffdwmvdgdptp/pdf.pdf)
+## [Course notes](gtac.pdf)
 
 Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
 
