@@ -92,7 +92,7 @@ and
 
 * [An $L^p$ theory of sparse graph convergence II: LD convergence, quotients, and right convergence](http://arxiv.org/abs/1408.0744)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
-  _Annals of Probability_, to appear.
+  _Annals of Probability_ 46 (2018), 337--396.
 
 * [On derivatives of graphon parameters](http://arxiv.org/abs/1505.07448)
   (with László Miklós Lovász) \\
