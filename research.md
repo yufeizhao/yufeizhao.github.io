@@ -88,7 +88,8 @@ and
   _Random Structures & Algorithms_ 47 (2015), 205--226.  
 
 * [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
-  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn)
+  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
+  _Transactions of the American Mathematical Society_, to appear.
 
 * [An $L^p$ theory of sparse graph convergence II: LD convergence, quotients, and right convergence](http://arxiv.org/abs/1408.0744)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
