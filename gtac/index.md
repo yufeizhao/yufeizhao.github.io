@@ -38,6 +38,19 @@ Although the course will be largely divided into two parts (graph theory in the 
 
 **Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
+
+## [Course notes](gtac.pdf)
+
+Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
+
+Everyone should contribute to editing the notes.
+
+[Piazza forum](https://piazza.com/mit/fall2017/18s997) can be used for discussions of the notes, e.g., edit requests.
+
+More instructions are found in the "About this document" section of the notes.
+
+
+
 ## Grading
 
 - 30% Lecture notes writing and editing  
@@ -76,24 +89,9 @@ Although the course will be largely divided into two parts (graph theory in the 
 - **Lecture 26** (12/12) Szemerédi--Trotter theorem, Elekes' proof of sum-product. Solymosi's proof of sum-product
 
 
-
-
-## [Course notes](gtac.pdf)
-
-Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
-
-Everyone should contribute to editing the notes.
-
-[Piazza forum](https://piazza.com/mit/fall2017/18s997) can be used for discussions of the notes, e.g., edit requests.
-
-More instructions are found in the "About this document" section of the notes.
-
-
 ## Homework
 
-
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
-
 
 _Submissions._ All homework submissions should be typed in LaTeX and submitted on [Stellar](http://stellar.mit.edu/S/course/18/fa17/18.S997/).
 
