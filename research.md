@@ -27,7 +27,7 @@ and
   (with Jacob Fox and László Miklós Lovász)
 
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf>slides</a>
+  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a>
 
 
 **Cayley graphs**
