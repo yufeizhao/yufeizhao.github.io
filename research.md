@@ -92,7 +92,7 @@ and
   _Transactions of the American Mathematical Society_, to appear.
 
 * [An $L^p$ theory of sparse graph convergence II: LD convergence, quotients, and right convergence](http://arxiv.org/abs/1408.0744)
-  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
+  d and Henry Cohn) \\
   _Annals of Probability_ 46 (2018), 337--396.
 
 * [On derivatives of graphon parameters](http://arxiv.org/abs/1505.07448)
@@ -121,9 +121,6 @@ and
   (with Jacob Fox and Po-Shen Loh) \\
   _Combinatorica_ 35 (2015), 435--476.
 
-
-### Undergraduate research
-
 **Independent sets and graph homomorphisms**
 
 * <img class="side" alt="" height="77" src="doublecover.png" width="99"/>
@@ -138,6 +135,8 @@ and
 * [The bipartite swapping trick on graph homomorphisms](http://arxiv.org/abs/1104.3704) \\
   _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
   <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
+
+* [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
 
 **More sums than differences sets**
 <a class="btn btn-secondary btn-sm" href="slides/mstd.pdf">slides</a>
