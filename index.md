@@ -32,11 +32,16 @@ Cambridge, MA 02139, USA</p>
 
 Combinatorics, discrete mathematics, graph theory
 
+[**My math research blog**](https://yufeizhao.wordpress.com/)
+
 [**MIT Combinatorics Seminar**](http://math.mit.edu/seminars/combin/)
 
 ## Teaching
 
-**Current** (Spring 2018): None
+**Upcoming** (Fall 2018):
+
+* 18.A34 Mathematical Problem Solving Seminar
+* 18.211 Combinatorial Analysis
 
 **Previous**
 
@@ -68,9 +73,9 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Short CV
 
+* [Dénes König Prize](https://www.siam.org/prizes/sponsored/konig.php), 2018
 * Ph.D. Mathematics, MIT, 2015 (Advisor: [Jacob Fox](http://stanford.edu/~jacobfox/))
 * M.A.St. Mathematics with Distinction, Cambridge, 2011
 * S.B. Mathematics, MIT, 2010
 * S.B. Computer Science and Engineering, MIT, 2010
-
-Previous institutions: Oxford, Berkeley, Microsoft Research
+* Previous institutions: Oxford, Berkeley, Microsoft Research
