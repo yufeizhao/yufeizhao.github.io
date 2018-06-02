@@ -32,9 +32,9 @@ Cambridge, MA 02139, USA</p>
 
 Combinatorics, discrete mathematics, graph theory
 
-[**My math research blog**](https://yufeizhao.wordpress.com/)
+**Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
-[**MIT Combinatorics Seminar**](http://math.mit.edu/seminars/combin/)
+[**My research blog**](https://yufeizhao.wordpress.com/)
 
 ## Teaching
 
@@ -49,8 +49,27 @@ Combinatorics, discrete mathematics, graph theory
 * [18.S997 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2017, MIT
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
 
-### [Math Olympiad training handouts](olympiad/)
+### [Math Olympiad training handouts](olympiad)
 
+## Selected publications
+
+* <img class="side" alt="" height="100" src="relative-szemeredi-thumb.png" width="109" />
+  [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
+  (with David Conlon and Jacob Fox) \\
+  _Geometric and Functional Analysis_ 25 (2015), 733--762.
+
+* [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
+  (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
+  _Advances in Mathematics_ 319 (2017), 313--347.
+
+* [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
+  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
+  _Transactions of the American Mathematical Society_, to appear.
+
+* <img class="side" alt="" height="80" src="spherebounds-thumb.png" width="104"/>
+  [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
+  (with Henry Cohn) \\
+  _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
 ## Videos
 
