@@ -32,9 +32,9 @@ Cambridge, MA 02139, USA</p>
 
 Combinatorics, discrete mathematics, graph theory
 
-**Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
-
 [**My research blog**](https://yufeizhao.wordpress.com/)
+
+**Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
 ## Teaching
 
@@ -53,7 +53,7 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Selected publications
 
-* <img class="side" alt="" height="100" src="relative-szemeredi-thumb.png" width="109" />
+* <img class="side" alt="" height="100" src="research/relative-szemeredi-thumb.png" width="109" />
   [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
   _Geometric and Functional Analysis_ 25 (2015), 733--762.
@@ -66,8 +66,7 @@ Combinatorics, discrete mathematics, graph theory
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
   _Transactions of the American Mathematical Society_, to appear.
 
-* <img class="side" alt="" height="80" src="spherebounds-thumb.png" width="104"/>
-  [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
+* [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
