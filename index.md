@@ -36,6 +36,10 @@ Combinatorics, discrete mathematics, graph theory
 
 **Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
+**Current PhD students**:
+[Jonathan Tidor](https://math.mit.edu/directory/profile.php?pid=2037),
+[Benjamin Gunby](http://www.math.harvard.edu/people/GunbyBenjamin.html)
+
 ## Teaching
 
 **Upcoming** (Fall 2018):
