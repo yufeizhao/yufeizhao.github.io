@@ -7,7 +7,7 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 
 <div class="row">
 <div class="col-md-6">
-<p>Assistant Professor<br>
+<p>Class of 1956 Career Development Assistant Professor<br>
 Department of Mathematics<br>
 Massachusetts Institute of Technology</p>
 

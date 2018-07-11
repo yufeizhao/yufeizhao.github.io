@@ -6,8 +6,7 @@ description: Yufei Zhao's research papers
 
 # Research
 
-* [Research papers](#research)
-* [Expositions and surveys](#expositions-and-surveys)
+\| [Research papers](#research) \| [Expositions and surveys](#expositions-and-surveys) \|
 
 My papers are also listed on
 [arXiv](http://arxiv.org/a/zhao_y_1),
