@@ -18,7 +18,7 @@ Massachusetts Institute of Technology</p>
 
 <p><strong>Mail:</strong><br>
 MIT Department of Mathematics<br>
-77 Massachusetts Ave, Room 2-271<br>
+77 Massachusetts Ave, Bldg 2-271<br>
 Cambridge, MA 02139, USA</p>
 
 </div>

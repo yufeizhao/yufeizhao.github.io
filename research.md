@@ -16,6 +16,11 @@ and
 
 ## Research Papers
 
+**Random matrices**
+
+* [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
+
+
 **Regularity lemmas and applications**
 
 * [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
