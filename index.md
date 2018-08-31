@@ -42,14 +42,17 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Teaching
 
-**Upcoming** (Fall 2018):
+**Current** (Fall 2018):
 
-* 18.A34 Mathematical Problem Solving Seminar
-* 18.211 Combinatorial Analysis
+* [18.A34 Mathematical Problem Solving Seminar (Putnam Seminar)](a34/)
+* [18.211 Combinatorial Analysis](211/)
+
+**Upcoming** (Spring 2019):
+
+* 18.218 The Probabilistic Method in Combinatorics
 
 **Previous**
 
-* [18.A34 Mathematical Problem Solving Seminar](a34/), Fall 2017, MIT
 * [18.S997 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2017, MIT
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
 
