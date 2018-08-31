@@ -27,13 +27,15 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 ## Homework
 
+Homework submissions are due at the end of class.
+
 Each problem set (links in the schedule below) contains a long list of problems for you to try. You are encouraged to work on as many as you like, but **please hand in only your four best solutions**. Do not turn in solutions to more than four problems. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
 _Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
 
 _Collaborations._ You are encouraged to collaborate, but you must write up your homework independently. You should include names of your collaborators in your _sources consulted_.
 
-[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.A34/)
+[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa18/18.A34/)
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 

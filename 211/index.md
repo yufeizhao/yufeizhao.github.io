@@ -16,7 +16,7 @@ title: "18.211 Combinatorial Analysis -- Fall 2018"
 
 Introduction to combinatorics. Roughly the first half of the semester will focus on enumeration, and the second half on graph theory.
 
-**Prerequisites:** Student should be comfortable with writing mathematical proofs
+**Prerequisites:** Calculus II (GIR) and linear algebra (18.06 or 18.700 or 18.701). Prior experience with abstraction and proofs is helpful
 
 **Required textbook:** Miklós Bóna, _A Walk Through Combinatorics_, 3rd or 4th edition
 
