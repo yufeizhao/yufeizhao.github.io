@@ -44,8 +44,9 @@ Combinatorics, discrete mathematics, graph theory
 
 **Current** (Fall 2018):
 
-* [18.A34 Mathematical Problem Solving Seminar (Putnam Seminar)](a34/)
 * [18.211 Combinatorial Analysis](211/)
+* [18.A34 Mathematical Problem Solving Seminar (Putnam Seminar)](a34/)
+
 
 **Upcoming** (Spring 2019):
 
