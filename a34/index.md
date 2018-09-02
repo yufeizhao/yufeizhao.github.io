@@ -29,7 +29,7 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 Homework submissions are due at the end of class.
 
-Each problem set (links in the schedule below) contains a long list of problems for you to try. You are encouraged to work on as many as you like, but **please hand in only your four best solutions**. Do not turn in solutions to more than four problems. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
+Each problem set (links in the schedule below) contains a long list of problems for you to try. You are encouraged to work on as many as you like, but please only hand in **your four best solutions**. Do not turn in solutions to more than four problems. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
 _Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
 
@@ -42,6 +42,7 @@ _Collaborations._ You are encouraged to collaborate, but you must write up your 
 ## Schedule
 
 TBD
+
 
 
 ## Additional resources
@@ -57,3 +58,5 @@ You may find the following optional resources helpful for additional preparation
 
 - [Problem-Solving Through Problems](https://www.amazon.com/Problem-Solving-Through-Problems-Problem-Mathematics/dp/0387961712/) by Larson
 - [Putnam and Beyond](https://www.amazon.com/Putnam-Beyond-Razvan-Gelca/dp/0387257659/) by Gelca and Andreescu
+
+Archive: webpage from [Fall 2017](fa17/)
