@@ -59,4 +59,4 @@ You may find the following optional resources helpful for additional preparation
 - [Problem-Solving Through Problems](https://www.amazon.com/Problem-Solving-Through-Problems-Problem-Mathematics/dp/0387961712/) by Larson
 - [Putnam and Beyond](https://www.amazon.com/Putnam-Beyond-Razvan-Gelca/dp/0387257659/) by Gelca and Andreescu
 
-Archive: webpage from [Fall 2017](fa17/)
+Previous course homepage from [Fall 2017](fa17/)
