@@ -15,7 +15,7 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 ## Course description
 
-18.A34 is a freshman advising seminar on mathematical problem solving. It is intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Much (but not all) of the seminar will be geared toward preparing for the Putnam Competition.
+18.A34 is a seminar intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Much (but not all) of the seminar will be geared toward preparing for the Putnam Competition.
 
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 1, 2018.
@@ -25,11 +25,13 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 **Listeners.** MIT students who are not officially enrolled in the subject are welcome to sit in and participate, but should not hand in homework.
 
-## Homework
+[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+
+## Schedule and homework
 
 Homework submissions are due at the end of class.
 
-Each problem set (links in the schedule below) contains a long list of problems for you to try. You are encouraged to work on as many as you like, but please only hand in **your four best solutions**. Do not turn in solutions to more than four problems. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
+Each problem set (links in the schedule below) contains a (sometimes long) list of problems for you to try. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
 _Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
 
@@ -37,13 +39,30 @@ _Collaborations._ You are encouraged to collaborate, but you must write up your 
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa18/18.A34/)
 
-[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+(Schedule subject to change)
 
-## Schedule
+| Lecture date  |   Topic    |  Guest lecturer  |  Homework due & presentations |
+|---------------|------------|------------------|-------------------------------|
+| R 9/ 6  | Independence and uniformity |      |    T 9/11
+| R 9/13  | Sums and integrals          | Evan Chen | T 9/18
+| R 9/20  | TBD | | T 9/25
+| R 9/27  | TBD | | T 10/ 2
+| R 10/ 4 | TBD | | **R** 10/11 (Tuesday holiday)
+| No lecture | TBD | | T 10/6          
+| R 10/18 | TBD | | T 10/23
+| R 10/25 | TBD | | T 10/30
+| R 11/ 1 | TBD | | T 11/ 6
+| R 11/ 8 | TBD | | T 11/13
+| R 11/15 | TBD | | T 11/20
 
-TBD
 
+T 11/27 & R 11/29: Review of recent Putnam exams
 
+**Saturday 12/1: Putnam Competition**
+
+T 12/4 & R 12/6: Presentation of solutions from the Putnam competition
+
+T 12/11: Presentations of student-created problems
 
 ## Additional resources
 
