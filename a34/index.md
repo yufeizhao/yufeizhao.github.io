@@ -15,13 +15,13 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 ## Course description
 
-18.A34 is a seminar intended for students who enjoy solving challenging mathematical problems and who are interested in learning various techniques and background information useful for problem solving. Much (but not all) of the seminar will be geared toward preparing for the Putnam Competition.
+18.A34 is a seminar intended for students who enjoy solving challenging mathematical problems, and to prepare students for the Putnam Competition.
 
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 1, 2018.
 **All students officially registered in the class are required to participate in the competition.**
 
-**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. Class attendance is required. Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
+**Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. **Class attendance is required.** Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
 
 **Listeners.** MIT students who are not officially enrolled in the subject are welcome to sit in and participate, but should not hand in homework.
 
@@ -31,7 +31,9 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 Homework submissions are due at the end of class.
 
-Each problem set (links in the schedule below) contains a (sometimes long) list of problems for you to try. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
+Each problem set contains a (sometimes long) list of problems. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). For multi-part problems, it is okay to hand in only a subset of the parts and count it as a "one problem", provided that it is not too trivial.
+
+Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
 _Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
 
@@ -66,12 +68,12 @@ T 12/11: Presentations of student-created problems
 
 ## Additional resources
 
-You may find the following optional resources helpful for additional preparation. The books have been placed on reserve at Hayden Library.
+You may find the following optional resources helpful for additional preparation. The books can be found at Hayden Library.
 
 **Previous Putnam problems and solutions**
 
 - [Putnam archive](http://kskedlaya.org/putnam-archive/) by Kedlaya
-- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions and Commentary](https://www.amazon.com/William-Lowell-Mathematical-Competition-1985-2000/dp/0883858274) by Kedlaya, Poonen, and Vakil
+- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions and Commentary](https://www.amazon.com/William-Lowell-Mathematical-Competition-1985-2000/dp/0883858274) by Kedlaya, Poonen and Vakil
 
 **Additional books helpful for preparation**
 
