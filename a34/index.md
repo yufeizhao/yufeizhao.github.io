@@ -45,7 +45,7 @@ _Collaborations._ You are encouraged to collaborate, but you must write up your 
 
 | Lecture date  |   Topic    |  Guest lecturer  |  Homework due & presentations |
 |---------------|------------|------------------|-------------------------------|
-| R 9/6  | Independence and uniformity |      |    T 9/11
+| R 9/6  | Hidden independence and uniformity |      |    T 9/11
 | R 9/13  | Sums and integrals          | Evan Chen | T 9/18
 | R 9/20  | TBD | | T 9/25
 | R 9/27  | TBD | | T 10/2
