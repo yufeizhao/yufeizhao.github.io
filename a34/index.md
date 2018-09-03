@@ -31,7 +31,7 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 Homework submissions are due at the end of class.
 
-Each problem set contains a (sometimes long) list of problems. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). For multi-part problems, you may decide what counts as "one problem", as long as it is reasonable (i.e., not too trivial).
+Each problem set contains a (sometimes long) list of problems. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial or simply repetitive).
 
 Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
