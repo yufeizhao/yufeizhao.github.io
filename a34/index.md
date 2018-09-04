@@ -29,13 +29,11 @@ contest for undergraduates in the USA and Canada.  This year it will be held Sat
 
 ## Schedule and homework
 
-Homework submissions are due at the end of class.
+Each problem set contains a (sometimes long) list of problems. You are encouraged to work on as many as you like, but only hand in **your six best solutions** (please do not submit more than six), at least four from the topics problem set based on the lecture. Do not hand in supplementary problems rated strictly less than [2]; these are too easy. For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
 
-Each problem set contains a (sometimes long) list of problems. You are encouraged to work on as many as you like, but only hand in **your four best solutions** (please do not submit more than four). For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial or simply repetitive).
+Homework submissions are due at the end of class. Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
 
-Please type or write legibly. They will be graded similarly to the Putnam competition. (Non-registered students should not hand in solutions.)
-
-_Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. You should avoid looking up solutions to homework problems online (or offline); if you do, you must mention the precise source on your assignment.
+_Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. Do not look up solutions to homework problems online (or offline).
 
 _Collaborations._ You are encouraged to collaborate, but you must write up your homework independently. You should include names of your collaborators in your _sources consulted_.
 
@@ -43,19 +41,19 @@ _Collaborations._ You are encouraged to collaborate, but you must write up your 
 
 (Schedule subject to change)
 
-| Lecture date  |   Topic    |  Guest lecturer  |  Homework due & presentations |
-|---------------|------------|------------------|-------------------------------|
-| R 9/6  | Hidden independence and uniformity |      |    T 9/11
-| R 9/13  | Sums and integrals          | Evan Chen | T 9/18
-| R 9/20  | TBD | | T 9/25
-| R 9/27  | TBD | | T 10/2
-| R 10/4 | TBD | | **R** 10/11 (Tuesday holiday)
-| No lecture | TBD | | T 10/6          
-| R 10/18 | TBD | | T 10/23
-| R 10/25 | TBD | | T 10/30
-| R 11/1 | TBD | | T 11/6
-| R 11/8 | TBD | | T 11/13
-| R 11/15 | TBD | | T 11/20
+| Lecture date  |   Topic    |  Guest lecturer  |  HW due & presentations | Supplementary set |
+|---------------|------------|------------------|-------------------------------|------------------------|
+| R 9/6  | [Hidden independence and uniformity](indep.pdf) |      |    T 9/11 |  [\#1](hw1.pdf)
+| R 9/13  | Sums and integrals          | Evan Chen | T 9/18 |  [\#2](hw2.pdf)
+| R 9/20  | TBD | | T 9/25 |  [\#3](hw3.pdf)
+| R 9/27  | TBD | | T 10/2 |  [\#4](hw4.pdf)
+| R 10/4 | TBD | | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
+| No lecture | TBD | | T 10/6           |  [\#6](hw6.pdf)
+| R 10/18 | TBD | | T 10/23 |  [\#7](hw7.pdf)
+| R 10/25 | TBD | | T 10/30 |  [\#8](hw8.pdf)
+| R 11/1 | TBD | | T 11/6 |  [\#9](hw9.pdf)
+| R 11/8 | TBD | | T 11/13 |  [\#10](hw10.pdf)
+| R 11/15 | TBD | | T 11/20 |  [\#11](hw11.pdf)
 
 
 T 11/27 & R 11/29: Review of recent Putnam exams
