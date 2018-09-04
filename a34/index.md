@@ -15,7 +15,7 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 ## Course description
 
-18.A34 is a seminar intended for students who enjoy solving challenging mathematical problems, and to prepare students for the Putnam Competition.
+18.A34 is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare students for the Putnam Competition.
 
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 1, 2018.
