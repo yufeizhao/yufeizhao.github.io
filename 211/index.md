@@ -12,6 +12,8 @@ title: "18.211 Combinatorial Analysis -- Fall 2018"
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info) Office hours: TBD
 
+Please include "18.211" in the subject line of your emails
+
 ## Course description
 
 Undergraduate introduction to combinatorics. Roughly the first half of the semester will focus on enumeration, and the second half on graph theory.

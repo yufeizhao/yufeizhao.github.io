@@ -13,6 +13,8 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
+Please include "18.A34" in the subject line of your emails
+
 ## Course description
 
 18.A34 is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare students for the Putnam Competition.
