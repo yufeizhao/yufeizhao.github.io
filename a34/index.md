@@ -35,7 +35,7 @@ Homework submissions are due at the end of class. Please type or write legibly. 
 
 _Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other official course material. Examples include: names of people you discussed solutions with (whether or not they are taking the class), books, Wikipedia and other websites. Do not look up solutions to homework problems online (or offline).
 
-_Collaborations._ You are encouraged to collaborate, but you must write up your homework independently. You should include names of your collaborators in your _sources consulted_.
+_Collaborations._ "Reasonable" collaboration is permitted, everyone must write their solutions individually and acknowledge their collaborators in _sources consulted_.
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa18/18.A34/)
 
