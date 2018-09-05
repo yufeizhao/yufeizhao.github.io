@@ -75,9 +75,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 | PS 5 | 10/16 |
 | PS 6 | 10/23 |
 | PS 7 | 10/30 |
-| PS 8 | 11/6 |
-| PS 9 | 11/13 |
-| PS 10 | 11/20 |
-| PS 11 | 11/27 |
-| PS 12 | 12/4 |
-| PS 13 | 12/11 |
+| PS 8 | 11/13 |
+| PS 9 | 11/20 |
+| PS 10 | 11/27 |
+| PS 11 | 12/11 |
