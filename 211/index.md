@@ -10,7 +10,7 @@ title: "18.211 Combinatorial Analysis -- Fall 2018"
 
 **Class meetings:** Tuesdays and Thursdays 1--2:30pm in 2-135
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info) Office hours: TBD
+**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours: M 3-4 & TR 2:30-3 in 2-271
 
 Please include "18.211" in the subject line of your emails
 
