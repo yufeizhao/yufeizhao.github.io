@@ -69,7 +69,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 | Problem set | Due date |
 |:---------------:|:-----------:|
 | [PS 1](ps1.pdf) | 9/11 |
-| PS 2 | 9/18 |
+| [PS 2](ps2.pdf) | 9/18 |
 | PS 3 | 9/25 |
 | PS 4 | 10/2 |
 | PS 5 | 10/16 |
