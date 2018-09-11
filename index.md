@@ -50,7 +50,7 @@ Combinatorics, discrete mathematics, graph theory
 
 **Upcoming** (Spring 2019):
 
-* 18.218 The Probabilistic Method in Combinatorics
+* 18.218 Probabilistic Method in Combinatorics
 
 **Previous**
 

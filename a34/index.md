@@ -21,9 +21,7 @@ Please include "18.A34" in the subject line of your emails
 
 **[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held Saturday, December 1, 2018.
-**All students officially registered in the class are required to participate in the competition.**
-
-Putnam Sign-up: MIT students should sign up to take the Putnam Competition by [completing this form](https://goo.gl/forms/4u7fE0aUwD51NxQ33) by noon, Friday, November 9.
+**All students officially registered in the class are required to participate in the competition.** MIT students can **sign up** to take the Putnam Competition by [completing this form](https://goo.gl/forms/4u7fE0aUwD51NxQ33) by noon, Friday, November 9.
 
 **Grading.** Based on homework and in-class presentations. Beyond grading for correctness, the grader may deduct points or grant bonus points based on the elegance of the solution and clarity of the writing. **Class attendance is required.** Please email me in advance if you cannot make it to class. Too many unexcused absences is cause for concern.
 
