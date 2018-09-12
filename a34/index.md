@@ -13,6 +13,8 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
+**Grader:** [Yau Wing Li](http://math.mit.edu/directory/profile.php?pid=2116)
+
 Please include "18.A34" in the subject line of your emails
 
 ## Course description
