@@ -48,7 +48,7 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | Lecture date  |   Topic    |  Guest lecturer  |  HW due & presentations | Supplementary set |
 |---------------|------------|------------------|-------------------------------|------------------------|
 | R 9/6  | [Hidden independence and uniformity](indep.pdf) |      |    T 9/11 |  [\#1](hw1.pdf)
-| R 9/13  | Sums and integrals          | Evan Chen | T 9/18 |  [\#2](hw2.pdf)
+| R 9/13  | [Sums and integrals](sums-integrals.pdf)          | Evan Chen | T 9/18 |  [\#2](hw2.pdf)
 | R 9/20  | TBD | | T 9/25 |  [\#3](hw3.pdf)
 | R 9/27  | TBD | | T 10/2 |  [\#4](hw4.pdf)
 | R 10/4 | TBD | | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
