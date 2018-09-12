@@ -12,7 +12,7 @@ title: "18.211 Combinatorial Analysis -- Fall 2018"
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours: M 3-4 & TR 2:30-3 in 2-271
 
-**Teaching Assistants:** [Pro Pakawut Jiradilok](https://math.mit.edu/directory/profile.php?pid=2031) and [Morris Jie Jun Ang](https://math.mit.edu/directory/profile.php?pid=2025). Office hours: R 4-5 in 2-341
+**Teaching assistants:** [Pro Pakawut Jiradilok](https://math.mit.edu/directory/profile.php?pid=2031) and [Morris Jie Jun Ang](https://math.mit.edu/directory/profile.php?pid=2025). Office hours: R 4-5 in 2-341
 
 Please include "18.211" in the subject line of your emails
 
