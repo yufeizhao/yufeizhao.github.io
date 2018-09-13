@@ -38,13 +38,13 @@ The exact schedule of future topics is tentative.
 | --:|--|--:|--|
 | | | 9/ 6  | Elementary counting
 | 9/11   | Binomial theorem         | 9/13 | Partitions
-|   9/18 | Partitions               | 9/20 | Permutations
-|   9/25 | Permutations             | 9/27 | Sieve
+|   9/18 | Permutations               | 9/20 | Permutations
+|   9/25 | Sieve             | 9/27 | Generating functions
 |  10/ 2 | Generating functions     | 10/ 4 | Generating functions
 |  10/ 9 | _No class (Columbus Day)_ | 10/11 | **In-class midterm #1**
-|  10/16 | Generating functions     | 10/18 | Generating functions
-|  10/23 | Introduction to graph theory | 10/25 | Trees
-|  10/30 | Trees                    | 11/ 1 | Trees
+|  10/16 | Generating functions     | 10/18 | Introduction to graph theory
+|  10/23 | Trees | 10/25 | Trees
+|  10/30 | Trees                    | 11/ 1 | Matchings
 |  11/ 6 | Matchings                | 11/ 8 | **In-class midterm #2**
 |  11/13 | Matchings                | 11/15 | Planarity
 |  11/20 | Graph coloring           | 11/22 | _No class (Thanksgiving)_
