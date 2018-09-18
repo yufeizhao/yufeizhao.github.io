@@ -41,6 +41,8 @@ and
 
 * [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
 
+* [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor)
+
 **The Green-Tao theorem and a relative Szemerédi theorem**
 <a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
 <a class="btn btn-secondary btn-sm" href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03">video</a>
