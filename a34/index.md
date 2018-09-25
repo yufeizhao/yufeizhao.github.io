@@ -50,14 +50,14 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | R 9/6  | [Hidden independence and uniformity](indep.pdf) |      |    T 9/11 |  [\#1](hw1.pdf)
 | R 9/13  | [Sums and integrals](sums-integrals.pdf)          | Evan Chen | T 9/18 |  [\#2](hw2.pdf)
 | R 9/20  | [Analysis](analysis.pdf) | Ashwin Sah | T 9/25 |  [\#3](hw3.pdf)
-| R 9/27  | TBD | | T 10/2 |  [\#4](hw4.pdf)
-| R 10/4 | TBD | | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
+| R 9/27  | [Recurrences](recurrence.pdf) | Yunkun Zhou | T 10/2 |  [\#4](hw4.pdf)
+| R 10/4 | Inequalities | Mehtaab Sawhney | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
 | No lecture | TBD | | T 10/6           |  [\#6](hw6.pdf)
-| R 10/18 | TBD | | T 10/23 |  [\#7](hw7.pdf)
-| R 10/25 | TBD | | T 10/30 |  [\#8](hw8.pdf)
-| R 11/1 | TBD | | T 11/6 |  [\#9](hw9.pdf)
-| R 11/8 | TBD | | T 11/13 |  [\#10](hw10.pdf)
-| R 11/15 | TBD | | T 11/20 |  [\#11](hw11.pdf)
+| R 10/18 | Linear algebra | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
+| R 10/25 | Abstract algebra | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
+| R 11/1 | Congruences | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
+| R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
+| R 11/15 | Generating functions | Ben Gunby | T 11/20 |  [\#11](hw11.pdf)
 
 
 T 11/27 & R 11/29: Review of recent Putnam exams
