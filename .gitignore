@@ -10,3 +10,4 @@ cv.fls
 cv.fdb_latexmk
 cv.aux
 cv.synctex.gz
+research/sources/*

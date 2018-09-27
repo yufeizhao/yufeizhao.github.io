@@ -47,7 +47,7 @@ and
 <a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
 <a class="btn btn-secondary btn-sm" href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03">video</a>
 
-* <img class="side" alt="" height="100" src="relative-szemeredi-thumb.png" width="109" />
+* <img class="side" alt="" height="100" src="relative-szemeredi.png" width="109" />
   [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
   _Geometric and Functional Analysis_ 25 (2015), 733--762. \\
@@ -64,7 +64,7 @@ and
 **Large deviations in random graphs**
 <a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
 
-* <img class="side" alt="" height="79" src="gnp_ldp-thumb.png" width="80"/>
+* <img class="side" alt="" height="79" src="gnp_ldp.png" width="80"/>
   [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
   (with Eyal Lubetzky) \\
   _Random Structures & Algorithms_ 47 (2015), 109--146.
@@ -107,7 +107,7 @@ and
 
 **Sphere packing and energy minimization**
 
-* <img class="side" alt="" height="80" src="spherebounds-thumb.png" width="104"/>
+* <img class="side" alt="" height="80" src="spherebounds.png" width="104"/>
   [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
@@ -129,7 +129,7 @@ and
 
 **Independent sets and graph homomorphisms**
 
-* <img class="side" alt="" height="77" src="doublecover.png" width="99"/>
+* <img class="side" alt="" height="60" src="doublecover.png" />
   [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
   _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
   <a class="btn btn-secondary btn-sm" href="slides/indep_reg_poster.pdf">poster</a>
@@ -142,7 +142,10 @@ and
   _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
   <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
 
-* [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
+* <img class="side" alt="" height="100" src="reverse_sidorenko.png"/>
+[The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
+
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
 **More sums than differences sets**
 <a class="btn btn-secondary btn-sm" href="slides/mstd.pdf">slides</a>
