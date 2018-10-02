@@ -82,7 +82,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 | PS 10 | 11/27 |
 | PS 11 | 12/11 |
 
-## Exams
+## Midterm exams
 
 * 80 min in-class midterms
 * Closed-book. No notes and electronic devices (including calculators, phones, etc.) may be used
@@ -90,3 +90,4 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 *Midterm 1* (10/11):
 
 * Material covered: Lectures 9/6--9/27. Problem Sets 1 to 4. Textbook (Bona) Chapters 3--8.1.2.
+* [Practice exam](exam1practice.pdf) and [solutions](exam1practice_sol.pdf)
