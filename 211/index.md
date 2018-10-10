@@ -22,7 +22,16 @@ Undergraduate introduction to combinatorics. Roughly the first half of the semes
 
 **Prerequisites:** Calculus II (GIR) and linear algebra (18.06 or 18.700 or 18.701). Prior experience with abstraction and proofs is helpful
 
-**Textbook:** Miklós Bóna, _A Walk Through Combinatorics_, 3rd or 4th edition
+**Textbooks/references:**
+* Part I: Enumeration
+  * Bóna, _A Walk Through Combinatorics_, 3rd or 4th edition
+* Part II: Graph Theory
+  * [_Graph theory notes_](graph_theory_notes.pdf) by Sudakov
+  * Additional textbook references:
+    * West, _Introduction to Graph Theory_
+    * Diestel, _Graph Theory_
+    * Bondy and Murty, _Graph Theory_
+
 
 ## Grading
 
@@ -44,13 +53,13 @@ The exact schedule of future topics is tentative.
 |  10/ 9 | _No class (Columbus Day)_ | 10/11 | **In-class midterm #1**
 |  10/16 | Generating functions     | 10/18 | Introduction to graph theory
 |  10/23 | Trees | 10/25 | Trees
-|  10/30 | Trees                    | 11/ 1 | Matchings
-|  11/ 6 | Matchings                | 11/ 8 | **In-class midterm #2**
-|  11/13 | Matchings                | 11/15 | Planarity
-|  11/20 | Graph coloring           | 11/22 | _No class (Thanksgiving)_
-|  11/27 | Graph coloring           | 11/29 | Ramsey theory
-|  12/ 4 | Probabilistic method     | 12/ 6 | **In-class midterm #3**
-|  12/11 | Probabilistic method
+|  10/30 | Connectivity                    | 11/ 1 | Connectivity
+|  11/ 6 | Eulerian and Hamiltonian cycles  | 11/ 8 | **In-class midterm #2**
+|  11/13 | Matchings                | 11/15 | Matchings
+|  11/20 | Planarity           | 11/22 | _No class (Thanksgiving)_
+|  11/27 | Graph coloring           | 11/29 | Graph coloring
+|  12/ 4 | Ramsey theory     | 12/ 6 | **In-class midterm #3**
+|  12/11 | TBA
 
 ## Homework
 
