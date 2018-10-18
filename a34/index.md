@@ -53,7 +53,7 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | R 9/27  | [Recurrences](recurrence.pdf) | Yunkun Zhou | T 10/2 |  [\#4](hw4.pdf)
 | R 10/4 | [Inequalities](ineq.pdf) | Mehtaab Sawhney | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
 | No lecture | [Probability](prob.pdf) | | T 10/16           |  [\#6](hw6.pdf)
-| R 10/18 | Linear algebra | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
+| R 10/18 | [Linear algebra](linalg.pdf) | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
 | R 10/25 | Abstract algebra | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
 | R 11/1 | Congruences | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
 | R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
