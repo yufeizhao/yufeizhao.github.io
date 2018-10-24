@@ -54,7 +54,7 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | R 10/4 | [Inequalities](ineq.pdf) | Mehtaab Sawhney | **R** 10/11 (Tuesday holiday) |  [\#5](hw5.pdf)
 | No lecture | [Probability](prob.pdf) | | T 10/16           |  [\#6](hw6.pdf)
 | R 10/18 | [Linear algebra](linalg.pdf) | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
-| R 10/25 | Abstract algebra | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
+| R 10/25 | [Abstract algebra](algebra.pdf) | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
 | R 11/1 | Congruences | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
 | R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
 | R 11/15 | Generating functions | Ben Gunby | T 11/20 |  [\#11](hw11.pdf)
