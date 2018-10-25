@@ -78,7 +78,7 @@ Combinatorics, discrete mathematics, graph theory
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
-* [A revesre Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
 ## Videos
 
