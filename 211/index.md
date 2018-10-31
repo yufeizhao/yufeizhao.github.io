@@ -86,7 +86,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 | [PS 5](ps5.pdf) | 10/16 |
 | [PS 6](ps6.pdf) | 10/23 |
 | [PS 7](ps7.pdf) | 10/30 |
-| PS 8 | 11/13 |
+| [PS 8](ps8.pdf) | 11/13 |
 | PS 9 | 11/20 |
 | PS 10 | 11/27 |
 | PS 11 | 12/11 |
@@ -94,9 +94,21 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 ## Midterm exams
 
 * 80 min in-class midterms
-* Closed-book. No notes and electronic devices (including calculators, phones, etc.) may be used
+* No notes and electronic devices (including calculators, phones, etc.) may be used
 
 *Midterm 1* (10/11):
 
-* Material covered: Lectures 9/6--9/27. Problem Sets 1 to 4. Textbook (Bona) Chapters 3--8.1.2.
 * [Practice exam](exam1practice.pdf) and [solutions](exam1practice_sol.pdf)
+* Closed-book.
+* Material covered: Lectures 9/6--9/27. Problem Sets 1 to 4. Textbook (Bona) Chapters 3--8.1.2.
+
+*Midter 2* (11/8):
+
+* [Practice exam](exam2practice.pdf) (solutions to appear later)
+* You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
+* Material covered: Lectures 10/2--10/30. Problem sets 5--7 (although problem set 8 is not directly covered by the midterm, it is strongly recommended to do the first four problems in problem set 8 before the midterm to get practice with techniques). Bona Chapter 8 and graph theory notes up to Theorem 3.21 (Menger's theorem). (Theorem 3.5 Mader's theorem was skipped).
+* Topics covered:
+  * Ordinary and exponential generating functions, with emphasis on the composition and exponential formulas
+  * Basic notions of graph theory. Degrees, paths, cycles, etc.
+  * Trees: properties (equivalent characterizations) and counting (Cayley's theorem)
+  * Connectivity: vertex- and edge-connectivity. Whitney's theorem. Menger's theorem.
