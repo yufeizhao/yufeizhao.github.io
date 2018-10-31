@@ -51,14 +51,14 @@ The exact schedule of future topics is tentative.
 |   9/25 | Sieve             | 9/27 | Generating functions
 |  10/ 2 | Generating functions     | 10/ 4 | Generating functions
 |  10/ 9 | _No class (Columbus Day)_ | 10/11 | **In-class midterm #1**
-|  10/16 | Generating functions     | 10/18 | Introduction to graph theory
+|  10/16 | Generating functions  | 10/18 | Introduction to graph theory
 |  10/23 | Trees | 10/25 | Trees
-|  10/30 | Connectivity                    | 11/ 1 | Connectivity
+|  10/30 | Connectivity          | 11/ 1 | Connectivity
 |  11/ 6 | Eulerian and Hamiltonian cycles  | 11/ 8 | **In-class midterm #2**
-|  11/13 | Matchings                | 11/15 | Matchings
-|  11/20 | Planarity           | 11/22 | _No class (Thanksgiving)_
-|  11/27 | Graph coloring           | 11/29 | Graph coloring
-|  12/ 4 | Ramsey theory     | 12/ 6 | **In-class midterm #3**
+|  11/13 | Matchings             | 11/15 | Matchings
+|  11/20 | Planarity             | 11/22 | _No class (Thanksgiving)_
+|  11/27 | Coloring              | 11/29 | Coloring
+|  12/ 4 | Ramsey theory         | 12/ 6 | **In-class midterm #3**
 |  12/11 | TBA
 
 ## Homework
@@ -106,7 +106,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 
 * [Practice exam](exam2practice.pdf) (solutions to appear later)
 * You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
-* Material covered: Lectures 10/2--10/30. 
+* Material covered: Lectures 10/2--10/30.
 Problem sets 5–7 and the first four problems of Problem Set 8. Bona Chapter 8 and graph theory notes up to Theorem 3.21 (Menger's theorem). (Theorem 3.5 Mader's theorem was skipped).
 * Topics covered:
   * Ordinary and exponential generating functions, with emphasis on the composition and exponential formulas
