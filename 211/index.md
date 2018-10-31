@@ -106,7 +106,8 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 
 * [Practice exam](exam2practice.pdf) (solutions to appear later)
 * You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
-* Material covered: Lectures 10/2--10/30. Problem sets 5--7 (although problem set 8 is not directly covered by the midterm, it is strongly recommended to do the first four problems in problem set 8 before the midterm to get practice with techniques). Bona Chapter 8 and graph theory notes up to Theorem 3.21 (Menger's theorem). (Theorem 3.5 Mader's theorem was skipped).
+* Material covered: Lectures 10/2--10/30. 
+Problem sets 5–7 and the first four problems of Problem Set 8. Bona Chapter 8 and graph theory notes up to Theorem 3.21 (Menger's theorem). (Theorem 3.5 Mader's theorem was skipped).
 * Topics covered:
   * Ordinary and exponential generating functions, with emphasis on the composition and exponential formulas
   * Basic notions of graph theory. Degrees, paths, cycles, etc.
