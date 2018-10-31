@@ -102,7 +102,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 * Closed-book.
 * Material covered: Lectures 9/6--9/27. Problem Sets 1 to 4. Textbook (Bona) Chapters 3--8.1.2.
 
-*Midter 2* (11/8):
+*Midterm 2* (11/8):
 
 * [Practice exam](exam2practice.pdf) (solutions to appear later)
 * You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
