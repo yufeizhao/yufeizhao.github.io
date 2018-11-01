@@ -55,16 +55,23 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | No lecture | [Probability](prob.pdf) | | T 10/16           |  [\#6](hw6.pdf)
 | R 10/18 | [Linear algebra](linalg.pdf) | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
 | R 10/25 | [Abstract algebra](algebra.pdf) | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
-| R 11/1 | Congruences | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
+| R 11/1 | [Congruences](congruences.pdf) | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
 | R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
 | R 11/15 | Generating functions | Ben Gunby | T 11/20 |  [\#11](hw11.pdf)
 
+(No homework submission required for 11/27--12/6)
 
-T 11/27 & R 11/29: Review of recent Putnam exams
+T 11/27: Students present solutions to [Putnam 2017 exam](https://kskedlaya.org/putnam-archive/2017.pdf)
+
+R 11/29: Students present solutions to [Putnam 2016 exam](https://kskedlaya.org/putnam-archive/2016.pdf)
 
 **Saturday 12/1: Putnam Competition**
 
-T 12/4 & R 12/6: Presentation of solutions from the Putnam competition
+T 12/4: Students present solutions to part A of Putnam 2018 exam
+
+T 12/4: Students present solutions to part B of Putnam 2018 exam
+
+**Final homework**: Create your own Putnam-style problem. Submit your problem and solution separately on Stellar by Saturday Dec 1. Your problem submissions will be visible to other students in the class, and the solutions will be made visible by Sunday afternoon as well.
 
 T 12/11: Presentations of student-created problems
 
