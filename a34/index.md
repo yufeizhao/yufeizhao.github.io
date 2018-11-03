@@ -59,7 +59,7 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
 | R 11/15 | Generating functions | Ben Gunby | T 11/20 |  [\#11](hw11.pdf)
 
-(No homework submission required for 11/27--12/6)
+(No homework submissions required for 11/27--12/6)
 
 T 11/27: Students present solutions to [Putnam 2017 exam](https://kskedlaya.org/putnam-archive/2017.pdf)
 

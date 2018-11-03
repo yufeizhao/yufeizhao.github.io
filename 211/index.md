@@ -104,7 +104,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 
 *Midterm 2* (11/8):
 
-* [Practice exam](exam2practice.pdf) (solutions to appear later)
+* [Practice exam](exam2practice.pdf) and [solutions](exam2practice_sol.pdf)
 * You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
 * Material covered: Lectures 10/2--10/30.
 Problem sets 5–7 and the first four problems of Problem Set 8. Bona Chapter 8 and graph theory notes up to Theorem 3.21 (Menger's theorem). (Theorem 3.5 Mader's theorem was skipped).
