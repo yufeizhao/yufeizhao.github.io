@@ -56,7 +56,7 @@ _Collaborations._ "Reasonable" collaboration is permitted, everyone must write t
 | R 10/18 | [Linear algebra](linalg.pdf) | Allen Liu | T 10/23 |  [\#7](hw7.pdf)
 | R 10/25 | [Abstract algebra](algebra.pdf) | Zilin Jiang | T 10/30 |  [\#8](hw8.pdf)
 | R 11/1 | [Congruences](congruences.pdf) | Junyao Peng  | T 11/6 |  [\#9](hw9.pdf)
-| R 11/8 | Combinatorial configurations | David Stoner | T 11/13 |  [\#10](hw10.pdf)
+| R 11/8 | [Combinatorial configurations](combo.pdf) | David Stoner | T 11/13 |  [\#10](hw10.pdf)
 | R 11/15 | Generating functions | Ben Gunby | T 11/20 |  [\#11](hw11.pdf)
 
 (No homework submissions required for 11/27--12/6)
