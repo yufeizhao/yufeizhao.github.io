@@ -87,9 +87,9 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 | [PS 6](ps6.pdf) | 10/23 |
 | [PS 7](ps7.pdf) | 10/30 |
 | [PS 8](ps8.pdf) | 11/13 |
-| PS 9 | 11/20 |
-| PS 10 | 11/27 |
-| PS 11 | 12/11 |
+| [PS 9](ps9.pdf) | 11/20 |
+| PS 10 | ~~11/27~~ 12/4 |
+| ~~PS 11~~ | ~~12/11~~ |
 
 ## Midterm exams
 
