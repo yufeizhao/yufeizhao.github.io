@@ -69,7 +69,7 @@ R 11/29: Students present solutions to [Putnam 2016 exam](https://kskedlaya.org/
 
 T 12/4: Students present solutions to part A of Putnam 2018 exam
 
-T 12/4: Students present solutions to part B of Putnam 2018 exam
+R 12/6: Students present solutions to part B of Putnam 2018 exam
 
 **Final homework**: Create your own Putnam-style problem. Submit your problem and solution separately on Stellar by **Saturday Dec 8**. Your problem submissions will be visible to other students in the class, and the solutions will be made visible by Sunday afternoon as well.
 
