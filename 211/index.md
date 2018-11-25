@@ -128,4 +128,4 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
   * Eulerian tours and Hamiltonian cycles: condition for having an Eulerian tour, Dirac's theorem and its rotation-extension proof technique
   * Matchings: Hall's theorem and consequences, Kőnig's theorem, Tutte's theorem (statement), Petersen's theorem, Tutte-Berge formula
   * Planar graphs: Euler's formula and consequences, Kuratowski's and Wagner's theorems (statement)
-  * Coloring: greedy coloring and degeneracy, Brook's theorem (statement), 5-color theorem, 4-color theorem (statement), art gallery theorem, relationship to orientations, Mycielski's construction, large girth and large chromatic number (statement), Hadwiger's conjecture (statement), Kőnig's edge-coloring theorem
+  * Coloring: greedy coloring and degeneracy, Brook's theorem (statement), 5-color theorem, 4-color theorem (statement), art gallery theorem, relationship to orientations, Mycielski's construction, Hadwiger's conjecture (statement)
