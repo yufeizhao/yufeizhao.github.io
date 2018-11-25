@@ -106,10 +106,26 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 
 * [Practice exam](exam2practice.pdf) and [solutions](exam2practice_sol.pdf)
 * You may bring one sheet of notes on letter-sized paper (front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
-* Material covered: Lectures 10/2--10/30.
-Problem sets 5–7 and the first problem of Problem Set 8. Bona Chapter 8 and graph theory notes up to Section 3.4 (Theorem 3.5 Mader's theorem was skipped).
+* Material covered:
+  * Lectures 10/2--10/30
+  * Problem sets 5–7 and the first problem of Problem Set 8
+  * Bona Chapter 8 and graph theory notes up to Section 3.4 (Theorem 3.5 Mader's theorem was skipped).
 * Topics covered:
   * Ordinary and exponential generating functions, with emphasis on the composition and exponential formulas
   * Basic notions of graph theory. Degrees, paths, cycles, etc.
   * Trees: properties (equivalent characterizations) and counting (Cayley's theorem)
   * Connectivity: vertex- and edge-connectivity. Whitney's theorem.
+
+*Midterm 3* (11/6):
+* Practice exam and solutions coming solution
+* You may bring **two sheet** of notes on letter-sized paper (total four sides front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
+* Material covered:
+  * Lectures 11/30 onwards
+  * Problem Sets 8--10
+  * Graph theory notes sections 3--7 (the following proofs are skipped: Theorems 3.5, 5.16, 7.22) and the introductory part of Section 11 (before Section 11.1)
+* Topics covered:
+  * Connectivity: basic notions, Menger's theorem and consequences
+  * Eulerian tours and Hamiltonian cycles: condition for having an Eulerian tour, Dirac's theorem and its rotation-extension proof technique
+  * Matchings: Hall's theorem and consequences, Kőnig's theorem, Tutte's theorem (statement), Petersen's theorem, Tutte-Berge formula
+  * Planar graphs: Euler's formula and consequences, Kuratowski's and Wagner's theorems (statement)
+  * Coloring: greedy coloring and degeneracy, Brook's theorem (statement), 5-color theorem, 4-color theorem (statement), art gallery theorem, relationship to orientations, Mycielski's construction, large girth and large chromatic number (statement), Hadwiger's conjecture (statement), Kőnig's edge-coloring theorem
