@@ -118,7 +118,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 
 *Midterm 3* (11/6):
 * [Practice exam](exam3practice.pdf) and [solutions](exam3practice_sol.pdf)
-* You may bring **two sheet** of notes on letter-sized paper (total four sides front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
+* You may bring **two sheets** of notes on letter-sized paper (total four sides front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
 * Material covered:
   * Lectures 11/30 onward
   * Problem Sets 8--10
