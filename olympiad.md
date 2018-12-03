@@ -73,4 +73,5 @@ Here are some of my book recommendations for preparing for math competitions, in
 - Andreescu and Enescu, [Mathematical Olympiad Treasures](https://www.amazon.com/gp/product/081768252X/)
 - Andreescu and Gelca, [Mathematical Olympiad Challenges](https://www.amazon.com/gp/product/0817645284/)
 - Andreescu and Dospinescu, [Problems from the Book](https://www.amazon.com/gp/product/0979926904/)
+- Andreescu and Dospinescu, [Straight from the Book](https://www.amazon.com/gp/product/0979926939/)
 - Djukić et al., [The IMO Compendium](https://www.amazon.com/gp/product/1441998535/) (complete collection of IMO shortlist problems)
