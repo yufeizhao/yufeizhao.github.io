@@ -120,7 +120,7 @@ _Late policy._ Late problem sets will not be accepted without a valid excuse suc
 * [Practice exam](exam3practice.pdf) and [solutions](exam3practice_sol.pdf)
 * You may bring **two sheets** of notes on letter-sized paper (total four sides front and back) **in your own handwriting**. Typed, printed, or photocopied notes are **forbidden**.
 * Material covered:
-  * Lectures 11/30 onward
+  * Lectures 10/30 onward
   * Problem Sets 8--10
   * Graph theory notes sections 3--7 (the following proofs are skipped: Theorems 3.5, 5.16, 7.22) and the introductory part of Section 11 (before Section 11.1)
 * Topics covered:
