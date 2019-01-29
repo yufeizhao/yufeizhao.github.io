@@ -35,6 +35,17 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 ## Homework
 
+There will be a list of problem for practice. A subset of these problems will be designated as to-be-turned in. You should only submit the designated problems.
+
+You are encouraged to submit interesting problems that may be suitable to be included homework problems for the course (either your own creation or a problem you've seen somewhere else). Please [submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
+
+**Homework problems to be posted**  
+
+| Problem set | Due date  |
+|:---------------:|:-----------:|
+| Problem set 1 | TBA
+
+
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/sp19/18.218/)
 
 _Submissions._ All homework submissions should be typed in LaTeX and submitted as PDF on [Stellar](http://stellar.mit.edu/S/course/18/sp19/18.218/). To make the grader's job easier, please name your file `ps#_Lastname_Firstname.pdf` (replace # by problem set number, and the rest by your name). Remember to include your name at the top of your submission.
@@ -46,9 +57,3 @@ _Sources._ At the top of each submission, you must acknowledge all sources and r
 You should not look up solutions to homework problems online (or offline). You are strongly discouraged from looking at end-of-textbook hints unless you have already thought a lot about the problem (at least an hour).
 
 _Collaboration policy._ You are encouraged to work on the problems first on your own. It is fine to collaborate, but everyone must write their solutions individually and acknowledge their collaborators.
-
-**Homework problems to be posted**
-
-| Problem set | Due date  |
-|:---------------:|:-----------:|
-| Problem set 1 | TBA
