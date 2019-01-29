@@ -42,19 +42,15 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Teaching
 
-**Current** (Fall 2018):
+**Current** (Spring 2019):
 
-* [18.211 Combinatorial Analysis](211/)
-* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/)
-
-
-**Upcoming** (Spring 2019):
-
-* 18.218 Probabilistic Method in Combinatorics (grad)
+* [18.218 Probabilistic Method in Combinatorics](pm/) (grad)
 
 **Previous**
 
-* [18.S997 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2017, MIT
+* [18.211 Combinatorial Analysis](211/), Fall 2018
+* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2018
+* [18.S997 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2017
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
 
 ### [Math Olympiad training handouts](olympiad)
@@ -80,22 +76,33 @@ Combinatorics, discrete mathematics, graph theory
 
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
+## Slides
+
+* [Pseudorandom graphs, relative Szemerédi theorem and the Green-Tao Theorem](research/slides/green-tao-relative-szemeredi.pdf)
+* [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
+* [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
+
 ## Videos
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-dec2013').toggle('fast');">
-  Green-Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, Dec 2013
+  Green-Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
   <div id="simons-talk-dec2013" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/vsFFjhYLVrM" allowfullscreen></iframe>
   </div>
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-jan2017').toggle('fast');">
-  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, Jan 2017
+  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, January 2017
   <div id="simons-talk-jan2017" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/ZXLtAj4eL0c" allowfullscreen></iframe>
   </div>
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-apr2017').toggle('fast');">
-  Large deviations for arithmetic progressions</a>, Simons Institute, Berkeley, Apr 2017
+  Large deviations for arithmetic progressions</a>, Simons Institute, Berkeley, April 2017
   <div id="simons-talk-apr2017" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/G9AJHUAz33o" allowfullscreen></iframe>
+  </div>
+* <a href="javascript:void(0);" target="_self" onclick="$('#neu-talk-may2018').toggle('fast');">
+  Large Deviations and Exponential Random Graphs</a>, Northeastern University Network Science Institute, May 2018
+  <div id="neu-talk-may2018" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/watch?v=dwUz8c7siDU" allowfullscreen></iframe>
   </div>
 
 
