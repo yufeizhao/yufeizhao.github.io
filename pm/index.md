@@ -37,7 +37,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 There will be a list of problem for practice. A subset of these problems will be designated as to-be-turned in. You should only submit the designated problems.
 
-You are encouraged to submit interesting problems that may be suitable to be included homework problems for the course (either your own creation or a problem you've seen somewhere else). Please [submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
+You are encouraged to submit interesting problems that may be suitable to be included as homework problems for the course (either your own creation or a problem you've seen somewhere else). [Please submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
 
 **Homework problems to be posted**  
 
