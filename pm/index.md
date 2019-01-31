@@ -29,7 +29,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 ## Lectures
 
-- **Lecture 1** (2/5) Introduction to the probabilistic method. Ramsey number lower bound. Winning sets in tournaments. Dominating sets.
+- **Lecture 1** (2/5) Introduction to the probabilistic method
 - **Lecture 2** (2/7)
 
 
