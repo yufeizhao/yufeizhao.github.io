@@ -9,7 +9,7 @@ description: "MIT Spring 2019. 18.218 The Probabilistic Method in Combinatorics.
 
 **Spring 2019, MIT**
 
-**Class meetings:** Tuesdays and Thursdays 2:30--4pm in 4-145
+**Class meetings:** Tuesdays and Thursdays 2:30--4pm in 3-370 (note room change!)
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
