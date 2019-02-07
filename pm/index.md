@@ -39,7 +39,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
-| Problem set 1 | Friday February  22
+| PS 1 | Friday February  22
 
 
 You are encouraged to submit interesting problem proposals that may be suitable to be included as homework problems for the course (either your own creation or a problem you've seen somewhere else). [Please submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
