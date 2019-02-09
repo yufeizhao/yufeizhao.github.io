@@ -29,8 +29,9 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 ## Lectures
 
-- **Lecture 1** (2/5) Introduction to the probabilistic method. Ramsey number lower bounds (union bound, alternation, Lovász Loval Lemma). Sperner's theorem
-- **Lecture 2** (2/7)
+- **2/5** Introduction to the probabilistic method. Ramsey number lower bounds (union bound, alternation, Lovász Loval Lemma). Sperner's theorem
+- **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. Non-2-colorable hypergraphs (property B). Linearity of expectations. Sum-free sets.
+- **2/12**
 
 
 ## Homework
@@ -40,7 +41,10 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 | Problem set | Due date  |
 |:---------------:|:-----------:|
 | PS 1 | Friday Feb 22
-
+| PS 2 | Friday Mar 15
+| PS 3 | Friday Apr 5
+| PS 4 | Friday Apr 26
+| PS 5 | Thursday May 16
 
 You are encouraged to submit interesting problem proposals that may be suitable to be included as homework problems for the course (either your own creation or a problem you've seen somewhere else). [Please submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
 
