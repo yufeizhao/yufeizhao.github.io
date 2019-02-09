@@ -30,7 +30,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 ## Lectures
 
 - **2/5** Introduction to the probabilistic method. Ramsey number lower bounds (union bound, alternation, Lovász Loval Lemma). Sperner's theorem
-- **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. Non-2-colorable hypergraphs (property B). Linearity of expectations. Sum-free sets.
+- **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. 2-colorable hypergraphs (property B). Linearity of expectations. Sum-free sets.
 - **2/12**
 
 
