@@ -56,7 +56,7 @@ _Submissions._ All homework submissions should be typed in LaTeX and submitted a
 
 _Late policy._ Submissions are due on Stellar by **midnight of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
 
-_Sources._ At the top of each submission, you must acknowledge all sources and references consulted (other than lectures and the textbook). **Failure acknowledge sources will lead to an automatic 5% penalty**. Examples include: names of people you discussed homework with, books, and online resources. If you consulted no additional sources, you should write `sources consulted: none`.
+_Sources._ At the top of each submission, you must acknowledge all sources and references consulted (other than lectures and the textbook). **Failure acknowledge sources will lead to an automatic 10% penalty**. Examples include: names of people you discussed homework with, books, and online resources. If you consulted no additional sources, you should write `sources consulted: none`.
 
 You should not look up solutions to homework problems online (or offline). You are strongly discouraged from looking at end-of-textbook hints unless you have already thought a lot about the problem (at least an hour).
 
