@@ -40,7 +40,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 | Problem set | Due date  | Problems
 |:---------------:|:-----------:|:-----------:|
-| PS 1 | Friday Feb 22 | 4, 5, 6, 7★, 9, 12, 13(a,b★), 15, 16
+| PS 1 | Friday Feb 22 | 4, 5, 6, 7★, 9, 12, 13(a,b★), 15, 16★
 | PS 2 | Friday Mar 15
 | PS 3 | Friday Apr 5
 | PS 4 | Friday Apr 26
