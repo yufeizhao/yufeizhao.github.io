@@ -34,7 +34,9 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/12** Ramsey multiplicities. Turán's theorem. Crossing number inequality. Balancing vectors
 - **2/14** Deterministically balancing vectors. Unbalancing lights. Dense sphere packings in high dimensions (reference: [Venkatesh](http://math.stanford.edu/~akshay/research/sp.pdf))
 - **2/19** No lecture (MIT Monday schedule)
-- **2/21** Alteration method 
+- **2/21** Alteration method ...
+- **2/26**
+- **2/28**
 
 
 ## Homework
