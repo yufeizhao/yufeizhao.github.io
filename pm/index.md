@@ -38,7 +38,6 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/26**
 - **2/28**
 
-
 ## Homework
 
 [**Problem set**](ps.pdf): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems.
