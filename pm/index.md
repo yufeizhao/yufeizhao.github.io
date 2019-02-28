@@ -30,9 +30,9 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 ## Lectures
 
 - **2/5** Introduction to the probabilistic method. Ramsey number lower bounds (union bound, alternation, Lovász Loval Lemma). Sperner's theorem
-- **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. 2-colorable hypergraphs (property B). Linearity of expectations. Sum-free sets.
-- **2/12** Ramsey multiplicities. Turán's theorem. Crossing number inequality. Balancing vectors
-- **2/14** Deterministically balancing vectors. Unbalancing lights. Dense sphere packings in high dimensions (reference: [Venkatesh](http://math.stanford.edu/~akshay/research/sp.pdf))
+- **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. 2-colorable hypergraphs (property B). Linearity of expectations: sum-free sets.
+- **2/12** Linearity of expectations: Ramsey multiplicities, Turán's theorem, Crossing number inequality, Balancing vectors
+- **2/14** Linearity of expectations: deterministically balancing vectors, unbalancing lights, dense sphere packings in high dimensions (reference: [Venkatesh](http://math.stanford.edu/~akshay/research/sp.pdf))
 - **2/19** _No lecture (MIT Monday schedule)_
 - **2/21** Alteration method: dominating sets, Heilbronn triangle problem, high girth and high chromatic number, random greedy coloring (2-coloring hypergraphs)
 - **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph
