@@ -35,8 +35,12 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/14** Linearity of expectations: deterministically balancing vectors, unbalancing lights, dense sphere packings in high dimensions (reference: [Venkatesh](http://math.stanford.edu/~akshay/research/sp.pdf))
 - **2/19** _No lecture (MIT Monday schedule)_
 - **2/21** Alteration method: dominating sets, Heilbronn triangle problem, high girth and high chromatic number, random greedy coloring (2-coloring hypergraphs)
-- **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph
-- **2/28** Second moment method: clique number, number of prime divisors (Hardy--Ramanujan, Erdős--Kac), distinct sums
+- **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph[]
+- **2/28** Second moment method: clique number, number of prime divisors (Hardy--Ramanujan, Erdős--Kac), multidimensional Szemerédi theorem in the primes (reference: [Fox--Zhao](https://arxiv.org/abs/1307.4679))
+- **3/5** Second moment method: distinct sums, Weierstrass approximation theorem
+- **3/7** Chernoff bound.
+- **3/12**
+- **3/14**
 
 ## Homework
 
