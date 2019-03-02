@@ -38,7 +38,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph[]
 - **2/28** Second moment method: clique number, number of prime divisors (Hardy--Ramanujan, Erdős--Kac), multidimensional Szemerédi theorem in the primes (reference: [Fox--Zhao](https://arxiv.org/abs/1307.4679))
 - **3/5** Second moment method: distinct sums, Weierstrass approximation theorem. Chernoff bound.
-- **3/7**
+- **3/7** Local lemma: ...
 - **3/12**
 - **3/14**
 
@@ -49,8 +49,8 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 | Problem set | Due date  | Problems
 |:---------------:|:-----------:|:-----------:|
 | PS 1 | Friday Feb 22 | 4, 5, 6, 7★, 9, 12, 13(a,b★), 15, 16★
-| PS 2 | Friday Mar 15
-| PS 3 | Friday Apr 5
+| PS 2 | Friday Mar 15 | 21, 22c, 23★, 24★, 26, 28, 30, 31★, 32★, 33★, 34★, 35, 36
+| PS 3 | Friday Apr 5 | 
 | PS 4 | Friday Apr 26
 | PS 5 | Thursday May 16
 
