@@ -39,8 +39,10 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/28** Second moment method: clique number, number of prime divisors (Hardy--Ramanujan, Erdős--Kac), multidimensional Szemerédi theorem in the primes (reference: [Fox--Zhao](https://arxiv.org/abs/1307.4679))
 - **3/5** Second moment method: distinct sums, Weierstrass approximation theorem. Chernoff bound: discrepancy
 - **3/7** Chernoff bound: Counterexample to Hajós conjecture. Local lemma: coloring hypergraphs
-- **3/12**
-- **3/14**
+- **3/12** Local lemma: proof and algorithm (reference: [Moser--Tardos](https://arxiv.org/abs/0903.0544))
+- **3/14** Local lemma: finding cycles, linear arboricity conjecture
+- **3/19**
+- **3/21**
 
 ## Homework
 
