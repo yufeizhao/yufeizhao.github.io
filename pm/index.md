@@ -41,7 +41,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **3/7** Chernoff bound: Counterexample to Hajós conjecture. Local lemma: coloring hypergraphs
 - **3/12** Local lemma: proof and algorithm (reference: [Moser--Tardos](https://arxiv.org/abs/0903.0544))
 - **3/14** Local lemma: finding cycles, linear arboricity conjecture
-- **3/19**
+- **3/19** Local lemma: lopsided LLL and Latin transversals
 - **3/21**
 
 ## Homework
