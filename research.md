@@ -19,7 +19,7 @@ and
 
 **Additive combinatorics**
 
-* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
 **Random matrices**
 
