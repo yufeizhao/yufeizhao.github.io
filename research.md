@@ -19,7 +19,7 @@ and
 
 **Additive combinatorics**
 
-* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) 
+* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
 **Random matrices**
 
@@ -93,29 +93,28 @@ and
   <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a> \\
   _International Mathematics Research Notices. IMRN_, to appear.
 
+**Independent sets and graph homomorphisms**
 
-  **Independent sets and graph homomorphisms**
+* <img class="side" alt="" height="60" src="doublecover.png" />
+  [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
+  _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
+  <a class="btn btn-secondary btn-sm" href="slides/indep_reg_poster.pdf">poster</a>
 
-  * <img class="side" alt="" height="60" src="doublecover.png" />
-    [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
-    _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
-    <a class="btn btn-secondary btn-sm" href="slides/indep_reg_poster.pdf">poster</a>
+* [The number of independent sets in a graph with small maximum degree](http://arxiv.org/abs/1007.4803)
+  (with David Galvin) \\
+  _Graphs and Combinatorics_ 27 (2011), 177--186.
 
-  * [The number of independent sets in a graph with small maximum degree](http://arxiv.org/abs/1007.4803)
-    (with David Galvin) \\
-    _Graphs and Combinatorics_ 27 (2011), 177--186.
+* [The bipartite swapping trick on graph homomorphisms](http://arxiv.org/abs/1104.3704) \\
+  _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
+  <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
 
-  * [The bipartite swapping trick on graph homomorphisms](http://arxiv.org/abs/1104.3704) \\
-    _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
-    <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
+* <img class="side" alt="" height="100" src="reverse_sidorenko.png"/>
+  [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
+  _Journal of Combinatorial Theory Series B_, to appear.
+  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
+  <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
 
-  * <img class="side" alt="" height="100" src="reverse_sidorenko.png"/>
-    [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
-    _Journal of Combinatorial Theory Series B_, to appear.
-    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
-    <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
-
-  * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a> <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a> <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
 
 **Graph limits**
