@@ -6,7 +6,7 @@ description: Yufei Zhao's research papers
 
 # Research
 
-\| [Research papers](#research) \| [Expositions and surveys](#expositions-and-surveys) \|
+\| [**Research papers**](#research) \| [**Expositions and surveys**](#expositions-and-surveys) \|
 
 My papers are also listed on
 [arXiv](http://arxiv.org/a/zhao_y_1),
@@ -18,7 +18,7 @@ and
 
 
 **Additive combinatorics**
-
+<img class="side" alt="" height="50" src="triforce.svg" />
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
 **Random matrices**
@@ -52,9 +52,8 @@ and
 **The Green-Tao theorem and a relative Szemerédi theorem**
 <a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
 <a class="btn btn-secondary btn-sm" href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03">video</a>
-
-* <img class="side" alt="" height="100" src="relative-szemeredi.png" width="109" />
-  [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
+<img class="side" alt="" height="100" src="relative-szemeredi.png" width="109" />
+* [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
   _Geometric and Functional Analysis_ 25 (2015), 733--762. \\
   Companion note: [Linear forms from the Gowers uniformity norm](http://arxiv.org/abs/1305.5565)
@@ -108,13 +107,16 @@ and
   _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
   <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
 
-* <img class="side" alt="" height="100" src="reverse_sidorenko.png"/>
-  [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
+<img class="side" alt="" height="70" src="indep_irreg.png"/>
+* [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
   _Journal of Combinatorial Theory Series B_, to appear.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
   <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
 
-* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a> <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
+<img class="side" alt="" height="70" src="reverse_sidorenko.png"/>
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+  <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a>
+  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
 
 **Graph limits**
