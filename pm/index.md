@@ -40,9 +40,12 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **3/5** Second moment method: distinct sums, Weierstrass approximation theorem. Chernoff bound: discrepancy
 - **3/7** Chernoff bound: Counterexample to Hajós conjecture. Local lemma: coloring hypergraphs
 - **3/12** Local lemma: proof and algorithm (reference: [Moser--Tardos](https://arxiv.org/abs/0903.0544))
-- **3/14** Local lemma: finding cycles, linear arboricity conjecture
-- **3/19** Local lemma: lopsided LLL and Latin transversals
-- **3/21**
+- **3/14** Local lemma: large independent sets with structure, directed cycles of lengths divisible by k, linear arboricity conjecture
+- **3/19** Local lemma: linear arboricity conjecture lopsided LLL
+- **3/21** Local lemma: Latin transversals. Correlation inequalities: Harris-FKG inequality
+- **3/26,28** _No lectures (MIT Spring break)_
+- **4/2**
+- **4/4**
 
 ## Homework
 
