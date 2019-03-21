@@ -55,7 +55,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 |:---------------:|:-----------:|:-----------|
 | PS 1 | Friday Feb 22 | 4, 5, 6, 7★, 9, 12, 13(a,b★), 15, 16★
 | PS 2 | Friday Mar 15 | 21, 22c, 23★, 24★, 26, 28, 30, 31★, 32★, 33★, 34★, 35, 36
-| PS 3 | Friday Apr 5 |
+| PS 3 | Friday Apr 5 | 40, 41, 43, 44★, 45, 46, 47, 48★, 49★, 52(a,b★), 53★, 54(c)★
 | PS 4 | Friday Apr 26
 | PS 5 | Thursday May 16
 
