@@ -46,8 +46,10 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **3/19** Local lemma: linear arboricity conjecture lopsided LLL
 - **3/21** Local lemma: Latin transversals. Correlation inequalities: Harris-FKG inequality
 - **3/26,28** _No lectures (MIT Spring break)_
-- **4/2**
-- **4/4**
+- **4/2** Janson's inequalities: statement and proof, probability that a random graph is triangle-free
+- **4/4** Janson's inequalities
+- **4/9**
+- **4/11**
 
 ## Homework
 
