@@ -48,7 +48,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **3/26,28** _No lectures (MIT Spring break)_
 - **4/2** Janson's inequalities: statement and proof, probability that a random graph is triangle-free
 - **4/4** Janson's inequalities: lower tail, chromatic number of $G(n,1/2)$
-- **4/9**
+- **4/9** Martingale concentration: Azuma's inequality
 - **4/11**
 
 ## Homework
