@@ -37,7 +37,8 @@ and
   _Combinatorics, Probability and Computing_, to appear.
 
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a>
+  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
+  _Discrete Analysis_ 2019:3, 14 pp.
 
 
 **Cayley graphs**
