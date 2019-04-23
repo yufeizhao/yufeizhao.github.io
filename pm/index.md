@@ -52,10 +52,10 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **4/11** Martingale concentration: 4-point concentration of chromatic number of sparse random graphs, application to clique number of random graph
 - **4/16** _No lecture (Patriot's day vacation)_
 - **4/18** _Class canceled_
-- **4/23** Concentration of measure, Talagrand inequality
-- **4/25** 
-- **4/30**
-- **5/2**
+- **4/23** Concentration of measure, Johnson-Lindenstrauss Lemma
+- **4/25** Talagrand inequality
+- **4/30** Entropy method
+- **5/2** Entropy method 
 - **5/7**
 - **5/9**
 - **5/14**
