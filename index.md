@@ -46,6 +46,11 @@ Combinatorics, discrete mathematics, graph theory
 
 * [18.218 Probabilistic Method in Combinatorics](pm/) (grad)
 
+**Upcoming**:
+
+* 18.217 Graph Theory and Additive Combinatorics (grad), Fall 2019
+* 18.212 Algebraic Combinatorics, Spring 2020
+
 **Previous**
 
 * [18.211 Combinatorial Analysis](211/), Fall 2018
