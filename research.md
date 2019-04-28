@@ -148,6 +148,9 @@ and
   (with Henry Cohn) \\
   _IEEE Transactions on Information Theory_ 60 (2014), 7442--7450.
 
+* [Exponential improvements for superball packing upper bounds](https://arxiv.org/abs/1904.11462)
+  (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+
 **Extremal and Ramsey graph theory**
 
 * [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
