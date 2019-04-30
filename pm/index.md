@@ -53,9 +53,9 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **4/16** _No lecture (Patriot's day vacation)_
 - **4/18** _Class canceled_
 - **4/23** Concentration of measure, Johnson--Lindenstrauss Lemma
-- **4/25** Talagrand inequality
-- **4/30** Entropy method
-- **5/2** Entropy method 
+- **4/25** Talagrand inequality: concentration of convex Lipschitz functions, convex distance, top eigenvalue of a random graph
+- **4/30** Talagrand inequality: certifiable functions, longest increasing subsequence of a random permutation. Entropy method
+- **5/2** Entropy method
 - **5/7**
 - **5/9**
 - **5/14**
