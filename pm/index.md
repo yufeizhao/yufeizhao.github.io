@@ -72,7 +72,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 | PS 2 | Friday Mar 15 | 21, 22c, 23★, 24★, 26, 28, 30, 31★, 32★, 33★, 34★, 35, 36
 | PS 3 | Friday Apr 5 | 40, 41, 43, 44★, 45, 46, 47, 48★, 49★, 52(a,b★), 53★, 54(c)★
 | PS 4 | Friday Apr 26 | 55, 56, 57(a,b★), 58, 59, 60★, 61, 63(a,b★), 64★, 65, 66★
-| PS 5 | Thursday May 16
+| PS 5 | Thursday May 16 | 67--70, (71--75)★, 76, 77★, 80★, 81, 82★, 83★
 
 You are encouraged to submit interesting problem proposals that may be suitable to be included as homework problems for the course (either your own creation or a problem you've seen somewhere else). [Please submit problem suggestions here](https://goo.gl/forms/2oqrqw0UNyz5oHeH2).
 
