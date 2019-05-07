@@ -57,7 +57,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **4/30** Talagrand inequality: certifiable functions, longest increasing subsequence of a random permutation. Entropy method
 - **5/2** Entropy method: coin-weighing, Bregman's theorem, Shearer's inequality, triangle-intersecting families
 - **5/7** Entropy method: the number of independent sets in a regular graph, Sidorenko's conjecture for trees
-- **5/9**
+- **5/9** Occupancy method 
 - **5/14**
 - **5/16**
 
