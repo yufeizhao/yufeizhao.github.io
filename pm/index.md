@@ -37,7 +37,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **2/14** Linearity of expectations: deterministically balancing vectors, unbalancing lights, dense sphere packings in high dimensions (reference: [Venkatesh](http://math.stanford.edu/~akshay/research/sp.pdf))
 - **2/19** _No lecture (MIT Monday schedule)_
 - **2/21** Alteration method: dominating sets, Heilbronn triangle problem, high girth and high chromatic number, random greedy coloring (2-coloring hypergraphs)
-- **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph[]
+- **2/26** Second moment method: concentration and thresholds for subgraphs in a random graph
 - **2/28** Second moment method: clique number, number of prime divisors (Hardy--Ramanujan, Erdős--Kac), multidimensional Szemerédi theorem in the primes (reference: [Fox--Zhao](https://arxiv.org/abs/1307.4679))
 - **3/5** Second moment method: distinct sums, Weierstrass approximation theorem. Chernoff bound: discrepancy
 - **3/7** Chernoff bound: Counterexample to Hajós conjecture. Local lemma: coloring hypergraphs
@@ -56,7 +56,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **4/25** Talagrand inequality: concentration of convex Lipschitz functions, convex distance, top eigenvalue of a random graph
 - **4/30** Talagrand inequality: certifiable functions, longest increasing subsequence of a random permutation. Entropy method
 - **5/2** Entropy method: coin-weighing, Bregman's theorem, Shearer's inequality, triangle-intersecting families
-- **5/7**
+- **5/7** Entropy method: the number of independent sets in a regular graph, Sidorenko's conjecture for trees
 - **5/9**
 - **5/14**
 - **5/16**
