@@ -53,11 +53,11 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **4/16** _No lecture (Patriot's day vacation)_
 - **4/18** _Class canceled_
 - **4/23** Concentration of measure, Johnson--Lindenstrauss Lemma
-- **4/25** Talagrand inequality: concentration of convex Lipschitz functions, convex distance, top eigenvalue of a random graph
+- **4/25** Talagrand inequality: concentration of convex Lipschitz functions, convex distance, top eigenvalue of a random graph (reference: [Tao blog](https://terrytao.wordpress.com/2009/06/09/talagrands-concentration-inequality/))
 - **4/30** Talagrand inequality: certifiable functions, longest increasing subsequence of a random permutation. Entropy method
-- **5/2** Entropy method: coin-weighing, Bregman's theorem, Shearer's inequality, triangle-intersecting families
-- **5/7** Entropy method: the number of independent sets in a regular graph, Sidorenko's conjecture for trees
-- **5/9** Occupancy method 
+- **5/2** Entropy method: coin-weighing, Bregman's theorem, Shearer's inequality, triangle-intersecting families (references for entropy method: [Galvin](https://arxiv.org/abs/1406.7872), [Radhakrishnan](http://www.tcs.tifr.res.in/~jaikumar/Papers/EntropyAndCounting.pdf) )
+- **5/7** Entropy method: the number of independent sets in a regular graph, Sidorenko's conjecture for trees (reference: [Gowers blog](https://gowers.wordpress.com/2015/11/18/entropy-and-sidorenkos-conjecture-after-szegedy/))
+- **5/9** Occupancy method
 - **5/14**
 - **5/16**
 
