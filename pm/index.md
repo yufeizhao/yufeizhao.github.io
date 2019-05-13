@@ -59,7 +59,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 - **5/7** Entropy method: the number of independent sets in a regular graph, Sidorenko's conjecture for trees (reference: [Gowers blog](https://gowers.wordpress.com/2015/11/18/entropy-and-sidorenkos-conjecture-after-szegedy/))
 - **5/9** More on Sidorenko's conjecture (reference: [MathOverflow](https://mathoverflow.net/questions/189222/cauchy-schwarz-proof-of-sidorenko-for-3-edge-path-blakley-roy-inequality)). Occupancy method: the number of independent sets in a regular graph (reference: [Davies--Jenssen--Perkins--Roberts](https://arxiv.org/abs/1508.04675), [Perkins lecture notes](http://willperkins.org/GibbsMeasuresCombinatorics.pdf))
 - **5/14** Occupancy method: further applications to independent sets and colorings
-- **5/16** Triangles and equations: a trailer for _18.218 Graph Theory and Additive Combinatorics_ this fall
+- **5/16** Triangles and equations: a trailer for _18.217 Graph Theory and Additive Combinatorics_ this fall
 
 
 ## Homework
