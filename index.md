@@ -37,6 +37,7 @@ Combinatorics, discrete mathematics, graph theory
 **Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
 **Current PhD students**:
+[Aaron Berger](https://web.mit.edu/bergera/www/),
 [Benjamin Gunby](http://www.math.harvard.edu/people/GunbyBenjamin.html),
 [Jonathan Tidor](https://math.mit.edu/directory/profile.php?pid=2037)
 
