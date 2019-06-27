@@ -4,7 +4,6 @@ title: Math Olympiad training handouts
 description: Yufei Zhao's notes on algebra, combinatorics, geometry, and number theory for math olympiad training
 ---
 
-
 # Math Olympiad training handouts
 
 - [Handouts from Canadian IMO Training camps](https://sites.google.com/site/imocanada/)

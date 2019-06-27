@@ -4,7 +4,6 @@ title: Yufei Zhao | MIT Mathematics
 description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics and discrete mathematics"
 ---
 
-
 <div class="row">
 <div class="col-md-6">
 <p>Class of 1956 Career Development Assistant Professor<br>
@@ -27,7 +26,6 @@ Cambridge, MA 02139, USA</p>
 </div>
 </div>
 
-
 ## Research areas
 
 Combinatorics, discrete mathematics, graph theory
@@ -43,10 +41,6 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Teaching
 
-**Current** (Spring 2019):
-
-* [18.218 Probabilistic Method in Combinatorics](pm/) (grad)
-
 **Upcoming**
 
 * 18.A34 Mathematical Problem Solving (Putnam Seminar), Fall 2019
@@ -55,6 +49,7 @@ Combinatorics, discrete mathematics, graph theory
 
 **Previous**
 
+* [18.218 Probabilistic Method in Combinatorics](pm/) (grad), Spring 2019
 * [18.211 Combinatorial Analysis](211/), Fall 2018
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2018
 * [18.S997 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2017
@@ -111,7 +106,6 @@ Combinatorics, discrete mathematics, graph theory
   <div id="neu-talk-may2018" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/watch?v=dwUz8c7siDU" allowfullscreen></iframe>
   </div>
-
 
 ## Short CV
 

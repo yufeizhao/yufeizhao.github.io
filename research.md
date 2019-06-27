@@ -16,7 +16,6 @@ and
 
 ## Research Papers
 
-
 **Directed graphs and tournaments**
 <img class="side" alt="" height="30" src="impartial.png"/>
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
