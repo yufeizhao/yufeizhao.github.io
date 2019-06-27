@@ -17,6 +17,10 @@ and
 ## Research Papers
 
 
+**Directed graphs and tournaments**
+
+* [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
+
 **Additive combinatorics**
 <img class="side" alt="" height="50" src="triforce.svg" />
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
