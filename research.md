@@ -115,7 +115,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 <img class="side" alt="" height="70" src="indep_irreg.png"/>
 * [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
-  _Journal of Combinatorial Theory Series B_, to appear.
+  _Journal of Combinatorial Theory Series B_ 138 (2019), 172--195.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
   <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
 
