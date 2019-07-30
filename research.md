@@ -16,6 +16,10 @@ and
 
 ## Research Papers
 
+**Equiangular lines**
+* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
+    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
+
 **Directed graphs and tournaments**
 <img class="side" alt="" height="30" src="impartial.png"/>
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)

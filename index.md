@@ -59,10 +59,9 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Selected publications
 
-* <img class="side" alt="" height="100" src="research/relative-szemeredi-thumb.png" width="109" />
-  [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
-  (with David Conlon and Jacob Fox) \\
-  _Geometric and Functional Analysis_ 25 (2015), 733--762.
+* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
+
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
 
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
@@ -72,11 +71,16 @@ Combinatorics, discrete mathematics, graph theory
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
   _Transactions of the American Mathematical Society_, to appear.
 
+* <img class="side" alt="" height="100" src="research/relative-szemeredi-thumb.png" width="109" />
+  [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
+  (with David Conlon and Jacob Fox) \\
+  _Geometric and Functional Analysis_ 25 (2015), 733--762.
+
 * [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
-* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+
 
 ## Slides
 
