@@ -39,11 +39,11 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
   (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_, 26 (2017), 481--505.
+  _Combinatorics, Probability and Computing_ 26 (2017), 481--505.
 
 * [A fast new algorithm for weak graph regularity](https://arxiv.org/abs/1801.05037)
   (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_, to appear.
+  _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
   (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
@@ -136,7 +136,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
-  _Transactions of the American Mathematical Society_, to appear.
+  _Transactions of the American Mathematical Society_ 372 (2019), 3019--3062.
 
 * [An $L^p$ theory of sparse graph convergence II: LD convergence, quotients, and right convergence](http://arxiv.org/abs/1408.0744)
   (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
