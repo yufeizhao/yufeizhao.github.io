@@ -46,13 +46,13 @@ _Subject to change. See homework policy below_
 | W 9/18 |   | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
 | W 9/25 |   | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
 | W 10/2 |   |   | M 10/7 | [\#5](ps/hw5.pdf)
-| W 10/9 |   |   | **W** 10/16 | [\#6](ps/hw6.pdf)
-|        |   |   | M 10/21 | [\#7](ps/hw7.pdf)
-| W 10/23 |   |   | M 10/28 | [\#8](ps/hw8.pdf)
-| W 10/30 |   |   | M 11/4 | [\#9](ps/hw9.pdf)
-| W 11/6 |   |   | **W** 11/13 | [\#10](ps/hw10.pdf)
-|        |   |   | M 11/18 | [\#11](ps/hw11.pdf)
-| W 11/20 |   |   | M 11/25 | 
+| W 10/9 |   |   | **W** 10/16 (due, no presentation) | 
+| W 10/16       |   |   | M 10/21 | [\#6](ps/hw6.pdf)
+| W 10/23 |   |   | M 10/28 | [\#7](ps/hw7.pdf)
+| W 10/30 |   |   | M 11/4 | [\#8](ps/hw8.pdf)
+| W 11/6 |   |   | **W** 11/13 | [\#9](ps/hw9.pdf)
+|        |   |   | M 11/18 | [\#10](ps/hw10.pdf)
+| W 11/20 |   |   | M 11/25 | [\#11](ps/hw11.pdf)
 | W 11/27 |   |   | | 
 
 
@@ -64,7 +64,7 @@ W 12/4: Students present solutions to [Putnam 2017 exam](https://kskedlaya.org/p
 
 M 12/9: Students present solutions to part A of Putnam 2019 exam
 
-M 12/11: Students present solutions to part B of Putnam 2019 exam
+W 12/11: Students present solutions to part B of Putnam 2019 exam
 
 ## Homework
 
