@@ -4,120 +4,106 @@ title: "18.S997 Graph Theory and Additive Combinatorics"
 description: "MIT Fall 2017. 18.S997 Special Subject: Graph Theory and Additive Combinatorics, taught by Yufei Zhao"
 ---
 
-18.S997 Graph Theory and Additive Combinatorics
+18.217 Graph Theory and Additive Combinatorics
 ===============================================
 
 <img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
-**Fall 2017, MIT**
+**Fall 2019, MIT**
 
-**Class time:** Tuesdays and Thursdays 9:30---11am
+**Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
-**Location:** 66-144 (**Room change!**)
+- **_Announcement_: The first lecture of 18.217 will be Monday Sept 9**. We will not meet on Wed Sept 4
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). Office hours by email appointment
+**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). 
+
+**Office hours:** Instead of scheduling regular office hours, the lecturer will be generally be available in the Math Common Room (2-290) after lectures to chat and answer questions. Please email for individual appointments. Special office hours may be set up before homework due dates according to demand.
+
+Please include "18.217" in the subject line of your emails.
+
 
 ## Course description
 
-The course examines classical and modern developments in graph theory and additive combinatorics, with a focus on topics that connect the two subjects. Topics include: extremal graph theory, Szemerédi's regularity lemma and applications, pseudorandom graphs, graph limits, Roth's theorem and Szemerédi's theorem on arithmetic progressions, Gowers uniformity norms, and the Green-Tao theorem. The course also introduces students to current research topics and open problems.
+The course examines classical and modern developments in graph theory and additive combinatorics, with a focus on topics and themes that connect the two subjects. The course also introduces students to current research topics and open problems.
 
-Here is a taste of some of the topics discussed in the course (time-permitting).
+One of the foundational results in additive combinatorics is **Roth's theorem**, which says that every subset of {1, 2, ..., _n_} without a 3-term arithmetic progression contains a _o_(_N_) elements. This is an intricate result that is still not completely understood. We will see a couple of different proofs of Roth's theorem: (1) a graph theoretic approach and (2) Roth's original Fourier analytic approach. A central idea in both approaches is the **dichotomy of structure versus pseudorandomness**. 
 
-- **Extremal graph theory.** What is the maximum number of edges in a triangle-free graph on $n$ vertices? What if instead we forbid cycles of length 4? At most how many edges can an $n$-vertex graph have if every edge is contained in exactly one triangle?
-- **Szemerédi's regularity lemma**---a powerful tool in combinatorics that provides an approximate description/decomposition for every large graph.
+Roth's theorem laid the groundwork for many important later results, e.g.,
+- **Szemerédi's theorem.** Every set of integers of positive density contains arbitrarily long arithmetic progressions;
+- **Green--Tao theorem.** The primes contain arbitrarily long arithmetic progressions.
+
+The course will explore these and related topics, including:
+
+- **Extremal graph theory.** What is the maximum number of edges in a triangle-free graph on _n_ vertices? What if instead we forbid cycles of length 4? At most how many edges can an _n_-vertex graph have if every edge is contained in exactly one triangle?
+- **Szemerédi's regularity lemma.** A powerful tool in combinatorics that provides an approximate description/decomposition for every large graph.
 - **Pseudorandom graphs.** What does it mean for some graph to resemble a random graph?
 - **Graph limits.** In what sense can a sequence of graphs, increasing in size, converge to some limit object?
-- **Roth's theorem.** Every subset of $\\{1, 2, \dots, n\\}$ without a 3-term arithmetic progression contains $o(N)$ elements. And more generally ...
-- **Szemerédi's theorem.** Every set of integers of positive density contains arbitrarily long arithmetic progressions.
-- **Green--Tao theorem.** The primes contain arbitrarily long arithmetic progressions.
-- **Freiman's theorem and the structure of sum sets.** What can one say about sets $A$ such that $A + A = \\{a + a' : a,a' \in A\\}$ is not too large?
-- **Sum-product phenomenon.** A set $A$ cannot simultaneously have $A + A$ and $A \cdot A = \\{a a' : a,a'\in A\\}$ both small in size.
+- **Fourier analysis in additive combinatorics.** An important technique for studying combinatorial properties in arithmetic settings, e.g., in the proof of Roth's theorem. 
+- **Freiman's theorem and the structure of sum sets.** What can one say about sets _A_ such that the sum set $A + A = \\{a + a' : a,a' \in A\\}$ is not too large?
+- **Sum-product phenomenon.** Can a set $A$ simultaneously have both small sum set $A + A$ and product set $A \cdot A$?
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
 **Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
 
-## [Course notes](gtac.pdf)
+**Grading.** The final grade will be determined by the _minimum_ of the student's performance in the two categories
+- **Problem sets**
+- **Writing assignments**, consisting of (1) course notes and (2) Wikipedia contributions.
 
-Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
+There will be no exams. For borderline grades, participation may play a factor in determining the final grade. In addition, there will be a list open problems for which any significant progress/resolution may, at the discretion of the instructor, result in a grading bonus, overriding the above grading criteria.
 
-Everyone should contribute to editing the notes.
-
-[Piazza forum](https://piazza.com/mit/fall2017/18s997) can be used for discussions of the notes, e.g., edit requests.
-
-More instructions are found in the "About this document" section of the notes.
-
-
-
-## Grading
-
-- 30% Lecture notes writing and editing  
-- 70% Problem sets
-- There will be no exams
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 
+
+## Course notes
+
+Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement). We will use Overleaf. 
+
+Everyone is encouraged to contribute to editing the notes.
+
+[Notes from the previous version of the course](fa17/gtac.pdf). They may be consulted but not copied when writing the new course notes.
+
+_More information to come later_
+
+
 ## Lectures
 
-- **Lecture 1** (9/7) Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of developments in additive combinatorics
-- **Lecture 2** (9/12) Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
-- **Lecture 3** (9/14) Proof of Erdős--Stone--Simonovits theorem. Kővári-–Sós–-Turán theorem
-- **Lecture 4** (9/19) Constructions of $K_{s,t}$-free graphs
-- **Lecture 5** (9/21) Excluding bounded degree bipartite graphs. Dependent random choice. Statement of Szemerédi's regularity lemma
-- **Lecture 6** (9/26) Proof of Szemerédi's regularity lemma. Triangle counting lemma. Triangle removal lemma
-- **Lecture 7** (9/28) Property testing. Graph theoretic proof of Roth's theorem. Behrend's construction of 3-AP-free set
-- **Lecture 8** (10/3) Corners. General graph embedding and counting lemmas
-- **Lecture 9** (10/5) Regularity proof of Erdős--Stone--Simonovits theorem. Deducing Szemerédi's theorem from the hypergraph removal lemma. Expander mixing lemma
-- **Lecture 10** (10/12) Cayley graphs. Fourier analysis on finite abelian groups
-- **Lecture 11** (10/17) Quasirandom graphs
-- **Lecture 12** (10/19) Quasirandom Cayley graphs. Introduction to graph limits
-- **Lecture 13** (10/24) Graph limits: statement of main results (equivalence, limit, compactness), counting lemma, statement of weak regularity lemma
-- **Lecture 14** (10/26) Graph limits: proof of weak regularity lemma, martingale convergence theorem, compactness of the space of graphons
-- **Lecture 15** (10/31) Comments on problem set 2. Graph limits: applications of compactness, strong regularity lemma
-- **Lecture 16** (11/2)  Equivalence of convergence. Edge vs. triangle densities. Linear inequalities between clique densities. Razborov's theorem (without proof)
-- **Lecture 17** (11/7) More on extremal graph theory. History of Roth's theorem. Fourier analytic proof of Roth's theorem for $\mathbb{F}_3^n$
-- **Lecture 18** (11/9) Roth's proof of Roth's theorem
-- **Lecture 19** (11/14) Polynomial method proof of Roth's theorem in $\mathbb{F}_3^n$. Statement of Freiman's theorem
-- **Lecture 20** (11/16) Ruzsa triangle inequality, Plünnecke--Ruzsa inequality, Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent
-- **Lecture 21** (11/21) Freiman homomorphisms, Ruzsa's model lemma, statement of Bogolyubov's lemma
-- **Lecture 22** (11/28) Bogolyubov's lemma, geometry of numbers
-- **Lecture 23** (11/30) Proof of Minkowski's second theorem, proof of Freiman's theorem
-- **Lecture 24** (12/5) Polynomial Freiman--Ruzsa conjecture. Balog--Szemerédi--Gowers theorem
-- **Lecture 25** (12/7) Proof of graph BSG. Sum-product problem, crossing number inequality
-- **Lecture 26** (12/12) Szemerédi--Trotter theorem, Elekes' proof of sum-product. Solymosi's proof of sum-product
+- **L1 (9/9)** Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of Szemerédi's theorem and related results
+
 
 
 ## Homework
 
-[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa17/18.S997/)
 
-_Submissions._ All homework submissions should be typed in LaTeX and submitted on [Stellar](http://stellar.mit.edu/S/course/18/fa17/18.S997/).
+**Problem set** (coming soon): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems.
 
-_Late policy._ Submissions are due on Stellar by midnight of each due date. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
+_Due dates to be posted soon_
 
-_Sources._ At the top of each assignment, you must write either "**Sources consulted: none**" or a list of all sources consulted other than the course notes. Examples include: names of people you discussed homework with, books, other notes (including the ones listed in the references below), Wikipedia and other websites.
+[Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa19/18.217/) -- primarily used for submitting and returning homework
 
-You should not look up solutions to homework problems online (or offline).
+_Submissions._ All homework submissions should be typed in LaTeX and submitted as PDF on [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). To make the grader's job easier, please name your file `ps#_Lastname_Firstname.pdf` (replace # by problem set number, and the rest by your name). Remember to include your name at the top of your submission.
 
-_Collaboration policy._ You are allowed and encouraged to collaborate, but everyone must write their solutions individually and acknowledge their collaborators.
+_Late policy._ Submissions are due on Stellar by **midnight of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
 
-The problem sets, below, will be updated with new problems after each lecture, up to until about a week before the due date. It is a good idea to start early and pace accordingly.
+_Sources._ **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.). Write `sources consulted: none` even if no sources are consulted. **Failure acknowledge sources will lead to an automatic 10% penalty**. You may not look up solutions to homework problems online or offline. 
 
-
-| Problem set | Due date (♣ tentative) |
-|:---------------:|:-----------:|
-| [Problem set 1](ps1.pdf) | Friday Sept 29
-| [Problem set 2](ps2.pdf) | Friday Oct 27
-| [Problem set 3](ps3.pdf) | Tuesday Nov 21
-| [Problem set 4](ps4.pdf) | Tuesday Dec 12
+_Collaboration policy._ You are strongly encouraged to start early and first work on the problems on your own. Reasonable collaboration is permitted, but everyone must write their solutions individually and acknowledge their collaborators.
 
 
+## Wikipedia contributions
+
+You are expected to contribute to Wikipedia by creating or significantly improving an article on a topic related to the course. You may do this in collaboration with another student. Quality matters more than quantity, and a general rule of thumb is that each person should have contributions roughly amounting to one high quality article. More information to come later.
+
+## Open problems
+
+There will be a list of open problems related to the topic of the course. You are encouraged to talk to Prof. Zhao if one of these problems interests you. Any major progress/resolution of one of the open problems (e.g., leading to a significant and publishable result) would be quite exciting, and could, among other things, result in an automatic A+ grade at the instructor's discretion.
 
 ## References
 
-The content of the course will primarily be drawn from several sources listed below. The books have been placed on reserve at Hayden Library.
+Additional references for material covered in the course
 
 **Extremal graph theory**
 
@@ -135,3 +121,6 @@ The content of the course will primarily be drawn from several sources listed be
 - Ben Green's notes on [additive combinatorics](http://people.maths.ox.ac.uk/greenbj/notes.html)
 - K. Soundararajan's notes on [additive combinatorics](http://math.stanford.edu/~ksound/Notes.pdf)
 - Tao and Vu, [Additive Combinatorics](https://www.amazon.com/gp/product/0521136563/)
+
+
+**Previous version of the course** [Fall 2017](fa17/)

@@ -7,7 +7,7 @@ description: "MIT Fall 2017. 18.A34 Mathematical Problem Solving (Putnam Seminar
 18.A34 Mathematical Problem Solving (Putnam Seminar)
 ====================================================
 
-**Fall 2017, MIT**
+**Fall 2017, MIT** ([Link to the most current version of the course](..))
 
 **Meetings:** Tuesdays and Thursdays 11am--noon in 2-135
 
