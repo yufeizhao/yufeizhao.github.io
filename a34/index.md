@@ -46,7 +46,7 @@ _Subject to change. See homework policy below_
 | W 9/18 |   | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
 | W 9/25 |   | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
 | W 10/2 |   |   | M 10/7 | [\#5](ps/hw5.pdf)
-| W 10/9 |   |   | **W** 10/16 (due, no presentation) | 
+| W 10/9 |   |   | **W** 10/16 (HW due, no presentations) | 
 | W 10/16       |   |   | M 10/21 | [\#6](ps/hw6.pdf)
 | W 10/23 |   |   | M 10/28 | [\#7](ps/hw7.pdf)
 | W 10/30 |   |   | M 11/4 | [\#8](ps/hw8.pdf)

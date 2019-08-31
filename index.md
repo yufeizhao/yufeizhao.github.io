@@ -42,7 +42,7 @@ Combinatorics, discrete mathematics, graph theory
 ## Teaching
 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2019
-* [18.217 Graph Theory and Additive Combinatorics (grad)](gtac/), Fall 2019
+* [18.217 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2019
 
 **Upcoming**
 

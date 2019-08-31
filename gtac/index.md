@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "18.S997 Graph Theory and Additive Combinatorics"
-description: "MIT Fall 2017. 18.S997 Special Subject: Graph Theory and Additive Combinatorics, taught by Yufei Zhao"
+title: "18.217 Graph Theory and Additive Combinatorics"
+description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by Prof. Yufei Zhao"
 ---
 
 18.217 Graph Theory and Additive Combinatorics
@@ -27,9 +27,9 @@ Please include "18.217" in the subject line of your emails.
 
 The course examines classical and modern developments in graph theory and additive combinatorics, with a focus on topics and themes that connect the two subjects. The course also introduces students to current research topics and open problems.
 
-One of the foundational results in additive combinatorics is **Roth's theorem**, which says that every subset of {1, 2, ..., _n_} without a 3-term arithmetic progression contains a _o_(_N_) elements. This is an intricate result that is still not completely understood. We will see a couple of different proofs of Roth's theorem: (1) a graph theoretic approach and (2) Roth's original Fourier analytic approach. A central idea in both approaches is the **dichotomy of structure versus pseudorandomness**. 
+A foundational result in additive combinatorics is **Roth's theorem**, which says that every subset of {1, 2, ..., _n_} without a 3-term arithmetic progression contains _o_(_N_) elements. We will see a couple of different proofs of Roth's theorem: (1) a graph theoretic approach and (2) Roth's original Fourier analytic approach. A central idea in both approaches is the **dichotomy of structure versus pseudorandomness**, and it is one of the key themes of the course.
 
-Roth's theorem laid the groundwork for many important later results, e.g.,
+Roth's theorem laid the groundwork for many important later developments, e.g.,
 - **Szemerédi's theorem.** Every set of integers of positive density contains arbitrarily long arithmetic progressions;
 - **Green--Tao theorem.** The primes contain arbitrarily long arithmetic progressions.
 
@@ -40,29 +40,26 @@ The course will explore these and related topics, including:
 - **Pseudorandom graphs.** What does it mean for some graph to resemble a random graph?
 - **Graph limits.** In what sense can a sequence of graphs, increasing in size, converge to some limit object?
 - **Fourier analysis in additive combinatorics.** An important technique for studying combinatorial properties in arithmetic settings, e.g., in the proof of Roth's theorem. 
-- **Freiman's theorem and the structure of sum sets.** What can one say about sets _A_ such that the sum set $A + A = \\{a + a' : a,a' \in A\\}$ is not too large?
+- **Freiman's theorem and the structure of sum sets.** What can one say about sets _A_ such that the sum set $A + A = \\{a + a' : a,a' \in A\\}$ is small?
 - **Sum-product phenomenon.** Can a set $A$ simultaneously have both small sum set $A + A$ and product set $A \cdot A$?
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
 **Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
-
-**Grading.** The final grade will be determined by the _minimum_ of the student's performance in the two categories
+**Grading.** The final grade will be determined by the _minimum_ of the student's performance in the two categories:
 - **Problem sets**
 - **Writing assignments**, consisting of (1) course notes and (2) Wikipedia contributions.
 
 There will be no exams. For borderline grades, participation may play a factor in determining the final grade. In addition, there will be a list open problems for which any significant progress/resolution may, at the discretion of the instructor, result in a grading bonus, overriding the above grading criteria.
 
-
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
-
 
 ## Course notes
 
-Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement). We will use Overleaf. 
+Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with others, depending on course enrollement). We will use Overleaf. 
 
-Everyone is encouraged to contribute to editing the notes.
+Everyone is encouraged and expected to contribute to editing the notes.
 
 [Notes from the previous version of the course](fa17/gtac.pdf). They may be consulted but not copied when writing the new course notes.
 
@@ -71,7 +68,7 @@ _More information to come later_
 
 ## Lectures
 
-- **L1 (9/9)** Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of Szemerédi's theorem and related results
+- **9/9** Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of Szemerédi's theorem and related results
 
 
 
@@ -120,6 +117,7 @@ Additional references for material covered in the course
 
 - Ben Green's notes on [additive combinatorics](http://people.maths.ox.ac.uk/greenbj/notes.html)
 - K. Soundararajan's notes on [additive combinatorics](http://math.stanford.edu/~ksound/Notes.pdf)
+- Adam Sheffer's notes on [additive combinatorics](https://adamsheffer.wordpress.com/pdf-files/)
 - Tao and Vu, [Additive Combinatorics](https://www.amazon.com/gp/product/0521136563/)
 
 
