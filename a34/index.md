@@ -41,7 +41,7 @@ _Subject to change. See homework policy below_
 
 | Lecture date  |   Topic    |  Lecturer  |  HW due & presentations | Supplementary set |
 |---------------|------------|------------------|-------------------------------|------------------------|
-| W 9/4  |   | Evan Chen   | M 9/9 | [\#1](ps/hw1.pdf)
+| W 9/4  | [Probability](ps/probability.pdf) | Evan Chen   | M 9/9 | [\#1](ps/hw1.pdf)
 | W 9/11 |   | Yufei Zhao  | M 9/16 | [\#2](ps/hw2.pdf)
 | W 9/18 |   | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
 | W 9/25 |   | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
