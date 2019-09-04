@@ -48,7 +48,7 @@ Although the course will be largely divided into two parts (graph theory in the 
 **Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
 **Grading.** The final grade will be determined by the _minimum_ of the student's performance in the two categories:
-- **Problem sets**
+- **Problem sets**, 4~6 problem sets
 - **Writing assignments**, consisting of (1) course notes and (2) Wikipedia contributions.
 
 There will be no exams. For borderline grades, participation may play a factor in determining the final grade. In addition, there will be a list open problems for which any significant progress/resolution may, at the discretion of the instructor, result in a grading bonus, overriding the above grading criteria.
