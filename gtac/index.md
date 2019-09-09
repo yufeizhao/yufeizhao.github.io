@@ -57,13 +57,20 @@ There will be no exams. For borderline grades, participation may play a factor i
 
 ## Course notes
 
-Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with others, depending on course enrollement). We will use Overleaf. 
+[Read-only link to course notes on Overleaf](https://www.overleaf.com/read/whkmmygpxqcm)
+
+Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
+
+Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement).
+
+Please see the beginning of the document for important information regarding this writing assignment. In particular, the students responsible for writing up a lecture should:
+
+- By the end of the day after the lecture, produce a very rough draft that that should, at the minimum, include theorem statements and sketches of proofs discussed in lecture.
+- Within four days of the lecture, complete a polished version of the notes and email the instructor to set up a 30-min appointment to go over the writing.
 
 Everyone is encouraged and expected to contribute to editing the notes.
 
 [Notes from the previous version of the course](fa17/gtac.pdf). They may be consulted but not copied when writing the new course notes.
-
-_More information to come later_
 
 
 ## Lectures
@@ -75,15 +82,22 @@ _More information to come later_
 ## Homework
 
 
-**Problem set** (coming soon): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems.
+**Problem set** (coming soon): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by 11:59pm of each due date. You should only submit the designated problems.
 
-_Due dates to be posted soon_
+| Problem set | Due date (♣ tentative) | 
+|:---------------:|:-----------:|
+| PS 1 | Sunday September 29 ♣ | 
+| PS 2 | Sunday October 13 ♣ | 
+| PS 3 | Sunday October 27 ♣ | 
+| PS 4 | Sunday November 10 ♣ |
+| PS 5 | Sunday November 24 ♣ |
+| PS 6 | Wednesday December 11  ♣ |
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa19/18.217/) -- primarily used for submitting and returning homework
 
 _Submissions._ All homework submissions should be typed in LaTeX and submitted as PDF on [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). To make the grader's job easier, please name your file `ps#_Lastname_Firstname.pdf` (replace # by problem set number, and the rest by your name). Remember to include your name at the top of your submission.
 
-_Late policy._ Submissions are due on Stellar by **midnight of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
+_Late policy._ Submissions are due on Stellar by **11:59pm of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
 
 _Sources._ **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.). Write `sources consulted: none` even if no sources are consulted. **Failure acknowledge sources will lead to an automatic 10% penalty**. You may not look up solutions to homework problems online or offline. 
 
