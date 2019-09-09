@@ -59,7 +59,7 @@ There will be no exams. For borderline grades, participation may play a factor i
 
 [Read-only link to course notes on Overleaf](https://www.overleaf.com/read/gykfrmhpwbzm)
 
-Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
+Registered students may access the write-enabled link to the course notes from the email sent (not yet sent) to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
 
 Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement).
 
