@@ -12,9 +12,12 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 
 **Fall 2019, MIT**
 
-**Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
+_Quick links_:
+[\[Homework\]](ps.pdf)
+[\[Lecture notes\]](https://www.overleaf.com/read/gykfrmhpwbzm)
+[\[Stellar\]](http://stellar.mit.edu/S/course/18/fa19/18.217/)
 
-- **_Announcement_: The first lecture of 18.217 will be Monday Sept 9**. We will not meet on Wed Sept 4
+**Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
 **Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). 
 
@@ -59,7 +62,7 @@ There will be no exams. For borderline grades, participation may play a factor i
 
 [Read-only link to course notes on Overleaf](https://www.overleaf.com/read/gykfrmhpwbzm)
 
-Registered students may access the write-enabled link to the course notes from the email sent (not yet sent) to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
+Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
 
 Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement).
 
@@ -82,7 +85,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 ## Homework
 
 
-**Problem set** (coming soon): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by 11:59pm of each due date. You should only submit the designated problems.
+[**Problem set**](ps.pdf): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by 11:59pm of each due date. You should only submit the designated problems.
 
 | Problem set | Due date (♣ tentative) | 
 |:---------------:|:-----------:|
@@ -95,9 +98,9 @@ Everyone is encouraged and expected to contribute to editing the notes.
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa19/18.217/) -- primarily used for submitting and returning homework
 
-_Submissions._ All homework submissions should be typed in LaTeX and submitted as PDF on [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). To make the grader's job easier, please name your file `ps#_Lastname_Firstname.pdf` (replace # by problem set number, and the rest by your name). Remember to include your name at the top of your submission.
+_Submissions._ All homework submissions should be typed in LaTeX and submitted as PDF on [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). To make the grader's job easier, please name your file `ps#_Lastname_Firstname.pdf` (replace # by problem set number, and the rest by your name). Remember to include your name at the top of your submission. [Suggested LaTeX template for homework submissions.](https://www.overleaf.com/read/tczmqrrzbrnd)
 
-_Late policy._ Submissions are due on Stellar by **11:59pm of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Friday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Sunday.
+_Late policy._ Submissions are due on Stellar by **11:59pm of each due date**. Late submissions will be penalized by 20% per each late day. For example, for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth $0.6x$ points if submitted on Tuesday.
 
 _Sources._ **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.). Write `sources consulted: none` even if no sources are consulted. **Failure acknowledge sources will lead to an automatic 10% penalty**. You may not look up solutions to homework problems online or offline. 
 
