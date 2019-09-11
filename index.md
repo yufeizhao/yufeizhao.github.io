@@ -88,25 +88,34 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Videos
 
-* <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-dec2013').toggle('fast');">
-  Green-Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
-  <div id="simons-talk-dec2013" style="display:none" class="videoWrapper">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/vsFFjhYLVrM" allowfullscreen></iframe>
+* <a href="javascript:void(0);" target="_self" onclick="$('#birs-talk-sep2019').toggle('fast');">
+  Equiangular lines with a fixed angle</a>, Banff International Research Station, September 2019
+  <div id="birs-talk-sep2019" style="display:none" class="videoWrapper">
+  <iframe src="http://www.birs.ca/events/2019/5-day-workshops/19w5009/videos/embed/201909021422-Zhao.mp4" width="832"  height="480" frameborder="0"  scrolling="auto" itemprop="video"></iframe>
   </div>
-* <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-jan2017').toggle('fast');">
-  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, January 2017
-  <div id="simons-talk-jan2017" style="display:none" class="videoWrapper">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/ZXLtAj4eL0c" allowfullscreen></iframe>
+
+* <a href="javascript:void(0);" target="_self" onclick="$('#neu-talk-may2018').toggle('fast');">
+  Large Deviations and Exponential Random Graphs</a>, Northeastern University Network Science Institute, May 2018
+  <div id="neu-talk-may2018" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/dwUz8c7siDU" allowfullscreen></iframe>
   </div>
+
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-apr2017').toggle('fast');">
   Large deviations for arithmetic progressions</a>, Simons Institute, Berkeley, April 2017
   <div id="simons-talk-apr2017" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/G9AJHUAz33o" allowfullscreen></iframe>
   </div>
-* <a href="javascript:void(0);" target="_self" onclick="$('#neu-talk-may2018').toggle('fast');">
-  Large Deviations and Exponential Random Graphs</a>, Northeastern University Network Science Institute, May 2018
-  <div id="neu-talk-may2018" style="display:none" class="videoWrapper">
-  <iframe width="560" height="315" src="//www.youtube.com/watch?v=dwUz8c7siDU" allowfullscreen></iframe>
+
+* <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-jan2017').toggle('fast');">
+  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, January 2017
+  <div id="simons-talk-jan2017" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/ZXLtAj4eL0c" allowfullscreen></iframe>
+  </div>
+
+* <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-dec2013').toggle('fast');">
+  Green-Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
+  <div id="simons-talk-dec2013" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/vsFFjhYLVrM" allowfullscreen></iframe>
   </div>
 
 ## Short CV

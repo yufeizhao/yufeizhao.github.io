@@ -79,7 +79,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 ## Lectures
 
 - **9/9** Introduction to the course. Schur's theorem and Ramsey's theorem. Overview of Szemerédi's theorem and related results
-
+- **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
 
 
 ## Homework
