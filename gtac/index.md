@@ -81,6 +81,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **9/9** Introduction to the course. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
 - **9/16**
+- **9/18**
 
 
 
