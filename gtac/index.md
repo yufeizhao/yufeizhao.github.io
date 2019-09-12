@@ -89,7 +89,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 
 | Problem set | Due date (♣ tentative) | 
 |:---------------:|:-----------:|
-| PS 1 | Sunday September 29 ♣ | 
+| PS 1 | Sunday September 29 | 
 | PS 2 | Sunday October 13 ♣ | 
 | PS 3 | Sunday October 27 ♣ | 
 | PS 4 | Sunday November 10 ♣ |
