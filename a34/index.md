@@ -51,9 +51,9 @@ _Subject to change. See homework policy below_
 | W 10/23 | Sums and integrals  | Shengtong Zhang  | M 10/28 | [\#7](ps/hw7.pdf)
 | W 10/30 | Recurrences  | Hung-Hsun Yu  | M 11/4 | [\#8](ps/hw8.pdf)
 | W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#9](ps/hw9.pdf)
-|        |   |   | M 11/18 | [\#10](ps/hw10.pdf)
+|        | _TBA_  |   | M 11/18 | [\#10](ps/hw10.pdf)
 | W 11/20 | Allen Liu  | Linear algebra  | M 11/25 | [\#11](ps/hw11.pdf)
-| W 11/27 | TBA  |   | | 
+| W 11/27 | _TBA_  |   | | 
 
 
 M 12/2: Students present solutions to [Putnam 2018 exam](https://kskedlaya.org/putnam-archive/2018.pdf)
