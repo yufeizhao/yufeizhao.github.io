@@ -11,9 +11,7 @@ description: "MIT Fall 2019. 18.A34 Mathematical Problem Solving (Putnam Seminar
 
 **Class meetings:** Mondays and Wednesdays 1--2pm in 4-149
 
-**Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
-
-**Grader:** TBD
+**Instructor:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
 
 Please include "18.A34" in the subject line of your emails
 
