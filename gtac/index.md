@@ -19,7 +19,7 @@ _Quick links_:
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info). 
+**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
 
 **Office hours:** Instead of scheduling regular office hours, the lecturer will be generally be available in the Math Common Room (2-290) after lectures to chat and answer questions. Please email for individual appointments. Special office hours may be set up before homework due dates according to demand.
 
@@ -76,17 +76,17 @@ Everyone is encouraged and expected to contribute to editing the notes.
 [Notes from the previous version of the course](fa17/gtac.pdf). They may be consulted but not copied when writing the new course notes.
 
 
+
 ## Lectures
 
 - **9/9** Introduction to the course. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
-- **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem. Lower bound constructions
-- **9/18**
-
+- **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem and lower bound constructions
+- **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs \\
+    -  References: [Kollár--Rónyai--Szabó](https://mathscinet.ams.org/mathscinet-getitem?mr=1417348), [Alon--Rónyai--Szabó](https://mathscinet.ams.org/mathscinet-getitem?mr=1699238), [Bukh](https://mathscinet.ams.org/mathscinet-getitem?mr=3431574)
 
 
 ## Homework
-
 
 [**Problem set**](ps.pdf): a list of problems for practice. A subset of these problems will be designated as to-be-turned in by 11:59pm of each due date. You should only submit the designated problems.
 
