@@ -79,12 +79,16 @@ Everyone is encouraged and expected to contribute to editing the notes.
 
 ## Lectures
 
-- **9/9** Introduction to the course. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics
+(Future topics tentative)
+
+- **9/9**  Introduction to the course. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
 - **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem and lower bound constructions
-- **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs \\
-    -  References: [Kollár--Rónyai--Szabó](https://mathscinet.ams.org/mathscinet-getitem?mr=1417348), [Alon--Rónyai--Szabó](https://mathscinet.ams.org/mathscinet-getitem?mr=1699238), [Bukh](https://mathscinet.ams.org/mathscinet-getitem?mr=3431574)
-
+- **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs
+- **9/23** Forbidding a sparse bipartite graph: dependent random choice, clique 1-subdivision
+- **9/25** Szemerédi's regularity lemma: statement and proof
+- **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
+- **10/2** 
 
 ## Homework
 
