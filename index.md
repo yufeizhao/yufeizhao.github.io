@@ -44,10 +44,6 @@ Combinatorics, discrete mathematics, graph theory
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2019
 * [18.217 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2019
 
-**Upcoming**
-
-* 18.212 Algebraic Combinatorics, Spring 2020
-
 **Previous**
 
 * [18.218 Probabilistic Method in Combinatorics](pm/) (grad), Spring 2019

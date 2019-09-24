@@ -85,7 +85,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
 - **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem and lower bound constructions
 - **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs
-- **9/23** Forbidding a sparse bipartite graph: dependent random choice, clique 1-subdivision
+- **9/23** Forbidding a sparse bipartite graph: dependent random choice, even cycles, clique 1-subdivision
 - **9/25** Szemerédi's regularity lemma: statement and proof
 - **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
 - **10/2** 
