@@ -42,7 +42,7 @@ _Subject to change. See homework policy below_
 | W 9/4  | [Probability](ps/probability.pdf) | Evan Chen   | M 9/9 | [\#1](ps/hw1.pdf)
 | W 9/11 | [Independence and uniformity](ps/indep.pdf)  | Yufei Zhao  | M 9/16 | [\#2](ps/hw2.pdf)
 | W 9/18 | [Abstract algebra](ps/algebra.pdf)  | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
-| W 9/25 | Inequalities  | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
+| W 9/25 | [Inequalities](ps/ineq.pdf)  | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
 | W 10/2 | Analysis  | Ashwin Sah  | M 10/7 | [\#5](ps/hw5.pdf)
 | W 10/9 | Generating functions  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | 
 | W 10/16 | Number theory  | Junyao Peng  | M 10/21 | [\#6](ps/hw6.pdf)
