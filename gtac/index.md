@@ -118,11 +118,15 @@ _Collaboration policy._ You are strongly encouraged to start early and first wor
 
 ## Wikipedia contributions
 
-- You may work in teams of sizes 1~3 to create or revise one or more articles on Wikipedia on topics related to the course (the topic does not have be one covered in the course; anything that is tangentially related is okay)
-- **Due date: Sunday December 1**. Please send the instructor an email (one per team) containing a short summary with links of your team’s contributions to Wikipedia
-- This is an open-ended assignment. The goal is to create more useful “entry points” to the subject, since Wikipedia is often among the first search results when someone Googles a term.
-- Quality matters more than quantity. A very rough guideline is that each person should have contributions equivalent to 30~50% of one high quality article.
-- Link to page for coordination sent out in email (link also available in Stellar)
+You may work in teams of sizes 1~3 to create or revise one or more articles on Wikipedia on topics related to the course (the topic does not have be one covered in the course; anything that is tangentially related is okay)
+
+**Due date: Sunday December 1**. Please send the instructor an email (one per team) containing a short summary with links of your team’s contributions to Wikipedia
+
+This is an open-ended assignment. The goal is to create more useful “entry points” to the subject, since Wikipedia is often among the first search results when someone Googles a term.
+
+Quality matters more than quantity. A very rough guideline is that each person should have contributions equivalent to 30~50% of one high quality article.
+
+Link to page for coordination sent out in email (link also available in Stellar)
 
 ## Open problems
 
