@@ -118,11 +118,15 @@ _Collaboration policy._ You are strongly encouraged to start early and first wor
 
 ## Wikipedia contributions
 
-You are expected to contribute to Wikipedia by creating or significantly improving an article on a topic related to the course. You may do this in collaboration with another student. Quality matters more than quantity, and a general rule of thumb is that each person should have contributions roughly amounting to one high quality article. More information to come later.
+- You may work in teams of sizes 1~3 to create or revise one or more articles on Wikipedia on topics related to the course (the topic does not have be one covered in the course; anything that is tangentially related is okay)
+- **Due date: Sunday December 1**. Please send the instructor an email (one per team) containing a short summary with links of your team’s contributions to Wikipedia
+- This is an open-ended assignment. The goal is to create more useful “entry points” to the subject, since Wikipedia is often among the first search results when someone Googles a term.
+- Quality matters more than quantity. A very rough guideline is that each person should have contributions equivalent to 30~50% of one high quality article.
+- Link to page for coordination sent out in email (link also available in Stellar)
 
 ## Open problems
 
-There will be a list of open problems related to the topic of the course. You are encouraged to talk to Prof. Zhao if one of these problems interests you. Any major progress/resolution of one of the open problems (e.g., leading to a significant and publishable result) would be quite exciting, and could, among other things, result in an automatic A+ grade at the instructor's discretion.
+There will be a list of open problems related to the topic of the course in addition to those mentioned in lectures. You are encouraged to talk to Prof. Zhao if one of these problems interests you. Any major progress/resolution of one of the open problems (e.g., leading to a significant and publishable result) would be quite exciting, and could, among other things, result in an automatic A+ grade at the instructor's discretion.
 
 ## References
 
