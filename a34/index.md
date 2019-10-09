@@ -44,14 +44,14 @@ _Subject to change. See homework policy below_
 | W 9/18 | [Abstract algebra](ps/algebra.pdf)  | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
 | W 9/25 | [Inequalities](ps/ineq.pdf)  | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
 | W 10/2 | [Analysis](ps/analysis.pdf)  | Ashwin Sah  | M 10/7 | [\#5](ps/hw5.pdf)
-| W 10/9 | Generating functions  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | 
-| W 10/16 | Number theory  | Junyao Peng  | M 10/21 | [\#6](ps/hw6.pdf)
-| W 10/23 | Sums and integrals  | Shengtong Zhang  | M 10/28 | [\#7](ps/hw7.pdf)
-| W 10/30 | Recurrences  | Hung-Hsun Yu  | M 11/4 | [\#8](ps/hw8.pdf)
-| W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#9](ps/hw9.pdf)
-|        | _TBA_  |   | M 11/18 | [\#10](ps/hw10.pdf)
+| W 10/9 | [Generating functions](ps/genfn.pdf)  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | [\#6](ps/hw6.pdf)
+| W 10/16 | Number theory  | Junyao Peng  | M 10/21 | [\#7](ps/hw7.pdf)
+| W 10/23 | Sums and integrals  | Shengtong Zhang  | M 10/28 | [\#8](ps/hw8.pdf)
+| W 10/30 | Recurrences  | Hung-Hsun Yu  | M 11/4 | [\#9](ps/hw9.pdf)
+| W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
+|        |   |   | M 11/18 (_extra presentations_) | 
 | W 11/20 | Allen Liu  | Linear algebra  | M 11/25 | [\#11](ps/hw11.pdf)
-| W 11/27 | _TBA_  |   | | 
+|        |   |   | W 11/27 (_extra presentations_) | 
 
 
 M 12/2: Students present solutions to [Putnam 2018 exam](https://kskedlaya.org/putnam-archive/2018.pdf)

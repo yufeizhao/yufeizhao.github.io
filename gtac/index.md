@@ -89,8 +89,12 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **9/25** Szemerédi's regularity lemma: statement and proof
 - **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
 - **10/2** Behrend's construction of 3-AP-free set, corners theorem, graph counting lemma, proof of Erdős--Stone--Simonovits theorem
-- **10/7**
-- **10/9**
+- **10/7** Induced removal lemma, strong regularity, property testing
+- **10/9** Hypergraph regularity and removal lemmas, spectral proof of graph regularity lemma
+- **10/16** Pseudorandom graphs
+- **10/21**
+- **10/23**
+
 
 ## Homework
 
