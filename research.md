@@ -102,6 +102,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a> \\
   _International Mathematics Research Notices. IMRN_, to appear.
 
+* [On the upper tail problem for random hypergraphs](https://arxiv.org/abs/1910.02916) (with Yang Liu)
+
 **Independent sets and graph homomorphisms**
 
 * <img class="side" alt="" height="60" src="doublecover.png" />
