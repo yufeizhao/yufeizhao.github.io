@@ -6,7 +6,7 @@ description: Yufei Zhao's research papers
 
 # Research
 
-\| [**Research papers**](#research) \| [**Expositions and surveys**](#expositions-and-surveys) \|
+_Jump to_ \| [**Research papers**](#research) \| [**Expositions and surveys**](#expositions-and-surveys) \|
 
 My papers are also listed on
 [arXiv](http://arxiv.org/a/zhao_y_1),
@@ -29,6 +29,8 @@ and
 <img class="side" alt="" height="50" src="triforce.svg" />
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
 _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
+
+* [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
 
 **Random matrices**
 

@@ -91,10 +91,14 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **10/2** Behrend's construction of 3-AP-free set, corners theorem, graph counting lemma, proof of Erdős--Stone--Simonovits theorem
 - **10/7** Induced removal lemma, strong regularity, property testing
 - **10/9** Hypergraph regularity and removal lemmas, spectral proof of graph regularity lemma
-- **10/16** Pseudorandom graphs
-- **10/21**
-- **10/23**
-
+- **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalence of quasirandomness
+- **10/21** Pseudorandom graphs and spectra
+- **10/23** Sparse regularity method, extremal results in sparse pseudorandom graphs, Green--Tao theorem
+- **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
+- **10/30**
+- **11/4**
+- **11/6**
+   
 
 ## Homework
 
@@ -104,7 +108,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 |:---------------:|:-----------:|
 | PS 1 | Sunday September 29 | 
 | PS 2 | Sunday October 13 | 
-| PS 3 | Sunday October 27 ♣ | 
+| PS 3 | Sunday October 27 | 
 | PS 4 | Sunday November 10 ♣ |
 | PS 5 | Sunday November 24 ♣ |
 | PS 6 | Wednesday December 11  ♣ |
@@ -134,7 +138,7 @@ Link to page for coordination sent out in email (link also available in Stellar)
 
 ## Open problems
 
-There will be a list of open problems related to the topic of the course in addition to those mentioned in lectures. You are encouraged to talk to Prof. Zhao if one of these problems interests you. Any major progress/resolution of one of the open problems (e.g., leading to a significant and publishable result) would be quite exciting, and could, among other things, result in an automatic A+ grade at the instructor's discretion.
+Open problems will regularly be mentioned in the course. You are encouraged to talk to Prof. Zhao if one of these problems interests you. Any major progress/resolution of one of the open problems (e.g., leading to a significant and publishable result) would be quite exciting, and could, among other things, result in an automatic A+ grade at the instructor's discretion.
 
 ## References
 
