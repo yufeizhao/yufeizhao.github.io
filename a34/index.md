@@ -44,15 +44,14 @@ _Subject to change. See homework policy below_
 | W 9/18 | [Abstract algebra](ps/algebra.pdf)  | Zilin Jiang | M 9/23 | [\#3](ps/hw3.pdf)
 | W 9/25 | [Inequalities](ps/ineq.pdf)  | Mehtaab Sawhney | M 9/30 | [\#4](ps/hw4.pdf)
 | W 10/2 | [Analysis](ps/analysis.pdf)  | Ashwin Sah  | M 10/7 | [\#5](ps/hw5.pdf)
-| W 10/9 | [Generating functions](ps/genfn.pdf)  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | [\#6](ps/hw6.pdf)
-| W 10/16 | Number theory  | Junyao Peng  | M 10/21 | [\#7](ps/hw7.pdf)
+| W 10/9 | [Generating functions](ps/genfn.pdf) ([notes](ps/genfn_lec.pdf))  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | [\#6](ps/hw6.pdf)
+| W 10/16 | [Congruences and divisibility](ps/congruences.pdf)  | Junyao Peng  | M 10/21 | [\#7](ps/hw7.pdf)
 | W 10/23 | Sums and integrals  | Shengtong Zhang  | M 10/28 | [\#8](ps/hw8.pdf)
 | W 10/30 | Recurrences  | Hung-Hsun Yu  | M 11/4 | [\#9](ps/hw9.pdf)
 | W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
 |        |   |   | M 11/18 (_extra presentations_) | 
 | W 11/20 | Allen Liu  | Linear algebra  | M 11/25 | [\#11](ps/hw11.pdf)
 |        |   |   | W 11/27 (_extra presentations_) | 
-
 
 M 12/2: Students present solutions to [Putnam 2018 exam](https://kskedlaya.org/putnam-archive/2018.pdf)
 
@@ -73,7 +72,6 @@ Homework submissions are due at the end of class. Please type or write legibly. 
 _Sources._ It is **required** to write, at the top of each assignment, a list of collaborators and sources (people, books, websites, etc.). If no additional sources are consulted, you must write `Sources consulted: none`. Failure to do this will result in an automatic 10% deduction. **Do not look up solutions to homework problems online (or offline)**.
 
 _Collaborations._ You are strongly encouraged to work on the problems on your own, though reasonable collaboration is permitted. Everyone must write their solutions individually and acknowledge their collaborators as noted above.
-
 
 [**Stellar/Gradebook**](https://stellar.mit.edu/S/course/18/fa19/18.A34/) (primarily used for recording grades)
 
