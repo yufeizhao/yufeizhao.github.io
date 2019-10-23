@@ -46,7 +46,7 @@ _Subject to change. See homework policy below_
 | W 10/2 | [Analysis](ps/analysis.pdf)  | Ashwin Sah  | M 10/7 | [\#5](ps/hw5.pdf)
 | W 10/9 | [Generating functions](ps/genfn.pdf) ([notes](ps/genfn_lec.pdf))  | Benjamin Gunby  | **W** 10/16 (HW due & new lec.) | [\#6](ps/hw6.pdf)
 | W 10/16 | [Congruences and divisibility](ps/congruences.pdf)  | Junyao Peng  | M 10/21 | [\#7](ps/hw7.pdf)
-| W 10/23 | Sums and integrals  | Shengtong Zhang  | M 10/28 | [\#8](ps/hw8.pdf)
+| W 10/23 | [Sums and integrals](ps/sums_integrals.pdf)  | Shengtong Zhang  | M 10/28 | [\#8](ps/hw8.pdf)
 | W 10/30 | Recurrences  | Hung-Hsun Yu  | M 11/4 | [\#9](ps/hw9.pdf)
 | W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
 |        |   |   | M 11/18 (_extra presentations_) | 

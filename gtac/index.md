@@ -92,8 +92,8 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **10/7** Induced removal lemma, strong regularity, property testing
 - **10/9** Hypergraph regularity and removal lemmas, spectral proof of graph regularity lemma
 - **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalence of quasirandomness
-- **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound, Ramanujan graphs
-- **10/23** Sparse regularity method, extremal results in sparse pseudorandom graphs, Green--Tao theorem
+- **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound
+- **10/23** Ramanujan graphs; Sparse regularity method, extremal results in sparse pseudorandom graphs, Green--Tao theorem
 - **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
 - **10/30**
 - **11/4**
