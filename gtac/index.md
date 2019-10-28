@@ -95,9 +95,18 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound
 - **10/23** Ramanujan graphs; Sparse regularity method, extremal results in sparse pseudorandom graphs, Green--Tao theorem
 - **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
-- **10/30**
-- **11/4**
-- **11/6**
+- **10/30** Graph limits: W-random graphs, counting lemma, weak regularity lemma, martingale convergence theorem
+- **11/4** Graph limits: compactness of the space of graphons
+- **11/6** Inequalities between graph densities
+- **11/13** Roth's theorem in finite fields
+- **11/18** Fourier analytic proof of Roth's theorem
+- **11/20** Polynomial method proof of Roth's theorem. Statement of Freiman's theorem
+- **11/25** Sumset and structure
+- **11/27** Sumset and structure
+- **12/2** Sumset and structure
+- **12/4** Sumset and structure
+- **12/9** Sum-product and incidence geometry
+- **12/11** Sum-product and incidence geometry
    
 
 ## Homework
@@ -109,7 +118,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 | PS 1 | Sunday September 29 | 
 | PS 2 | Sunday October 13 | 
 | PS 3 | Sunday October 27 | 
-| PS 4 | Sunday November 10 ♣ |
+| PS 4 | Sunday November 10 |
 | PS 5 | Sunday November 24 ♣ |
 | PS 6 | Wednesday December 11  ♣ |
 
