@@ -89,11 +89,11 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **9/25** Szemerédi's regularity lemma: statement and proof
 - **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
 - **10/2** Behrend's construction of 3-AP-free set, corners theorem, graph counting lemma, proof of Erdős--Stone--Simonovits theorem
-- **10/7** Induced removal lemma, strong regularity, property testing
+- **10/7** Induced removal lemma, strong graph regularity lemma, graph property testing
 - **10/9** Hypergraph regularity and removal lemmas, spectral proof of graph regularity lemma
 - **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalence of quasirandomness
 - **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound
-- **10/23** Ramanujan graphs; Sparse regularity method, extremal results in sparse pseudorandom graphs, Green--Tao theorem
+- **10/23** Ramanujan graphs; Sparse regularity method, Green--Tao theorem
 - **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
 - **10/30** Graph limits: W-random graphs, counting lemma, weak regularity lemma, martingale convergence theorem
 - **11/4** Graph limits: compactness of the space of graphons
