@@ -16,21 +16,26 @@ and
 
 ## Research Papers
 
+
 **Equiangular lines**
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
     <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
+
 
 **Directed graphs and tournaments**
 <img class="side" alt="" height="30" src="impartial.png"/>
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a>
 
+
 **Additive combinatorics**
 <img class="side" alt="" height="50" src="triforce.svg" />
+
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
 _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
+
 
 **Random matrices**
 
@@ -65,6 +70,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 <a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
 <a class="btn btn-secondary btn-sm" href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03">video</a>
 <img class="side" alt="" height="100" src="relative-szemeredi.png" width="109" />
+
 * [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
   _Geometric and Functional Analysis_ 25 (2015), 733--762. \\

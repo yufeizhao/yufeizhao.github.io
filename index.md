@@ -1,7 +1,7 @@
 ---
 layout: personal
 title: Yufei Zhao | MIT Mathematics
-description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics and discrete mathematics"
+description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics"
 ---
 
 <div class="row">
