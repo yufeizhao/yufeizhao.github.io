@@ -48,7 +48,7 @@ _Subject to change. See homework policy below_
 | W 10/16 | [Congruences and divisibility](ps/congruences.pdf)  | Junyao Peng  | M 10/21 | [\#7](ps/hw7.pdf)
 | W 10/23 | [Sums and integrals](ps/sums_integrals.pdf)  | Shengtong Zhang  | M 10/28 | [\#8](ps/hw8.pdf)
 | W 10/30 | [Recurrences](ps/recurrence.pdf)  | Hung-Hsun Yu  | M 11/4 | [\#9](ps/hw9.pdf)
-| W 11/6 | Combinatorial configurations  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
+| W 11/6 | [Combinatorial configurations](ps/combo.pdf)  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
 |        |   |   | M 11/18 (_extra presentations_) | 
 | W 11/20 | Allen Liu  | Linear algebra  | M 11/25 | [\#11](ps/hw11.pdf)
 |        |   |   | W 11/27 (_extra presentations_) | 
