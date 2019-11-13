@@ -42,7 +42,16 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
 
 
-**Regularity lemmas and applications**
+**Arithmetic regularity and applications**
+
+* [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
+  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
+  _Discrete Analysis_ 2019:3, 14 pp.
+
+* [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
+  (with Jacob Fox and Jonathan Tidor)
+
+**Graph regularity lemmas and applications**
 
 * [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
   (with Jacob Fox and László Miklós Lovász) \\
@@ -52,9 +61,6 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   (with Jacob Fox and László Miklós Lovász) \\
   _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
-* [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
-  _Discrete Analysis_ 2019:3, 14 pp.
 
 
 **Cayley graphs**

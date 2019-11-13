@@ -99,9 +99,9 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **11/4** Graph limits: compactness of the space of graphons
 - **11/6** Inequalities between graph densities
 - **11/13** Roth's theorem in finite fields
-- **11/18** Fourier analytic proof of Roth's theorem
-- **11/20** Polynomial method proof of Roth's theorem. Statement of Freiman's theorem
-- **11/25** Sumset and structure
+- **11/18** Fourier analytic proof of Roth's theorem in the integers
+- **11/20** Polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma
+- **11/25** Sumset and structure: introduction to Freiman's theorem
 - **11/27** Sumset and structure
 - **12/2** Sumset and structure
 - **12/4** Sumset and structure
@@ -119,7 +119,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 | PS 2 | Sunday October 13 | 
 | PS 3 | Sunday October 27 | 
 | PS 4 | Sunday November 10 |
-| PS 5 | Sunday November 24 ♣ |
+| PS 5 | Sunday November 24 |
 | PS 6 | Wednesday December 11  ♣ |
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa19/18.217/) -- primarily used for submitting and returning homework
