@@ -29,7 +29,7 @@ A graduate-level introduction to the probabilistic method, a fundamental and pow
 
 ## Lectures
 
-[Notes](https://www.dropbox.com/sh/vkexrfecjdgej9j/AADxKV1NEiQuTDhuXVqdJm7ra?dl=0) taken by Andrew Lin, a student in the class (These note have not been verified or edited by the professor)
+[Lecture notes](pmnotes.pdf) taken by Andrew Lin, a student in the class. These note have not been completed verified by the professor so please use at your own risk.
 
 - **2/5** Introduction to the probabilistic method. Ramsey number lower bounds (union bound, alternation, Lovász Loval Lemma). Sperner's theorem
 - **2/7** Bollobás's two families theorem. Erdős–Ko–Rado theorem. 2-colorable hypergraphs (property B). Linearity of expectations: sum-free sets.
