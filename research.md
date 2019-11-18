@@ -36,7 +36,6 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
 
-
 **Random matrices**
 
 * [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
@@ -50,6 +49,9 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
+
+* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793)
+  (with Jonathan Tidor)
 
 **Graph regularity lemmas and applications**
 

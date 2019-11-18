@@ -90,21 +90,21 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
 - **10/2** Behrend's construction of 3-AP-free set, corners theorem, graph counting lemma, proof of Erdős--Stone--Simonovits theorem
 - **10/7** Induced removal lemma, strong graph regularity lemma, graph property testing
-- **10/9** Hypergraph regularity and removal lemmas, spectral proof of graph regularity lemma
+- **10/9** Hypergraph regularity and removal lemmas. Spectral proof of graph regularity lemma
 - **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalence of quasirandomness
 - **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound
-- **10/23** Ramanujan graphs; Sparse regularity method, Green--Tao theorem
+- **10/23** Ramanujan graphs. Sparse regularity method, Green--Tao theorem
 - **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
 - **10/30** Graph limits: W-random graphs, counting lemma, weak regularity lemma, martingale convergence theorem
 - **11/4** Graph limits: compactness of the space of graphons
 - **11/6** Inequalities between graph densities
 - **11/13** Roth's theorem in finite fields
 - **11/18** Fourier analytic proof of Roth's theorem in the integers
-- **11/20** Polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma
-- **11/25** Sumset and structure: introduction to Freiman's theorem
-- **11/27** Sumset and structure
-- **12/2** Sumset and structure
-- **12/4** Sumset and structure
+- **11/20** Polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma, Roth's theorem with popular differences
+- **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality
+- **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma
+- **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers, proof of Freiman's theorem
+- **12/4** Structure of set addition: polynomial Freiman--Ruzsa conjecture, additive energy
 - **12/9** Sum-product and incidence geometry
 - **12/11** Sum-product and incidence geometry
    
