@@ -50,7 +50,7 @@ _Subject to change. See homework policy below_
 | W 10/30 | [Recurrences](ps/recurrence.pdf)  | Hung-Hsun Yu  | M 11/4 | [\#9](ps/hw9.pdf)
 | W 11/6 | [Combinatorial configurations](ps/combo.pdf)  | Yuan Yao  | **W** 11/13 | [\#10](ps/hw10.pdf)
 |        |   |   | M 11/18 (_extra presentations_) | 
-| W 11/20 | Allen Liu  | Linear algebra  | M 11/25 | [\#11](ps/hw11.pdf)
+| W 11/20 | [Linear algebra](ps/linalg.pdf)  | Allen Liu  | M 11/25 | [\#11](ps/hw11.pdf)
 |        |   |   | W 11/27 (_extra presentations_) | 
 
 M 12/2: Students present solutions to [Putnam 2018 exam](https://kskedlaya.org/putnam-archive/2018.pdf)
