@@ -16,6 +16,10 @@ and
 
 ## Research Papers
 
+**Incidence geometry**
+* [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
+    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/11/20/joints-tightened/">blog</a>
+
 
 **Equiangular lines**
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
