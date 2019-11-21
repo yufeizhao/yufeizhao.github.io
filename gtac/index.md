@@ -100,7 +100,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **11/6** Inequalities between graph densities
 - **11/13** Roth's theorem in finite fields
 - **11/18** Fourier analytic proof of Roth's theorem in the integers
-- **11/20** Polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma, Roth's theorem with popular differences
+- **11/20** Croot--Lev--Pach polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma, Roth's theorem with popular differences
 - **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality
 - **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma
 - **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers, proof of Freiman's theorem
