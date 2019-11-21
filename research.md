@@ -11,8 +11,8 @@ _Jump to_ \| [**Research papers**](#research) \| [**Expositions and surveys**](#
 My papers are also listed on
 [arXiv](http://arxiv.org/a/zhao_y_1),
 [MathSciNet](http://www.ams.org/mathscinet/search/author.html?mrauthid=864404),
-and
-[Google Scholar](http://scholar.google.com/citations?user=H1vNRiUAAAAJ).
+[Google Scholar](http://scholar.google.com/citations?user=H1vNRiUAAAAJ),
+and my [CV](cv.pdf)
 
 ## Research Papers
 
