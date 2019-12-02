@@ -103,10 +103,10 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **11/20** Croot--Lev--Pach polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma, Roth's theorem with popular differences
 - **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality
 - **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma
-- **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers, proof of Freiman's theorem
-- **12/4** Structure of set addition: polynomial Freiman--Ruzsa conjecture, additive energy
-- **12/9** Sum-product and incidence geometry
-- **12/11** Sum-product and incidence geometry
+- **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers
+- **12/4** Structure of set addition: proof of Freiman's theorem, polynomial Freiman--Ruzsa conjecture
+- **12/9** Additive energy and Balog--Szemerédi--Gowers theorem
+- **12/11** Sum-product problem and incidence geometry
    
 
 ## Homework
@@ -120,7 +120,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 | PS 3 | Sunday October 27 | 
 | PS 4 | Sunday November 10 |
 | PS 5 | Sunday November 24 |
-| PS 6 | Wednesday December 11  ♣ |
+| PS 6 | Wednesday December 11  |
 
 [Stellar/Gradebook](http://stellar.mit.edu/S/course/18/fa19/18.217/) -- primarily used for submitting and returning homework
 
