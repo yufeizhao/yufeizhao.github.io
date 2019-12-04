@@ -104,7 +104,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 - **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality
 - **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma
 - **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers
-- **12/4** Structure of set addition: proof of Freiman's theorem, polynomial Freiman--Ruzsa conjecture
+- **12/4** Structure of set addition: proof of Freiman's theorem, discussions of nonabelian Freiman problem and polynomial Freiman--Ruzsa conjecture
 - **12/9** Additive energy and Balog--Szemerédi--Gowers theorem
 - **12/11** Sum-product problem and incidence geometry
    
