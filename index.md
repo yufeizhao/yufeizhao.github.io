@@ -10,6 +10,8 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 Department of Mathematics<br>
 Massachusetts Institute of Technology</p>
 
+<p><i>On leave Spring 2020 at Stanford</i></p>
+
 <p><strong>Email:</strong>
 {% include email.html %}</p>
 
@@ -43,9 +45,6 @@ Combinatorics, discrete mathematics, graph theory
 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2019
 * [18.217 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2019
-
-**Previous**
-
 * [18.218 Probabilistic Method in Combinatorics](pm/) (grad), Spring 2019
 * [18.211 Combinatorial Analysis](211/), Fall 2018
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
