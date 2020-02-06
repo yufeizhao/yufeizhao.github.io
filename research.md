@@ -147,7 +147,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
 
 <img class="side" alt="" height="70" src="reverse_sidorenko.png"/>
-* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+* [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
+  _Inventiones Mathematicae_, to appear.
   <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a>
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
@@ -181,7 +182,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   _IEEE Transactions on Information Theory_ 60 (2014), 7442--7450.
 
 * [Exponential improvements for superball packing upper bounds](https://arxiv.org/abs/1904.11462)
-  (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)
+  (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
+  _Advances in Mathematics_, to appear.
 
 **Extremal and Ramsey graph theory**
 
