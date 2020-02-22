@@ -30,7 +30,8 @@ and my [CV](cv.pdf)
 **Directed graphs and tournaments**
 <img class="side" alt="" height="30" src="impartial.png"/>
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a>
+  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a> \\
+  _Combinatorica_, to appear.
 
 
 **Additive combinatorics**
