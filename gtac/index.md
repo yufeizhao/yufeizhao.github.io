@@ -60,9 +60,9 @@ There will be no exams. For borderline grades, participation may play a factor i
 
 ## Course notes
 
-[Read-only link to course notes on Overleaf](https://www.overleaf.com/read/gykfrmhpwbzm)
+[Completed notes available here as PDF](gtac.pdf)
 
-Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/). 
+Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/).  [Read-only link to course notes on Overleaf](https://www.overleaf.com/read/gykfrmhpwbzm)
 
 Each student taking the class for credit is expected to write course notes on one lecture (possbily in collaboration with another student, depending on course enrollement).
 
@@ -76,37 +76,36 @@ Everyone is encouraged and expected to contribute to editing the notes.
 [Notes from the previous version of the course](fa17/gtac.pdf). They may be consulted but not copied when writing the new course notes.
 
 
-
 ## Lectures
 
-(Future topics tentative)
+Chapter/section numbers refer to the [course notes](gtac.pdf)
 
-- **9/9**  Introduction to the course. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics
-- **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem
-- **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem and lower bound constructions
-- **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs
-- **9/23** Forbidding a sparse bipartite graph: dependent random choice, even cycles, clique 1-subdivision
-- **9/25** Szemerédi's regularity lemma: statement and proof
-- **9/30** Szemerédi's regularity lemma: counting and removal lemmas, proof of Roth's theorem
-- **10/2** Behrend's construction of 3-AP-free set, corners theorem, graph counting lemma, proof of Erdős--Stone--Simonovits theorem
-- **10/7** Induced removal lemma, strong graph regularity lemma, graph property testing
-- **10/9** Hypergraph regularity and removal lemmas. Spectral proof of graph regularity lemma
-- **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalence of quasirandomness
-- **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound
-- **10/23** Ramanujan graphs. Sparse regularity method, Green--Tao theorem
-- **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness)
-- **10/30** Graph limits: W-random graphs, counting lemma, weak regularity lemma, martingale convergence theorem
-- **11/4** Graph limits: compactness of the space of graphons
-- **11/6** Inequalities between graph densities
-- **11/13** Roth's theorem in finite fields
-- **11/18** Fourier analytic proof of Roth's theorem in the integers
-- **11/20** Croot--Lev--Pach polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma, Roth's theorem with popular differences
-- **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality
-- **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma
-- **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers
-- **12/4** Structure of set addition: proof of Freiman's theorem, discussions of nonabelian Freiman problem and polynomial Freiman--Ruzsa conjecture
-- **12/9** Additive energy and Balog--Szemerédi--Gowers theorem
-- **12/11** Sum-product problem and incidence geometry
+- **9/9**  Introduction to the course: the bridge between graph theory and additive combinatorics. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics. §1
+- **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem. §2.1--2.4
+- **9/16** Forbidding a bipartite subgraph: Kővári–Sós–Turán theorem and lower bound constructions. §2.5--2.7
+- **9/18** Algebraic and randomized algebraic constructions of extremal graphs without complete bipartite subgraphs. §2.7--2.8
+- **9/23** Forbidding a sparse bipartite graph: dependent random choice, even cycles, clique 1-subdivision §2.9
+- **9/25** Szemerédi's graph regularity lemma: statement and proof. §3.1
+- **9/30** Szemerédi's graph regularity lemma: triangle counting and removal lemmas. Proof of Roth's theorem. §3.2--3.3
+- **10/2** Behrend's construction of sets without 3-term arithmetic progressions. Corner's theorem. Graph embedding, counting, and removal lemmas. Proof of Erdős--Stone--Simonovits theorem. §3.4--3.5
+- **10/7** Induced removal lemma. Strong graph regularity lemma. Graph property testing. §3.6--3.7
+- **10/9** Hypergraph regularity and removal lemmas. Spectral proof of graph regularity lemma. §3.8--3.9
+- **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalences for quasirandom graphs. Expander mixing lemma. §4.1--4.1
+- **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound on second eigenvalue. §4.2--4.4
+- **10/23** Ramanujan graphs. Sparse regularity method. Green--Tao theorem. §4.5--4.6
+- **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness). §5.1
+- **10/30** Graph limits: W-random graphs, counting lemma, weak regularity lemma, martingale convergence theorem. §5.2--5.4
+- **11/4** Graph limits: compactness of the space of graphons and its applications. §5.4--5.5
+- **11/6** Inequalities between graph densities. §5.6
+- **11/13** Roth's theorem in finite fields: Fourier analytic proof. §6.1 
+- **11/18** Roth's theorem in the integers: Fourier analytic proof. §6.2
+- **11/20** Croot--Lev--Pach polynomial method proof of Roth's theorem in finite fields. Arithmetic regularity lemma. Roth's theorem with popular differences. §6.3--6.4
+- **11/25** Structure of set addition: introduction to Freiman's theorem, Ruzsa triangle inequality, Plünnecke--Ruzsa inequality. §7.1--7.2
+- **11/27** Structure of set addition: Ruzsa covering lemma, Freiman's theorem in groups of bounded exponent, Freiman homomorphisms, modeling lemma. §7.3--7.5
+- **12/2** Structure of set addition: Bogolyubov's lemma, geometry of numbers. §7.6--7.7
+- **12/4** Structure of set addition: proof of Freiman's theorem. Nonabelian Freiman problem and polynomial Freiman--Ruzsa conjecture. §7.8--7.11
+- **12/9** Additive energy and Balog--Szemerédi--Gowers theorem. §7.12.
+- **12/11** Sum-product problem and incidence geometry. §8
    
 
 ## Homework
