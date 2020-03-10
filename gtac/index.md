@@ -78,7 +78,7 @@ Everyone is encouraged and expected to contribute to editing the notes.
 
 ## Lectures
 
-Chapter/section numbers refer to the [course notes](gtac.pdf)
+Chapter/section numbers (§) refer to the [course notes](gtac.pdf)
 
 - **9/9**  Introduction to the course: the bridge between graph theory and additive combinatorics. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics. §1
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem. §2.1--2.4
