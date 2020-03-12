@@ -90,7 +90,7 @@ Chapter/section numbers (§) refer to the [course notes](gtac.pdf)
 - **10/2** Behrend's construction of sets without 3-term arithmetic progressions. Corner's theorem. Graph embedding, counting, and removal lemmas. Proof of Erdős--Stone--Simonovits theorem. §3.4--3.5
 - **10/7** Induced removal lemma. Strong graph regularity lemma. Graph property testing. §3.6--3.7
 - **10/9** Hypergraph regularity and removal lemmas. Spectral proof of graph regularity lemma. §3.8--3.9
-- **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalences for quasirandom graphs. Expander mixing lemma. §4.1--4.1
+- **10/16** Pseudorandom graphs: Chung--Graham--Wilson equivalences for quasirandom graphs. Expander mixing lemma. §4.1
 - **10/21** Pseudorandom graphs and spectra: Paley graphs, quasirandom Cayley graphs, Alon--Boppana bound on second eigenvalue. §4.2--4.4
 - **10/23** Ramanujan graphs. Sparse regularity method. Green--Tao theorem. §4.5--4.6
 - **10/28** Graph limits: introduction and statements of main results (equivalence, limit, compactness). §5.1
