@@ -171,6 +171,9 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   (with László Miklós Lovász) \\
   _Journal of Combinatorial Theory, Series A_ 145 (2017), 364--368.  
 
+* [A counterexample to the Bollobás-Riordan conjectures on sparse graph limits](https://arxiv.org/abs/2003.05272)
+  (with Ashwin Sah, Mehtaab Sawhney, and Jonathan Tidor)
+
 **Sphere packing and energy minimization**
 
 * <img class="side" alt="" height="80" src="spherebounds.png" width="104"/>
