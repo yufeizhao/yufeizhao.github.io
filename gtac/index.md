@@ -16,7 +16,7 @@ _Quick links_:
 [\[Lecture notes\]](gtac.pdf)
 [\[Homework\]](ps.pdf)
 
-_Lecture videos are available but I cannot post them publicly at this time  (coming soon to MIT OCW). Please email me for access._
+_**Lecture videos are available but I cannot post them publicly at this time  (coming soon to MIT OCW). Please email me for access.**_
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
