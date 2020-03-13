@@ -13,9 +13,10 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 **Fall 2019, MIT**
 
 _Quick links_:
-[\[Homework\]](ps.pdf)
 [\[Lecture notes\]](gtac.pdf)
-[\[Stellar\]](http://stellar.mit.edu/S/course/18/fa19/18.217/)
+[\[Homework\]](ps.pdf)
+
+_Lecture videos are available but I cannot post them publicly at this time  (coming soon to MIT OCW). Please email me for access._
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
