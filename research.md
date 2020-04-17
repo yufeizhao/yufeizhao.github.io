@@ -42,6 +42,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
 
+* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
+
 **Random matrices**
 
 * [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
