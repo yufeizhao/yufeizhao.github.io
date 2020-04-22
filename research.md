@@ -16,71 +16,6 @@ and my [CV](cv.pdf)
 
 ## Research Papers
 
-**Incidence geometry**
-<img class="side" alt="" height="70" src="joint.svg"/>
-* [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
-    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/11/20/joints-tightened/">blog</a>
-
-**Equiangular lines**
-<img class="side" alt="" height="80" src="icosahedron.png"/>
-* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
-    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
-
-
-**Directed graphs and tournaments**
-<img class="side" alt="" height="30" src="impartial.png"/>
-* [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a> \\
-  _Combinatorica_, to appear.
-
-
-**Additive combinatorics**
-<img class="side" alt="" height="50" src="triforce.svg" />
-
-* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-_Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
-
-* [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
-
-* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
-
-**Random matrices**
-
-* [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
-
-
-**Arithmetic regularity and applications**
-
-* [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
-  _Discrete Analysis_ 2019:3, 14 pp.
-
-* [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
-  (with Jacob Fox and Jonathan Tidor)
-
-* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793)
-  (with Jonathan Tidor)
-
-**Graph regularity lemmas and applications**
-
-* [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
-  (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_ 26 (2017), 481--505.
-
-* [A fast new algorithm for weak graph regularity](https://arxiv.org/abs/1801.05037)
-  (with Jacob Fox and László Miklós Lovász) \\
-  _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
-
-
-
-**Cayley graphs**
-
-* [Quasirandom Cayley graphs](http://arxiv.org/abs/1603.03025) (with David Conlon) \\
-  _Discrete Analysis_ 2017:6, 14 pp.
-
-* [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
-
-* [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor)
 
 **The Green-Tao theorem and a relative Szemerédi theorem**
 <a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
@@ -100,33 +35,67 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   (with Jacob Fox) \\
   _American Journal of Mathematics_ 137 (2015), 1139--1145.
 
-**Large deviations in random graphs**
-<a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
+**Graph regularity method and applications**
 
-* <img class="side" alt="" height="79" src="gnp_ldp.png" width="80"/>
-  [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
-  (with Eyal Lubetzky) \\
-  _Random Structures & Algorithms_ 47 (2015), 109--146.
-  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/">blog</a>
+* [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
+  (with David Conlon and Jacob Fox) \\
+  _Advances in Mathematics_ 256 (2014), 206--290.
+  <a class="btn btn-secondary btn-sm" href="slides/sparse_regularity.pdf">slides</a>
 
-* [On the variational problem for upper tails in sparse random graphs](http://arxiv.org/abs/1402.6011)
-  (with Eyal Lubetzky) \\
-  _Random Structures & Algorithms_ 50 (2017), 420--436.
-  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2014/02/25/upper-tail/">blog</a>
+* [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
+  (with Jacob Fox and László Miklós Lovász) \\
+  _Combinatorics, Probability and Computing_ 26 (2017), 481--505.
 
-* [On the lower tail variational problem for random graphs](http://arxiv.org/abs/1502.00867) \\
-  _Combinatorics, Probability and Computing_ 26 (2017), 301--320.  
+* [A fast new algorithm for weak graph regularity](https://arxiv.org/abs/1801.05037)
+  (with Jacob Fox and László Miklós Lovász) \\
+  _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
-* [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
-  (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
-  _Advances in Mathematics_ 319 (2017), 313--347.
+* [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
+  (with David Conlon, Jacob Fox, and Benny Sudakov)
 
-* [Upper tails for arithmetic progressions in a random set](http://arxiv.org/abs/1605.02994)
-  (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Xuancheng Shao)
-  <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a> \\
-  _International Mathematics Research Notices. IMRN_ 2020, 167--213.
+**Additive combinatorics**
 
-* [On the upper tail problem for random hypergraphs](https://arxiv.org/abs/1910.02916) (with Yang Liu)
+<img class="side" alt="" height="50" src="triforce.svg" />
+* [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
+_Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
+
+* [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
+
+* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
+
+
+**Arithmetic regularity and applications**
+
+* [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
+  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
+  _Discrete Analysis_ 2019:3, 14 pp.
+
+* [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
+  (with Jacob Fox and Jonathan Tidor)
+
+* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793)
+  (with Jonathan Tidor)
+
+**Cayley graphs**
+
+* [Quasirandom Cayley graphs](http://arxiv.org/abs/1603.03025) (with David Conlon) \\
+  _Discrete Analysis_ 2017:6, 14 pp.
+
+* [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
+
+* [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor)
+
+**Equiangular lines and spectral graph theory**
+<img class="side" alt="" height="80" src="icosahedron.png"/>
+* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
+    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
+
+
+**Incidence geometry**
+<img class="side" alt="" height="70" src="joint.svg"/>
+* [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
+    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/11/20/joints-tightened/">blog</a>
+
 
 **Independent sets and graph homomorphisms**
 
@@ -156,6 +125,53 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
 
+
+
+**Sphere packing and energy minimization**
+
+* <img class="side" alt="" height="80" src="spherebounds.png" width="104"/>
+  [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
+  (with Henry Cohn) \\
+  _Duke Mathematical Journal_ 163 (2014), 1965--2002.
+
+* [Energy-minimizing error-correcting codes](http://arxiv.org/abs/1212.1913)
+  (with Henry Cohn) \\
+  _IEEE Transactions on Information Theory_ 60 (2014), 7442--7450.
+
+* [Exponential improvements for superball packing upper bounds](https://arxiv.org/abs/1904.11462)
+  (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
+  _Advances in Mathematics_, to appear.
+
+
+
+**Large deviations in random graphs**
+<a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
+
+* <img class="side" alt="" height="79" src="gnp_ldp.png" width="80"/>
+  [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
+  (with Eyal Lubetzky) \\
+  _Random Structures & Algorithms_ 47 (2015), 109--146.
+  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/">blog</a>
+
+* [On the variational problem for upper tails in sparse random graphs](http://arxiv.org/abs/1402.6011)
+  (with Eyal Lubetzky) \\
+  _Random Structures & Algorithms_ 50 (2017), 420--436.
+  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2014/02/25/upper-tail/">blog</a>
+
+* [On the lower tail variational problem for random graphs](http://arxiv.org/abs/1502.00867) \\
+  _Combinatorics, Probability and Computing_ 26 (2017), 301--320.  
+
+* [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
+  (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
+  _Advances in Mathematics_ 319 (2017), 313--347.
+
+* [Upper tails for arithmetic progressions in a random set](http://arxiv.org/abs/1605.02994)
+  (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Xuancheng Shao)
+  <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a> \\
+  _International Mathematics Research Notices. IMRN_ 2020, 167--213.
+
+* [On the upper tail problem for random hypergraphs](https://arxiv.org/abs/1910.02916) (with Yang Liu)
+
 **Graph limits**
 
 * [Hypergraph limits: a regularity approach](http://arxiv.org/abs/1302.1634) \\
@@ -176,27 +192,18 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [A counterexample to the Bollobás-Riordan conjectures on sparse graph limits](https://arxiv.org/abs/2003.05272)
   (with Ashwin Sah, Mehtaab Sawhney, and Jonathan Tidor)
 
-**Sphere packing and energy minimization**
+**Random matrices**
 
-* <img class="side" alt="" height="80" src="spherebounds.png" width="104"/>
-  [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
-  (with Henry Cohn) \\
-  _Duke Mathematical Journal_ 163 (2014), 1965--2002.
+* [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
 
-* [Energy-minimizing error-correcting codes](http://arxiv.org/abs/1212.1913)
-  (with Henry Cohn) \\
-  _IEEE Transactions on Information Theory_ 60 (2014), 7442--7450.
+**Directed graphs and tournaments**
 
-* [Exponential improvements for superball packing upper bounds](https://arxiv.org/abs/1904.11462)
-  (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-  _Advances in Mathematics_, to appear.
+<img class="side" alt="" height="30" src="impartial.png"/>
+* [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
+  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a> \\
+  _Combinatorica_, to appear.
 
 **Extremal and Ramsey graph theory**
-
-* [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
-  (with David Conlon and Jacob Fox) \\
-  _Advances in Mathematics_ 256 (2014), 206--290.
-  <a class="btn btn-secondary btn-sm" href="slides/sparse_regularity.pdf">slides</a>
 
 * [The critical window for the classical Ramsey-Turán problem](http://arxiv.org/abs/1208.3276)
   (with Jacob Fox and Po-Shen Loh) \\
@@ -237,7 +244,6 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/">blog</a>
 
 **Older expository papers and notes**
-
 
 * <a class="side" href="http://www.math.harvard.edu/hcmr/issues/2a.pdf" >
 <img alt="" class="shadow" height="144" src="hcmr_cover.png" style="opacity:0.8;" width="100">
