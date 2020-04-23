@@ -83,6 +83,7 @@ Combinatorics, discrete mathematics, graph theory
 * [Pseudorandom graphs, relative Szemerédi theorem and the Green-Tao Theorem](research/slides/green-tao-relative-szemeredi.pdf)
 * [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
 * [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
+* [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
 
 ## Videos
 
@@ -111,7 +112,7 @@ Combinatorics, discrete mathematics, graph theory
   </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-dec2013').toggle('fast');">
-  Green-Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
+  Green--Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
   <div id="simons-talk-dec2013" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/vsFFjhYLVrM" allowfullscreen></iframe>
   </div>

@@ -52,6 +52,7 @@ and my [CV](cv.pdf)
 
 * [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
   (with David Conlon, Jacob Fox, and Benny Sudakov)
+  <a class="btn btn-secondary btn-sm" href="slides/sparse-reg-c4.pdf">slides</a>
 
 **Additive combinatorics**
 
