@@ -49,6 +49,8 @@ Combinatorics, discrete mathematics, graph theory
 * [18.211 Combinatorial Analysis](211/), Fall 2018
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
 
+Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
+
 ### [Math Olympiad training handouts](olympiad)
 
 ## Selected publications
