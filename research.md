@@ -64,6 +64,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
 
+* [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
 **Arithmetic regularity and applications**
 
