@@ -66,6 +66,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
+* [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson)
+
 **Arithmetic regularity and applications**
 
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
@@ -86,6 +88,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
 
 * [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor)
+  
+* [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney)
 
 **Equiangular lines and spectral graph theory**
 <img class="side" alt="" height="80" src="icosahedron.png"/>
