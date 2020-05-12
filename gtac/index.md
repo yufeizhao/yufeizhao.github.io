@@ -13,10 +13,9 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 **Fall 2019, MIT**
 
 _Quick links_:
-[\[Lecture notes\]](gtac.pdf)
-[\[Homework\]](ps.pdf)
-
-_**Lecture videos are available but I cannot post them publicly at this time  (coming soon to MIT OCW). Please email me for access.**_
+\[Lecture videos: [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
+\[[Notes](gtac.pdf)\]
+\[[Homework](ps.pdf)\]
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
 
@@ -78,6 +77,8 @@ Everyone is encouraged and expected to contribute to editing the notes.
 
 
 ## Lectures
+
+**Lecture videos**: [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
 Chapter/section numbers (§) refer to the [course notes](gtac.pdf)
 
