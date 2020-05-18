@@ -87,6 +87,7 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 * [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
 * [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
 * [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
+* [Popular common difference](research/slides/popular_difference.pdf)
 
 ## Videos
 
