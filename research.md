@@ -148,7 +148,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Exponential improvements for superball packing upper bounds](https://arxiv.org/abs/1904.11462)
   (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-  _Advances in Mathematics_, to appear.
+  _Advances in Mathematics_, 365 (2020), 107056
 
 
 
