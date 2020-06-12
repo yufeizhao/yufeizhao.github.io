@@ -60,7 +60,8 @@ and my [CV](cv.pdf)
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
 _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
-* [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) 
+* [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
+  _The Quarterly Journal of Mathematics_, to appear.
 
 * [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
 
@@ -96,6 +97,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
     <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
 
+* [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 **Incidence geometry**
 <img class="side" alt="" height="70" src="joint.svg"/>
