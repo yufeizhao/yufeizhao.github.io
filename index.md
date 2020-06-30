@@ -10,8 +10,6 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 Department of Mathematics<br>
 Massachusetts Institute of Technology</p>
 
-<p><i>On leave Spring 2020 at Stanford</i></p>
-
 <p><strong>Email:</strong>
 {% include email.html %}</p>
 
