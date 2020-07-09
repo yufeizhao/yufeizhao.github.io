@@ -59,7 +59,7 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-  _Inventiones Mathematicae_, to appear.
+  _Inventiones Mathematicae_ 221, 665--711.
 
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\

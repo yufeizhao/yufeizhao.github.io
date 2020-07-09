@@ -132,7 +132,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 <img class="side" alt="" height="70" src="reverse_sidorenko.png"/>
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-  _Inventiones Mathematicae_, to appear.
+  _Inventiones Mathematicae_ 221, 665--711.
   <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a>
   <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
 
