@@ -58,7 +58,7 @@ and my [CV](cv.pdf)
 
 <img class="side" alt="" height="50" src="triforce.svg" />
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-_Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
+_Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 209--223.
 
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
   _The Quarterly Journal of Mathematics_, to appear.
@@ -67,7 +67,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 
 * [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
-* [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson)
+* [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson) \\
+  _Comptes Rendus Mathématique_, to appear.
 
 **Arithmetic regularity and applications**
 
@@ -78,8 +79,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
 
-* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793)
-  (with Jonathan Tidor)
+* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
+  _FOCS_ 2020, accepted.
 
 **Cayley graphs**
 
@@ -89,7 +90,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, to appear.
 * [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
 
 * [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor) \\
-  _Proceedings of the London Mathematical Society_, to appear.
+  _Proceedings of the London Mathematical Society_ 121 (2020), 1311--1336.
   
 * [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney)
 
