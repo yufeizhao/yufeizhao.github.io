@@ -54,7 +54,7 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
 ## Selected publications
 
-* [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
+* [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
 
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 

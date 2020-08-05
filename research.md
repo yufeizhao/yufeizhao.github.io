@@ -106,6 +106,9 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
     <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/11/20/joints-tightened/">blog</a>
 
+* [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
+
+
 **Nonnegative rank and extension complexity**
 <img class="side" alt="" height="70" src="polytope-extension.png"/>
 * [Extension complexity of low-dimensional polytopes](https://arxiv.org/abs/2006.08836) (with Matthew Kwan and Lisa Sauermann)
