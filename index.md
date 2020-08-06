@@ -86,6 +86,8 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 * [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
 * [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
 * [Popular common difference](research/slides/popular_difference.pdf)
+* [Equiangular lines, spherical two-distance sets, and spectral graph theory](research/slides/equiangular.pdf)
+
 
 ## Videos
 
