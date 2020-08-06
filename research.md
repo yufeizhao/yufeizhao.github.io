@@ -73,8 +73,10 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 **Arithmetic regularity and applications**
 
 * [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a> \\
+  (with Noga Alon and Jacob Fox) 
+  \\
   _Discrete Analysis_ 2019:3, 14 pp.
+  <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a>
 
 * [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
@@ -94,7 +96,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   
 * [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney)
 
-**Equiangular lines and spectral graph theory**
+**Equiangular lines and spectral graph theory** 
+  <a class="btn btn-secondary btn-sm" href="slides/equiangular.pdf">slides</a>
 <img class="side" alt="" height="80" src="icosahedron.png"/>
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
     <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
@@ -217,10 +220,10 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 **Directed graphs and tournaments**
 
 <img class="side" alt="" height="30" src="impartial.png"/>
-* [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou)
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a> \\
+* [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou) \\
   _Combinatorica_, to appear.
-
+  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a>
+  
 **Extremal and Ramsey graph theory**
 
 * [The critical window for the classical Ramsey-Turán problem](http://arxiv.org/abs/1208.3276)
