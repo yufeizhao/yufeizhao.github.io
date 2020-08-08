@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+
+<h1 class="content-listing-header sans">Blog</h1>
+
+<p><a href="/blog/">Back to main</a> 
+    |
+    <a href="/blog/list/">List of entries</a>
+
+<ul class="content-listing ">
+    <li class="listing">
+        <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ page.title }}</h2></a>
+        <span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span>  <br/>
+        <div>
+            {{ content }}
+        </div>
+    </li>
+</ul>
+

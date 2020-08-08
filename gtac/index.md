@@ -43,8 +43,8 @@ The course will explore these and related topics, including:
 - **Pseudorandom graphs.** What does it mean for some graph to resemble a random graph?
 - **Graph limits.** In what sense can a sequence of graphs, increasing in size, converge to some limit object?
 - **Fourier analysis in additive combinatorics.** An important technique for studying combinatorial properties in arithmetic settings, e.g., in the proof of Roth's theorem. 
-- **Freiman's theorem and the structure of sum sets.** What can one say about sets _A_ such that the sum set $A + A = \\{a + a' : a,a' \in A\\}$ is small?
-- **Sum-product phenomenon.** Can a set $A$ simultaneously have both small sum set $A + A$ and product set $A \cdot A$?
+- **Freiman's theorem and the structure of sum sets.** What can one say about sets _A_ such that the sum set $$A + A = \{a + a' : a,a' \in A\}$$ is small?
+- **Sum-product phenomenon.** Can a set _A_ simultaneously have both small sum set $$A + A$$ and product set $$A \cdot A$$?
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 

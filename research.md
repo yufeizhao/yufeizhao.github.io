@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: default
 title: Yufei Zhao | Research
 description: Yufei Zhao's research papers
 ---

@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: default
 title: Yufei Zhao | MIT Mathematics
 description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics"
 ---
@@ -29,8 +29,6 @@ Cambridge, MA 02139, USA</p>
 ## Research areas
 
 Combinatorics, discrete mathematics, graph theory
-
-[**My research blog**](https://yufeizhao.wordpress.com/)
 
 **Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
