@@ -8,7 +8,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 **Fall 2020, MIT**
 
-**Class meetings:** Mondays and Wednesdays 2:30--4pm (lectures will be recorded)
+**Class meetings:** Mondays and Wednesdays 2:30--4pm (lectures will be live and recorded)
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
