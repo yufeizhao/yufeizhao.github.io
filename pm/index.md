@@ -10,7 +10,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm (lectures will be recorded)
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
+**Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
 Please include "18.226" in the subject line of your emails
 
