@@ -45,7 +45,8 @@ You are asked to **turn on your video camera** during class (please let me know 
 
 _Non-registered students._
 MIT students not registered in the class are welcome to attend the lectures but not the presentation sessions (see schedule below) and should not turn in homework.
-Unfortunately we cannot add any additional students to the class officially as the selection was done during the first-year advising selection process.
+
+Seminar participants were selected through the first-year advising selection process, and unfortunately I will not be able to add additional students.
 
 _Grading._ Based on homework and in-class participation. 
 Homework will be graded on correctness and presentation. Illegible or extremely sloppy write-ups are unacceptable.
