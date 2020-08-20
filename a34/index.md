@@ -18,7 +18,6 @@ Canvas and Zoom links available soon
 
 ## Course description and policies
 
-
 This is a first-year seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills. 
 This seminar is fast-paced and is targeted for students with previous experience in mathematical Olympiads, though others may benefit as well. (Units: 2-0-4)
 
@@ -45,7 +44,7 @@ Too many unexcused absences is cause for concern and may lead to a non-passing g
 You are asked to **turn on your video camera** during class (please let me know if there is some reason you might not want to do this, e.g., poor internet connection, inconvenient environment).
 
 _Non-registered students._
-MIT students not registered in the class are welcome to attend the lectures but not the presentation sessions (see schedule below) and should not turn in homework.
+MIT students not registered in the class are welcome to attend the lectures but not the presentation sessions (see schedule below) and may not turn in homework.
 
 Seminar participants were selected through the first-year advising selection process, and unfortunately I will not be able to add additional students.
 
@@ -56,7 +55,7 @@ Homework will be graded on correctness and presentation. Illegible or extremely 
 
 ## Schedule 
 
-_Subject to change. See homework policy below._ 
+_Subject to change. See homework policy below._ (SS = Supplementary set)
 
 - **W 9/2** Introductions (only attended by registered students)
 - ~~M 9/7~~ _No class (labor day)_
@@ -101,7 +100,7 @@ _Submitting homework:_
 * Submission may be carefully handwritten or typed (illegible submissions are unacceptable).
 * Begin each solution on a new page.
 * Homework will be graded similarly to the Putnam competition. 
-* Non-registered students should not hand in solutions.
+* Non-registered students may not hand in solutions.
 
 _Late policy_ 
 * Late submissions will not be accepted without a valid excuse.
