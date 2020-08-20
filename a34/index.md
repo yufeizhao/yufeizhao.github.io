@@ -128,7 +128,7 @@ Some resources may be available electronically from [MIT Library](https://librar
 **Previous Putnam problems and solutions**
 
 - [Putnam archive](http://kskedlaya.org/putnam-archive/) by Kedlaya
-- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions and Commentary](https://www.amazon.com/William-Lowell-Mathematical-Competition-1985-2000/dp/0883858274) by Kedlaya, Poonen and Vakil
+- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions and Commentary](https://www.amazon.com/William-Lowell-Mathematical-Competition-1985-2000/dp/0883858274) by Kedlaya, Poonen, and Vakil
 
 **Additional books helpful for preparation**
 

@@ -82,46 +82,62 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
 ## Slides
 
-* [Pseudorandom graphs, relative Szemerédi theorem and the Green-Tao Theorem](research/slides/green-tao-relative-szemeredi.pdf)
-* [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
-* [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
-* [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
-* [Popular common difference](research/slides/popular_difference.pdf)
-* [Equiangular lines, spherical two-distance sets, and spectral graph theory](research/slides/equiangular.pdf)
 * [The joints problem for varieties](/research/slides/joints_varieties.pdf)
+* [Equiangular lines, spherical two-distance sets, and spectral graph theory](research/slides/equiangular.pdf)
+* [Popular common difference](research/slides/popular_difference.pdf)
+* [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
+* [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
+* [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
+* [Pseudorandom graphs, relative Szemerédi theorem and the Green-Tao Theorem](research/slides/green-tao-relative-szemeredi.pdf)
 
 
 ## Videos
 
+* <a href="javascript:void(0);" target="_self" onclick="$('#joints-talk-aug2020').toggle('fast');">
+  The joints problem for varieties</a>, Big Seminar by Laboratory of Combinatorial and Geometric Structures, Aug 2020
+  <div id="joints-talk-aug2020" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/dsnU8iPL-WI" allowfullscreen></iframe>
+  </div>
+
+* [Equiangular lines, spherical two-distance sets, and spectral graph theory](https://www.bilibili.com/video/BV1UA411Y7ME/), SCMS Combinatorics Seminar, Aug 2020
+
+
+* <a href="javascript:void(0);" target="_self" onclick="$('#popular-common-may2020').toggle('fast');">
+  Popular common difference</a>, Webinar in Additive Combinatorics, May 2020
+  <div id="popular-common-may2020" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/TCGZgTUjE3s" allowfullscreen></iframe>
+  </div>
+
 * <a href="javascript:void(0);" target="_self" onclick="$('#birs-talk-sep2019').toggle('fast');">
-  Equiangular lines with a fixed angle</a>, Banff International Research Station, September 2019
+  Equiangular lines with a fixed angle</a>, Banff International Research Station, Sep 2019
   <div id="birs-talk-sep2019" style="display:none" class="videoWrapper">
-  <iframe src="http://www.birs.ca/events/2019/5-day-workshops/19w5009/videos/embed/201909021422-Zhao.mp4" width="832"  height="480" frameborder="0"  scrolling="auto" itemprop="video"></iframe>
+  <iframe src="http://www.birs.ca/events/2019/5-day-workshops/19w5009/videos/embed/201909021422-Zhao.mp4" width="832" height="480" frameborder="0"  scrolling="auto" itemprop="video"></iframe>
   </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#neu-talk-may2018').toggle('fast');">
-  Large Deviations and Exponential Random Graphs</a>, Northeastern University Network Science Institute, May 2018
+  Large deviations and exponential random graphs</a>, Northeastern University Network Science Institute, May 2018
   <div id="neu-talk-may2018" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/dwUz8c7siDU" allowfullscreen></iframe>
   </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-apr2017').toggle('fast');">
-  Large deviations for arithmetic progressions</a>, Simons Institute, Berkeley, April 2017
+  Large deviations for arithmetic progressions</a>, Simons Institute, Berkeley, Apr 2017
   <div id="simons-talk-apr2017" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/G9AJHUAz33o" allowfullscreen></iframe>
   </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-jan2017').toggle('fast');">
-  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, January 2017
+  Sparse graph regularity tutorial</a>, Simons Institute, Berkeley, Jan 2017
   <div id="simons-talk-jan2017" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/ZXLtAj4eL0c" allowfullscreen></iframe>
   </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#simons-talk-dec2013').toggle('fast');">
-  Green--Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, December 2013
+  Green--Tao theorem and a relative Szemerédi theorem</a>, Simons Institute, Berkeley, Dec 2013
   <div id="simons-talk-dec2013" style="display:none" class="videoWrapper">
   <iframe width="560" height="315" src="//www.youtube.com/embed/vsFFjhYLVrM" allowfullscreen></iframe>
   </div>
+
 
 ## Short CV
 
