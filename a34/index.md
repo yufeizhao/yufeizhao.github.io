@@ -28,7 +28,8 @@ Due to COVID-19, the 2020 Putnam has been postponed until February 20, 2021; see
 All students receiving credit for this class will be required to participate in the Putnam competition (in whichever format it will be held, either officially or unofficially).
 
 _Class format._
-On most weeks, one meeting will be a lecture (often a guest lecture by an upperclassman) on a specific topic, and the other meeting will be student presentations of homework problems. We intend to record the lectures (only accessible to registered participants) but not the presentation classes.
+On most weeks, one meeting will be a lecture (often a guest lecture by an upperclassman) on a specific topic, and the other meeting will be student presentations of homework problems. 
+We intend to record the lectures (recordings accessible to registered participants) but not the presentation classes.
 
 During the student presentation classes, students will be called on to present their solutions. 
 The presenting student should pick a problem, and screen-share their solution, and explain their solution verbally (not simply reading from the written solution). I, as well as other members of the class, will give critical feedback on both the mathematical content as well as the presentation.
