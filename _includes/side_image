@@ -1,0 +1,1 @@
+<img class="side" {%if include.alt %}alt="{{ include.alt }}"{% endif %} src="{{ include.src }}" {%if include.height %}height="{{ include.height }}"{% endif %} {%if include.width %}width="{{ include.width }}"{% endif %}/>

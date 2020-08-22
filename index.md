@@ -101,7 +101,6 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
 * [Equiangular lines, spherical two-distance sets, and spectral graph theory](https://www.bilibili.com/video/BV1UA411Y7ME/), SCMS Combinatorics Seminar, Aug 2020
 
-
 * <a href="javascript:void(0);" target="_self" onclick="$('#popular-common-may2020').toggle('fast');">
   Popular common difference</a>, Webinar in Additive Combinatorics, May 2020
   <div id="popular-common-may2020" style="display:none" class="videoWrapper">

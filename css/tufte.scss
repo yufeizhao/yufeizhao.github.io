@@ -51,6 +51,17 @@ a, a:hover{
   text-decoration: none;
 }
 
+.button > a {
+  font-size: 80%;
+  color: $button-color;
+  text-decoration: none;
+}
+
+.button > a:hover {
+  color: $button-hover-color;
+}
+
+
 p > a { @if $link-style == underline
     {
       color: $text-color;
@@ -235,7 +246,7 @@ ul,ol { //width: 45%;
 
 
 figure {
-        max-width: 70%;
+        max-width: 100%;
         display: block;
         text-align: center;
         -webkit-margin-start: 0;

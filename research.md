@@ -6,7 +6,7 @@ description: Yufei Zhao's research papers
 
 # Research
 
-_Jump to_ \| [**Research papers**](#research) \| [**Expositions and surveys**](#expositions-and-surveys) \|
+_Jump to_ :  \| [**Research papers**](#research) \| [**Expositions and surveys**](#expositions-and-surveys) \|
 
 My papers are also listed on
 [arXiv](http://arxiv.org/a/zhao_y_1),
@@ -18,9 +18,9 @@ and my [CV](cv.pdf)
 
 
 **The Green-Tao theorem and a relative Szemerédi theorem**
-<a class="btn btn-secondary btn-sm" href="slides/green-tao-relative-szemeredi.pdf">slides</a>
-<a class="btn btn-secondary btn-sm" href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03">video</a>
-<img class="side" alt="" height="100" src="relative-szemeredi.png" width="109" />
+{%include button href="slides/green-tao-relative-szemeredi.pdf" text="slides" %}
+{%include button href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03" text="video" %}
+{%include side_image src="relative-szemeredi.png" height="100" %}
 
 * [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
@@ -30,8 +30,8 @@ and my [CV](cv.pdf)
 * [An arithmetic transference proof of a relative Szemerédi theorem](http://arxiv.org/abs/1307.4959) \\
   _Mathematical Proceedings of the Cambridge Philosophical Society_ 156 (2014), 255--261.  
 
-* <img class="side" alt="" height="80" src="primessquared.png"/>
-  [A short proof of the multidimensional Szemerédi theorem in the primes](http://arxiv.org/abs/1307.4679)
+{%include side_image src="primessquared.png" height="80" %}
+* [A short proof of the multidimensional Szemerédi theorem in the primes](http://arxiv.org/abs/1307.4679)
   (with Jacob Fox) \\
   _American Journal of Mathematics_ 137 (2015), 1139--1145.
 
@@ -40,7 +40,7 @@ and my [CV](cv.pdf)
 * [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
   (with David Conlon and Jacob Fox) \\
   _Advances in Mathematics_ 256 (2014), 206--290.
-  <a class="btn btn-secondary btn-sm" href="slides/sparse_regularity.pdf">slides</a>
+  {%include button href="slides/sparse_regularity.pdf" text="slides" %}
 
 * [On regularity lemmas and their algorithmic applications](https://arxiv.org/abs/1604.00733)
   (with Jacob Fox and László Miklós Lovász) \\
@@ -52,18 +52,20 @@ and my [CV](cv.pdf)
 
 * [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
   (with David Conlon, Jacob Fox, and Benny Sudakov)
-  <a class="btn btn-secondary btn-sm" href="slides/sparse-reg-c4.pdf">slides</a>
+  {%include button href="slides/sparse-reg-c4.pdf" text="slides" %}
 
 **Additive combinatorics**
 
-<img class="side" alt="" height="50" src="triforce.svg" />
+{%include side_image height="50" src="triforce.svg" %}
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
 _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 209--223.
 
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
   _The Quarterly Journal of Mathematics_, to appear.
 
-* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney)
+* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney) 
+   {%include button href="https://www.youtube.com/watch?v=TCGZgTUjE3s" text="video" %}
+   {%include button href="slides/popular_difference.pdf" text="slides" %}
 
 * [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
@@ -76,7 +78,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with Noga Alon and Jacob Fox) 
   \\
   _Discrete Analysis_ 2019:3, 14 pp.
-  <a class="btn btn-secondary btn-sm" href="slides/arith_reg_bipartite.pdf">slides</a>
+  {%include button href="slides/arith_reg_bipartite.pdf" text="slides" %}
 
 * [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
@@ -97,32 +99,32 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney)
 
 **Equiangular lines and spectral graph theory** 
-  <a class="btn btn-secondary btn-sm" href="slides/equiangular.pdf">slides</a>
-<img class="side" alt="" height="80" src="icosahedron.png"/>
+  {%include button href="slides/equiangular.pdf" text="slides" %}
+  {%include side_image height="100" src="icosahedron.png" %}
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
-    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/07/29/equiangular-lines-with-a-fixed-angle/">blog</a>
+  {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
 
 * [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 **Incidence geometry**
-<img class="side" alt="" height="70" src="joint.svg"/>
+  {%include side_image height="100" src="joint.svg" %}
 * [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
-    <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/11/20/joints-tightened/">blog</a>
+  {%include button href="/blog/2019/11/20/joints-tightened/" text="blog" %}
 
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
-
+  {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
+  {%include button href="slides/joints_varieties.pdf" text="slides" %}
 
 **Nonnegative rank and extension complexity**
-<img class="side" alt="" height="70" src="polytope-extension.png"/>
+ {%include side_image height="70" src="polytope-extension.png" %}
 * [Extension complexity of low-dimensional polytopes](https://arxiv.org/abs/2006.08836) (with Matthew Kwan and Lisa Sauermann)
 
 
 **Independent sets and graph homomorphisms**
-
-* <img class="side" alt="" height="60" src="doublecover.png" />
-  [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
+{%include side_image height="60" src="doublecover.png" %}
+* [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
   _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
-  <a class="btn btn-secondary btn-sm" href="slides/indep_reg_poster.pdf">poster</a>
+  {%include button href="slides/indep_reg_poster.pdf" text="poster" %}
 
 * [The number of independent sets in a graph with small maximum degree](http://arxiv.org/abs/1007.4803)
   (with David Galvin) \\
@@ -130,27 +132,27 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 * [The bipartite swapping trick on graph homomorphisms](http://arxiv.org/abs/1104.3704) \\
   _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
-  <a class="btn btn-secondary btn-sm" href="slides/indep_hom_poster.pdf">poster</a>
+  {%include button href="slides/indep_hom_poster.pdf" text="poster" %}
 
-<img class="side" alt="" height="70" src="indep_irreg.png"/>
+{%include side_image  height="70" src="indep_irreg.png" %}
 * [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
   _Journal of Combinatorial Theory Series B_ 138 (2019), 172--195.
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/">blog</a>
-  <a class="btn btn-secondary btn-sm" href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225">MIT News</a>
+  {%include button href="/blog/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/" text="blog" %}
+  {%include button href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225" text="MIT News" %}
 
-<img class="side" alt="" height="70" src="reverse_sidorenko.png"/>
+{%include side_image height="70" src="reverse_sidorenko.png" %}
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Inventiones Mathematicae_ 221, 665--711.
-  <a class="btn btn-secondary btn-sm" href="slides/reverse_sidorenko_slides.pdf">slides</a>
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2018/09/25/a-reverse-sidorenko-inequality/">blog</a>
+  {%include button href="slides/reverse_sidorenko_slides.pdf" text="slides" %}
+  {%include button href="/blog/2018/09/25/a-reverse-sidorenko-inequality/" text="blog" %}
 
 
 
 
 **Sphere packing and energy minimization**
 
-* <img class="side" alt="" height="80" src="spherebounds.png" width="104"/>
-  [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
+{%include side_image height="80" src="spherebounds.png" width="104"%}
+* [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
@@ -162,21 +164,19 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Advances in Mathematics_, 365 (2020), 107056
 
-
-
 **Large deviations in random graphs**
-<a class="btn btn-secondary btn-sm" href="slides/large_deviations_random_graphs.pdf">slides</a>
+{%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
-* <img class="side" alt="" height="79" src="gnp_ldp.png" width="80"/>
-  [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
+{%include side_image height="79" src="gnp_ldp.png" width="80" %}
+* [On replica symmetry of large deviations in random graphs](http://arxiv.org/abs/1210.7013)
   (with Eyal Lubetzky) \\
   _Random Structures & Algorithms_ 47 (2015), 109--146.
-  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/">blog</a>
+  {%include button href="http://yufeizhao.wordpress.com/2012/10/28/replica-symmetry/" text="blog" %}
 
 * [On the variational problem for upper tails in sparse random graphs](http://arxiv.org/abs/1402.6011)
   (with Eyal Lubetzky) \\
   _Random Structures & Algorithms_ 50 (2017), 420--436.
-  <a class="btn btn-secondary btn-sm" href="http://yufeizhao.wordpress.com/2014/02/25/upper-tail/">blog</a>
+  {%include button href="http://yufeizhao.wordpress.com/2014/02/25/upper-tail/" text="blog" %}
 
 * [On the lower tail variational problem for random graphs](http://arxiv.org/abs/1502.00867) \\
   _Combinatorics, Probability and Computing_ 26 (2017), 301--320.  
@@ -189,7 +189,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Xuancheng Shao)
   \\
   _International Mathematics Research Notices. IMRN_ 2020, 167--213.
-  <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=G9AJHUAz33o">video</a> 
+  {%include button href="https://www.youtube.com/watch?v=G9AJHUAz33o" text="video" %} 
 
 
 * [On the upper tail problem for random hypergraphs](https://arxiv.org/abs/1910.02916) (with Yang Liu) \\
@@ -221,10 +221,10 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 **Directed graphs and tournaments**
 
-<img class="side" alt="" height="30" src="impartial.png"/>
+{%include side_image height="30" src="impartial.png" %}
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou) \\
   _Combinatorica_, to appear.
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2019/06/27/impartial-digraphs/">blog</a>
+  {%include button href="/blog/2019/06/27/impartial-digraphs/" text="blog" %}
   
 **Extremal and Ramsey graph theory**
 
@@ -233,12 +233,12 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   _Combinatorica_ 35 (2015), 435--476.
 
 **More sums than differences sets**
-<a class="btn btn-secondary btn-sm" href="slides/mstd.pdf">slides</a>
+{%include button href="slides/mstd.pdf" text="slides" %}
 
-* <img class="side" alt="" height="78" src="bidirectional.png" width="200"/>
-  [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
+{%include side_image height="78" src="bidirectional.png" width="200" %}
+* [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
   _Journal of Number Theory_ 130 (2010), 1212--1220.
-  <a class="btn btn-secondary btn-sm" href="bidirectional_ballot.pdf">extended version</a>
+  {%include button href="bidirectional_ballot.pdf" text="extended version" %}
 
 * [Counting MSTD sets in finite Abelian groups](http://arxiv.org/abs/0911.2288) \\
   _Journal of Number Theory_ 130 (2010), 2308--2322.  
@@ -256,22 +256,20 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 ## Expositions and surveys
 
-* <img class="side" src="primes-AP.svg" height="50" alt="" />
-  [The Green-Tao theorem: an exposition](http://arxiv.org/abs/1403.2957)
+{%include side_image src="primes-AP.svg" height="50" alt="" %}
+* [The Green-Tao theorem: an exposition](http://arxiv.org/abs/1403.2957)
   (with David Conlon and Jacob Fox) \\
   _EMS Surveys in Mathematical Sciences_ 1 (2014), 249--282.  
 
-* <img class="side" src="extremal-regular.png" height="50" alt="" />
-  [Extremal regular graphs: independent sets and graph homomorphisms](extremal-regular-graphs.pdf) \\
+{%include side_image src="extremal-regular.png" height="50" %}
+* [Extremal regular graphs: independent sets and graph homomorphisms](extremal-regular-graphs.pdf) \\
   _American Mathematical Monthly_ 124 (2017), 827--843.
-  <a class="btn btn-secondary btn-sm" href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/">blog</a>
+  {%include button href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/" text="blog" %}
 
 **Older expository papers and notes**
 
-* <a class="side" href="http://www.math.harvard.edu/hcmr/issues/2a.pdf" >
-<img alt="" class="shadow" height="144" src="hcmr_cover.png" style="opacity:0.8;" width="100">
-</a>
-[Szemerédi’s theorem via ergodic theory](szemeredi-expo.pdf)
+{%include side_image src="hcmr_cover.png" width="100" %}
+* [Szemerédi’s theorem via ergodic theory](szemeredi-expo.pdf)
 
 * [Biased riffle shuffles, quasisymmetric functions, and the RSK algorithm](shuffling.pdf)
 
