@@ -1,6 +1,6 @@
 ---
 title: "Joints tightened"
-layout: post
+layout: blog
 ---
 
 I’m happy to announce a new paper titled [Joints tightened](https://arxiv.org/abs/1911.08605) coauthored with Hung-Hsun Hans Yu, an undergraduate student at MIT. In this paper, we determine the tight constant in the joints problem.  

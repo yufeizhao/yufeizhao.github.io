@@ -1,7 +1,6 @@
 ---
 title: "A reverse Sidorenko inequality"
-layout: post
----
+layout: blog---
 
 Together with undergraduates Ashwin Sah, Mehtaab Sawhney, and David Stoner (the same team that [proved Kahn's conjecture on independent sets that I blogged about earlier]({% post_url /blog/2018-05-12-the-number-of-independent-sets-in-an-irregular-graph %}),
 we are excited to announce our new paper [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462). This paper solves several open problems concerning graph colorings and homomorphisms, including one of my favorite problems regarding maximizing the number of _q_-colorings in a _d_-regular graph. I had previously [blogged](https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/) about some of these problems.

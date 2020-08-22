@@ -1,6 +1,6 @@
 ---
 title: "Equiangular lines with a fixed angle"
-layout: post
+layout: blog
 ---
 
 I'm happy to announce our new paper [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) joint with four MIT coauthors: Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang.
