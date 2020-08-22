@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Math Olympiad training handouts
+title: Math Olympiad training handouts | Yufei Zhao 
 description: Yufei Zhao's notes on algebra, combinatorics, geometry, and number theory for math olympiad training
 ---
 

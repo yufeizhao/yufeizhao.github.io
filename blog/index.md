@@ -1,21 +1,25 @@
 ---
 layout: default
-title: Yufei Zhao | MIT Mathematics
-description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics"
+title: Yufei Zhao | Blog
+description: "Blog of Yufei Zhao, Assistant Professor of Mathematics at MIT"
 ---
 
+
+<div class="blog">
 <h1 class="content-listing-header sans">Blog</h1>
 
-[List of entries](list)
+<p>
+<a href="/blog/list/">List of entries</a>
+|
+{% include rssicon.html %}
+</p>
 
-<ul class="content-listing ">
-  {% for post in site.posts %}
-      <li class="listing">
-        <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-        <span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-        <div>{{ post.excerpt }}</div>
-        <hr class="slender">
-      </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+<p><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span></p>
+<div>{{ post.excerpt }}</div>
+<hr class="slender"> 
+<br/>
+{% endfor %}
 
+</div>

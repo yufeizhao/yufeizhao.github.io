@@ -3,12 +3,17 @@ layout: default
 title: Yufei Zhao | MIT Mathematics
 description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics"
 ---
+<div class="blog">
 
 <h1 class="content-listing-header sans">Blog</h1>
 
-[Back to main](../)
+<p>
+<a href="/blog/">Back to main</a>
+|
+{% include rssicon.html %}
+</p>
 
-<ul class="content-listing ">
+<ul>
   {% for post in site.posts %}
       <li >
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -17,3 +22,5 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
       </li>
   {% endfor %}
 </ul>
+
+</div>

@@ -2,20 +2,17 @@
 layout: default
 ---
 
+<div class="blog">
 
 <h1 class="content-listing-header sans">Blog</h1>
 
 <p><a href="/blog/">Back to main</a> 
     |
-    <a href="/blog/list/">List of entries</a>
-
-<ul class="content-listing ">
-    <li class="listing">
-        <h2>{{ page.title }}</h2>
-        <span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span>  <br/>
-        <div>
-            {{ content }}
-        </div>
-    </li>
-</ul>
-
+<a href="/blog/list/">List of entries</a>
+    |
+{% include rssicon.html %}
+</p>
+<h2>{{ page.title }}</h2>
+<p><span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+<div>{{ content }}</div>
+</div>

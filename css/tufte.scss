@@ -24,16 +24,16 @@ html, body { height: 100%; }
 
 html{
     text-align: baseline;
-    font-size: 11px;
+    font-size: 14px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 
-@media screen and (min-width: 800px){ html{ font-size: 12px;} }
+// @media screen and (min-width: 800px){ html{ font-size: 12px;} }
 
-@media screen and (min-width: 900px){ html{ font-size: 13px;} }
+// @media screen and (min-width: 900px){ html{ font-size: 13px;} }
 
-@media screen and (min-width: 1000px){ html{ font-size: 14px;} }
+// @media screen and (min-width: 1000px){ html{ font-size: 14px;} }
 
 // @media screen and (min-width: 1100px){ html{ font-size: 15px; } }
 
@@ -65,15 +65,21 @@ p > a { @if $link-style == underline
     }
   }
 
-body { width: 95%;
-       margin-left: auto;
-       margin-right: auto;
+body { width: 100%;
+       margin: auto;
+      //  margin-left: auto;
+      //  margin-right: auto;
        //padding-left: 12.5%;
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
        max-width: 1000px;
        counter-reset: sidenote-counter; }
+
+.blog { 
+  max-width: 700px; 
+  margin: auto;
+}
 
 // .container-fluid {
 //    max-width: 1000px;
@@ -199,7 +205,6 @@ article { //position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
-
 ul,ol { //width: 45%;
      //-webkit-padding-start: 3%;
      padding-left:3%;
@@ -322,43 +327,43 @@ pre, pre code, p pre code { width: 52.5%;
 
 //.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
-span.newthought { font-variant: small-caps;
-                  font-size: 1.2em;
-                  letter-spacing: 0.05rem; }
+// span.newthought { font-variant: small-caps;
+//                   font-size: 1.2em;
+//                   letter-spacing: 0.05rem; }
 
-input.margin-toggle { display: none; }
+// input.margin-toggle { display: none; }
 
-label.sidenote-number { display: inline; }
+// label.sidenote-number { display: inline; }
 
-label.margin-toggle:not(.sidenote-number) { display: none; }
+// label.margin-toggle:not(.sidenote-number) { display: none; }
 
-@media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: $contrast-color; }
-                            .sidenote, .marginnote { display: none; }
-                            .margin-toggle:checked + .sidenote,
-                            .margin-toggle:checked + .marginnote { display: block;
-                                                                   float: left;
-                                                                   left: 1rem;
-                                                                   clear: both;
-                                                                   width: 95%;
-                                                                   margin: 1rem 2.5%;
-                                                                   vertical-align: baseline;
-                                                                   position: relative; }
-                            label { cursor: pointer; }
-                            pre, pre code, p code, p pre code { width: 90%;
-                                       padding: 0; }
-                            .table-caption { display: block;
-                                             float: right;
-                                             clear: both;
-                                             width: 98%;
-                                             margin-top: 1rem;
-                                             margin-bottom: 0.5rem;
-                                             margin-left: 1%;
-                                             margin-right: 1%;
-                                             vertical-align: baseline;
-                                             position: relative; }
-                            div.table-wrapper, table, table.booktabs { width: 85%; }
-                            div.table-wrapper { border-right: 1px solid #efefef; }
-                            img { max-width: 100%; } }
+// @media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: $contrast-color; }
+//                             .sidenote, .marginnote { display: none; }
+//                             .margin-toggle:checked + .sidenote,
+//                             .margin-toggle:checked + .marginnote { display: block;
+//                                                                    float: left;
+//                                                                    left: 1rem;
+//                                                                    clear: both;
+//                                                                    width: 95%;
+//                                                                    margin: 1rem 2.5%;
+//                                                                    vertical-align: baseline;
+//                                                                    position: relative; }
+//                             label { cursor: pointer; }
+//                             pre, pre code, p code, p pre code { width: 90%;
+//                                        padding: 0; }
+//                             .table-caption { display: block;
+//                                              float: right;
+//                                              clear: both;
+//                                              width: 98%;
+//                                              margin-top: 1rem;
+//                                              margin-bottom: 0.5rem;
+//                                              margin-left: 1%;
+//                                              margin-right: 1%;
+//                                              vertical-align: baseline;
+//                                              position: relative; }
+//                             div.table-wrapper, table, table.booktabs { width: 85%; }
+//                             div.table-wrapper { border-right: 1px solid #efefef; }
+//                             img { max-width: 100%; } }
 /*--- End of Basic Layout stuff from tufte.css ---*/
 
 /* -- Jekyll specific styling --*/
@@ -436,12 +441,12 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{
-       width: 90%;
-       margin-left: auto;
-       margin-right: auto;
-       padding: 0% 0%;
-}
+// body.full-width, .content-listing, ul.content-listing li.listing{
+//        width: 90%;
+//        margin-left: auto;
+//        margin-right: auto;
+//        padding: 0% 0%;
+// }
 
 // .full-width article p{
 //    width: 90%;
@@ -559,9 +564,9 @@ hr.slender {
     //   display:none;
     // }
 
-    .side {
-      display: none;
-    }
+    // .side {
+    //   display: none;
+    // }
 }
 
 
@@ -644,7 +649,6 @@ hr.slender {
 
 
 
-/*-- make image disappear if screen too small --*/
 
 
 .side { float: right;
@@ -653,11 +657,13 @@ hr.slender {
         font-size: 1.0rem;
         position: relative; }
 
-@media screen and (max-width:600px) {
-  .side {
-    display: none;
-  }
-}
+/*-- make image disappear if screen too small --*/
+
+// @media screen and (max-width:600px) {
+//   .side {
+//     display: none;
+//   }
+// }
 
 
 

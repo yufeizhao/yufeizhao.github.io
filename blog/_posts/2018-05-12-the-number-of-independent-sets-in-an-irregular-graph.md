@@ -1,6 +1,7 @@
 ---
 title: "The number of independent sets in an irregular graph"
-layout: blog---
+layout: blog
+---
 
 I am excited to announce our new paper, [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021), coauthored with these three amazing collaborators:
 
