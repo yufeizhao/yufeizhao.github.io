@@ -5,8 +5,8 @@ layout: blog
 
 I'm happy to announce our new paper [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) joint with four MIT coauthors: Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang.
 
-{% include image.html 
-    src = "/blog/images/equiangular_lines_team.jpg"
+{% include blog_image
+    src = "equiangular_lines_team.jpg"
     caption = "(L->R) Shengtong Zhang, Yuan Yao, Jonathan Tidor, Zilin Jiang, me"
 %}
 

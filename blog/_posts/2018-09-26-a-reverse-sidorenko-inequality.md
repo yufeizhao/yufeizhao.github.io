@@ -8,8 +8,8 @@ we are excited to announce our new paper [A reverse Sidorenko inequality](https:
 
 It has been truly a pleasure working with Ashwin, Mehtaab, and David on this project. I have learned so much from them.
 
-{% include image.html 
-    src = "/blog/images/hom_coloring.png"
+{% include blog_image
+    src = "hom_coloring.png"
     width = "400"
 %}
 

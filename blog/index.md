@@ -11,7 +11,7 @@ description: "Blog of Yufei Zhao, Assistant Professor of Mathematics at MIT"
 <p>
 <a href="/blog/list/">List of entries</a>
 |
-{% include rssicon.html %}
+{% include rss_logo %}
 </p>
 
 {% for post in site.posts %}

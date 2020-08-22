@@ -5,8 +5,8 @@ layout: blog
 
 I just finished a new paper, [Impartial digraphs](https://arxiv.org/abs/1906.10482), coauthored with Yunkun Zhou, who just completed his undergraduate studies at MIT and will be moving to Stanford to start his PhD this fall.
 
-{% include image.html 
-    src = "/blog/images/yunkun-zhou-2019.jpg"
+{% include blog_image
+    src = "yunkun-zhou-2019.jpg"
     caption = "with Yunkun Zhou (R) after his MIT commencement"
 %}
 
@@ -16,28 +16,28 @@ I really enjoyed working on this paper with Yunkun. The problem is natural and s
 
 We are going to talk about **directed graphs** (which graph theorists like to abbreviate as **digraphs**). These are graphs where every edge is given an orientation.
 
-{% include image.html 
-    src = "/blog/images/impartial-0.png"
+{% include blog_image
+    src = "impartial-0.png"
     width = "150"
 %}
 
 A **tournament** is a directed graph where there is a directed edge between every pair of vertices (think of it as recording the outcome of a round-robin tournament where every player plays against every other player).
 
-{% include image.html 
-    src = "/blog/images/impartial-1.png"
+{% include blog_image
+    src = "impartial-1.png"
     width = "150"
 %}
 
 Given a directed graph _H_ (think of it as a pattern), we can ask: how many different copies of the pattern _H_ appear in a given tournament?
 
-{% include image.html 
-    src = "/blog/images/impartial-2.png"
+{% include blog_image
+    src = "impartial-2.png"
 %}
 
 Look at the following 4-vertex tournament _H_. It has the following curious property: all tournaments of a fixed size contains the same number of copies of H, no matter how the edges in the tournament are oriented.
 
-{% include image.html 
-    src = "/blog/images/impartial-2a.png"
+{% include blog_image
+    src = "impartial-2a.png"
 %}
 
 Hmm, why is this true? And are there other directed graphs _H_ with the same property, namely that all tournaments of a given size contain the same number of copies of _H_?
@@ -48,15 +48,15 @@ Okay. So why is the above directed graph impartial? Are there any other impartia
 
 Here is a simple example of an impartial digraph:
 
-{% include image.html 
-    src = "/blog/images/impartial-4.png"
+{% include blog_image
+    src = "impartial-4.png"
     width = "70"
 %}
 
 Here is another one:
 
-{% include image.html 
-    src = "/blog/images/impartial-5.png"
+{% include blog_image
+    src = "impartial-5.png"
     width = "100"
 %}
 
@@ -64,37 +64,37 @@ Indeed, given any 10-vertex tournament, we can count the number of copies of the
 
 Once these two edges are placed in a tournament, there are two ways to join their tips, but they result in identical patterns (one flipped from the other):
 
-{% include image.html 
-    src = "/blog/images/impartial-6.png"
+{% include blog_image
+    src = "impartial-6.png"
     width = "150"
 %}
 
 It must then follow that this directed graph is impartial as well:
 
-{% include image.html 
-    src = "/blog/images/impartial-8.png"
+{% include blog_image
+    src = "impartial-8.png"
     width = "80"
 %}
 
 We can follow the same logic and continue this procedure, iterate, and build up even larger impartial directed graphs. Each step, take two copies of the previous tree (keeping the same edge orientations), and then add a new edge between a twin pair of vertices.
 
-{% include image.html 
-    src = "/blog/images/impartial-9.png"
+{% include blog_image
+    src = "impartial-9.png"
     width = "150"
 %}
 
-{% include image.html 
-    src = "/blog/images/impartial-10.png"
+{% include blog_image
+    src = "impartial-10.png"
     width = "150"
 %}
 
-{% include image.html 
-    src = "/blog/images/impartial-11.png"
+{% include blog_image
+    src = "impartial-11.png"
     width = "300"
 %}
 
-{% include image.html 
-    src = "/blog/images/impartial-12.png"
+{% include blog_image
+    src = "impartial-12.png"
     width = "300"
 %}
 

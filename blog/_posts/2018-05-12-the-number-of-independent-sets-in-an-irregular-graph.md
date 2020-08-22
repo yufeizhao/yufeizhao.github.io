@@ -6,7 +6,12 @@ layout: blog
 I am excited to announce our new paper, [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021), coauthored with these three amazing collaborators:
 
 <figure>
-  <img src="/blog/images/ashwin-sah-2019.jpg" height = "200"><img src="/blog/images/mehtaab-sawhney-2019.jpg" height = "200"><img src="/blog/images/david-stoner-2019.png" height = "200">
+  <img src="/blog/images/ashwin-sah-2019.jpg" height = "200">
+  
+  <img src="/blog/images/mehtaab-sawhney-2019.jpg" height = "200">
+  
+  <img src="/blog/images/david-stoner-2019.png" height = "200">
+  
   <figcaption>Ashwin Sah, Mehtaab Sawhney, David Stoner</figcaption>
 </figure>
 
@@ -16,8 +21,8 @@ The paper solves [a conjecture made by Jeff Kahn in 2001](https://doi.org/10.101
 
 An **independent set** of a graph is a subset of vertices with no two adjacent. 
 
-{% include image.html 
-    src = "/blog/images/indep-c4.png"
+{% include blog_image
+    src = "indep-c4.png"
     caption = "Example: the complete list of independent sets of a cycle of length 4"
 %}
 
@@ -46,7 +51,7 @@ This is certainly not the end of the story, as many more interesting problems on
 
 Anyway, here is the the answer to the question above. The number of independent sets in an _n_-vertex graph satisfying the above properties is at most $$c^n$$, where the optimal constant for _c_ is $$15^{4/63} \times  23^{1/21} \times 31^{1/28} = 1.558\dots$$, or, more helpfully, the maximum is attained by the following graph (in general, the theorem says that the maximizer is always a disjoint union of complete bipartite graphs):
 
-{% include image.html 
-    src = "/blog/images/indep-k33-k34-k441.png"
-    width = "200"
+{% include blog_image
+    src = "indep-k33-k34-k441.png"
+    width = "150"
 %}

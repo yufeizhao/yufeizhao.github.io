@@ -3,8 +3,8 @@ title: "Ashwin Sah's new diagonal Ramsey number upper bound"
 layout: blog
 ---
 
-{% include image.html 
-    src = "/blog/images/ashwin-sah-2020.jpg"
+{% include blog_image
+    src = "ashwin-sah-2020.jpg"
     width = "200"
     caption = "Ashwin Sah"
 %}

@@ -1,0 +1,6 @@
+<figure>
+  <img src="/blog/images/{{ include.src }}" width = "{{ include.width }}">
+  {% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>

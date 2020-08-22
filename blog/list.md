@@ -10,7 +10,7 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 <p>
 <a href="/blog/">Back to main</a>
 |
-{% include rssicon.html %}
+{% include rss_logo %}
 </p>
 
 <ul>

@@ -5,8 +5,8 @@ layout: blog
 
 I’m happy to announce a new paper titled [Joints tightened](https://arxiv.org/abs/1911.08605) coauthored with Hung-Hsun Hans Yu, an undergraduate student at MIT. In this paper, we determine the tight constant in the joints problem.  
 
-{% include image.html 
-    src = "/blog/images/hans-yu-2019.jpg"
+{% include blog_image
+    src = "hans-yu-2019.jpg"
     width = "300"
     caption = "Hung-Hsun Hans Yu"
 %}
@@ -17,8 +17,8 @@ Suppose you are allowed to draw _L_ lines in space. What is the maximum possible
 
 It turns out this is not a great question, since you can “cheat” by drawing a 2-dimensional picture from a grid as below. This configuration of _L_ lines has $$\Theta(L^2)$$ triple intersections, and you cannot do much better since _L_ lines have at most $L^2$ intersections.
 
-{% include image.html 
-    src = "/blog/images/joints-grid-diagonal.png"
+{% include blog_image
+    src = "joints-grid-diagonal.png"
     width = "200"
     caption = "Not a joints configurations"
 %}
@@ -27,8 +27,8 @@ The issue with the above example is that it is really a 2-dimensional configurat
 
 Given a collection of lines in space, we define a **joint** to be a point that is contained in three of our lines and not all lying on the same plane.
 
-{% include image.html 
-    src = "/blog/images/joints-3-planes.png"
+{% include blog_image
+    src = "joints-3-planes.png"
     width = "200"
     caption = "A joint"
 %}
@@ -42,8 +42,8 @@ Here are some examples of configurations of lines that have a lot of joints.
 **Example 1.** The easiest example to visualize is by considering a $$k \times k \times k$$ grid of lines, which has $$L = 3k^2$$ lines and $$J = k^3 = (L/3)^{3/2}$$ joints:  
 
 
-{% include image.html 
-    src = "/blog/images/joint-3d-grid.png"
+{% include blog_image
+    src = "joint-3d-grid.png"
     width = "300"
     caption = "A grid of joints"
 %}
@@ -51,13 +51,11 @@ Here are some examples of configurations of lines that have a lot of joints.
 
 **Example 2.** Actually, there is another example that has even more joints (by a constant factor). Think about a tetrahedron, formed by 4 faces (planes), and whose edges form 6 lines, and the vertices form 4 joints. We can generalize the tetrahedron example by taking _k_ generic planes in space, and have the planes pairwise intersect to make $$L = \binom{k}{2}$$ lines, and triplewise intersect to make $$J = \binom{k}{3}$$ joints. (This example appeared in the [original paper](https://doi.org/10.1016/0925-7721(92)90009-H) on the joints problem.)
 
-
-{% include image.html 
-    src = "/blog/images/joints-optimal.png"
+{% include blog_image
+    src = "joints-optimal.png"
     width = "300"
     caption = "Planes, lines, and joints"
 %}
-
 
 In both examples, the number of joints is $$\Theta(L^{3/2})$$. A matching upper bound on the number of joints turned out to be much less obvious. A stunning breakthrough took place in 2008 when [Guth and Katz](https://arxiv.org/abs/0812.1043) proved an $$O(L^{3/2})$$ upper bound on the number of joints in using the polynomial method. Their solution was partly inspired by [Dvir’s stunning solution](https://arxiv.org/abs/0803.2336) to the finite field Kakeya problem, and it was also a precursor to Guth and Katz’s subsequent celebrated [solution of the Erdős distinct distances problem](https://arxiv.org/abs/1011.4105).
 
