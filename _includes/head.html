@@ -4,24 +4,16 @@
   <title>{% if page.layout == "post" %}Yufei Zhao's Blog | {% endif %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
   <meta name="author" content="Yufei Zhao">
+  {% if page.url contains "/blog/" %} <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl }} /> {% endif %}
 
-  {% if page.url contains "/blog/" %}
-  <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl }} />
-  {% endif %}
-
-  {% if page.favicon %}
-  <link rel="shortcut icon" href="{{page.favicon}}">
-  {% else %}
-  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-  {% endif %}
-
+  {% if page.favicon %}  <link rel="shortcut icon" href="{{page.favicon}}">
+  {% else %}  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}"> {% endif %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31091454-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'UA-31091454-1');
   </script>
 
@@ -30,17 +22,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
-  {% if site.data.options.lato_font_load %}
-  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-  {% endif %}
+  {% if site.data.options.lato_font_load %}<link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>{% endif %}
 
   <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" | prepend: site.baseurl }}">
-
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-  <!--<script type="text/x-mathjax-config">
-      MathJax.Hub.Config({ tex2jax: { inlineMath: [ ['$', '$'], ['\\(', '\\)'] ] } });
-  </script>-->
 
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({

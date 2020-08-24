@@ -57,7 +57,9 @@ Homework will be graded on correctness and presentation. Illegible or extremely 
 
 _Subject to change. See homework policy below._ (SS = Supplementary set)
 
-- **W 9/2** Introductions (only attended by registered students)
+Lectures are open to all MIT students. All other sessions are restricted to official seminar participants.
+
+- **W 9/2** Introductions (only official participants attend)
 - ~~M 9/7~~ _No class (labor day)_
 - **W 9/9** Lecture
 - **M 9/14** Presentations. Due: HW and [SS1](ps/hw1.pdf)
