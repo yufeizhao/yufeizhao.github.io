@@ -60,32 +60,32 @@ _Subject to change. See homework policy below._ (SS = Supplementary set)
 Lectures are open to all MIT students. All other sessions are restricted to official seminar participants.
 
 - **W 9/2** Introductions (only official participants attend)
-- ~~M 9/7~~ _No class (labor day)_
-- **W 9/9** Lecture
-- **M 9/14** Presentations. Due: HW and [SS1](ps/hw1.pdf)
-- **W 9/16** Lecture
-- **M 9/21** Presentations. Due: HW and [SS2](ps/hw2.pdf)
-- **W 9/23** Lecture
-- **M 9/28** Presentations. Due: HW and [SS3](ps/hw3.pdf)
-- **W 9/30** Lecture
-- **M 10/5** Presentations. Due: HW and [SS4](ps/hw4.pdf)
-- **W 10/7** Lecture
-- **_T_ 10/13** Presentations. Due: HW and [SS5](ps/hw5.pdf)
-- **W 10/14** Lecture
-- **M 10/19** Presentations. Due: HW and [SS6](ps/hw6.pdf)
-- **W 10/21** Lecture
-- **M 10/26** Presentations. Due: HW and [SS7](ps/hw7.pdf)
-- **W 10/28** Lecture
-- **M 11/2** Presentations. Due: HW and [SS8](ps/hw8.pdf)
-- **W 11/4** Lecture
-- **M 11/9** Presentations. Due: HW and [SS9](ps/hw9.pdf)
+- ~~M 9/7~~ _No class (Labor Day)_
+- **W 9/9** Lecture by Yufei Zhao
+- **M 9/14** Presentations. Due: Independence and uniformity and [SS1](ps/hw1.pdf)
+- **W 9/16** Lecture by Mehtaab Sawhney
+- **M 9/21** Presentations. Due: Inequalities and [SS2](ps/hw2.pdf)
+- **W 9/23** Lecture by Shengtong Zhang
+- **M 9/28** Presentations. Due: Sums and integrals and [SS3](ps/hw3.pdf)
+- **W 9/30** Lecture by Yuan Yao
+- **M 10/5** Presentations. Due: Combinatorial configurations and [SS4](ps/hw4.pdf)
+- **W 10/7** Lecture by Hung-Hsun Hans Yu
+- **_T_ 10/13** Presentations. Due: Recurrences and [SS5](ps/hw5.pdf)
+- **W 10/14** Lecture by Ashwin Sah
+- **M 10/19** Presentations. Due: Analysis and [SS6](ps/hw6.pdf)
+- **W 10/21** Lecture by Daniel Zhu
+- **M 10/26** Presentations. Due: Generating functions and [SS7](ps/hw7.pdf)
+- **W 10/28** Lecture by Zilin Jiang
+- **M 11/2** Presentations. Due: Abstract algebra and [SS8](ps/hw8.pdf)
+- **W 11/4** Lecture by Dain Kim
+- **M 11/9** Presentations. Due: Polynomials and [SS9](ps/hw9.pdf)
 - ~~W 11/11~~ _No class (Veterans Day)_
 - **M 11/16** Presentations.
-- **W 11/18** Lecture
+- **W 11/18** Lecture by Junyao Peng
 - _(Thanksgiving break)_
-- **M 11/30** Presentations. Due: HW and [SS10](ps/hw10.pdf)
-- **W 12/2** Lecture
-- **M 12/7** Presentations. Due: HW and [SS11](ps/hw11.pdf)
+- **M 11/30** Presentations. Due: Number theory and [SS10](ps/hw10.pdf)
+- **W 12/2** Lecture by Allen Liu
+- **M 12/7** Presentations. Due: Linear algebra and [SS11](ps/hw11.pdf)
 - **W 12/9** Presentations
 
 ## Homework
