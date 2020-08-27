@@ -57,7 +57,9 @@ Homework will be graded on correctness and presentation. Illegible or extremely 
 
 _Subject to change. See homework policy below._ (SS = Supplementary set)
 
-Lectures are open to all MIT students ([Zoom link](https://mit.zoom.us/j/92533740435?pwd=aHd5c2JtL0Z0U1ROaWZiOXBrVytyZz09); MIT Touchstone authentication required). All other sessions are restricted to official seminar participants (link in [Canvas](https://canvas.mit.edu/courses/5625)).
+Lectures are open to all MIT students ([Zoom link](https://mit.zoom.us/j/92533740435?pwd=aHd5c2JtL0Z0U1ROaWZiOXBrVytyZz09); MIT Touchstone authentication required). 
+
+All other sessions are restricted to official seminar participants (link in [Canvas](https://canvas.mit.edu/courses/5625)).
 
 - **W 9/2** Introductions (only official participants attend)
 - ~~M 9/7~~ _No class (Labor Day)_
