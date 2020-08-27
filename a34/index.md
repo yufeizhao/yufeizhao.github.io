@@ -14,7 +14,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 Please include "18.A34" in the subject line of your emails
 
-Canvas and Zoom links available soon
+[Link to Canvas](https://canvas.mit.edu/courses/5625)
 
 ## Course description and policies
 
@@ -57,7 +57,7 @@ Homework will be graded on correctness and presentation. Illegible or extremely 
 
 _Subject to change. See homework policy below._ (SS = Supplementary set)
 
-Lectures are open to all MIT students. All other sessions are restricted to official seminar participants.
+Lectures are open to all MIT students ([Zoom link](https://mit.zoom.us/j/92533740435?pwd=aHd5c2JtL0Z0U1ROaWZiOXBrVytyZz09); MIT Touchstone authentication required). All other sessions are restricted to official seminar participants (link in [Canvas](https://canvas.mit.edu/courses/5625)).
 
 - **W 9/2** Introductions (only official participants attend)
 - ~~M 9/7~~ _No class (Labor Day)_

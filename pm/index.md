@@ -14,7 +14,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 Please include "18.226" in the subject line of your emails
 
-Canvas and Zoom links available soon
+[Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom)
 
 **Office hours:**
 I still stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
@@ -25,7 +25,7 @@ My policy is to not answer by email any math questions related to the class, due
 
 A graduate-level introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is the following: to show that some combinatorial object exists, we prove that a certain random construction works with positive probability. The course will focus on methodology as well as combinatorial applications.
 
-_Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice)
+_Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice). Available electronically from MIT Libraries
 
 _Prerequisites:_ Mathematical maturity at the level of a first-year math graduate student.
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
