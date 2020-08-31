@@ -12,6 +12,8 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
 
+**Assistants:** [Dain Kim](dain0327@mit.edu) and [Daniel Zhu](zhd@mit.edu)
+
 Please include "18.A34" in the subject line of your emails
 
 [Link to Canvas](https://canvas.mit.edu/courses/5625)
@@ -36,7 +38,7 @@ The presenting student should pick a problem, and screen-share their solution, a
 This is a new format as we are adapting to remote-teaching. We may experiment with different formats as the semester progresses.
 
 _Attendance._
-Class attendance is **required** for registered students. 
+Class attendance is **required** for registered students.
 Active participation is an important aspect of this seminar.
 Please notify me in advance if you cannot make it to class.
 Too many unexcused absences is cause for concern and may lead to a non-passing grade.
@@ -48,7 +50,7 @@ MIT students not registered in the class are welcome to attend the lectures but 
 
 Seminar participants were selected through the first-year advising selection process, and unfortunately I will not be able to add additional students. _Listeners are not permitted in 18.A34._
 
-_Grading._ Based on homework and in-class participation. 
+_Grading._ Based on homework and in-class participation.
 Homework will be graded on correctness and presentation. Illegible or extremely sloppy write-ups are unacceptable.
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
