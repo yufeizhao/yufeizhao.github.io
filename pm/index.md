@@ -31,9 +31,9 @@ _Prerequisites:_ Mathematical maturity at the level of a first-year math graduat
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
 
 _Grading:_ Primarily based on homework grades (no exams). 
-A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at the discretion of the instructor based on factors such as general participation.
+A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at the discretion of the instructor based on factors such as participation.
 
-Cutoffs: Only non-starred problems are considered for the calculations of the letter grades other than A or A+: 
+Cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+: 
 * A− : ≥ 85%
 * B− : ≥ 70%
 * C− : ≥ 50%
@@ -79,7 +79,7 @@ They may contain inaccuracies, and may not align with the contents of the curren
 
 ## Homework
 
-**[Problem set](ps.pdf)**: a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems. 
+**[Problem set](ps.pdf)**: a list of problems for practice. A subset of these problems will be assigned as homework. You should only submit the designated problems, but are encouraged to try the rest as well.
 
 To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
 _It will be essential to start thinking about these problems early._
@@ -97,7 +97,7 @@ _Schedule (tentative)_
 
 _Submissions_ 
 * Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
-* Due time: **11:59pm of each due date** (except for PS 6, which is due at 10 PM). All times refer to US Eastern time
+* Due time: **11:59pm of each due date** (except for PS 6, which is due at 9 PM). All times refer to US Eastern time
 * Begin each solution on a new page
 
 _Late policy_ 
