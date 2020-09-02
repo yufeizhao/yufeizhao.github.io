@@ -106,7 +106,7 @@ _Late policy_
 * **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
-   * The final submission should include all the problems, with the late problems clearly marked.
+   * The final submission should include everything, with the late problems clearly marked.
    * Please email me and the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
    * This policy is provided as a courtesy; it may be rescinded if subject to abuse.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email me **in advance** or have S3 send me a message.
