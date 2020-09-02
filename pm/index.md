@@ -42,7 +42,14 @@ Grades of A and A+ are awarded at my discretion based on overall performance, in
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 
-## Lectures
+## Lectures and notes
+
+Instructor notes --- coming soon (will be updated after each lecture)
+
+[Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
+
+[Student-produced notes from previous semester](/pm/sp19/pmnotes.pdf) --- _not_ the official notes of the this course. May contain inaccuracies, and may not perfectly align with the contents of the current version of the course (though will largely be similar).
+
 
 _Schedule tentative_
 
@@ -72,9 +79,6 @@ _Schedule tentative_
 - **12/7** 
 - **12/9** 
 
-Lecture notes taken by Andrew Lin, a student in a previous version of the course, are available [here](pmnotes.pdf). 
-They are NOT the official notes of the this course. 
-They may contain inaccuracies, and may not align with the contents of the current version of the course.
 
 
 ## Homework
