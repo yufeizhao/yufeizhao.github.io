@@ -17,7 +17,7 @@ Please include "18.226" in the subject line of your emails
 [Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom)
 
 **Office hours:**
-I still stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
+I will stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
 
 My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
 
