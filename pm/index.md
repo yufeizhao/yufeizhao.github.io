@@ -116,7 +116,8 @@ _Sources_
 
 * **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.).
 * If no additional sources are consulted, you must write `sources consulted: none` or equivalent.
-* **Failure to acknowledge sources will lead to an automatic 1 point penalty** (out of 10 points per problem). You may not look up solutions to homework problems online or offline. 
+* **Failure to acknowledge sources will lead to an automatic 1 point penalty** (out of 10 points per problem). 
+* You may not look up solutions to homework problems online or offline. 
 * You are strongly discouraged from looking at end-of-textbook hints.
 
 _Collaboration policy_ 
