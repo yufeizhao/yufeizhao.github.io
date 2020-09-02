@@ -50,7 +50,6 @@ Instructor notes --- coming soon (will be updated after each lecture)
 
 [Student-produced notes from previous semester](/pm/sp19/pmnotes.pdf) --- _not_ the official notes of the this course. May contain inaccuracies, and may not perfectly align with the contents of the current version of the course (though will largely be similar).
 
-
 _Schedule tentative_
 
 - **9/2** Introduction to the probabilistic method.
