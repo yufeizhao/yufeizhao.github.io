@@ -51,14 +51,19 @@ a, a:hover{
   text-decoration: none;
 }
 
-.button > a {
-  font-size: 80%;
+.button a {
+  font-size: 70%;
   color: $button-color;
+  padding: 2px 3px;
+  border: 1px solid $button-color;
+  border-radius: 5px;
   text-decoration: none;
 }
 
-.button > a:hover {
-  color: $button-hover-color;
+.button :hover {
+  background: #DDDDDD;
+  // color: $button-hover-color;
+  // border: 1px solid $button-hover-color;
 }
 
 

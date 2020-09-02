@@ -19,7 +19,7 @@ Please include "18.226" in the subject line of your emails
 **Office hours:**
 I still stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
 
-My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). Clarification questions (about homework or lectures) should be asked in the Canvas forum, as they may benefit the rest of the class.
+My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
 
 ## Course description and policies
 
@@ -79,12 +79,12 @@ They may contain inaccuracies, and may not align with the contents of the curren
 
 ## Homework
 
-**Problem set (to be posted)**: a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems. 
+**[Problem set](ps.pdf)**: a list of problems for practice. A subset of these problems will be designated as to-be-turned in by midnight of each due date. You should only submit the designated problems. 
 
 To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
-**It will be essential to start thinking about these problems early.**
+_It will be essential to start thinking about these problems early._
 
-_Schedule tentative_ 
+_Schedule (tentative)_ 
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
@@ -93,10 +93,10 @@ _Schedule tentative_
 | PS 3 | Sunday Oct 18 |
 | PS 4 | Sunday Nov 1 |
 | PS 5 | Sunday Nov 15 |
-| PS 6 | Wed Dec 9 (10PM) |
+| PS 6 | Wed Dec 9 (9PM) |
 
 _Submissions_ 
-* Must be typed in LaTeX and submitted as PDF on Canvas.
+* Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
 * Due time: **11:59pm of each due date** (except for PS 6, which is due at 10 PM). All times refer to US Eastern time
 * Begin each solution on a new page
 
@@ -106,6 +106,7 @@ _Late policy_
 * **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
+   * The final submission should include all the problems, with the late problems clearly marked.
    * Please email me and the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
    * This policy is provided as a courtesy; it may be rescinded if subject to abuse.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email me **in advance** or have S3 send me a message.
@@ -115,7 +116,7 @@ _Sources_
 
 * **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.).
 * If no additional sources are consulted, you must write `sources consulted: none` or equivalent.
-* **Failure to acknowledge sources will lead to an automatic 1pt penalty**. You may not look up solutions to homework problems online or offline. 
+* **Failure to acknowledge sources will lead to an automatic 1 point penalty**. You may not look up solutions to homework problems online or offline. 
 * You are strongly discouraged from looking at end-of-textbook hints.
 
 _Collaboration policy_ 

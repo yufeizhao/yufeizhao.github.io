@@ -102,7 +102,7 @@ Each problem set contains a (sometimes long) list of problems on a specific topi
 
 _Submitting homework:_
 
-* Homework must be submitted on Canvas before the beginning of the class meeting. 
+* Homework must be submitted on Gradescope (accessible from Canvas) before the beginning of the class meeting. 
 * Submission may be carefully handwritten or typed (illegible submissions are unacceptable).
 * Begin each solution on a new page.
 * Homework will be graded similarly to the Putnam competition. 
