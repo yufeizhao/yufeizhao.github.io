@@ -31,7 +31,7 @@ _Prerequisites:_ Mathematical maturity at the level of a first-year math graduat
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
 
 _Grading:_ Primarily based on homework grades (no exams). 
-A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, the discretion of the instructor based on factors such as general participation.
+A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at the discretion of the instructor based on factors such as general participation.
 
 Cutoffs: Only non-starred problems are considered for the calculations of the letter grades other than A or A+: 
 * A− : ≥ 85%
