@@ -44,7 +44,7 @@ Grades of A and A+ are awarded at my discretion based on overall performance, in
 
 ## Lectures and notes
 
-Instructor notes --- coming soon (will be updated after each lecture)
+[Instructor notes](notes.pdf) (will be updated after each lecture)
 
 [Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
 
