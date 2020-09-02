@@ -122,8 +122,10 @@ _Sources:_ It is required to acknowledge your sources (even if you worked indepe
 * You may NOT look up solutions to homework problems online (or offline).
 
 _Collaborations._ 
-You are strongly encouraged to work on the problems on your own, though reasonable collaboration is permitted. 
-Everyone must write their solutions individually and acknowledge their collaborators as noted above.
+* You are strongly encouraged to work on the problems on your own, though reasonable collaboration is permitted. 
+* Everyone must write their solutions individually and acknowledge their collaborators as noted above.
+* [Pset partners](https://psetpartners.mit.edu/) --- tool for finding problem set collaborators (MIT Touchstone required)
+
 
 ## Additional resources
 

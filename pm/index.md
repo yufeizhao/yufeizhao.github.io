@@ -122,6 +122,7 @@ _Sources_
 _Collaboration policy_ 
 * Start early and first think about the problems independently; you will gain the most of out the course this way.
 * Reasonable collaboration is permitted, but everyone must write their solutions individually and acknowledge their collaborators.
+* [Pset partners](https://psetpartners.mit.edu/) --- tool for finding problem set collaborators (MIT Touchstone required)
 
 
 Previous course homepage from [Spring 2019](sp19/) 
