@@ -52,7 +52,7 @@ Instructor notes --- coming soon (will be updated after each lecture)
 
 _Schedule tentative_
 
-- **9/2** Introduction to the probabilistic method.
+- **9/2** Introduction to the probabilistic method
 - **9/9** Linearity of expectations
 - **9/14** Linearity of expectations
 - **9/16** Alteration method
