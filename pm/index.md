@@ -31,14 +31,14 @@ _Prerequisites:_ Mathematical maturity at the level of a first-year math graduat
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
 
 _Grading:_ Primarily based on homework grades (no exams). 
-A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at the discretion of the instructor based on factors such as participation.
+A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at my discretion based on factors such as participation.
 
 Cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+: 
 * A− : ≥ 85%
 * B− : ≥ 70%
-* C− : ≥ 50%
-
-Grades of A and A+ are awarded at my discretion based on overall performance, in particular, solving a significant number of starred problems (please don't ask me what "a significant number" means).
+* C− : ≥ 50%  
+Grades of A and A+ are awarded at my discretion based on overall performance, in particular, solving a significant number of starred problems (please don't ask me what "a significant number" means). 
+Note that for MIT students, grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 

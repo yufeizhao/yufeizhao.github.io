@@ -142,7 +142,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 {%include side_image height="70" src="reverse_sidorenko.png" %}
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
-  _Inventiones Mathematicae_ 221, 665--711.
+  _Inventiones Mathematicae_ 221 (2020), 665--711.
   {%include button href="slides/reverse_sidorenko_slides.pdf" text="slides" %}
   {%include button href="/blog/2018/09/25/a-reverse-sidorenko-inequality/" text="blog" %}
 
