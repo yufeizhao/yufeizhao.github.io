@@ -12,9 +12,11 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
+**Grader:** [Sergei Korotkikh](korotkih@mit.edu)
+
 Please include "18.226" in the subject line of your emails
 
-[Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom)
+[Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom, Non-MIT individuals must obtain an MIT account, e.g., through cross-registration, to access the lectures)
 
 **Office hours:**
 I will stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
@@ -52,28 +54,28 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 _Schedule tentative_
 
-- **9/2** Introduction to the probabilistic method
-- **9/9** Linearity of expectations
+- **9/2** Introduction to the probabilistic method: Ramsey number lower bounds
+- **9/9** The basic method and gems: set systems and hypergraphs
 - **9/14** Linearity of expectations
-- **9/16** Alteration method
+- **9/16** Linearity of expectations
 - **9/21** Alteration method
-- **9/23** Second moment method
+- **9/23** Alteration method
 - **9/28** Second moment method
-- **9/30** Chernoff bound
-- **10/5** Local lemma
+- **9/30** Second moment method
+- **10/5** Chernoff bound
 - **10/7** Local lemma
 - **10/13** Local lemma
-- **10/14** Correlation inequalities
-- **10/19** Janson's inequalities
+- **10/14** Local lemma
+- **10/19** Correlation inequalities
 - **10/21** Janson's inequalities
-- **10/26** Martingale concentration
+- **10/26** Janson's inequalities
 - **10/28** Martingale concentration
-- **11/2** Concentration of measure
-- **11/4** Talagrand inequality
+- **11/2** Martingale concentration
+- **11/4** Concentration of measure
 - **11/9** Talagrand inequality
-- **11/16** Entropy method
+- **11/16** Talagrand inequality
 - **11/18** Entropy method
-- **11/30** 
+- **11/30** Entropy method
 - **12/2** 
 - **12/7** 
 - **12/9** 
