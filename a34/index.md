@@ -66,7 +66,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 9/2** Introductions (only official participants attend)
 - ~~M 9/7~~ _No class (Labor Day)_
 - **W 9/9** Lecture by Yufei Zhao
-- **M 9/14** Presentations. Due: Independence and uniformity and [SS1](ps/hw1.pdf)
+- **M 9/14** Presentations. Due: [Hidden independence and uniformity](ps/indep.pdf) and [SS1](ps/hw1.pdf)
 - **W 9/16** Lecture by Mehtaab Sawhney
 - **M 9/21** Presentations. Due: Inequalities and [SS2](ps/hw2.pdf)
 - **W 9/23** Lecture by Shengtong Zhang
