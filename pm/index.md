@@ -104,6 +104,7 @@ _Submissions_
 * Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
 * Due time: **11:59pm of each due date** (except for PS 6, which is due at 9 PM). All times refer to US Eastern time
 * Begin each solution on a new page
+* Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
 
 _Late policy_ 
 * **Penalty.** Late submissions will be penalized by 20% per each late day (24-hour increments, without fractional accounting).
