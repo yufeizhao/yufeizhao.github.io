@@ -52,7 +52,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 [Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
 
-[Student-produced notes from previous semester](/pm/sp19/pmnotes.pdf) --- _not_ the official notes of the this course. May contain inaccuracies, and may not perfectly align with the contents of the current version of the course (though will largely be similar).
+[Student-produced notes from previous semester](/pm/sp19/pmnotes.pdf) --- _not_ the official notes of this course. May contain inaccuracies, and may not perfectly align with the contents of the current version of the course (though will largely be similar).
 
 _Schedule tentative_
 
