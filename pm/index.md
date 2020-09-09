@@ -36,9 +36,11 @@ _Grading:_ Primarily based on homework grades (no exams).
 A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at my discretion based on factors such as participation.
 
 Cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+: 
+
 * A− : ≥ 85%
 * B− : ≥ 70%
 * C− : ≥ 50%  
+  
 Grades of A and A+ are awarded at my discretion based on overall performance, in particular, solving a significant number of starred problems (please don't ask me what "a significant number" means). 
 Note that for MIT students, grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
@@ -46,7 +48,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 ## Lectures and notes
 
-[Instructor notes](notes.pdf) (will be updated after each lecture)
+[Instructor notes](probmethod_notes.pdf) (will be updated after each lecture)
 
 [Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
 
