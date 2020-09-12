@@ -44,7 +44,7 @@ Here a joint is a point contained in three non-coplanar lines.
     caption = "A joint"
 %}
 
-Here is an example of a configuration of lines making many joints. Take _k_ generic planes in space, pairwise intersect them to form $$N = \binom{k}{2}$$ lines, and triplewise intersect to form $$J = \binom{k}{3} \sim \frac{\sqrt{3}}{2}$$ joints.
+Here is an example of a configuration of lines making many joints. Take _k_ generic planes in space, pairwise intersect them to form $$N = \binom{k}{2}$$ lines, and triplewise intersect to form $$J = \binom{k}{3} \sim \frac{\sqrt{3}}{2} N^{3/2}$$ joints.
 
 {% include blog_image
     src = "joints-optimal.png"

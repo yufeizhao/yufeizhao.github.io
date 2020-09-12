@@ -6,7 +6,7 @@
   <meta name="author" content="Yufei Zhao">
   {% if page.url contains "/blog/" %} <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl }} /> {% endif %}
 
-  {% if page.ogimage %}<meta property="og:image" content="{{ page.ogimage }}">{% endif %}
+  {% if page.image %}<meta property="og:image" content="{{ page.ogimage }}">{% endif %}
 
   {% if page.favicon %}  <link rel="shortcut icon" href="{{page.favicon}}">
   {% else %}  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}"> {% endif %}
