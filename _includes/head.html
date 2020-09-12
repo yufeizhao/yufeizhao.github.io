@@ -1,10 +1,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.layout == "post" %}Yufei Zhao's Blog | {% endif %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} {% if page.layout == "blog" %} | Yufei Zhao's Blog {% endif %}</title>
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
   <meta name="author" content="Yufei Zhao">
   {% if page.url contains "/blog/" %} <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl }} /> {% endif %}
+
+  {% if page.image %}<meta property="og:image" content="{{ page.image }}">{% endif %}
 
   {% if page.favicon %}  <link rel="shortcut icon" href="{{page.favicon}}">
   {% else %}  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}"> {% endif %}

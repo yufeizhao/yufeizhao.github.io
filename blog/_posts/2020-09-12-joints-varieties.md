@@ -1,6 +1,7 @@
 ---
 title: "Joints of varieties"
 layout: blog
+image: /blog/images/joints-optimal.png
 ---
 
 The summer has come to an end, the temperature in Boston seems to have dropped all the sudden. 
