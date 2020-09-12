@@ -2,6 +2,7 @@
 title: "Joints of varieties"
 layout: blog
 image: /blog/images/joints-optimal.png
+description: New paper with Jonathan Tidor and Hung-Hsun Hans Yu solving the joints problem for varieties 
 ---
 
 The summer has come to an end, the temperature in Boston seems to have dropped all the sudden. 
