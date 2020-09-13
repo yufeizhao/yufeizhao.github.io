@@ -22,7 +22,7 @@ Cambridge, MA 02139, USA</p>
 
 </div>
 <div class="col-md-6">
-<img src="photo.jpg" alt="Yufei Zhao" title="Yufei Zhao; photo credit: Joseph Lee" width="450px">
+<img src="photo.jpg" alt="Yufei Zhao" title="Yufei Zhao; photo credit: Joseph Lee" max-width="450px">
 </div>
 </div>
 

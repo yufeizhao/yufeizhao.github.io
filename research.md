@@ -112,6 +112,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   {%include button href="/blog/2019/11/20/joints-tightened/" text="blog" %}
 
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
+  {%include button href="/blog/2020/09/12/joints-varieties/" text="blog" %}
   {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
   {%include button href="slides/joints_varieties.pdf" text="slides" %}
 
