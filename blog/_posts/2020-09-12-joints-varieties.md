@@ -36,7 +36,7 @@ I discussed the joints problem in an [earlier blog post]({% post_url /blog/2019-
 
 **Joints problem:** At most how many joints can $N$ lines in $\mathbb{R}^3$ can make? 
 
-Here a joint is a point contained in three non-coplanar lines.
+Here a _joint_ is a point contained in three non-coplanar lines.
 
 {% include blog_image
     src = "joints-3-planes.png"
