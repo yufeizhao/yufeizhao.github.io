@@ -5,7 +5,8 @@ image: /blog/images/joints-optimal.png
 description: New paper with Jonathan Tidor and Hung-Hsun Hans Yu solving the joints problem for varieties 
 ---
 
-The summer has come to an end. The temperature in Boston seems to have dropped all the sudden. 
+The summer has come to an end.
+The temperature in Boston seems to have dropped all the sudden. 
 Our fall semester has just started, though without all the new and returning students roaming around campus this time (most classes are online this term).
 I quite miss the view from my MIT office, and all the wonderful people that I would run into the department corridors.
 
@@ -17,7 +18,6 @@ I quite miss the view from my MIT office, and all the wonderful people that I wo
 
 I've been working from home for the past several months and connecting with my students via Zoom.
 In this and the upcoming several posts, I would like to tell you about some of the things that we have been working on recently.
-
 
 <br />
 
