@@ -44,7 +44,7 @@ Here a joint is a point contained in three non-coplanar lines.
     caption = "A joint"
 %}
 
-Here is an example of a configuration of lines making many joints. Take _k_ generic planes in space, pairwise intersect them to form $$N = \binom{k}{2}$$ lines, and triplewise intersect to form $$J = \binom{k}{3} \sim \frac{\sqrt{3}}{2} N^{3/2}$$ joints.
+Here is an example of a configuration of lines making many joints. Take _k_ generic planes in space, pairwise intersect them to form $$N = \binom{k}{2}$$ lines, and triplewise intersect to form $$J = \binom{k}{3} \sim \frac{\sqrt{2}}{3} N^{3/2}$$ joints.
 
 {% include blog_image
     src = "joints-optimal.png"
@@ -73,7 +73,7 @@ A feature of the expository style of this book, which I wish more authors would 
 
 In my previous paper on the joints problem with Hans Yu, which I discussed in [earlier blog post]({% post_url /blog/2019-11-21-joints-tightened %}), we sharpened the Guth--Katz theorem to the optimal constant.
 
-**Theorem** ([Yu--Zhao](https://arxiv.org/abs/1911.08605)). $N$ lines in $$\mathbb{R}^3$$ have $$\le \frac{\sqrt{3}}{2} N^{3/2}$$ joints.
+**Theorem** ([Yu--Zhao](https://arxiv.org/abs/1911.08605)). $N$ lines in $$\mathbb{R}^3$$ have $$\le \frac{\sqrt{2}}{3} N^{3/2}$$ joints.
 
 Everything I have said so far are also true in arbitrary dimensions and over arbitrary fields, but I am only stating them in $$\mathbb{R}^3$$ here to keep things simple and concrete.
 
@@ -183,4 +183,4 @@ This new vanishing lemma overcomes the earlier difficulty and allows us to exten
 
 Let me finish with an open problem: while we can prove the optimal constant for the joints theorem for lines, we do not yet know how to prove the optimal constant for the joints theorem for planes.
 
-**Conjecture.** $N$ planes in $$\mathbb{F}^6$$ have $$\le (\frac{\sqrt{3}}{2} + o(1)) N^{3/2}$$ joints.
+**Conjecture.** $N$ planes in $$\mathbb{F}^6$$ have $$\le (\frac{\sqrt{2}}{3} + o(1)) N^{3/2}$$ joints.
