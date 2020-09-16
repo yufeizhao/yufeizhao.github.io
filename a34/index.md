@@ -68,7 +68,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 9/9** Lecture by Yufei Zhao
 - **M 9/14** Presentations. Due: [Hidden independence and uniformity](ps/indep.pdf) and [SS1](ps/hw1.pdf)
 - **W 9/16** Lecture by Mehtaab Sawhney
-- **M 9/21** Presentations. Due: Inequalities and [SS2](ps/hw2.pdf)
+- **M 9/21** Presentations. Due: [Inequalities](ps/inequalities.pdf) and [SS2](ps/hw2.pdf)
 - **W 9/23** Lecture by Shengtong Zhang
 - **M 9/28** Presentations. Due: Sums and integrals and [SS3](ps/hw3.pdf)
 - **W 9/30** Lecture by Yuan Yao
