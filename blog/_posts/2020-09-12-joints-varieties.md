@@ -161,7 +161,7 @@ Instead of asking a polynomial to vanish at every joint, we can demand more. Nam
 This idea (sometimes called the "method of multiplicities") has shown to be useful in a variety of contexts.
 Perhaps we can modify Wishing thinking 1 to account for these multiplicities?
 
-_Wishful thinking 3._ Show that every nonzero polynomial $g(x,y)$ of degree $n$ can to order $s$ at no more than $O(n^2/s^2)$ points.
+_Wishful thinking 3._ Show that every nonzero polynomial $g(x,y)$ of degree $n$ can vanish to order $s$ at no more than $O(n^2/s^2)$ points.
 
 The reason why one might hope for such a statement is that there are $$\binom{n+2}{2} \approx n^2/2$$ degrees of freedom for choosing $g$, and this number is roughly the same as the number of constraints associated to forcing the polynomial to vanish to order $s$ at $n^2/s^2$ points.
 
