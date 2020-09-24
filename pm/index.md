@@ -60,8 +60,8 @@ _Schedule tentative_
 - **9/9** The basic method and gems: set systems and hypergraphs
 - **9/14** Linearity of expectations
 - **9/16** Linearity of expectations
-- **9/21** Alteration method
-- **9/23** Alteration method
+- **9/21** Linearity of expectations / Alteration method
+- **9/23** Alteration method / Second moment method
 - **9/28** Second moment method
 - **9/30** Second moment method
 - **10/5** Chernoff bound
