@@ -72,7 +72,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 9/23** Lecture by Shengtong Zhang
 - **M 9/28** Presentations. Due: [Sums and integrals](ps/sums_integrals.pdf) and [SS3](ps/hw3.pdf)
 - **W 9/30** Lecture by Yuan Yao
-- **M 10/5** Presentations. Due: Combinatorial configurations and [SS4](ps/hw4.pdf)
+- **M 10/5** Presentations. Due: [Combinatorial configurations](ps/combo.pdf) and [SS4](ps/hw4.pdf)
 - **W 10/7** Lecture by Hung-Hsun Hans Yu
 - **_T_ 10/13** Presentations. Due: Recurrences and [SS5](ps/hw5.pdf)
 - **W 10/14** Lecture by Ashwin Sah
