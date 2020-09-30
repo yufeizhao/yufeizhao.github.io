@@ -63,8 +63,8 @@ _Schedule tentative_
 - **9/21** Linearity of expectations / Alteration method
 - **9/23** Alteration method / Second moment method
 - **9/28** Second moment method
-- **9/30** Second moment method
-- **10/5** Chernoff bound
+- **9/30** Thresholds
+- **10/5** Second moment method / Chernoff bound
 - **10/7** Local lemma
 - **10/13** Local lemma
 - **10/14** Local lemma
