@@ -96,7 +96,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor) \\
   _Proceedings of the London Mathematical Society_ 121 (2020), 1311--1336.
   
-* [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney)
+* [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney) \\
+  _International Mathematics Research Notices. IMRN_, to appear.
 
 **Equiangular lines and spectral graph theory** 
   {%include button href="slides/equiangular.pdf" text="slides" %}
