@@ -104,7 +104,7 @@ These variational problems are more difficult than classical problems in extrema
 For sparse graphs $G(n,p)$ with $p \to 0$, the variational problem was solved asymptotically in the case of clique subgraphs by [Lubetzky–Zhao](https://arxiv.org/abs/1402.6011), and for more general subgraph counts by [Bhattacharya–Ganguly–Lubetzky–Zhao](https://arxiv.org/abs/1507.04074).
 
 
-Putting the two complementary pieces together allow us to pinpoint upper tail probabilities. Similar to the case of triangles, the main message is, roughly speaking,
+The two complementary strands together pinpoint upper tail probabilities. Similar to the case of triangles, the main message is, roughly speaking,
 
 _The dominant reason for a random graph to have too many copies of some fixed $H$ is that it contains a large clique or a large hub._
 
