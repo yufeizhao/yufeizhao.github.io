@@ -1,8 +1,8 @@
 ---
 title: "Upper tails for random regular graphs"
 layout: blog
+image: /blog/images/ben-gunby-2020.jpg
 description: Ben Gunby's new paper determining the large deviation rate for sparse random regular graphs.
-draft: true
 ---
 
 [Ben Gunby](https://sites.google.com/view/benjamingunby/home), a final-year PhD student at Harvard whom I advise, just posted his paper [_Upper tails of subgraph counts in sparse regular graphs_](https://arxiv.org/abs/2010.00658). This is a substantial paper that unveils surprising new phenomena for the problem of large deviations in random graphs.
@@ -34,10 +34,10 @@ $$
 <br />
 
 This result is surprising. 
-The appearance of the second loglog term has not been observed in previous works on the upper tail problem. 
+The appearance of the fractional power of the log factor has not been observed in previous works on the upper tail problem. 
 It is even more impressive that Ben was able to prove such a sharp estimate.
 
-Understanding these large deviation probabilities roughly corresponds to understanding the "dominant reason" for rare events. Roughly speaking, the above loglog term appears because the dominant reason **is not the presence of some fixed subgraph (e.g., a large clique or hub), unlike all earlier results.** 
+Understanding these large deviation probabilities roughly corresponds to understanding the "dominant reason" for rare events. Roughly speaking, the fractional power of log appears because the dominant reason **is not the presence of some fixed subgraph (e.g., a large clique or hub), unlike all earlier results,** which have asymptotics of the for $$n^2 p^d \log(1/p)$$. 
 Something else more subtle is happening.
 While we still do not understand the complete picture, Ben's result provides strong evidence why the upper tail problem for random regular graphs may be substantially more intricate than that of $G(n,p)$.
 
@@ -50,11 +50,11 @@ Lastly, I will also mention a recent paper I have with Yang Liu on the [upper ta
 
 Roughly, and intuitively, to gain a precise understanding of the upper tail problem, we are really asking:
 
-> _What are the dominant reasons for the rare event that a random graph $G(n,p)$ has way too many triangles?_
+_What are the dominant reasons for the rare event that a random graph $G(n,p)$ has way too many triangles?_
 
 We can now say confidently the following:
 
-> _It is primarily because the such a rare random graph contains roughly a large clique or a large hub._
+_It is primarily because the such a rare random graph contains roughly a large clique or a large hub._
 
 Here a "hub" is a set of vertices adjacent to all other vertices.
 It is not hard to see that planting a large clique or hub in a $G(n,p)$ would automatically generate many additional triangles (these triangles may use also the edges of the random graph).
@@ -106,7 +106,7 @@ For sparse graphs $G(n,p)$ with $p \to 0$, the variational problem was solved as
 
 Putting the two complementary pieces together allow us to pinpoint upper tail probabilities. Similar to the case of triangles, the main message is, roughly speaking,
 
-> _The dominant reason for a random graph to have too many copies of some fixed $H$ is that it contains a large clique or a large hub._
+_The dominant reason for a random graph to have too many copies of some fixed $H$ is that it contains a large clique or a large hub._
 
 **Theorem.** _Let $H$ be a graph with maximum degree $$\Delta$$. Let $\delta > 0$.
 Let $X$ be the number of copies of $H$ in $G(n,p)$. Provided that $n^{-\alpha_H} \le p = o(1)$ (where $\alpha_H$ is some explicit constant that has improved over time),
@@ -132,7 +132,7 @@ Ben Gunby's work studies the upper tail problem for random regular graphs:
 
 There is a similar dichotomy of steps as above: 
 
-1. Proving a large deviations framework, which, for the most part, can be deduced directly from the $G(n,p)$ version, though there are some annoying technicalities (the "tilting" argument for lower bounding probabilities  requires further arguments).
+1. Proving a large deviations framework. The upper bound to the probability can be deduced from the corresponding theorems for $G(n,p)$, while the lower bound requires new and lengthy arguments.
 
 2. Solving the variational problem -- this is where new difficulties and innovations lie.
 
@@ -183,7 +183,7 @@ Some of the work towards (1) for random graphs can be transferred over to the hy
 We show that one cannot naively extend the upper tail results from random graphs to random hypergraphs.
 In our paper, we take the readers on a long discussion through several iterations of naive conjectures and counterexamples, eventually building up to our final conjecture, which takes some effort to state, but very roughly, says that
 
-> _The dominant reason for upper tails in random hypergraphs is the presence of a collection of "stable mixed hubs."_
+_The dominant reason for upper tails in random hypergraphs is the presence of a collection of "stable mixed hubs."_
 
 For both random regular graphs and random hypergraphs, these recent results highlight unexpected phenomena.
 They illustrate the richness of the problem and lead us to more questions than answers.

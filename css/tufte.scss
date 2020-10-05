@@ -523,7 +523,7 @@ hr.slender {
   }
 }
 
-//printing stuff
+// printing stuff
 @media print {
 
     * {
@@ -544,7 +544,6 @@ hr.slender {
 
     body {
         font-size:  12pt;
-
     }
     html body span.print-footer{
       font-family: $sans-font;
