@@ -10,7 +10,7 @@ nav_exclude: true
     <atom:link href="{{ "/blog/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:10 %}{% unless post.draft %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
@@ -24,6 +24,6 @@ nav_exclude: true
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
-    {% endfor %}
+    {% endunless %}{% endfor %}
   </channel>
 </rss>

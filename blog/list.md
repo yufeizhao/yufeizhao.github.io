@@ -14,13 +14,14 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 </p>
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts %} {% unless post.draft %}
+
       <li >
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="smaller">{{ post.date | date: "%-m/%-d/%Y" }}</span>  
         <br/>
       </li>
-  {% endfor %}
+  {% endunless %}{% endfor %}
 </ul>
 
 </div>

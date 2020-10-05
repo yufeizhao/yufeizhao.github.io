@@ -42,9 +42,9 @@ html{
 // @media screen and (min-width: 1300px){ html{ font-size: 17px; } }
 
 // sets link style according to values in _settings.scss
-.mathblock{
-  font-size: 1.3rem;
-}
+// .mathblock{
+//   font-size: 1.3rem;
+// }
 
 a, a:hover{
   color: $contrast-color;
@@ -83,6 +83,7 @@ p > a { @if $link-style == underline
 
 body { width: 100%;
        margin: auto;
+       font-size: 1.3rem;
       //  margin-left: auto;
       //  margin-right: auto;
        //padding-left: 12.5%;
@@ -132,15 +133,15 @@ p .subtitle { font-style: italic;
              display: block;
              line-height: 1.08888888888889; }
 
-p, ol, ul { font-size: 1.3rem; }
+// p, ol, ul { font-size: 1.3rem; }
 
 p, li { line-height: 1.8rem;
         margin-top: .5rem;
         //padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; }
 
-blockquote p {  font-size: 1.1rem;
-                line-height: 1.78181818;
+blockquote p {  //font-size: 1.1rem;
+                //line-height: 1.78181818;
                 margin-top: 1.78181818rem;
                 margin-bottom: 1.78181818rem;
                 width: 90%;
