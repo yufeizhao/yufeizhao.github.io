@@ -32,12 +32,14 @@ Given a directed graph _H_ (think of it as a pattern), we can ask: how many diff
 
 {% include blog_image
     src = "impartial-2.png"
+    width = "500"
 %}
 
 Look at the following 4-vertex tournament _H_. It has the following curious property: all tournaments of a fixed size contains the same number of copies of H, no matter how the edges in the tournament are oriented.
 
 {% include blog_image
     src = "impartial-2a.png"
+    width = "500"
 %}
 
 Hmm, why is this true? And are there other directed graphs _H_ with the same property, namely that all tournaments of a given size contain the same number of copies of _H_?
@@ -50,14 +52,14 @@ Here is a simple example of an impartial digraph:
 
 {% include blog_image
     src = "impartial-4.png"
-    width = "70"
+    width = "50"
 %}
 
 Here is another one:
 
 {% include blog_image
     src = "impartial-5.png"
-    width = "100"
+    width = "80"
 %}
 
 Indeed, given any 10-vertex tournament, we can count the number of copies of the first edge (it doesn't depend on the tournament), and then count the number of copies of the second edge among the remaining 8 vertices (it still doesn't depend on the tournament).
@@ -73,7 +75,7 @@ It must then follow that this directed graph is impartial as well:
 
 {% include blog_image
     src = "impartial-8.png"
-    width = "80"
+    width = "60"
 %}
 
 We can follow the same logic and continue this procedure, iterate, and build up even larger impartial directed graphs. Each step, take two copies of the previous tree (keeping the same edge orientations), and then add a new edge between a twin pair of vertices.
