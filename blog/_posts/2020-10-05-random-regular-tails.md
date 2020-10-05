@@ -23,7 +23,7 @@ Random regular graphs are usually harder to analyze since the random edge appear
 
 Let me highlight one specific result in Ben's paper (Theorem 2.9).
 
-**Theorem.** ([Gunby](https://arxiv.org/abs/2010.00658)) _Let $$G_n^d$$ be a random $d$-regular graph, where $d = d(n)$ depends on $n$. Assume that $dn$ is even and and $$n^{14/15}\log n \le d = o(n)$$. Let $X$ denote the number of copies of_ 
+**Theorem.** ([Gunby](https://arxiv.org/abs/2010.00658)) _Let $$G_n^d$$ be a random $n$-vertex $d$-regular graph, where $d = d(n)$ depends on $n$. Assume that $dn$ is even and and $$n^{14/15}\log n \le d = o(n)$$. Let $X$ denote the number of copies of_ 
   <img src="/blog/images/k24plusedge.svg" width="80" />
 _in $$G_n^d$$. Then for every fixed $$\delta > 0$$ (here $$\sim$$ means up to $1+o(1)$ factor),_
 
