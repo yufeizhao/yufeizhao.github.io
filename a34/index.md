@@ -74,7 +74,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 9/30** Lecture by Yuan Yao
 - **M 10/5** Presentations. Due: [Combinatorial configurations](ps/combo.pdf) and [SS4](ps/hw4.pdf)
 - **W 10/7** Lecture by Hung-Hsun Hans Yu
-- **_T_ 10/13** Presentations. Due: [Recurrences](ps/recurrence.pdf) and [SS5](ps/hw5.pdf)
+- **_T_ 10/13** Presentations. Due: [Recurrence](ps/recurrence.pdf) ([notes](notes/recurrence-notes.pdf)) and [SS5](ps/hw5.pdf)
 - **W 10/14** Lecture by Ashwin Sah
 - **M 10/19** Presentations. Due: Analysis and [SS6](ps/hw6.pdf)
 - **W 10/21** Lecture by Daniel Zhu
