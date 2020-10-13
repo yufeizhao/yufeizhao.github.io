@@ -66,19 +66,19 @@ _Schedule tentative_
 - **9/30** Thresholds
 - **10/5** Second moment method
 - **10/7** Chernoff bound
-- **10/13** Local lemma
-- **10/14** Local lemma
-- **10/19** Correlation inequalities
-- **10/21** Janson's inequalities
-- **10/26** Janson's inequalities
-- **10/28** Martingale concentration
+- **10/13** Lovász local lemma
+- **10/14** Lovász local lemma
+- **10/19** Lovász local lemma
+- **10/21** Correlation inequalities
+- **10/26** Janson inequalities
+- **10/28** Janson inequalities
 - **11/2** Martingale concentration
-- **11/4** Concentration of measure
-- **11/9** Talagrand inequality
+- **11/4** Martingale concentration
+- **11/9** Concentration of measure
 - **11/16** Talagrand inequality
-- **11/18** Entropy method
+- **11/18** Talagrand inequality
 - **11/30** Entropy method
-- **12/2** 
+- **12/2** Entropy method
 - **12/7** 
 - **12/9** 
 
