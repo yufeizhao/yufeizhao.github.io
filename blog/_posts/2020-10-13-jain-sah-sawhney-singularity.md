@@ -1,5 +1,5 @@
 ---
-title: "Jain–Sah-Sawhney: Singularity of discrete random matrices"
+title: "Jain–Sah–Sawhney: Singularity of discrete random matrices"
 layout: blog
 description: Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney's new papers on the singularity of discrete random matrices.
 ---
