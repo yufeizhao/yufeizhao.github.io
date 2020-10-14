@@ -17,8 +17,9 @@ draft: true
   <figcaption>Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney</figcaption>
 </figure>
 
-The **singularity problem** for random matrices asks for the probability that a random $n\times n$ matrix with independent uniform 0/1 entries is singular. The first non-trivial bound on this problem was on Komlós in 1967. After a long series of works by many mathematicians including Kahn, Komlós, Szemerédi, Tao, Vu, Bourgain, Rudelson, and
-Vershynin, a  breakthrough was recently achieved by [Tikhomirov](https://annals.math.princeton.edu/2020/191-2/p06), who showed that the probability of singularity if $(1/2 + o(1))^n$, which is tight since the matrix is singular when two rows are equal or some row is all zero.
+**The singularity problem for random matrices:** what is the probability that a random $n\times n$ matrix with independent 0/1 entries is singular?
+
+The first non-trivial bound on this problem was on Komlós in 1967. After a long series of works by many mathematicians including Kahn, Komlós, Szemerédi, Tao, Vu, Bourgain, Rudelson, and Vershynin, a  breakthrough was recently achieved by [Tikhomirov](https://annals.math.princeton.edu/2020/191-2/p06), who showed that, when the matrix entries are iid uniform from $$\{0,1\}$$, the probability of singularity if $(1/2 + o(1))^n$, which is tight since with probability $2^{-n}$ the first row is zero.
 
 The new paper of Jain–Sah–Sawhney considers a natural extension of the singularity problem where each entry of the $n\times n$ matrix is iid: 1 with probability $p$ and 0 with probability $1-p$, for some value of $p$ other than 1/2.
 
