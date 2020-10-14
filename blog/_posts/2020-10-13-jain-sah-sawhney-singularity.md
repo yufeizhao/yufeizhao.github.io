@@ -28,7 +28,7 @@ A folklore conjecture in this area states that the main reason for the singulari
 
 Note that even Tikhomirov's breakthrough result does not give precise enough results to answer this conjecture. However, we now have the following incredible result.
 
-**Theorem.** (Jain–Sawhney–Sah) The above conjecture is true for all $p \ne 1/2$.
+**Theorem.** (Jain–Sah–Sawhney) The above conjecture is true for all $p \ne 1/2$.
 
 (The case $p = 1/2$ remains open.)
 
