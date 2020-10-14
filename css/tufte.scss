@@ -445,6 +445,23 @@ ul.footer-links li{
   padding: 1rem 0rem;
 }
 
+//blog navigation
+.post-nav {
+  font-size: 80%;
+  margin-bottom: 1ex;
+  display: flex;
+}
+.post-nav div {
+  /* flex-grow, flex-shrink, flex-basis */
+  flex: 1 1 0;
+}
+.post-nav-next {
+  text-align: right;
+}
+// .post-nav a {
+//   color: #5D6D7E;
+// }
+
 //change font color for credit links in footer
 
 .credits{

@@ -12,9 +12,40 @@ layout: default
     |
 {% include rss_logo %}
 </p>
-<h2>{{ page.title }}</h2>
+
+  <div class="post-nav">
+    <div>
+      {% if page.previous.url %}
+      <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+      {% endif %}
+    </div>
+    <div class="post-nav-next">
+      {% if page.next.url %}
+      <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+      {% endif %}
+    </div>
+  </div>
+
+  <h2>{{ page.title }}</h2>
 <p><span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+
+
 <div>{{ content }}</div>
+
+<div class="post-nav">
+  <div>
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+    <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+
 
 <br />
 
