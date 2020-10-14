@@ -10,7 +10,7 @@ description: Ben Gunby's new paper determining the large deviation rate for spar
 {% include blog_image
     src = "ben-gunby-2020.jpg"
     width = "300"
-    caption = "<a href=\"https://sites.google.com/view/benjamingunby/home\">Ben Gunby</a>"
+    caption = "Ben Gunby"
 %}
 
 **Problem.** What is the probability that a random graph has far more copies of some given subgraph than expected?
@@ -170,7 +170,7 @@ Yang Liu is a PhD student at Stanford. We started this work while Yang was an un
 {% include blog_image
     src = "yang-liu-2020.jpg"
     width = "200"
-    caption = "<a href=\"https://yangpliu.github.io/\">Yang Liu</a>"
+    caption = "Yang Liu"
 %}
 
 Consider the random $k$-uniform hypergraph $$G^{(k)}(n,p)$$, where every unordered $k$-tuple of vertices appears as an edge independently with probability $p$.
