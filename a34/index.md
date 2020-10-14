@@ -76,7 +76,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 10/7** Lecture by Hung-Hsun Hans Yu
 - **_T_ 10/13** Presentations. Due: [Recurrence](ps/recurrence.pdf) ([notes](notes/recurrence-notes.pdf)) and [SS5](ps/hw5.pdf)
 - **W 10/14** Lecture by Ashwin Sah
-- **M 10/19** Presentations. Due: Analysis and [SS6](ps/hw6.pdf)
+- **M 10/19** Presentations. Due: [Analysis](ps/analysis.pdf) and [SS6](ps/hw6.pdf)
 - **W 10/21** Lecture by Daniel Zhu
 - **M 10/26** Presentations. Due: Generating functions and [SS7](ps/hw7.pdf)
 - **W 10/28** Lecture by Zilin Jiang
