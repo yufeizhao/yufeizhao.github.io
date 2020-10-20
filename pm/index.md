@@ -17,7 +17,7 @@ _Quick links_:
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
 
-**Grader:** [Sergei Korotkikh](korotkih@mit.edu)
+**Grader:** [Sergei Korotkikh](https://math.mit.edu/directory/profile.php?pid=2113)
 
 Please include "18.226" in the subject line of your emails
 
