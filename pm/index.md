@@ -9,7 +9,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 **Fall 2020, MIT**
 
 _Quick links_:
-\[[Notes]([gtac.pdf](probmethod_notes.pdf))\]
+\[[Notes](probmethod_notes.pdf)\]
 \[[Homework](ps.pdf)\]
 
 
