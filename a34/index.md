@@ -80,7 +80,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **W 10/21** Lecture by Daniel Zhu
 - **M 10/26** Presentations. Due: [Generating functions](ps/genfn.pdf) and [SS7](ps/hw7.pdf)
 - **W 10/28** Lecture by Zilin Jiang
-- **M 11/2** Presentations. Due: Abstract algebra and [SS8](ps/hw8.pdf)
+- **M 11/2** Presentations. Due: [Abstract algebra](ps/algebra.pdf) and [SS8](ps/hw8.pdf)
 - **W 11/4** Lecture by Dain Kim
 - **M 11/9** Presentations. Due: Polynomials and [SS9](ps/hw9.pdf)
 - ~~W 11/11~~ _No class (Veterans Day)_
