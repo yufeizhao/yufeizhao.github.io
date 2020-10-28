@@ -61,11 +61,11 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 _Schedule tentative_
 
-- **9/2** Introduction to the probabilistic method: Ramsey number lower bounds
-- **9/9** The basic method and gems: set systems and hypergraphs
+- **9/2** Introduction
+- **9/9** Introduction
 - **9/14** Linearity of expectations
 - **9/16** Linearity of expectations
-- **9/21** Linearity of expectations / Alteration method
+- **9/21** Alteration method
 - **9/23** Alteration method / Second moment method
 - **9/28** Second moment method
 - **9/30** Thresholds
@@ -79,7 +79,7 @@ _Schedule tentative_
 - **10/28** Janson inequalities
 - **11/2** Martingale concentration
 - **11/4** Martingale concentration
-- **11/9** Concentration of measure
+- **11/9** Isoperimetric inequalities
 - **11/16** Talagrand inequality
 - **11/18** Talagrand inequality
 - **11/30** Entropy method
