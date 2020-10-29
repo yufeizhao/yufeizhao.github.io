@@ -13,7 +13,11 @@ description: Ashwin Sah and Mehtaab Sawhney win the Morgan Prize
   <figcaption>Ashwin Sah and Mehtaab Sawhney</figcaption>
 </figure>
 
-Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) for winning the [2021 AMS-MAA-SIAM Frank and Brennie Morgan Prize](http://www.ams.org/news?news_id=6435) for Outstanding Research in Mathematics by an Undergraduate Student! This is the first time in the prize's history that it was jointly awarded to more than one recipient. Here is an exerpt from the prize citation:
+Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) for winning the [2021 AMS-MAA-SIAM Frank and Brennie Morgan Prize](http://www.ams.org/news?news_id=6435) for Outstanding Research in Mathematics by an Undergraduate Student! 
+This is the most prestigious prize in the US for undergraduate math research (though I must say that their work far surpasses that of "undergraduate research").
+Also, never before has the Morgan Prize been jointly awarded to more than one recipient. 
+
+Here is an exerpt from the prize citation:
 
 > The award recognizes the duo's innovative results across a broad range of topics in combinatorics, discrete geometry, and probability.
 
@@ -21,7 +25,7 @@ Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney]
 
 > Combined, Sah and Sawhney have authored 30 papers (11 together), and published in top journals, including _Inventiones Mathematicae_, _Advances in Mathematics_, _Mathematical Proceedings of the Cambridge Philosophical Society_, the _Journal of Combinatorial Theory Series B_, and _Combinatorica_.
 
-(I must note that the paper count in the award citation is now already quite a bit out of date.)
+(The paper count in the award citation was taken from earlier this year and is now already quite a bit out of date.)
 
 I first got to know both Ashwin and Mehtaab as students in my [Putnam Seminar](/a34/) and [graduate combinatorics class](/gtac/) during their undergraduate semester at MIT. Since then, they have led an intensively productive and ongoing collaboration, producing an incredible amount of fantastic research results across a wide spectrum of topics in combinatorics, probability, number theory, and algorithms. It was a great pleasure for me to be working with Ashwin and Mehtaab on many of these projects.
 Some of their work were previously featured on this blog:
