@@ -6,9 +6,9 @@ description: Ashwin Sah and Mehtaab Sawhney win the Morgan Prize
 
 
 <figure>
-  <img src="/blog/images/ashwin-sah-2020.jpg" height = "200">
+  <img src="/blog/images/ashwin-sah-2020-morgan.jpg" height = "200">
   
-  <img src="/blog/images/mehtaab-sawhney-2020.jpg" height = "200">
+  <img src="/blog/images/mehtaab-sawhney-2020-morgan.jpg" height = "200">
   
   <figcaption>Ashwin Sah and Mehtaab Sawhney</figcaption>
 </figure>
