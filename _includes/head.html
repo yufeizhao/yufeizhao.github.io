@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} {% if page.layout == "blog" %} | Yufei Zhao's Blog {% endif %}</title>
 
-  <meta property="twitter:title" content="  {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.layout == 'blog' %} | Yufei Zhao's Blog{% endif %}"> 
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if page.layout == 'blog' %} | Yufei Zhao's Blog{% endif %}"> 
 
   
   {% if page.description %}<meta name="description" content="{{ page.description }}"> {% endif %}
