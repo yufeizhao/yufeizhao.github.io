@@ -21,7 +21,10 @@ Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney]
 
 > Combined, Sah and Sawhney have authored 30 papers (11 together), and published in top journals, including _Inventiones Mathematicae_, _Advances in Mathematics_, _Mathematical Proceedings of the Cambridge Philosophical Society_, the _Journal of Combinatorial Theory Series B_, and _Combinatorica_.
 
-I first got to know both Ashwin and Mehtaab as students in my [Putnam Seminar](/a34/) and a [graduate combinatorics class](/gtac/) during their undergraduate semester at MIT. Since then, they have led an intensively productive and ongoing collaboration, producing an incredible amount of fantastic research results across a wide spectrum of topics in combinatorics, probability, number theory, and algorithms. Some of their work were previously featured on this blog:
+(I must note that the paper count in the award citation is now already quite a bit out of date.)
+
+I first got to know both Ashwin and Mehtaab as students in my [Putnam Seminar](/a34/) and [graduate combinatorics class](/gtac/) during their undergraduate semester at MIT. Since then, they have led an intensively productive and ongoing collaboration, producing an incredible amount of fantastic research results across a wide spectrum of topics in combinatorics, probability, number theory, and algorithms. It was a great pleasure for me to be working with Ashwin and Mehtaab on many of these projects.
+Some of their work were previously featured on this blog:
 
 * [The number of independents in an irregular graph]({% post_url /blog/2018-05-12-the-number-of-independent-sets-in-an-irregular-graph %})
 * [A reverse Sidorenko inequality]({% post_url /blog/2018-09-26-a-reverse-sidorenko-inequality %})
