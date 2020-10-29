@@ -4,14 +4,11 @@ layout: blog
 description: Ashwin Sah and Mehtaab Sawhney win the Morgan Prize
 ---
 
-
-<figure>
-  <img src="/blog/images/ashwin-sah-2020-morgan.jpg" height = "200">
-  
-  <img src="/blog/images/mehtaab-sawhney-2020-morgan.jpg" height = "200">
-  
-  <figcaption>Ashwin Sah and Mehtaab Sawhney</figcaption>
-</figure>
+{% include blog_image
+    src = "ashwin-mehtaab-morgan-2020.jpg"
+    height = "200"
+    caption = "Ashwin Sah and Mehtaab Sawhney"
+%}
 
 Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) for winning the [2021 AMS-MAA-SIAM Frank and Brennie Morgan Prize](http://www.ams.org/news?news_id=6435) for Outstanding Research in Mathematics by an Undergraduate Student! 
 This is the most prestigious prize in the US for undergraduate math research (though I must say that their work far surpasses that of "undergraduate research").
