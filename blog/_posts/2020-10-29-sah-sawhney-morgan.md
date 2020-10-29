@@ -1,6 +1,7 @@
 ---
 title: "Ashwin Sah and Mehtaab Sawhney win the Morgan Prize"
 layout: blog
+image: /blog/images/ashwin-mehtaab-morgan-2020.jpg
 description: Ashwin Sah and Mehtaab Sawhney win the Morgan Prize
 ---
 
