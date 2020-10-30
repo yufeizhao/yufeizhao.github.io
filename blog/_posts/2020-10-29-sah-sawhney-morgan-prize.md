@@ -13,7 +13,7 @@ description: Ashwin Sah and Mehtaab Sawhney win the Morgan Prize
 
 Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) for winning the [2021 AMS-MAA-SIAM Frank and Brennie Morgan Prize](http://www.ams.org/news?news_id=6435) for Outstanding Research in Mathematics by an Undergraduate Student! 
 This is the most prestigious prize in the US for undergraduate math research (though I must say that their work far surpasses that of "undergraduate research").
-Also, never before has the Morgan Prize been jointly awarded to more than one recipient. 
+It is also the first time in the [history of the Morgan Prize](http://www.ams.org/prizes-awards/pabrowse.cgi?parent_id=19) for it to be jointly awarded to more than one recipient.
 
 From the prize citation:
 
