@@ -1,12 +1,12 @@
 ---
 title: "Ashwin Sah and Mehtaab Sawhney win the Morgan Prize"
 layout: blog
-image: /blog/images/ashwin-mehtaab-morgan-2020.jpg
+image: /blog/images/ashwin-mehtaab-2020.jpg
 description: Sah and Sawhney settled longstanding conjectures and improved results by established mathematicians.
 ---
 
 {% include blog_image
-    src = "ashwin-mehtaab-morgan-2020.jpg"
+    src = "ashwin-mehtaab-2020.jpg"
     height = "200"
     caption = "Ashwin Sah and Mehtaab Sawhney"
 %}
