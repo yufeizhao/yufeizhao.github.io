@@ -42,12 +42,18 @@ Combinatorics, discrete mathematics, graph theory
 * [18.226 Probabilistic Method in Combinatorics](pm/) (grad), Fall 2020
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2020
 
+
 Past teaching:
+
+<a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 40%; height: auto;" class="side"
+ title="The bridge between graph theory and additive combinatorics"></a>
 
 * [18.217 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2019  
   **Lecture videos** on [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 * [18.211 Combinatorial Analysis](211/), Fall 2018
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
+
+
 
 Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
