@@ -7,12 +7,12 @@
     <meta name="og:description" content="{{ page.description }}">
   {% endif %}
   <meta name="author" content="Yufei Zhao">
-  {% if page.url contains "/blog/" %} <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl }} /> {% endif %}
+  {% if page.url contains "/blog/" %} <link rel="alternate" type="application/rss+xml" title="Yufei Zhao's blog" href={{ "/blog/feed.xml" | prepend: site.baseurl | prepend: site.url }} /> {% endif %}
   <meta name="twitter:card" content="summary" />
   <meta property="og:type" content="website" />
-  {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl }}">{% endif %}
+  {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
   {% if page.favicon %}  <link rel="shortcut icon" href="{{page.favicon}}">
-  {% else %}  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}"> {% endif %}
+  {% else %}  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}"> {% endif %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-31091454-1"></script>
   <script>
@@ -29,7 +29,7 @@
 
   {% if site.data.options.lato_font_load %}<link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>{% endif %}
 
-  <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/css/tufte.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <script type="text/x-mathjax-config">
