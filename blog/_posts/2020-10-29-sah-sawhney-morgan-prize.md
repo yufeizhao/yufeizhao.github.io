@@ -15,7 +15,7 @@ Congratulations to [Ashwin Sah](http://www.mit.edu/~asah/) and [Mehtaab Sawhney]
 This is the most prestigious prize in the US for undergraduate math research (though I must say that their work far surpasses that of "undergraduate research").
 Also, never before has the Morgan Prize been jointly awarded to more than one recipient. 
 
-Here is an exerpt from the prize citation:
+From the prize citation:
 
 > The award recognizes the duo's innovative results across a broad range of topics in combinatorics, discrete geometry, and probability.
 
@@ -31,6 +31,6 @@ Some of their work were previously featured on this blog:
 * [The number of independents in an irregular graph]({% post_url /blog/2018-05-12-the-number-of-independent-sets-in-an-irregular-graph %})
 * [A reverse Sidorenko inequality]({% post_url /blog/2018-09-26-a-reverse-sidorenko-inequality %})
 * [New upper bounds on diagonal Ramsey numbers]({% post_url /blog/2020-05-20-ashwin-sahs-new-diagonal-ramsey-number-upper-bound %})
-* [Singularity of discrete random matrices]({% post_url /blog/../../2020-10-13-jain-sah-sawhney-singularity %})
+* [Singularity of discrete random matrices]({% post_url /blog/2020-10-13-jain-sah-sawhney-singularity %})
 
 Ashwin and Mehtaab are now both first-year PhD students at MIT. I'm sure that we will see a lot more coming from them.
