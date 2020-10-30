@@ -25,7 +25,7 @@ From the prize citation:
 
 (The paper count in the award citation was taken from earlier this year and is now already quite a bit out of date.)
 
-I first got to know both Ashwin and Mehtaab as students in my [Putnam Seminar](/a34/) and [graduate combinatorics class](/gtac/) during their undergraduate semester at MIT. Since then, they have led an intensively productive and ongoing collaboration, producing an incredible amount of fantastic research results across a wide spectrum of topics in combinatorics, probability, number theory, and algorithms. It was a great pleasure for me to be working with Ashwin and Mehtaab on many of these projects.
+I got to know both Ashwin and Mehtaab as students in my [Putnam Seminar](/a34/) and [graduate combinatorics class](/gtac/) during their very first undergraduate semester at MIT. Since then, they have led an intensively productive and ongoing collaboration, producing an incredible amount of fantastic research results across a wide spectrum of topics in combinatorics, probability, number theory, and algorithms. It was a great pleasure for me to be working with Ashwin and Mehtaab on many of these projects.
 Some of their work were previously featured on this blog:
 
 * [The number of independents in an irregular graph]({% post_url /blog/2018-05-12-the-number-of-independent-sets-in-an-irregular-graph %})
