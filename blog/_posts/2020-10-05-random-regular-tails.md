@@ -37,7 +37,7 @@ This result is surprising.
 The appearance of the fractional power of the log factor has not been observed in previous works on the upper tail problem. 
 It is even more impressive that Ben was able to prove such a sharp estimate.
 
-Understanding these large deviation probabilities roughly corresponds to understanding the "dominant reason" for rare events. Roughly speaking, the fractional power of log appears because the dominant reason **is not the presence of some fixed subgraph (e.g., a large clique or hub), unlike all earlier results,** which have asymptotics of the for $$n^2 p^d \log(1/p)$$. 
+Understanding these large deviation probabilities roughly corresponds to understanding the "dominant reason" for rare events. Roughly speaking, the fractional power of log appears because the dominant reason **is not the presence of some fixed subgraph (e.g., a large clique or hub), unlike all earlier results,** which have asymptotics of the form $$n^2 p^d \log(1/p)$$. 
 Something else more subtle is happening.
 While we still do not understand the complete picture, Ben's result provides strong evidence why the upper tail problem for random regular graphs may be substantially more intricate than that of $G(n,p)$.
 
