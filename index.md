@@ -152,4 +152,4 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 * M.A.St. Mathematics with Distinction, Cambridge, 2011
 * S.B. Mathematics, MIT, 2010
 * S.B. Computer Science and Engineering, MIT, 2010
-* Previous affliations: Oxford, Berkeley, Stanford, Microsoft Research
+* Previous affiliations: Oxford, Berkeley, Stanford, Microsoft Research
