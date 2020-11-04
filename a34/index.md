@@ -90,7 +90,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **M 11/30** Presentations. Due: Number theory and [SS10](ps/hw10.pdf)
 - **W 12/2** Lecture by Allen Liu
 - **M 12/7** Presentations. Due: Linear algebra and [SS11](ps/hw11.pdf)
-- **W 12/9** Presentations
+- **W 12/9** Final class wrap-up and discussions
 
 ## Homework
 
