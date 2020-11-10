@@ -53,7 +53,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 ## Lectures and notes
 
-[Instructor notes](probmethod_notes.pdf) (will be updated after each lecture)
+[Instructor notes](probmethod_notes.pdf) (will be updated after each lecture; [report errors](https://bit.ly/pmnoteserror))
 
 [Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
 
