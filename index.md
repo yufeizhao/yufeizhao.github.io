@@ -57,7 +57,7 @@ Past teaching:
 
 Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
-### [Math Olympiad training handouts](olympiad)
+### [Math Olympiad training handouts](olympiad/)
 
 ## Selected publications
 

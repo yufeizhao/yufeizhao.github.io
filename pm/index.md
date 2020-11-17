@@ -59,7 +59,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 [Notes from a previous semester](/pm/sp19/pmnotes.pdf) taken by Andrew Lin (may not perfectly align with this semester, but will be largely similar)
 
-_Schedule tentative_
+_Schedule (tentative)_
 
 - **9/2** Introduction
 - **9/9** Introduction
@@ -96,7 +96,7 @@ _Schedule tentative_
 To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
 _It will be essential to start thinking about these problems early._
 
-_Schedule (tentative)_ 
+_Schedule_ 
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
