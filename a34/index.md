@@ -73,8 +73,8 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **M 9/28** Presentations. Due: [Sums and integrals](ps/sums_integrals.pdf) and [SS3](ps/hw3.pdf)
 - **W 9/30** Lecture by Yuan Yao
 - **M 10/5** Presentations. Due: [Combinatorial configurations](ps/combo.pdf) and [SS4](ps/hw4.pdf)
-- **W 10/7** Lecture by Hung-Hsun Hans Yu
-- **_T_ 10/13** Presentations. Due: [Recurrence](ps/recurrence.pdf) ([notes](notes/recurrence-notes.pdf)) and [SS5](ps/hw5.pdf)
+- **W 10/7** Lecture by Hung-Hsun Hans Yu ([notes](notes/recurrence-notes.pdf))
+- **_T_ 10/13** Presentations. Due: [Recurrence](ps/recurrence.pdf)  and [SS5](ps/hw5.pdf)
 - **W 10/14** Lecture by Ashwin Sah
 - **M 10/19** Presentations. Due: [Analysis](ps/analysis.pdf) and [SS6](ps/hw6.pdf)
 - **W 10/21** Lecture by Daniel Zhu
@@ -85,7 +85,7 @@ All other sessions are restricted to official seminar participants (link in [Can
 - **M 11/9** Presentations. Due: [Polynomials](ps/polynomials.pdf) and [SS9](ps/hw9.pdf)
 - ~~W 11/11~~ _No class (Veterans Day)_
 - **M 11/16** Presentations.
-- **W 11/18** Lecture by Junyao Peng
+- **W 11/18** Lecture by Junyao Peng ([notes](notes/number-theory-notes.pdf))
 - _(Thanksgiving break)_
 - **M 11/30** Presentations. Due: [Congruences and divisibility](ps/congruences.pdf) and [SS10](ps/hw10.pdf)
 - **W 12/2** Lecture by Allen Liu
