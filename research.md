@@ -84,7 +84,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with Jacob Fox and Jonathan Tidor)
 
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
-  _FOCS_ 2020, accepted.
+  _FOCS_ 2020.
 
 **Cayley graphs**
 
@@ -215,7 +215,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   _Journal of Combinatorial Theory, Series A_ 145 (2017), 364--368.  
 
 * [A counterexample to the Bollobás-Riordan conjectures on sparse graph limits](https://arxiv.org/abs/2003.05272)
-  (with Ashwin Sah, Mehtaab Sawhney, and Jonathan Tidor)
+  (with Ashwin Sah, Mehtaab Sawhney, and Jonathan Tidor) \\
+  _Combinatorics, Probability and Computing_, to appear.
 
 **Random matrices**
 
