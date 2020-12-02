@@ -229,7 +229,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   {%include button href="/blog/2019/06/27/impartial-digraphs/" text="blog" %}
 
 {%include side_image height="80" src="tournament-path.svg" %}
-* [Paths of given length in tournaments](https://arxiv.org/abs/2012.00262) \\
+* [Paths of given length in tournaments](https://arxiv.org/abs/2012.00262)
   (with Ashwin Sah and Mehtaab Sawhney)
   
 **Extremal and Ramsey graph theory**
