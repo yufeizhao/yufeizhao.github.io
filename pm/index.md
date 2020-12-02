@@ -59,7 +59,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 [Notes from a previous semester](/pm/sp19/pmnotes.pdf) taken by Andrew Lin (may not perfectly align with this semester, but will be largely similar)
 
-_Schedule (tentative)_
+_Schedule_
 
 - **9/2** Introduction
 - **9/9** Introduction
@@ -84,8 +84,8 @@ _Schedule (tentative)_
 - **11/18** Talagrand inequality
 - **11/30** Entropy method
 - **12/2** Entropy method
-- **12/7** 
-- **12/9** 
+- **12/7** Entropy method / Container method
+- **12/9** Container method
 
 
 
@@ -105,11 +105,11 @@ _Schedule_
 | PS 3 | Sunday Oct 18 |
 | PS 4 | Sunday Nov 1 |
 | PS 5 | Sunday Nov 15 |
-| PS 6 | Wed Dec 9 (9PM) |
+| PS 6 | Wed Dec 9 (10 PM) |
 
 _Submissions_ 
 * Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
-* Due time: **11:59pm of each due date** (except for PS 6, which is due at 9 PM). All times refer to US Eastern time
+* Due time: **11:59pm of each due date** (except for PS 6, which is due at 10 PM). All times refer to US Eastern time
 * Begin each solution on a new page
 * Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
 
