@@ -39,7 +39,7 @@ Combinatorics, discrete mathematics, graph theory
 
 ## Teaching
 
-* [18.226 Probabilistic Method in Combinatorics](pm/) (grad), Fall 2020
+* [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2020
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2020
 
 
