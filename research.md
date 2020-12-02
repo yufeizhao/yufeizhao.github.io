@@ -20,7 +20,7 @@ and my [CV](cv.pdf)
 **The Green-Tao theorem and a relative Szemerédi theorem**
 {%include button href="slides/green-tao-relative-szemeredi.pdf" text="slides" %}
 {%include button href="http://simons.berkeley.edu/talks/yufei-zhao-2013-12-03" text="video" %}
-{%include side_image src="relative-szemeredi.png" height="100" %}
+{%include side_image src="relative-szemeredi.svg" height="100" %}
 
 * [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
@@ -30,7 +30,7 @@ and my [CV](cv.pdf)
 * [An arithmetic transference proof of a relative Szemerédi theorem](http://arxiv.org/abs/1307.4959) \\
   _Mathematical Proceedings of the Cambridge Philosophical Society_ 156 (2014), 255--261.  
 
-{%include side_image src="primessquared.png" height="80" %}
+{%include side_image src="primessquared.svg" height="80" %}
 * [A short proof of the multidimensional Szemerédi theorem in the primes](http://arxiv.org/abs/1307.4679)
   (with Jacob Fox) \\
   _American Journal of Mathematics_ 137 (2015), 1139--1145.
@@ -123,7 +123,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 
 **Independent sets and graph homomorphisms**
-{%include side_image height="60" src="doublecover.png" %}
+{%include side_image height="60" src="doublecover.svg" %}
 * [The number of independent sets in a regular graph](http://arxiv.org/abs/0909.3354) \\
   _Combinatorics, Probability and Computing_ 19 (2010), 315--320.
   {%include button href="slides/indep_reg_poster.pdf" text="poster" %}
@@ -136,13 +136,13 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   _SIAM Journal on Discrete Mathematics_ 25 (2011), 660--680.
   {%include button href="slides/indep_hom_poster.pdf" text="poster" %}
 
-{%include side_image  height="70" src="indep_irreg.png" %}
+{%include side_image  height="70" src="indep_irreg.svg" %}
 * [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner)  \\
   _Journal of Combinatorial Theory Series B_ 138 (2019), 172--195.
   {%include button href="/blog/2018/05/12/the-number-of-independent-sets-in-an-irregular-graph/" text="blog" %}
   {%include button href="http://news.mit.edu/2019/mit-undergraduates-solve-combinatorics-problem-0225" text="MIT News" %}
 
-{%include side_image height="70" src="reverse_sidorenko.png" %}
+{%include side_image height="70" src="reverse_sidorenko.svg" %}
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Inventiones Mathematicae_ 221 (2020), 665--711.
   {%include button href="slides/reverse_sidorenko_slides.pdf" text="slides" %}
@@ -153,7 +153,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 **Sphere packing and energy minimization**
 
-{%include side_image height="80" src="spherebounds.png" width="104"%}
+{%include side_image height="80" src="spherebounds.svg" width="104"%}
 * [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
@@ -223,7 +223,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 **Directed graphs and tournaments**
 
-{%include side_image height="30" src="impartial.png" %}
+{%include side_image height="30" src="impartial.svg" %}
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou) \\
   _Combinatorica_, to appear.
   {%include button href="/blog/2019/06/27/impartial-digraphs/" text="blog" %}
@@ -240,7 +240,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 **More sums than differences sets**
 {%include button href="slides/mstd.pdf" text="slides" %}
 
-{%include side_image height="78" src="bidirectional.png" width="200" %}
+{%include side_image height="78" src="bidirectional.svg" width="200" %}
 * [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
   _Journal of Number Theory_ 130 (2010), 1212--1220.
   {%include button href="bidirectional_ballot.pdf" text="extended version" %}
@@ -266,7 +266,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with David Conlon and Jacob Fox) \\
   _EMS Surveys in Mathematical Sciences_ 1 (2014), 249--282.  
 
-{%include side_image src="extremal-regular.png" height="50" %}
+{%include side_image src="coloring_hom.svg" height="50" %}
 * [Extremal regular graphs: independent sets and graph homomorphisms](extremal-regular-graphs.pdf) \\
   _American Mathematical Monthly_ 124 (2017), 827--843.
   {%include button href="https://yufeizhao.wordpress.com/2016/10/29/extremal-regular-graphs/" text="blog" %}
