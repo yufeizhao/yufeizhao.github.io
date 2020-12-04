@@ -82,6 +82,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 * [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
+  \\
+  _Israel Journal of Mathematics_, to appear.
 
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _FOCS_ 2020.
