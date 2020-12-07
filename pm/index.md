@@ -84,7 +84,7 @@ _Schedule_
 - **11/18** Talagrand inequality
 - **11/30** Entropy method
 - **12/2** Entropy method
-- **12/7** Entropy method / Container method
+- **12/7** Entropy method
 - **12/9** Container method
 
 
