@@ -87,8 +87,6 @@ _Schedule_
 - **12/7** Entropy method
 - **12/9** Container method
 
-
-
 ## Homework
 
 **[Problem set](ps.pdf)**: a list of problems for practice. A subset of these problems will be assigned as homework. You should only submit the designated problems, but are encouraged to try the rest as well.
