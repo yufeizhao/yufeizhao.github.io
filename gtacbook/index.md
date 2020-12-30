@@ -15,7 +15,7 @@ This is the homepage for a textbook that I plan to write:
 _Graph Theory and Additive Combinatorics_  
 _by [Yufei Zhao](http://yufeizhao.com)_  
 
-The contents will be based on the [lecture notes](../gtac/gtac.pdf) from a [course](../gtac/gtac.pdf) that I have been teaching on this subject.
+The contents will be based on the [lecture notes](../gtac/gtac.pdf) from a [course](../gtac/gtac.pdf) that I have been teaching on this subject (the course also has a complete set of lecture videos).
 
 The current (very tentative) plan for the table of contents:
 
