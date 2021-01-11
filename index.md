@@ -42,9 +42,6 @@ Combinatorics, discrete mathematics, graph theory
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2020
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2020
 
-
-Past teaching:
-
 <a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics"></a>
 

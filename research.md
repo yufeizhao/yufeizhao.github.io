@@ -195,9 +195,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   _International Mathematics Research Notices. IMRN_ 2020, 167--213.
   {%include button href="https://www.youtube.com/watch?v=G9AJHUAz33o" text="video" %} 
 
-
 * [On the upper tail problem for random hypergraphs](https://arxiv.org/abs/1910.02916) (with Yang Liu) \\
-  _Random Structures & Algorithms_, to appear.
+  _Random Structures & Algorithms_ 58 (2021), 179--220.
 
 **Graph limits**
 
