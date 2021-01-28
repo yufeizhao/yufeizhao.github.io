@@ -43,11 +43,9 @@ In our new paper, [The cylindrical width of transitive sets](https://arxiv.org/a
 
 **Theorem** ([Sah--Sawhney--Zhao](https://arxiv.org/abs/2101.11207)). There exists some constant $C$ so that for every $1 \le k \le d/(\log d)^C$, every finite transitive set of unit vectors in $\mathbb{R}^d$ lies within distance $O\bigl(\frac{1}{\sqrt{\log (d/k)}}\bigr)$ of codimension-$k$ subspace.
 
-We conjecture that the hypothesis $1 \le k \le d/(\log d)^C$ can be removed:
+The bound $O\bigl(\frac{1}{\sqrt{\log (d/k)}}\bigr)$ is tight up to a constant factor. We conjecture that the hypothesis $1 \le k \le d/(\log d)^C$ can be removed:
 
 **Conjecture.** For every $1 \le k \le d$, every finite transitive set of unit vectors in $\mathbb{R}^d$ lies within distance $O\bigl(\frac{1}{\sqrt{\log (2d/k)}}\bigr)$ of codimension-$k$ subspace.
-
-In the paper, we give an example showing that this bound, if true, is best possible.
 
 Finally, we conjecture that not only do finite transitive sets lie close to subspaces, but they can be completely contained in a small cube. All examples known to us are consistent with this conjecture, even though I still find it very counterintuitive.
 
