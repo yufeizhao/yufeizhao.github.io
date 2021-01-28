@@ -88,7 +88,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _FOCS_ 2020.
 
-**Cayley graphs**
+**Cayley graphs and transitive sets**
 
 * [Quasirandom Cayley graphs](http://arxiv.org/abs/1603.03025) (with David Conlon) \\
   _Discrete Analysis_ 2017:6, 14 pp.
@@ -100,6 +100,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   
 * [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney) \\
   _International Mathematics Research Notices. IMRN_, to appear.
+
+* [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney)
 
 **Equiangular lines and spectral graph theory** 
   {%include button href="slides/equiangular.pdf" text="slides" %}

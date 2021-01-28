@@ -46,7 +46,7 @@ I will try to explain why Ben's result is surprising.
 Lastly, I will also mention a recent paper I have with Yang Liu on the [upper tail problem in random hypergraphs](https://arxiv.org/abs/1910.02916), where a different new phenomenon is observed.
 
 
-## Chasing the infamous upper tail
+### Chasing the infamous upper tail
 
 Roughly, and intuitively, to gain a precise understanding of the upper tail problem, we are really asking:
 
@@ -124,7 +124,7 @@ While this is a pretty satisfactory formula, our understanding is still not comp
 
 2. What precise statements can you make about the conditioned random graph? (see [Harel–Mousset–Samotij](https://arxiv.org/abs/1904.08212))
 
-## Gunby's work on random regular graphs
+### Gunby's work on random regular graphs
 
 Ben Gunby's work studies the upper tail problem for random regular graphs:
 
@@ -162,7 +162,7 @@ It remains to be seen what happens to other graphs $H$.
 Will we need even more intricate constructions?
 What does this mean for techniques towards solving the upper tail problem for the full range of degree parameters? There is still lot that we do not understand.
 
-## Large deviations for random hypergraphs
+### Large deviations for random hypergraphs
 
 In a recent paper with [Yang Liu](https://arxiv.org/abs/1910.02916) (to appear in _Random Structures & Algorithms_), we considered the extension of the upper tail problem to random hypergraphs. 
 Yang Liu is a PhD student at Stanford. We started this work while Yang was an undergraduate student at MIT.
