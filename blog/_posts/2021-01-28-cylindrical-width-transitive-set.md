@@ -51,4 +51,6 @@ Finally, we conjecture that not only do finite transitive sets lie close to subs
 
 **Conjecture** (Finite transitive sets lie in a small cube). Every finite transitive set of unit vectors in $\mathbb{R}^d$ is contained in a cube of width $O\bigl(\frac{1}{\sqrt{\log d}}\bigr)$.
 
+Even proving a bound of $o(1)$ (as $d\to \infty$) would be quite interesting.
+
 Both conjectures are generalizations of Green's result, but the relationship between the two conjectures is unclear. 
