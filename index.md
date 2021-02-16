@@ -35,6 +35,7 @@ Combinatorics, discrete mathematics, graph theory
 **Current PhD students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home),
+[Mehtaab Sawhney](http://www.mit.edu/~msawhney/),
 [Jonathan Tidor](https://math.mit.edu/directory/profile.php?pid=2037)
 
 ## Teaching
