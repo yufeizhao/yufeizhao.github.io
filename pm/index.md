@@ -23,6 +23,8 @@ Please include "18.226" in the subject line of your emails
 
 [Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom, Non-MIT individuals must obtain an MIT account, e.g., through cross-registration, to access the lectures)
 
+_Unfortunately, due to MIT policies, I cannot release lecture videos to anyone outside MIT. All the publicly accessible material from the course are already contained on this page._
+
 **Office hours:**
 I will stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
 
