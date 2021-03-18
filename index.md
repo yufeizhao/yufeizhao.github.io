@@ -103,7 +103,12 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
   <iframe width="560" height="315" src="//www.youtube.com/embed/dsnU8iPL-WI" allowfullscreen></iframe>
   </div>
 
-* [Equiangular lines, spherical two-distance sets, and spectral graph theory](https://www.bilibili.com/video/BV1UA411Y7ME/), SCMS Combinatorics Seminar, Aug 2020
+* <a href="javascript:void(0);" target="_self" onclick="$('#equiangular-talk-dec2020').toggle('fast');">
+  Equiangular lines, spherical two-distance sets, and spectral graph theory</a>, 
+  DIMAP, Dec 2020
+  <div id="equiangular-talk-dec2020" style="display:none" class="videoWrapper">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/hbmSC7wzn_k" allowfullscreen></iframe>
+  </div>
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#popular-common-may2020').toggle('fast');">
   Popular common difference</a>, Webinar in Additive Combinatorics, May 2020
