@@ -82,8 +82,6 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
 
-
-
 ## Slides
 
 * [The joints problem for varieties](/research/slides/joints_varieties.pdf)
