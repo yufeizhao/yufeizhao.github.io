@@ -92,7 +92,6 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 * [Large deviations in random graphs](research/slides/large_deviations_random_graphs.pdf)
 * [Pseudorandom graphs, relative Szemerédi theorem and the Green-Tao Theorem](research/slides/green-tao-relative-szemeredi.pdf)
 
-
 ## Videos
 
 * <a href="javascript:void(0);" target="_self" onclick="$('#joints-talk-aug2020').toggle('fast');">
