@@ -70,7 +70,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
 * [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson) \\
-  _Comptes Rendus Mathématique_, to appear.
+  _Comptes Rendus Mathématique_ 358 (2020), 957--959.
 
 **Arithmetic regularity and applications**
 
@@ -229,7 +229,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 {%include side_image height="30" src="impartial.svg" %}
 * [Impartial digraphs](https://arxiv.org/abs/1906.10482) (with Yunkun Zhou) \\
-  _Combinatorica_, to appear.
+  _Combinatorica_ 40 (2020), 875--896.
   {%include button href="/blog/2019/06/27/impartial-digraphs/" text="blog" %}
 
 {%include side_image height="80" src="tournament-path.svg" %}
