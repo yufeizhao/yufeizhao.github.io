@@ -244,6 +244,11 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
   (with Jacob Fox and Po-Shen Loh) \\
   _Combinatorica_ 35 (2015), 435--476.
 
+**Intersecting families of graphs**
+
+* [$K_4$-intersecting families of graphs](https://arxiv.org/abs/2103.12671) 
+  (with Aaron Berger)
+
 **More sums than differences sets**
 {%include button href="slides/mstd.pdf" text="slides" %}
 
