@@ -54,6 +54,9 @@ and my [CV](cv.pdf)
   (with David Conlon, Jacob Fox, and Benny Sudakov)
   {%include button href="slides/sparse-reg-c4.pdf" text="slides" %}
 
+* [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
+  (with Jacob Fox)
+
 **Additive combinatorics**
 
 {%include side_image height="50" src="triforce.svg" %}
