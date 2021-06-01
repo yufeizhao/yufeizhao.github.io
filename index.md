@@ -36,7 +36,7 @@ Combinatorics, discrete mathematics, graph theory
 [Aaron Berger](https://web.mit.edu/bergera/www/),
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home),
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/),
-[Jonathan Tidor](https://math.mit.edu/directory/profile.php?pid=2037)
+[Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 ## Teaching
 
@@ -84,6 +84,7 @@ Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
 
 ## Slides
 
+* [Extremal problems in discrete geometry](/research/slides/extremal_discrete_geometry.pdf)
 * [The joints problem for varieties](/research/slides/joints_varieties.pdf)
 * [Equiangular lines, spherical two-distance sets, and spectral graph theory](research/slides/equiangular.pdf)
 * [Popular common difference](research/slides/popular_difference.pdf)
