@@ -52,7 +52,8 @@ and my [CV](cv.pdf)
 
 * [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
   (with David Conlon, Jacob Fox, and Benny Sudakov)
-  {%include button href="slides/sparse-reg-c4.pdf" text="slides" %}
+  {%include button href="slides/sparse-reg-c4.pdf" text="slides" %} \\
+  _Journal of the London Mathematical Society_, to appear.
 
 * [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
   (with Jacob Fox)
