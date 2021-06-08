@@ -58,6 +58,9 @@ and my [CV](cv.pdf)
 * [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
   (with Jacob Fox)
 
+* [Which graphs can be counted in $C_4$-free graphs?](https://arxiv.org/abs/2106.03261)
+  (with David Conlon, Jacob Fox, and Benny Sudakov)
+
 **Additive combinatorics**
 
 {%include side_image height="50" src="triforce.svg" %}
