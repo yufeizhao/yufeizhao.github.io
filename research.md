@@ -37,6 +37,8 @@ and my [CV](cv.pdf)
 
 **Graph regularity method and applications**
 
+
+{%include side_image src="pic_extremal_pseudorandom.svg" height="100" %}
 * [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
   (with David Conlon and Jacob Fox) \\
   _Advances in Mathematics_ 256 (2014), 206--290.
@@ -51,19 +53,20 @@ and my [CV](cv.pdf)
   _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
 * [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
-  (with David Conlon, Jacob Fox, and Benny Sudakov)
-  {%include button href="slides/sparse-reg-c4.pdf" text="slides" %} \\
+  (with David Conlon, Jacob Fox, and Benny Sudakov) \\
   _Journal of the London Mathematical Society_, to appear.
+    {%include button href="slides/sparse-reg-c4.pdf" text="slides" %} 
 
 * [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
   (with Jacob Fox)
 
+{%include side_image height="60" src="pic_c4-free-counting.svg" %}
 * [Which graphs can be counted in $C_4$-free graphs?](https://arxiv.org/abs/2106.03261)
   (with David Conlon, Jacob Fox, and Benny Sudakov)
 
 **Additive combinatorics**
 
-{%include side_image height="50" src="triforce.svg" %}
+{%include side_image height="40" src="triforce.svg" %}
 * [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
 _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 209--223.
 
@@ -114,10 +117,11 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 
 **Equiangular lines and spectral graph theory** 
   {%include button href="slides/equiangular.pdf" text="slides" %}
-  {%include side_image height="100" src="icosahedron.png" %}
+  {%include side_image height="80" src="icosahedron.png" %}
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
 
+  {%include side_image height="80" src="pic_2dist.svg" %}
 * [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 **Incidence geometry**
@@ -259,7 +263,7 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 **More sums than differences sets**
 {%include button href="slides/mstd.pdf" text="slides" %}
 
-{%include side_image height="78" src="bidirectional.svg" width="200" %}
+{%include side_image height="78" src="bidirectional.svg" height="50" %}
 * [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
   _Journal of Number Theory_ 130 (2010), 1212--1220.
   {%include button href="bidirectional_ballot.pdf" text="extended version" %}
