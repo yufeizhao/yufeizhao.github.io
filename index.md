@@ -36,7 +36,7 @@ Cambridge, MA 02139, USA</p>
 [Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 **Former PhD students**:
-[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard PhD '16 → Rutgers postdoc)
+[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard PhD '21 → Rutgers postdoc)
 
 <!-- <a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 30%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics"></a>
