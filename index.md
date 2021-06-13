@@ -65,6 +65,9 @@ Cambridge, MA 02139, USA</p>
 
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
 
+* [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
+  _FOCS_ 2020.
+
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
@@ -73,10 +76,6 @@ Cambridge, MA 02139, USA</p>
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
   _Advances in Mathematics_ 319 (2017), 313--347.
-
-* [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
-  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
-  _Transactions of the American Mathematical Society_ 372 (2019), 3019--3062.
 
 * [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
