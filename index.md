@@ -26,9 +26,7 @@ Cambridge, MA 02139, USA</p>
 </div>
 </div>
 
-## Research areas
-
-Combinatorics, discrete mathematics, graph theory
+**Research interests**: Combinatorics (extremal, probabilistic, additive, graph theory, discrete geometry)
 
 **Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)**
 
@@ -38,26 +36,30 @@ Combinatorics, discrete mathematics, graph theory
 [Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 **Former PhD students**:
-[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Rutgers postdoc)
+[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard PhD '16 → Rutgers postdoc)
+
+<!-- <a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 30%; height: auto;" class="side"
+ title="The bridge between graph theory and additive combinatorics"></a>
+ -->
 
 ## Teaching
 
+* [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021
+  {%include button href="gtacbook/" text="Book project" %} 
+  {%include button href="https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/" text="Lecture videos" %} 
+   <!-- and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX) -->
+* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2021
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2020
-* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2020
+  {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
 
-<a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 40%; height: auto;" class="side"
- title="The bridge between graph theory and additive combinatorics"></a>
 
-* [18.217 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2019  
-  **Lecture videos** on [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 * [18.211 Combinatorial Analysis](211/), Fall 2018
+
+
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
+* [Math Olympiad training handouts](olympiad/)
 
 
-
-Book project: [Graph Theory and Additive Combinatorics](gtacbook/)
-
-### [Math Olympiad training handouts](olympiad/)
 
 ## Selected publications
 

@@ -6,52 +6,41 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 # 18.A34 Mathematical Problem Solving (Putnam Seminar)
 
-**Fall 2020, MIT**
+**Fall 2021, MIT**
 
-**Class meetings:** Mondays and Wednesdays 10--11am (Note time change)
+**Class meetings:** Mondays and Wednesdays 1--2pm, room 2-151
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
 
-**Assistants:** [Dain Kim](dain0327@mit.edu) and [Daniel Zhu](zhd@mit.edu)
-
 Please include "18.A34" in the subject line of your emails
 
-[Link to Canvas](https://canvas.mit.edu/courses/5625)
 
 ## Course description and policies
 
 This is a first-year seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills. 
 This seminar is fast-paced and is targeted for students with previous experience in mathematical Olympiads, though others may benefit as well. (Units: 2-0-4)
 
-The **William Lowell Putnam Mathematics Competition** is an annual mathematics contest for undergraduates in USA and Canada.
-Due to COVID-19, the 2020 Putnam has been postponed until February 20, 2021; see the [official Putnam website](https://www.maa.org/math-competitions/putnam-competition) for updates and announcements.
+**[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
+contest for undergraduates in the USA and Canada.  This year it will be held **Saturday, December 4, 2021**.
 
-All students receiving credit for this class will be required to participate in the Putnam competition (in whichever format it will be held, either officially or unofficially).
+All registered students will be required to participate in the Putnam competition.
 
-_Class format._
-On most weeks, one meeting will be a lecture (often a guest lecture by an upperclassman) on a specific topic, and the other meeting will be student presentations of homework problems. 
-We intend to record the lectures (recordings accessible to registered participants) but not the presentation classes.
+Seminar participants are selected through the First-year Advising Selection process. 
+Unfortunately I cannot add additional students. (See below regarding lecture attendance)
 
-During the student presentation classes, students will be called on to present their solutions. 
-The presenting student should pick a problem, and screen-share their solution, and explain their solution verbally (not simply reading from the written solution). I, as well as other members of the class, will give critical feedback on both the mathematical content as well as the presentation.
+_Class format._ (see schedule)
+- **Lectures** are open to all MIT students.
+- **Discussion sessions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
 
-This is a new format as we are adapting to remote-teaching. We may experiment with different formats as the semester progresses.
-
-_Attendance._
-Class attendance is **required** for registered students.
-Active participation is an important aspect of this seminar.
+Class attendance and active participation is **required** for registered students.
 Please notify me in advance if you cannot make it to class.
 Too many unexcused absences is cause for concern and may lead to a non-passing grade.
 
-You are asked to **turn on your video camera** during class (please let me know if there is some reason you might not want to do this, e.g., poor internet connection, inconvenient environment).
-
-_Non-registered students._
-MIT students not registered in the class are welcome to attend the lectures but not the presentation sessions (see schedule below) and may not turn in homework.
-
-Seminar participants were selected through the first-year advising selection process, and unfortunately I will not be able to add additional students. _Listeners are not permitted in 18.A34._
+_Non-registered MIT students_ are welcome to attend the lectures but not the discussion sessions and may not turn in homework.
 
 _Grading._ Based on homework and in-class participation.
-Homework will be graded on correctness and presentation. Illegible or extremely sloppy write-ups are unacceptable.
+Homework will be graded on correctness and presentation. 
+Illegible or extremely sloppy write-ups are unacceptable.
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
 
@@ -59,38 +48,10 @@ Homework will be graded on correctness and presentation. Illegible or extremely 
 
 _Subject to change. See homework policy below._ (SS = Supplementary set)
 
-Lectures are open to all MIT students ([Zoom link](https://mit.zoom.us/j/92533740435?pwd=aHd5c2JtL0Z0U1ROaWZiOXBrVytyZz09); MIT Touchstone authentication required). 
+Lectures are open to all MIT students.
+All other sessions are restricted to official seminar participants.
 
-All other sessions are restricted to official seminar participants (link in [Canvas](https://canvas.mit.edu/courses/5625)).
-
-- **W 9/2** Introductions (only official participants attend)
-- ~~M 9/7~~ _No class (Labor Day)_
-- **W 9/9** Lecture by Yufei Zhao
-- **M 9/14** Presentations. Due: [Hidden independence and uniformity](ps/indep.pdf) and [SS1](ps/hw1.pdf)
-- **W 9/16** Lecture by Mehtaab Sawhney
-- **M 9/21** Presentations. Due: [Inequalities](ps/inequalities.pdf) and [SS2](ps/hw2.pdf)
-- **W 9/23** Lecture by Shengtong Zhang
-- **M 9/28** Presentations. Due: [Sums and integrals](ps/sums_integrals.pdf) and [SS3](ps/hw3.pdf)
-- **W 9/30** Lecture by Yuan Yao
-- **M 10/5** Presentations. Due: [Combinatorial configurations](ps/combo.pdf) and [SS4](ps/hw4.pdf)
-- **W 10/7** Lecture by Hung-Hsun Hans Yu ([notes](notes/recurrence-notes.pdf))
-- **_T_ 10/13** Presentations. Due: [Recurrence](ps/recurrence.pdf)  and [SS5](ps/hw5.pdf)
-- **W 10/14** Lecture by Ashwin Sah
-- **M 10/19** Presentations. Due: [Analysis](ps/analysis.pdf) and [SS6](ps/hw6.pdf)
-- **W 10/21** Lecture by Daniel Zhu
-- **M 10/26** Presentations. Due: [Generating functions](ps/genfn.pdf) and [SS7](ps/hw7.pdf)
-- **W 10/28** Lecture by Zilin Jiang
-- **M 11/2** Presentations. Due: [Abstract algebra](ps/algebra.pdf) and [SS8](ps/hw8.pdf)
-- **W 11/4** Lecture by Dain Kim
-- **M 11/9** Presentations. Due: [Polynomials](ps/polynomials.pdf) and [SS9](ps/hw9.pdf)
-- ~~W 11/11~~ _No class (Veterans Day)_
-- **M 11/16** Presentations.
-- **W 11/18** Lecture by Junyao Peng ([notes](notes/number-theory-notes.pdf))
-- _(Thanksgiving break)_
-- **M 11/30** Presentations. Due: [Congruences and divisibility](ps/congruences.pdf) and [SS10](ps/hw10.pdf)
-- **W 12/2** Lecture by Allen Liu
-- **M 12/7** Presentations. Due: [Linear algebra](ps/linalg.pdf) and [SS11](ps/hw11.pdf)
-- **W 12/9** Final class wrap-up and discussions
+_To be announced_
 
 ## Homework
 
@@ -142,4 +103,9 @@ Some resources may be available electronically from [MIT Library](https://librar
 - [Problem-Solving Through Problems](https://www.amazon.com/Problem-Solving-Through-Problems-Problem-Mathematics/dp/0387961712/) by Larson
 - [Putnam and Beyond](https://www.amazon.com/Putnam-Beyond-Razvan-Gelca/dp/0387257659/) by Gelca and Andreescu
 
-Previous course homepage from [Fall 2017](fa17/), [Fall 2018](fa18/) (also [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/)), and [Fall 2019](fa19/).
+Previous course homepage from 
+[Fall 2017](fa17/), 
+[Fall 2018](fa18/),
+(also [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/)), 
+[Fall 2019](fa19/),
+[Fall 2020](fa20/).
