@@ -73,7 +73,8 @@ _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 2
 * [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
   _The Quarterly Journal of Mathematics_, to appear.
 
-* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney) 
+* [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney) \\
+  _Discrete Analysis_, to appear.
    {%include button href="https://www.youtube.com/watch?v=TCGZgTUjE3s" text="video" %}
    {%include button href="slides/popular_difference.pdf" text="slides" %}
 
