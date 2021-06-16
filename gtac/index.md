@@ -76,7 +76,7 @@ Note that for MIT students, grade modifiers do not count towards the GPA and do 
 
 _To be announced_
 
-Lecture video recordings from Fall 2019 (may be correspond exactly to the current semester):
+Lecture video recordings from Fall 2019 (may not correspond exactly to the current semester):
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
 * [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
