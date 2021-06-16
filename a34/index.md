@@ -32,7 +32,7 @@ _Class format._ (see schedule)
 - **Lectures** are open to all MIT students.
 - **Discussion sessions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
 
-Class attendance and active participation is **required** for registered students.
+**Class attendance is required** for registered students.
 Please notify me in advance if you cannot make it to class.
 Too many unexcused absences is cause for concern and may lead to a non-passing grade.
 
