@@ -73,6 +73,11 @@ Cambridge, MA 02139, USA</p>
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Inventiones Mathematicae_ 221 (2020), 665--711.
 
+* [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
+  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
+  _Transactions of the American Mathematical Society_ 372 (2019), 3019--3062.
+
+
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
   _Advances in Mathematics_ 319 (2017), 313--347.
