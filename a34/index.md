@@ -20,8 +20,8 @@ Please include "18.A34" in the subject line of your emails
 This is a first-year seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills. 
 This seminar is fast-paced and is targeted for students with previous experience in mathematical Olympiads, though others may benefit as well. (Units: 2-0-4)
 
-**[William Lowell Putnam Mathematics Competition](http://math.scu.edu/putnam/):** The Putnam Competition is an annual mathematics
-contest for undergraduates in the USA and Canada.  This year it will be held **Saturday, December 4, 2021**.
+**[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):** The Putnam Competition is an annual mathematics
+contest for undergraduates in the USA and Canada.  This year it will be held **Saturday, December 4, 2021** (to be confirmed---check the official website for updates)
 
 All registered students will be required to participate in the Putnam competition.
 
