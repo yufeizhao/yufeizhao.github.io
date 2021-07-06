@@ -2,7 +2,7 @@
 layout: default
 title: Yufei Zhao | MIT Mathematics
 description: "Assistant Professor of Mathematics at MIT. Research area: combinatorics"
-image: photo.jpg
+image: /photo.jpg
 ---
 
 <div class="row">
