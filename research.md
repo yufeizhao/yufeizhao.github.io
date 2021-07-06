@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Yufei Zhao | Research
-description: Yufei Zhao's research papers
+description: "Research of Yufei Zhao, Assistant Professor of Mathematics at MIT"
+image: /photo.jpg
 ---
 
 # Research
