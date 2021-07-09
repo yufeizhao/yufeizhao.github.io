@@ -157,7 +157,9 @@ and my [CV](cv.pdf)
 - [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney) \\
   _International Mathematics Research Notices. IMRN_, to appear.
 
-- [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney)
+- [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney) \\
+  _Israel Journal of Mathematics_, to appear.
+  {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
 ### Equiangular lines and eigenvalue multiplicities
 
