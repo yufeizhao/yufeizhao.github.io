@@ -12,9 +12,9 @@ description: "MIT graduate course taught by Prof. Yufei Zhao"
 
 **Fall 2021, MIT**
 
-_Quick links_:
+<!-- _Quick links_:
 \[Lecture videos: [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
-\[[Notes](gtac.pdf)\]
+\[[Notes](gtac.pdf)\] -->
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-153
 
