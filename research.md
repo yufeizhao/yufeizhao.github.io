@@ -20,6 +20,7 @@ and my [CV](cv.pdf)
   The classical version of the regularity method only works in the dense setting, and my work extends the method to the sparse setting. 
   Ideas arising from graph regularity can be transferred to the world of additive combinatorics.
   For example, our work on sparse graph/hypergraph regularity counting lemmas led to a simplification of the proof the Green--Tao theorem (see [exposition](http://arxiv.org/abs/1403.2957)).
+  {%include button href="/blog/2021/07/12/large-graphs/" text="blog" %}
   - Regularity and counting lemmas in sparse graphs
   - Arithmetic regularity, and applications to additive combinatorics
   - Popular differences
