@@ -2,6 +2,7 @@
 layout: single
 title: "18.225 Graph Theory and Additive Combinatorics"
 description: "MIT graduate course taught by Prof. Yufei Zhao"
+image: /gtac/bridge.png
 ---
 
 18.225 Graph Theory and Additive Combinatorics
