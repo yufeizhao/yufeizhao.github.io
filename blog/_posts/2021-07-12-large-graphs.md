@@ -15,7 +15,7 @@ My research on large graphs has its origins in the work of Endre Szemerédi in t
 
 {% include blog_image
     src = "szemeredi-abel.jpg"
-    height = "300"
+    width = "450"
     caption = "Endre Szemerédi receiving the 2012 Abel Prize <br/> (Photo from the Abel Prize)"
 %}
 
@@ -34,7 +34,7 @@ Between different pairs of parts of vertices, the density of edges could be diff
 
 {% include blog_image
     src = "regularity-partition.png"
-    height = "150"
+    width = "150"
     caption = "An illustration of a vertex partition produced by the graph regularity lemma."
 %}
 
@@ -51,7 +51,7 @@ Szemerédi’s idea of viewing graph theory via the lens of this decomposition h
 
 {% include blog_image
     src = "lovasz-abel.jpg"
-    height = "300"
+    width = "450"
     caption = "László Lovász (Photo from the Abel Prize)"
 %}
 
@@ -59,7 +59,7 @@ László Lovász, who recently won the [2021 Abel Prize](https://www.abelprize.n
 
 {% include blog_image
     src = "lovasz-book-graph-limits.jpg"
-    height = "300"
+    width = "200"
     caption = "Lovász’s book on graph limits"
 %}
 
@@ -69,13 +69,13 @@ Likewise, graphs are discrete objects analogous to rational numbers. A sequence 
 
 {% include blog_image
     src = "graph-limit-half-graph.png"
-    height = "150"
+    width = "450"
     caption = "A graph, its adjacent matrix as a pixel picture, and the graph limit"
 %}
 
 {% include blog_image
     src = "graph-limit-powerlaw.png"
-    height = "150"
+    width = "300"
     caption = "A graph (shown as the pixel image of its adjacency matrix) sampled from a graph limit <br/>
     (Both images taken from Lovász’s book)"
 %}

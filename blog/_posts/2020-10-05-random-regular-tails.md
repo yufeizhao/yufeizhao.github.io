@@ -28,7 +28,8 @@ Let me highlight one specific result in Ben's paper (Theorem 2.9).
 _in $$G_n^d$$. Then for every fixed $$\delta > 0$$ (here $$\sim$$ means up to $1+o(1)$ factor),_
 
 $$
--\log \mathrm{Pr}(X \ge (1+\delta)\mathbb{E} X) \sim  \frac{(18\delta)^{1/3}}{2} \frac{d^3}{n} \left(\log \frac{n}{d}\right)^{2/3} \left(\log\log \frac{n}{d}\right)^{1/3}
+-\log \mathrm{Pr}(X \ge (1+\delta)\mathbb{E} X) 
+\sim  \frac{(18\delta)^{1/3}}{2} \frac{d^3}{n} \left(\log \frac{n}{d}\right)^{2/3} \left(\log\log \frac{n}{d}\right)^{1/3}
 $$
 
 <br />
@@ -113,7 +114,8 @@ Let $X$ be the number of copies of $H$ in $G(n,p)$. Provided that $n^{-\alpha_H}
 one has_
 
 $$
--\log \mathrm{Pr} (X \ge (1+\delta)\mathbb{E} X) \sim c(H, \delta) p^{\Delta} n^2 \log \frac{1}{p},
+-\log \mathrm{Pr} (X \ge (1+\delta)\mathbb{E} X) 
+\sim c(H, \delta) p^{\Delta} n^2 \log \frac{1}{p},
 $$
 
 _where $$c(H,\delta) > 0$$ is an explicit constant determined in [Bhattacharya–Ganguly–Lubetzky–Zhao](https://arxiv.org/abs/1507.04074)._

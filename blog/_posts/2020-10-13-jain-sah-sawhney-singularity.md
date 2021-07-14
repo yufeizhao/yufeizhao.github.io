@@ -7,11 +7,11 @@ description: Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney's new papers on the s
 [Vishesh Jain](https://math.mit.edu/~visheshj/), [Ashwin Sah](http://www.mit.edu/~asah/), and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) just posted two amazing papers: *Singularity of discrete random matrices* [Part I](https://arxiv.org/abs/2010.06553) and [Part II](https://arxiv.org/abs/2010.06554).
 
 <figure>
-  <img src="/blog/images/vishesh-jain-2020.jpg" height = "200">
+  <img src="/blog/images/vishesh-jain-2020.jpg" width = "153">
 
-  <img src="/blog/images/ashwin-sah-2020.jpg" height = "200">
+  <img src="/blog/images/ashwin-sah-2020.jpg" width = "133">
   
-  <img src="/blog/images/mehtaab-sawhney-2020.jpg" height = "200">
+  <img src="/blog/images/mehtaab-sawhney-2020.jpg" width = "160">
   
   <figcaption>Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney</figcaption>
 </figure>

@@ -7,6 +7,7 @@ I just finished a new paper, [Impartial digraphs](https://arxiv.org/abs/1906.104
 
 {% include blog_image
     src = "yunkun-zhou-2019.jpg"
+    width = 400
     caption = "with Yunkun Zhou (R) after his MIT commencement"
 %}
 

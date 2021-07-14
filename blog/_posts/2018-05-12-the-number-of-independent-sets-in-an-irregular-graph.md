@@ -6,11 +6,11 @@ layout: blog
 I am excited to announce our new paper, [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021), coauthored with these three amazing collaborators:
 
 <figure>
-  <img src="/blog/images/ashwin-sah-2019.jpg" height = "200">
+  <img src="/blog/images/ashwin-sah-2019.jpg" width = "167">
   
-  <img src="/blog/images/mehtaab-sawhney-2019.jpg" height = "200">
+  <img src="/blog/images/mehtaab-sawhney-2019.jpg" width = "160">
   
-  <img src="/blog/images/david-stoner-2019.png" height = "200">
+  <img src="/blog/images/david-stoner-2019.png" width = "150">
   
   <figcaption>Ashwin Sah, Mehtaab Sawhney, David Stoner</figcaption>
 </figure>

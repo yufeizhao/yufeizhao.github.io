@@ -24,9 +24,9 @@ In this and the upcoming several posts, I would like to tell you about some of t
 With PhD student Jonathan Tidor and undergraduate student Hung-Hsun Hans Yu, we recently solved the [joints problem for varieties](https://arxiv.org/abs/2008.01610) by a developing a new extension of the polynomial method. (Also see [my talk video](https://www.youtube.com/watch?v=dsnU8iPL-WI) and [slides](/research/slides/joints_varieties.pdf) on this work.)
 
 <figure>
-  <img src="/blog/images/jonathan-tidor-2020.jpg" height = "200">
+  <img src="/blog/images/jonathan-tidor-2020.jpg" width = "150">
   
-  <img src="/blog/images/hans-yu-2020.jpg" height = "200">
+  <img src="/blog/images/hans-yu-2020.jpg" width = "163">
   
   <figcaption>Jonathan Tidor and Hung-Hsun Hans Yu</figcaption>
 </figure>

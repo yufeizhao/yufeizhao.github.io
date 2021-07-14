@@ -7,7 +7,7 @@ description: Sah and Sawhney settled longstanding conjectures and improved resul
 
 {% include blog_image
     src = "ashwin-mehtaab-2020.jpg"
-    height = "200"
+    width = "300"
     caption = "Ashwin Sah and Mehtaab Sawhney"
 %}
 
