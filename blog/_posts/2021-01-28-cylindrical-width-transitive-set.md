@@ -32,7 +32,13 @@ I had conjectured the following statement, which was proved by Ben Green.
 This bound is actually tight for the example obtained by taking all signings and permutations of the unit vectors
 
 $$
-\frac{1}{\sqrt{H_d}}\Biggl(\pm 1, \frac{\pm  1}{\sqrt{2}}, \frac{\pm  1}{\sqrt{3}}, \ldots,  \frac{\pm 1}{\sqrt{d}}\Biggr), \quad \text{where } H_d = 1 + \frac{1}{2} + \cdots + \frac{1}{d} \sim \log d
+\frac{1}{\sqrt{H_d}}\Biggl(\pm 1, \frac{\pm  1}{\sqrt{2}}, \frac{\pm  1}{\sqrt{3}}, \ldots,  \frac{\pm 1}{\sqrt{d}}\Biggr)
+$$
+
+where
+
+$$
+H_d = 1 + \frac{1}{2} + \cdots + \frac{1}{d} \sim \log d.
 $$
 
 Green's proof, among other things, uses the classification of finite simple groups.
