@@ -3,6 +3,7 @@ title: "Enumerating k-SAT functions"
 layout: blogpost
 image: /blog/images/nitya-dingding-2021.jpg
 description: How many <i>k</i>-SAT functions are there? What does a typical one look like?
+twitter_large_image: true
 ---
 
 {% include blog_image
