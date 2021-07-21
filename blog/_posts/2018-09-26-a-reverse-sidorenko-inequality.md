@@ -1,6 +1,7 @@
 ---
 title: "A reverse Sidorenko inequality"
-layout: blog
+layout: blogpost
+description: New results on graph colorings and homomorphisms
 ---
 
 Together with undergraduates Ashwin Sah, Mehtaab Sawhney, and David Stoner (the same team that [proved Kahn's conjecture on independent sets that I blogged about earlier]({% post_url /blog/2018-05-12-the-number-of-independent-sets-in-an-irregular-graph %}),

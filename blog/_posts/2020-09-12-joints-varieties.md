@@ -1,6 +1,6 @@
 ---
 title: "Joints of varieties"
-layout: blog
+layout: blogpost
 image: /blog/images/joints-optimal.png
 description: New paper with Jonathan Tidor and Hung-Hsun Hans Yu solving the joints problem for varieties 
 ---

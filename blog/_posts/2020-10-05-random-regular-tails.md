@@ -1,6 +1,6 @@
 ---
 title: "Gunby: Upper tails for random regular graphs"
-layout: blog
+layout: blogpost
 image: /blog/images/ben-gunby-2020.jpg
 description: Ben Gunby's new paper determining the large deviation rate for sparse random regular graphs.
 ---

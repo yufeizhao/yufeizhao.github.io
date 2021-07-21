@@ -1,6 +1,7 @@
 ---
 title: "Impartial digraphs"
-layout: blog
+layout: blogpost
+description: Which directed graphs have constant density in all tournaments?
 ---
 
 I just finished a new paper, [Impartial digraphs](https://arxiv.org/abs/1906.10482), coauthored with Yunkun Zhou, who just completed his undergraduate studies at MIT and will be moving to Stanford to start his PhD this fall.

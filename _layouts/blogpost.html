@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<div class="blog">
+
+<h1 class="content-listing-header sans">Blog</h1>
+
+<p><a href="/blog/">Back to main</a> 
+    |
+<a href="/blog/list/">List of entries</a>
+    |
+{% include rss_logo %}
+</p>
+
+<h2>{{ page.title }}</h2>
+<p><span class="smaller">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+
+
+<div>{{ content }}</div>
+
+<div class="post-nav">
+  <div>
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+    <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+    {% endif %}
+  </div>  
+</div>
+
+
+<p><a href="/blog/">Back to main</a> 
+  |
+<a href="/blog/list/">List of entries</a>
+  |
+{% include rss_logo %}
+
+<div style="font-size: 80%;">
+  <p>More posts:</p>
+  <ul>
+    {% for post in site.posts %} {% unless post.draft %}  
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <span class="smaller">{{ post.date | date: "%-m/%-d/%Y" }}</span>  
+      <br/>
+    </li>
+    {% endunless %}{% endfor %}
+  </ul>
+  </div>
+  
+
+
+<br />
+
+</div>

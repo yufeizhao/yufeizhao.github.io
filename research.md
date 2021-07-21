@@ -242,6 +242,11 @@ and my [CV](cv.pdf)
   (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Advances in Mathematics_, 365 (2020), 107056
 
+### Asymptotic enumeration
+
+- [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233) 
+  (with Dingding Dong and Nitya Mani)
+
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
 {%include side_image height="79" src="gnp_ldp.png" width="80" %}

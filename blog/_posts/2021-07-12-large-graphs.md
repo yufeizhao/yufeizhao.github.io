@@ -1,6 +1,6 @@
 ---
 title: "Mathematical tools for large graphs"
-layout: blog
+layout: blogpost
 image: /blog/images/regularity-partition.png
 description: General audience essay on the graph regularity lemma, graph limits, and additive combinatorics
 ---

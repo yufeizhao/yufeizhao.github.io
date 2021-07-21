@@ -1,6 +1,7 @@
 ---
 title: "The number of independent sets in an irregular graph"
-layout: blog
+layout: blogpost
+description: Resolution of Kahn's conjecture on the maximum number of independent sets in a graph with prescribed degree-degree distributions.
 ---
 
 I am excited to announce our new paper, [The number of independent sets in an irregular graph](https://arxiv.org/abs/1805.04021), coauthored with these three amazing collaborators:
@@ -23,6 +24,7 @@ An **independent set** of a graph is a subset of vertices with no two adjacent.
 
 {% include blog_image
     src = "indep-c4.png"
+    width = "300"
     caption = "Example: the complete list of independent sets of a cycle of length 4"
 %}
 

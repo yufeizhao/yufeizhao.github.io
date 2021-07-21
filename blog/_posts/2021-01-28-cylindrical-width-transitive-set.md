@@ -1,6 +1,6 @@
 ---
 title: "The cylindrical width of transitive sets"
-layout: blog
+layout: blogpost
 image: /blog/images/transitive-set-width.png
 description: A finite transitive subset of a high dimensional sphere lies close to a subspace.
 ---
