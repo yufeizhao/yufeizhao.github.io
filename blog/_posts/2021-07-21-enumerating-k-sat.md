@@ -31,7 +31,7 @@ An easy argument shows that there are $(1+o(1))2^{\binom{n}{k} + n}$ unate funct
 
 The conjecture was previously proved for $k=2$ ([Allen 2007](https://mathscinet.ams.org/mathscinet-getitem?mr=2350165)) and $k=3$ ([Ilinca and Kahn 2012](https://mathscinet.ams.org/mathscinet-getitem?mr=3009746)) using the (hyper)graph regularity method.
 
-In our new paper, using the hypergraph container method, we show that the _k_-SAT conjecture is essentially equivalent to a variant of an extremal hypergraph problem. Such extremal problems are related to hypergraph Turán density problems, which are notoriously difficult to solve in general, and for which there are lots of open problems and very few answers. 
+In our new paper, using the [hypergraph container method](https://arxiv.org/abs/1801.04584), we show that the _k_-SAT conjecture is essentially equivalent to a variant of an extremal hypergraph problem. Such extremal problems are related to hypergraph Turán density problems, which are notoriously difficult to solve in general, and for which there are lots of open problems and very few answers. 
 
 We solved our Turán problem for all $k \le 4$, thereby confirming the conjecture for a new value $k=4$. 
 
