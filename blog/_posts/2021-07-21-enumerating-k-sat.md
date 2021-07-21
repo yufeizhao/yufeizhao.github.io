@@ -50,3 +50,5 @@ Here is a Turán density conjecture whose resolution would imply the above conje
 with at least one of these three edges directed towards 4, 5, or 6, then
 
 $$A + \theta B \le (1+o(1))\binom{n}{5}.$$
+
+There are actually additional patterns that one could forbid as well for the purpose solving the _k_-SAT enumeration problem. In fact we can give an explicit description of all forbidden patterns. But the above single forbidden pattern might just be enough (it is enough for $k \le 4$).
