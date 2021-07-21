@@ -1,6 +1,7 @@
 ---
 title: "Joints tightened"
 layout: blogpost
+image: /blog/images/hans-yu-2019.jpg
 description: Tight bounds for the joints problem in incidence geometry
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "A reverse Sidorenko inequality"
 layout: blogpost
+image: /blog/images/hom_coloring-pentagon.png
 description: New results on graph colorings and homomorphisms
 ---
 

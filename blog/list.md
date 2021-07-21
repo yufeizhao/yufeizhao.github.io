@@ -15,11 +15,13 @@ description: "Assistant Professor of Mathematics at MIT. Research area: combinat
 
 <ul>
   {% for post in site.posts %} {% unless post.draft %}
-
-      <li >
+      <li>
+        {% if post.image %}<img class="side" src="{{ post.image }}" style="max-height:4rem">{% endif %}
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="smaller">{{ post.date | date: "%-m/%-d/%Y" }}</span>  
+        <span class="smaller">{{ post.date | date: "%-m/%-d/%Y" }}
         <br/>
+        {{ post.description }}
+        </span> 
       </li>
   {% endunless %}{% endfor %}
 </ul>

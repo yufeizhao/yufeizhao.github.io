@@ -1,9 +1,8 @@
 ---
-title: "Enumerating k-SAT functions"
+title: "Enumerating <i>k</i>-SAT functions"
 layout: blogpost
 image: /blog/images/nitya-dingding-2021.jpg
-description: How many k-SAT functions are there? What does a typical one look like?
-draft: true
+description: How many <i>k</i>-SAT functions are there? What does a typical one look like?
 ---
 
 {% include blog_image
@@ -49,4 +48,4 @@ Here is a Turán density conjecture whose resolution would imply the above conje
 ```
 with at least one of these three edges directed towards 4, 5, or 6, then
 
-$$A + \theta B \le (1+o(1))\binom{n}{5} $$
+$$A + \theta B \le (1+o(1))\binom{n}{5}.$$

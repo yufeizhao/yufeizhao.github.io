@@ -1,7 +1,7 @@
 ---
 title: "Jain–Sah–Sawhney: Singularity of discrete random matrices"
 layout: blogpost
-description: Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney's new papers on the singularity of discrete random matrices.
+description: The singularity probability for discrete random matrices.
 ---
 
 [Vishesh Jain](https://math.mit.edu/~visheshj/), [Ashwin Sah](http://www.mit.edu/~asah/), and [Mehtaab Sawhney](http://www.mit.edu/~msawhney/) just posted two amazing papers: *Singularity of discrete random matrices* [Part I](https://arxiv.org/abs/2010.06553) and [Part II](https://arxiv.org/abs/2010.06554).

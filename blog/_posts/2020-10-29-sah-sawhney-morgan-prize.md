@@ -2,7 +2,7 @@
 title: "Ashwin Sah and Mehtaab Sawhney win the Morgan Prize"
 layout: blogpost
 image: /blog/images/ashwin-mehtaab-2020.jpg
-description: Sah and Sawhney settled longstanding conjectures and improved results by established mathematicians.
+description: For outstanding research by undergraduates
 ---
 
 {% include blog_image

@@ -1,6 +1,7 @@
 ---
 title: "Impartial digraphs"
 layout: blogpost
+image: /blog/images/yunkun-zhou-2019.jpg
 description: Which directed graphs have constant density in all tournaments?
 ---
 

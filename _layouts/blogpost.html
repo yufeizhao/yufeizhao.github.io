@@ -39,21 +39,17 @@ layout: default
   |
 {% include rss_logo %}
 
+<p>More posts:</p>
+
 <div style="font-size: 80%;">
-  <p>More posts:</p>
   <ul>
     {% for post in site.posts %} {% unless post.draft %}  
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       <span class="smaller">{{ post.date | date: "%-m/%-d/%Y" }}</span>  
-      <br/>
     </li>
     {% endunless %}{% endfor %}
   </ul>
-  </div>
+</div>
   
-
-
-<br />
-
 </div>

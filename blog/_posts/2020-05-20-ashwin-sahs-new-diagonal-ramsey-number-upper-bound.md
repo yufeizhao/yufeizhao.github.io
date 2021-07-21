@@ -1,6 +1,7 @@
 ---
 title: "Ashwin Sah's new diagonal Ramsey number upper bound"
 layout: blogpost
+image: /blog/images/ashwin-sah-2020.jpg
 description: New upper bound to diagonal Ramsey numbers
 ---
 

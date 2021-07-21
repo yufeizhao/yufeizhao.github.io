@@ -1,6 +1,7 @@
 ---
 title: "Equiangular lines with a fixed angle"
 layout: blogpost
+image: /blog/images/equiangular_lines_team.jpg
 description: Determining the maximum number of equiangular lines in high dimensions with a fixed given angle
 ---
 

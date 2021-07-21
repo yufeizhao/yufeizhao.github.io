@@ -1,8 +1,8 @@
 ---
-title: "The cylindrical width of transitive sets"
+title: The cylindrical width of transitive sets
 layout: blogpost
 image: /blog/images/transitive-set-width.png
-description: A finite transitive subset of a high dimensional sphere lies close to a subspace.
+description: A finite transitive subset of a high dimensional sphere lies close to a subspace
 ---
 
 The high dimensional sphere comes many surprising and counterintuitive features. Here is one of them.

@@ -246,6 +246,8 @@ and my [CV](cv.pdf)
 
 - [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233) 
   (with Dingding Dong and Nitya Mani)
+  {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
+
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
@@ -325,7 +327,7 @@ and my [CV](cv.pdf)
 
 ### More sums than differences sets {%include button href="slides/mstd.pdf" text="slides" %}
 
-{%include side_image height="78" src="bidirectional.svg" height="50" %}
+{%include side_image src="bidirectional.svg" height="50" %}
 - [Constructing MSTD sets using bidirectional ballot sequences](http://arxiv.org/abs/0908.4442) \\
   _Journal of Number Theory_ 130 (2010), 1212--1220.
   {%include button href="bidirectional_ballot.pdf" text="extended version" %}
