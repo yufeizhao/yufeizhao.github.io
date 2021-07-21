@@ -20,7 +20,7 @@ These questions about _k_-SAT functions were first studied by [Bollobás, Bright
 
 **Conjecture.** Fix $k \ge 2$. Almost all _k_-SAT functions are unate.
 
-Here an [_unate_ function](https://en.wikipedia.org/wiki/Unate_function) _k_-SAT function is one that can be turned monotone by first negating some subset of variables.
+Here an [_unate function_](https://en.wikipedia.org/wiki/Unate_function) is a _k_-SAT function is one that can be turned monotone by first negating some subset of variables.
 
 More precisely, the conjecture says that, as $n \to \infty$, $1-o(1)$ fraction of all _k_-SAT functions on _n_ boolean variables are unate.
 
