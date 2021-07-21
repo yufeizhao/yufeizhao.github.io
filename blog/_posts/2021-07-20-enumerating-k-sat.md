@@ -12,7 +12,7 @@ draft: true
     caption = "Nitya Mani and Dingding Dong"
 %}
 
-In a new paper coauthored with graduate students [Dingding Dong](https://www.math.harvard.edu/people/dong-dingding/) and [Nitya Mani](http://math.mit.edu/directory/profile.php?pid=2315) titled [Enumerating _k_-SAT functions](https://arxiv.org/abs/2107.09233), we study these fundamental questions about _k_-SAT functions:
+In a new paper coauthored with graduate students [Dingding Dong](https://www.math.harvard.edu/people/dong-dingding/) and [Nitya Mani](http://math.mit.edu/directory/profile.php?pid=2315) titled [_Enumerating k-SAT functions_](https://arxiv.org/abs/2107.09233), we study these fundamental questions about _k_-SAT functions:
 
 - How many _k_-SAT functions on _n_ boolean variables are there? 
 - What does a typical such function look like?
