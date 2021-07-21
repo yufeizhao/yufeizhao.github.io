@@ -2,6 +2,7 @@
 layout: default
 title: Yufei Zhao | Blog
 description: "Blog of Yufei Zhao, Assistant Professor of Mathematics at MIT"
+image: /photo.jpg
 ---
 
 
