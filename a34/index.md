@@ -30,7 +30,7 @@ Unfortunately I cannot add additional students. (See below regarding lecture att
 
 _Class format._ (see schedule)
 - **Lectures** are open to all MIT students.
-- **Discussion sessions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
+- **Discussions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
 
 **Class attendance is required** for registered students.
 Please notify me in advance if you cannot make it to class.
@@ -48,10 +48,37 @@ Illegible or extremely sloppy write-ups are unacceptable.
 
 _Subject to change. See homework policy below._ (SS = Supplementary set)
 
-Lectures are open to all MIT students.
+Lectures are open to all MIT students. \\
 All other sessions are restricted to official seminar participants.
 
-_To be announced_
+- **W 9/8** Discussion -- Introduction
+- **M 9/13** Discussion -- Presentations. Due: PS & [SS1](ps/hw1.pdf)
+- **W 9/15** Lecture
+- **M 9/20** Discussion -- Presentations. Due: PS & [SS2](ps/hw2.pdf)
+- **W 9/22** Lecture
+- **M 9/27** Discussion -- Presentations. Due: PS & [SS3](ps/hw3.pdf)
+- **W 9/29** Lecture
+- **M 10/4** Discussion -- Presentations. Due: PS & [SS4](ps/hw4.pdf)
+- **W 10/6** Lecture
+- _~~M 10/11~~ No class -- Indigenous Peoples Day_
+- **W 10/13** Discussion -- Presentations. Due: PS & [SS5](ps/hw5.pdf)
+- **M 10/18** Discussion -- Presentations. Due: PS & [SS6](ps/hw6.pdf)
+- **W 10/20** Lecture
+- **M 10/25** Discussion -- Presentations. Due: PS & [SS7](ps/hw7.pdf)
+- **W 10/27** Lecture
+- **M 11/1** Discussion -- Presentations. Due: PS & [SS8](ps/hw8.pdf)
+- **W 11/3** Lecture
+- **M 11/8** Discussion -- Presentations. Due: PS & [SS9](ps/hw9.pdf)
+- **W 11/10** Lecture
+- **M 11/15** Discussion -- Presentations. Due: PS & [SS10](ps/hw10.pdf)
+- **W 11/17** Lecture
+- **M 11/22** Discussion -- Presentations. Due: PS & [SS11](ps/hw11.pdf)
+- **W 11/24** Discussion -- Extra presentations
+- **M 11/29** Discussion -- Presentation of [Putnam 2019 problems](https://kskedlaya.org/putnam-archive/2019.pdf)
+- **W 12/1** Discussion -- Presentations of [Putnam 2020 problems](https://kskedlaya.org/putnam-archive/2020.pdf)
+- **_Saturday 12/4 Putnam Competition_**
+- **M 12/6** Discussion -- Presentations of Putnam 2021 A problems
+- **W 12/8** Discussion -- Presentations of Putnam 2021 B problems
 
 ## Homework
 
