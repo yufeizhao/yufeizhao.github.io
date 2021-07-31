@@ -100,7 +100,6 @@ and my [CV](cv.pdf)
   (with Jacob Fox and László Miklós Lovász) \\
   _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
-
 ### Popular differences
 
 {%include side_image height="40" src="triforce.svg" %}
@@ -109,18 +108,16 @@ and my [CV](cv.pdf)
   _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 209--223.
 
 - [Patterns without a popular difference](https://arxiv.org/abs/2004.07722) (with Ashwin Sah and Mehtaab Sawhney) \\
-  _Discrete Analysis_, to appear.
+  _Discrete Analysis_, 2021:8, 30 pp.
    {%include button href="https://www.youtube.com/watch?v=TCGZgTUjE3s" text="video" %}
    {%include button href="slides/popular_difference.pdf" text="slides" %}
 
 - [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
 
-  
-
 ### Arithmetic regularity and applications
 
 - [Efficient arithmetic regularity and removal lemmas for induced bipartite patterns](https://arxiv.org/abs/1801.04675)
-  (with Noga Alon and Jacob Fox) 
+  (with Noga Alon and Jacob Fox)
   \\
   _Discrete Analysis_ 2019:3, 14 pp.
   {%include button href="slides/arith_reg_bipartite.pdf" text="slides" %}
@@ -247,7 +244,6 @@ and my [CV](cv.pdf)
 - [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233) 
   (with Dingding Dong and Nitya Mani)
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
-
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
