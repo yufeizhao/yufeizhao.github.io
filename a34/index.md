@@ -8,7 +8,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 **Fall 2021, MIT**
 
-**Class meetings:** Mondays and Wednesdays 1--2pm, room 2-151
+**Class meetings:** Mondays and Wednesdays 1--2pm, room 2-147
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
 
