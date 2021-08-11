@@ -46,34 +46,34 @@ Illegible or extremely sloppy write-ups are unacceptable.
 
 ## Schedule 
 
-_Subject to change. See homework policy below._ (SS = Supplementary set)
+_Tentative and subject to change. See homework policy below._ (SS = Supplementary set)
 
 Lectures are open to all MIT students. \\
 All other sessions are restricted to official seminar participants.
 
 - **W 9/8** Discussion -- Introduction
-- **M 9/13** Discussion -- Presentations. Due: PS & [SS1](ps/hw1.pdf)
-- **W 9/15** Lecture
-- **M 9/20** Discussion -- Presentations. Due: PS & [SS2](ps/hw2.pdf)
-- **W 9/22** Lecture
-- **M 9/27** Discussion -- Presentations. Due: PS & [SS3](ps/hw3.pdf)
-- **W 9/29** Lecture
-- **M 10/4** Discussion -- Presentations. Due: PS & [SS4](ps/hw4.pdf)
-- **W 10/6** Lecture
+- **M 9/13** Discussion -- Presentations. Due: Combinatorial configurations & [SS1](ps/hw1.pdf)
+- **W 9/15** Lecture by Yufei Zhao
+- **M 9/20** Discussion -- Presentations. Due: Hidden independence and uniformity & [SS2](ps/hw2.pdf)
+- **W 9/22** Lecture by Evan Chen
+- **M 9/27** Discussion -- Presentations. Due: Sums and integrals & [SS3](ps/hw3.pdf)
+- **W 9/29** Lecture by Daniel Zhu
+- **M 10/4** Discussion -- Presentations. Due: Generating functions & [SS4](ps/hw4.pdf)
+- **W 10/6** Lecture by Mehtaab Sawhney
 - _~~M 10/11~~ No class -- Indigenous Peoples Day_
-- **W 10/13** Discussion -- Presentations. Due: PS & [SS5](ps/hw5.pdf)
-- **M 10/18** Discussion -- Presentations. Due: PS & [SS6](ps/hw6.pdf)
-- **W 10/20** Lecture
-- **M 10/25** Discussion -- Presentations. Due: PS & [SS7](ps/hw7.pdf)
-- **W 10/27** Lecture
-- **M 11/1** Discussion -- Presentations. Due: PS & [SS8](ps/hw8.pdf)
-- **W 11/3** Lecture
-- **M 11/8** Discussion -- Presentations. Due: PS & [SS9](ps/hw9.pdf)
-- **W 11/10** Lecture
-- **M 11/15** Discussion -- Presentations. Due: PS & [SS10](ps/hw10.pdf)
-- **W 11/17** Lecture
-- **M 11/22** Discussion -- Presentations. Due: PS & [SS11](ps/hw11.pdf)
-- **W 11/24** Discussion -- Extra presentations
+- **W 10/13** Discussion -- Presentations. Due: Inequalities & [SS5](ps/hw5.pdf)
+- **M 10/18** Discussion -- Presentations. Due: Probability & [SS6](ps/hw6.pdf)
+- **W 10/20** Lecture by Ashwin Sah
+- **M 10/25** Discussion -- Presentations. Due: Analysis & [SS7](ps/hw7.pdf)
+- **W 10/27** Lecture by Shengtong Zhang
+- **M 11/1** Discussion -- Presentations. Due: Congruences and divisibility & [SS8](ps/hw8.pdf)
+- **W 11/3** Lecture by Mihir Singhal
+- **M 11/8** Discussion -- Presentations. Due: Abstract algebra & [SS9](ps/hw9.pdf)
+- **W 11/10** Lecture by Dain Kim
+- **M 11/15** Discussion -- Presentations. Due: Polynomials & [SS10](ps/hw10.pdf)
+- **W 11/17** Lecture by Allen Liu
+- **M 11/22** Discussion -- Presentations. Due: Linear algebra & [SS11](ps/hw11.pdf)
+- **W 11/24** Discussion -- Extra presentations (on any problem set)
 - **M 11/29** Discussion -- Presentation of [Putnam 2019 problems](https://kskedlaya.org/putnam-archive/2019.pdf)
 - **W 12/1** Discussion -- Presentations of [Putnam 2020 problems](https://kskedlaya.org/putnam-archive/2020.pdf)
 - **_Saturday 12/4 Putnam Competition_**

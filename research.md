@@ -293,7 +293,7 @@ and my [CV](cv.pdf)
 
 - [A counterexample to the Bollobás-Riordan conjectures on sparse graph limits](https://arxiv.org/abs/2003.05272)
   (with Ashwin Sah, Mehtaab Sawhney, and Jonathan Tidor) \\
-  _Combinatorics, Probability and Computing_, to appear.
+  _Combinatorics, Probability and Computing_ 30 (2021), 796--799.
 
 ### Random matrices
 
