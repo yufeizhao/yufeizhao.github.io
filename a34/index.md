@@ -76,7 +76,7 @@ All other sessions are restricted to official seminar participants.
 - **W 11/24** Discussion -- Extra presentations (on any problem set)
 - **M 11/29** Discussion -- Presentation of [Putnam 2019 problems](https://kskedlaya.org/putnam-archive/2019.pdf)
 - **W 12/1** Discussion -- Presentations of [Putnam 2020 problems](https://kskedlaya.org/putnam-archive/2020.pdf)
-- **_Saturday 12/4 Putnam Competition_**
+- **_Saturday 12/4 Putnam Competition_** _(to be confirmed)_
 - **M 12/6** Discussion -- Presentations of Putnam 2021 A problems
 - **W 12/8** Discussion -- Presentations of Putnam 2021 B problems
 
