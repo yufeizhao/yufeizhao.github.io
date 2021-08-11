@@ -10,7 +10,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 **Class meetings:** Mondays and Wednesdays 1--2pm, room 2-147
 
-**Instructor:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
+**Instructor:** [Yufei Zhao](http://yufeizhao.com)
 
 Please include "18.A34" in the subject line of your emails
 
