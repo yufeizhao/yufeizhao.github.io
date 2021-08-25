@@ -24,11 +24,10 @@ image: /gtac/bridge.png
 Please include "18.225" in the subject line of your emails.
 
 **Office hours:**
-Instead of holding regular office hours, I will stay around after class to answer questions -- we may move to the common room or my office. I will also schedule ad-hoc office hours for each problem set.
+Instead of holding regular office hours, I will stay around after class to answer questions -- we may move to the math common room (2-290). I plan to also schedule ad-hoc office hours for each problem set.
 
-My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
-
-
+My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). 
+Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
 
 ## Course description
 
@@ -55,16 +54,17 @@ Although the course will be largely divided into two parts (graph theory in the 
 _Prerequisites:_ Mathematical maturity at the level of a first-year math graduate student.
 Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 
-_Grading:_ Primarily based on homework grades (no exams). 
-A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at my discretion based on factors such as participation.
+_Grading:_ 
+- 90% based on problem sets (Only non-starred problems are considered for the calculations of letter grades other than A and A+)
+- 10% based on Wikipedia assignment, comments on book draft, general participation and discussion (in class, office hours, and on Piazza). More details later -- these are graded holistically at the end of term and can be used for deciding borderline grades
 
-Cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+: 
-
+Final letter grade cutoffs: 
 * A− : ≥ 85%
 * B− : ≥ 70%
 * C− : ≥ 50%  
   
-Grades of A and A+ are awarded at my discretion based on overall performance, in particular, solving a significant number of starred problems (please don't ask me what "a significant number" means). 
+Grades of A and A+ are awarded at my discretion based on overall performance.
+Solving a significant number of starred problems is a requirement for grades of A and A+ (please don't ask me what "a significant number" means). 
 Note that for MIT students, grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
 [Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
@@ -81,6 +81,9 @@ Lecture video recordings from Fall 2019 (may not correspond exactly to the curre
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
 * [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
+## Wikipedia assignment
+
+More details to come
 ## References
 
 Additional references for material covered in the course

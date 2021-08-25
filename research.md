@@ -297,7 +297,8 @@ and my [CV](cv.pdf)
 
 ### Random matrices
 
-- [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain)
+- [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain) \\
+  _Combinatorics, Probability and Computing_, to appear.
 
 ### Extremal subgraph density problems in directed graphs and tournaments
 
