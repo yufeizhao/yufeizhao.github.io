@@ -19,7 +19,7 @@ image: /gtac/bridge.png
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-153
 
-**Lecturer:** [Yufei Zhao](http://yufeizhao.com) (see link for contact info)
+**Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
 Please include "18.225" in the subject line of your emails.
 
