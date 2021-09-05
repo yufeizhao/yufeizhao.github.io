@@ -19,6 +19,9 @@ and
 
 Please include "\[18.A34\]" in the subject line and cc the UAs in all class related emails.
 
+[\[Class files on Dropbox\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
+
+
 ## Course description and policies
 
 This is a first-year seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills.
