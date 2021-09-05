@@ -22,7 +22,10 @@ _Quick links:_
 and
 [Carl Schildkraut](carlsc@mit.edu)
 
-Please include "\[18.A34\]" in the subject line and cc the UAs in all class related emails.
+_How to email:_
+* For quick questions, ask me after class instead
+* CC both UAs
+* Begin your email subject line with "\[18.A34\]"
 
 ## Course description and policies
 
@@ -136,7 +139,7 @@ It is required to acknowledge your sources (even if you worked independently)
 
 - At the beginning of the submission for **each problem**, write _Collaborators and sources:_ followed by a list of collaborators (people) and sources consulted (books, papers, websites, software, etc.), or write _none_ if you did not use any such resources.
 - Failure to acknowledge will result in an automatic 1pt penalty per problem.
-- Acceptable uses of resources include: looking up a standard theorem/formula/technique, using Wolfram Alpha/Mathematica/Python for a calculation
+- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation
 - You may NOT intentionally look up (or ask from others) solutions to homework problems prior to solving the problems yourselves. 
 Once you have solved a problem, it is fine to seek and learn alternate solutions.
 - Intentional violations of the above may be considered academic dishonesty/misconduct.

@@ -11,23 +11,26 @@ image: /gtac/bridge.png
 <img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
-**Fall 2021, MIT**
+**Fall 2021, MIT, graduate level**
 
-<!-- _Quick links_:
-\[Lecture videos: [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
-\[[Notes](gtac.pdf)\] -->
+_Quick links:_
+[\[Class files on Dropbox\]](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)
+[\[Canvas\]](https://canvas.mit.edu/courses/10355)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-153
 
 **Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
-Please include "18.225" in the subject line of your emails.
+**Grader:** TBD
+
+_How to email_
+- My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
+- Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
+- CC the grader for any homework related questions (submission, grading, etc.)
+* Begin your email subject line with "\[18.225\]"
 
 **Office hours:**
 Instead of holding regular office hours, I will stay around after class to answer questions -- we may move to the math common room (2-290). I plan to also schedule ad-hoc office hours for each problem set.
-
-My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). 
-Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
 
 ## Course description
 
@@ -51,12 +54,19 @@ The course will explore these and related topics, including:
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
-_Prerequisites:_ Mathematical maturity at the level of a first-year math graduate student.
+### Prerequisites
+Mathematical maturity at the level of a first-year math graduate student.
 Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 
-_Grading:_ 
-- 90% based on problem sets (Only non-starred problems are considered for the calculations of letter grades other than A and A+)
-- 10% based on Wikipedia assignment, comments on book draft, general participation and discussion (in class, office hours, and on Piazza). More details later -- these are graded holistically at the end of term and can be used for deciding borderline grades
+### Grading
+
+- 90% based on [problem sets](#problem-sets)
+  -  Only non-starred problems are considered for the calculations of letter grades other than A and A+
+- 10% based on 
+  - [Wikipedia assignment](#wikipedia-assignment)
+  - [comments on book draft](#book-draft)
+  - general participation and discussion (in class, office hours, and on Piazza)
+  These are graded holistically at the end of term and can be used for deciding borderline grades.
 
 Final letter grade cutoffs: 
 * A− : ≥ 85%
@@ -65,25 +75,166 @@ Final letter grade cutoffs:
   
 Grades of A and A+ are awarded at my discretion based on overall performance.
 Solving a significant number of starred problems is a requirement for grades of A and A+ (please don't ask me what "a significant number" means). 
-Note that for MIT students, grade modifiers do not count towards the GPA and do not appear on the external transcript.
+Note that for MIT students, ± grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
-[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), and [Student Disability Services](https://studentlife.mit.edu/das).
 
-## Course notes
+## Course files
 
-[Course notes from Fall 2019](gtac.pdf) -- I am currently in the process of editing/rewriting these notes into a textbook. I will be asking for your help in finding errors and expositional improvements.
+See [Dropbox folder]((https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)). Files will be updated through the term. 
 
-## Lectures
+- Lectures outline
+- Problem sets
+- Book draft
 
-_To be announced_
+Lecture video recordings from Fall 2019 (may not correspond exactly to the current semester) may be found on
+[MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
+and 
+[YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX).
 
-Lecture video recordings from Fall 2019 (may not correspond exactly to the current semester):
-* [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
-* [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+
+## Problem sets
+
+See Dropbox folder for the problem set. It will be updated over the course of the semester.
+
+You should only submit the designated problems, but are encouraged to try the rest as well. 
+
+Starred problems are generally more challenging.
+
+To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
+It will be essential to start thinking about these problems early.
+
+### Schedule
+
+| Problem set | Due date  |
+|:---------------:|:-----------:|
+| PS 1 | TBD
+| PS 2 | TBD
+| PS 3 | TBD
+| PS 4 | TBD
+| PS 5 | TBD
+| PS 6 | TBD
+
+Starred problems on each problem set are submitted separately, with an automatic (TBD) days extension (and no additional extension permitted).
+
+### Submissions
+
+* Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
+* Due time: **11:59pm of each due date**
+* Begin each solution on a new page
+* Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
+
+### Late policy
+
+* **Penalty.** Late submissions will be penalized by 20% per each late day (24-hour increments, without fractional accounting).
+  * Example: for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth 0.6_x_ points if submitted on Tuesday.
+* **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
+   * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
+   * The second batch may not contain any updates or replacement to an already submitted problem.
+   * The final submission should include everything, with the late problems clearly marked.
+   * Please email me and the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process. Also mark in your submitted PDF which problems were submitted late.
+   * This policy is provided as a courtesy; it may be rescinded if abused.
+* **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email me **in advance** or have S3 send me a message.
+  * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
+
+
+
+### Collaborations
+
+- You are encouraged to first work on the homework problems independently before seeking collaboration.
+- Meaningful collaboration is allowed if it helps with your learning (e.g., solving a problem together)
+- Unacceptable practices include: "dividing up" the problems among a group and then distributing the solutions; asking for a solution from a friend.
+- You must write up your own solutions.
+- [Pset partners](https://psetpartners.mit.edu/) --- a tool for finding problem set collaborators (MIT Touchstone required)
+
+
+### Acknowledging collaborators and sources
+
+It is required to acknowledge your sources (even if you worked independently)
+
+- At the beginning of the submission for **each problem**, write _Collaborators and sources:_ followed by a list of collaborators (people) and sources consulted (books, papers, websites, software, etc.), or write _none_ if you did not use any such resources.
+- Failure to acknowledge will result in an automatic 1pt penalty per problem.
+- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation
+- Unacceptable uses of resources include: directly looking up the problem online or in the research literature for a solution.
+(Once you have solved a problem, it is fine to seek and learn alternate solutions.)
+- Intentional violations of the above may be considered academic dishonesty/misconduct.
+
+## Book draft
+
+I am in the process of editing and rewriting the 
+[course notes from Fall 2019](gtac.pdf) into a textbook.
+I will be updating the book draft in the Dropbox folder as the semester progresses.
+Check there for the latest available version.
+This book draft will also serve as course notes.
+
+The book is still very much in an unfinished state, especially in the later sections.
+
+Your feedback on the book draft is appreciated.
+Please help me find errors (both of the English and math kind). Also point out places where the exposition is unclear. 
+Suggestions are welcome.
+Please post your comments in Piazza in the "book" folder.
+Your active participation in giving feedback on the book draft contributes to the 10% of the grade as discussed in the grading scheme.
+
 
 ## Wikipedia assignment
 
-More details to come
+Wikipedia is often the first landing page for students (and even sometimes researchers) when looking to learn about a new concept.
+Unfortunately, many of topics in combinatorics are poorly represented on Wikipedia.
+
+**Your assignment:** pick a some topic (related to this course) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
+
+This is more than simply editing.
+You should view it as a literature search and expository writing assignment. 
+It is your job to look up and learn a topic and then distill the most important information in the format of a Wikipedia article.
+
+How to select a topic:
+- Look for topics mentioned in the course. Consult references and additional readings. Ask around.
+- Hear a concept you don't know? What happens if you Google keywords related to the topic? Is there a Wikipedia page? Is it actually helpful?
+- Go for general concepts of wide interest and applicability.
+- Avoid overly specialized topics (e.g., some specific recent research result).
+- Do not ask me for suggestions. It is part of your assignment to find a topic.
+
+Remember that Wikipedia is neither a textbook nor a research journal (don't just copy theorems and proofs onto there).
+Make sure there is
+- A useful blurb at the beginning of each article, conveying the concept to an appropriately general audience;
+- References pointing to additional resources;
+- Discussions of history, context, record results, etc.
+
+We will do this assignment in several stages, mimicking a double-blind proposal review process. 
+
+Everyone should contribute individually (not working in groups).
+
+For this assignment, use "private" post on Piazza in the folder "wiki." 
+
+
+### Stage I - proposal (due TBD):
+
+- Post on Piazza, with post title _\[Wiki\] (Title of your Wikipedia page)_,  your proposed page to add/edit on Wikipedia.
+- If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
+- Explain why this page needs to be added/edited, and what you propose to do.
+- Topics are chosen as first-come first-serve by Piazza posting.
+- Other students are welcome to comment on the proposals.
+
+### Stage II - initial edit (due TBD):
+
+- Edit your proposed Wikipedia page.
+- Revise your initial Piazza post with a link to the Wikipedia page, as well as a link to the current frozen page (View history) from immediately after your edit
+- Summary the changes you made.
+
+### Stage III - commenting (due TBD):
+
+- Provide constructive feedback to other students' Wikipedia edits. Suggest places for improvement as well as additional content that would be helpful to add.
+- Every student needs to respond to at least three posts.
+- Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three.
+
+### Stage IV - revision (due TBD):
+- Revise your Wikipedia entry accounting for the comments.
+- Summarize of your revisions by revising your initial Piazza post.
+- Explain if you disagree with comments you received.
+
+Please edit your initial Piazza post for all the stages (one per student) rather than creating new ones.
+Use bold section headers (Stage I, II, IV) to clearly separate different parts of your post.
+
 ## References
 
 Additional references for material covered in the course
