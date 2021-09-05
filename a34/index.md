@@ -6,6 +6,11 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 # 18.A34 Mathematical Problem Solving (Putnam Seminar)
 
+_Quick links:_
+[\[Class files on Dropbox\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
+[\[Canvas\]](https://canvas.mit.edu/courses/10424)
+
+
 **Fall 2021, MIT**
 
 **Class meetings:** Mondays and Wednesdays 1--2pm, room 2-147
@@ -18,9 +23,6 @@ and
 [Carl Schildkraut](carlsc@mit.edu)
 
 Please include "\[18.A34\]" in the subject line and cc the UAs in all class related emails.
-
-[\[Class files on Dropbox\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
-
 
 ## Course description and policies
 
@@ -101,6 +103,7 @@ Each problem set contains a (sometimes long) list of problems on a specific topi
 - At least 4 problems should be from the topic set
 - Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 - For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
+- After each homework is due, you are allowed and encouraged to discuss your solutions on Piazza (link in Canvas).
 
 ### Submission
 
