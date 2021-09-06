@@ -18,9 +18,9 @@ _Quick links:_
 **Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
 **Undergraduate Assistants (UA):**
-[Dain Kim](dain0327@mit.edu)
+[Dain Kim](mailto:dain0327@mit.edu)
 and
-[Carl Schildkraut](carlsc@mit.edu)
+[Carl Schildkraut](mailto:carlsc@mit.edu)
 
 **Emails and Piazza**
 
