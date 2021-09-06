@@ -25,7 +25,7 @@ _Quick links:_
 
 **Emails and Piazza**
 - My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
-- Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until at the least the maximum extension after due date.
+- Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
 - Email the grader and cc me if it is homework related (submission, extensions, grading, etc.)
 - Begin your email subject line with "\[18.225\]"
 
@@ -33,7 +33,7 @@ _Quick links:_
 - Instead of holding regular office hours, I will stay around after class to answer questions -- we may move to the math common room (2-290). 
 - I plan to also schedule ad-hoc office hours for each problem set. Stay tuned for Canvas announcements.
 - You may ask me about unstarred problems (but not starred ones) during office hours.
-I will first ask you to first explain on the board the progress you have made so far.
+I will ask you to first explain on the board the progress you have made so far.
 
 
 **Course files**: [Dropbox folder]((https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)).
@@ -142,7 +142,6 @@ Starred problems on each problem set are submitted separately, with an automatic
   * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 
-
 ### Collaborations
 
 - You are encouraged to first work on the homework problems independently before seeking collaboration.
@@ -158,7 +157,7 @@ It is required to acknowledge your sources (even if you worked independently)
 
 - At the beginning of the submission for **each problem**, write _Collaborators and sources:_ followed by a list of collaborators and sources consulted (people, books, papers, websites, software, etc.), or write _none_ if you did not use any such resources.
 - Failure to acknowledge will result in an automatic 1pt penalty per problem.
-- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation
+- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation (no need to mention lectures or book draft)
 - Unacceptable uses of resources include: directly looking up the problem online or in the research literature for a solution.
 (Once you have solved a problem, it is fine to seek and learn alternate solutions.)
 

@@ -22,29 +22,32 @@ _Quick links:_
 and
 [Carl Schildkraut](carlsc@mit.edu)
 
-_How to email:_
-* For quick questions, ask me after class instead
-* CC both UAs
+**Emails and Piazza**
+
+* For quick questions, ask me after class instead of emailing
+* Include both UAs in all class related emails, including everything homework related (submission, extensions, grading, etc.)
+* Use Piazza for any discussions of general interest (e.g., discussing solutions after due date)
 * Begin your email subject line with "\[18.A34\]"
 
 ## Course description and policies
 
-This is a first-year seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills.
+This is a first-year undergraduate seminar that prepares students for the Putnam Mathematical Competition, and with a focus on developing mathematical communication and presentation skills.
 This seminar is fast-paced and is targeted for students with previous experience in mathematical Olympiads, though others may benefit as well. (Units: 2-0-4)
 
 **[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held **Saturday, December 4, 2021**
 
-All registered students will be required to participate in the Putnam competition.
+All registered students will be required to participate in the Putnam competition. (See Putnam official website for registration information.)
 
 Seminar participants are selected through the First-year Advising Selection process.
 Unfortunately I cannot add additional students.
 See below for policies on lecture attendance.
 
-_Class format._ (see schedule)
+### Class format
 
 - **Lectures** are open to all MIT students.
 - **Discussions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
+  - Students should volunteer at the beginning of each presentation class by writing on the blackboard their name and the solution they wish to present, along with "requests" for specific solutions. 
 - **UA office hours** will give opportunities for students to practice presentations with the UAs in small group setting, and also to discuss writing and problem solving techniques.
 Every student will be **required** to attend a certain number of UA office hours, as will be explained during class announcements on Canvas.
 
@@ -54,7 +57,9 @@ Too many unexcused absences is cause for concern and may lead to a non-passing g
 
 _Non-registered MIT students_ are welcome to attend the lectures but not the discussion sessions and may not turn in homework.
 
-_Grading._ Based on homework and participation.
+### Grading
+
+Based on homework and participation (in class, office hours, Piazza).
 Homework will be graded on correctness and presentation.
 Illegible or extremely sloppy write-ups are unacceptable.
 
