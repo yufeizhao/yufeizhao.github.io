@@ -63,7 +63,7 @@ Based on homework and participation (in class, office hours, Piazza).
 Homework will be graded on correctness and presentation.
 Illegible or extremely sloppy write-ups are unacceptable.
 
-Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3) and [Student Disability Services](https://studentlife.mit.edu/das).
+Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3) or [Student Disability Services](https://studentlife.mit.edu/das).
 
 ## Schedule
 
@@ -113,10 +113,13 @@ Each problem set contains a (sometimes long) list of problems on a specific topi
 - For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
 - After each homework is due, you are allowed and encouraged to discuss your solutions on Piazza (link in Canvas).
 
+If you wish to get a head start on later problem sets, you can check out the material from previous semesters (see links at the bottom).
+This year's problem sets will likely be mostly the same, although there could be minor changes and re-numbering.
+
 ### Submission
 
 - Begin each solution on a new page.
-- Homework must be submitted on Gradescope (accessible from Canvas) before the beginning of the class meeting.
+- Homework must be submitted on Gradescope (accessible from Canvas) by 1pm, before the beginning of the class meeting, preferably earlier.
 - Submission may be carefully handwritten or typed (illegible submissions are unacceptable).
 - Homework will be graded similarly to the Putnam competition.
 - Problems range widely in difficulty. You are encouraged to challenge yourself and put your best foot forward.
@@ -126,7 +129,7 @@ Each problem set contains a (sometimes long) list of problems on a specific topi
 ### Late policy
 
 - Late submissions will not be accepted without a valid excuse.
-- If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email me (and cc the UAs) in advance or have S<sup>3</sup> send me a message.
+- If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the UAs and me in advance or have S<sup>3</sup> send us a message. Let us know how many days extension you need.
 - My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 ### Collaborations
