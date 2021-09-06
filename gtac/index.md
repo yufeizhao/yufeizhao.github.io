@@ -136,7 +136,7 @@ Starred problems on each problem set are submitted separately, with an automatic
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
    * The final submission should include everything, with the late problems clearly marked as "late" in the PDF.
-   * Please email me and the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
+   * Please email the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
    * This policy is provided as a courtesy; it may be rescinded if abused.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the grader and me **in advance** or have S3 send us a message. Let us know how many days extension you would need.
   * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
