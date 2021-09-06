@@ -99,27 +99,27 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Problem sets
 
-See [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=) for the problem set. It will be updated over the course of the semester.
+See [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=) for the problem set. It will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 
-You should only submit the designated problems, but are encouraged to try the rest as well. 
+You should only submit the designated problems, but are encouraged to try the rest as well.
 
 Starred problems are generally more challenging.
 
-To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
+To get the most out of this course, you are expected to spend a significant amount of time solving these problems.
 It will be essential to start thinking about these problems early.
 
 ### Schedule
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
-| PS 1 | TBD
-| PS 2 | TBD
-| PS 3 | TBD
-| PS 4 | TBD
-| PS 5 | TBD
-| PS 6 | TBD
+| PS 1 | Sun Sep 26
+| PS 2 | Sun Oct 10
+| PS 3 | Sun Oct 24
+| PS 4 | Sun Nov 7
+| PS 5 | Sun Nov 21
+| PS 6 | Sun Dec 5
 
-Starred problems on each problem set are submitted separately, with an automatic (TBD) days extension (and no additional extension permitted).
+**Starred problems** on each problem set should be submitted separately, with an automatic 7-day extension without penalty (and no additional extensions permitted).
 
 ### Submissions
 
@@ -209,14 +209,14 @@ Some components of a good Wikipedia article:
 - Not a simply a laundry list;
 - Not a textbook or a research journal (don't just copy theorems and proofs onto there).
 
-We will do this assignment in several stages, mimicking a double-blind review process. 
+We will do this assignment in several stages, mimicking a double-blind review process.
 
 Everyone should contribute individually (not working in groups).
 
 For this assignment, use "private" post on Piazza (your name hidden to other students but visible to me) in the folder "wiki." 
 
 
-### Stage I - proposal (due TBD)
+### Stage I - proposal (due Sat Nov 13)
 
 - Post on Piazza, with post title _\[Wiki\] (Title of your Wikipedia page)_,  your proposed page to add/edit on Wikipedia.
 - If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
@@ -224,19 +224,19 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 - Topics are chosen first-come first-serve by Piazza posting.
 - Other students are welcome to comment on the proposals, or suggest additional content to add to the topic.
 
-### Stage II - initial edit (due TBD)
+### Stage II - initial edit (due Sat Nov 27)
 
 - Edit your proposed Wikipedia page.
 - Revise your initial Piazza post with a summary of your changes.
 - Also add a link to the current frozen page (View history) immediately after your edit
 
-### Stage III - comments (due TBD)
+### Stage III - comments (due Sat Dec 4)
 
 - Provide constructive feedback to other students' Wikipedia edits. Suggest places for improvement as well as additional content that would be helpful to add.
 - Every student needs to respond to at least three posts. (More is fine.)
 - Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three.
 
-### Stage IV - revision (due TBD):
+### Stage IV - revision (due Wed Dec 8):
 - Revise your Wikipedia entry accounting for the comments.
 - Summarize of your revisions by revising your initial Piazza post.
 - Explain if you disagree with comments you received.
