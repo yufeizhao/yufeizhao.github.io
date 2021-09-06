@@ -37,7 +37,7 @@ This seminar is fast-paced and is targeted for students with previous experience
 **[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):** The Putnam Competition is an annual mathematics
 contest for undergraduates in the USA and Canada.  This year it will be held **Saturday, December 4, 2021**
 
-All registered students will be required to participate in the Putnam competition. (See Putnam official website for registration information.)
+All registered students will be required to participate in the Putnam competition. See Putnam official website for registration information.
 
 Seminar participants are selected through the First-year Advising Selection process.
 Unfortunately I cannot add additional students.
