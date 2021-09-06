@@ -173,6 +173,8 @@ This book draft will also serve as course notes.
 
 The book is still very much in an unfinished state, especially in the later sections.
 
+The numbering (sections, theorems, etc.) in the book draft are unstable. When quoting theorems for homework, please include the statement or a description of the result rather than simply the theorem number.
+
 Your feedback on the book draft is appreciated.
 Please help me find errors (both of the English and math kind). Also point out places where the exposition is unclear. 
 Suggestions are welcome.
