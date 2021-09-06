@@ -36,7 +36,7 @@ _Quick links:_
 I will ask you to first explain on the board the progress you have made so far.
 
 
-**Course files**: [Dropbox folder]((https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)).
+**Course files**: [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=).
 Will be updated throughout the term. 
 - Lectures outline
 - Problem sets
