@@ -10,7 +10,6 @@ _Quick links:_
 [\[Class files on Dropbox\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
 [\[Canvas\]](https://canvas.mit.edu/courses/10424)
 
-
 **Fall 2021, MIT**
 
 **Class meetings:** Mondays and Wednesdays 1--2pm, room 2-147
@@ -65,46 +64,16 @@ Illegible or extremely sloppy write-ups are unacceptable.
 
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3) or [Student Disability Services](https://studentlife.mit.edu/das).
 
-## Schedule
+## Schedule and due dates
 
-_Tentative and subject to change. See homework policy below._ (SS = Supplementary set)
-
-[**Dropbox folder**](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=):
-all problem set PDFs will be uploaded there
+See [**Dropbox folder**](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
 
 Lectures are open to all MIT students. \\
 All other sessions are restricted to official seminar participants.
 
-- **W 9/8** Discussion -- Introduction
-- **M 9/13** Discussion -- Presentations. Due: Combinatorial configurations & [SS1](ps/hw1.pdf)
-- **W 9/15** Lecture by Yufei Zhao
-- **M 9/20** Discussion -- Presentations. Due: Hidden independence and uniformity & [SS2](ps/hw2.pdf)
-- **W 9/22** Lecture by Evan Chen
-- **M 9/27** Discussion -- Presentations. Due: Sums and integrals & [SS3](ps/hw3.pdf)
-- **W 9/29** Lecture by Daniel Zhu
-- **M 10/4** Discussion -- Presentations. Due: Generating functions & [SS4](ps/hw4.pdf)
-- **W 10/6** Lecture by Mehtaab Sawhney
-- _~~M 10/11~~ No class -- Indigenous Peoples Day_
-- **W 10/13** Discussion -- Presentations. Due: Inequalities & [SS5](ps/hw5.pdf)
-- **M 10/18** Discussion -- Presentations. Due: Probability & [SS6](ps/hw6.pdf)
-- **W 10/20** Lecture by Ashwin Sah
-- **M 10/25** Discussion -- Presentations. Due: Analysis & [SS7](ps/hw7.pdf)
-- **W 10/27** Lecture by Shengtong Zhang
-- **M 11/1** Discussion -- Presentations. Due: Congruences and divisibility & [SS8](ps/hw8.pdf)
-- **W 11/3** Lecture by Mihir Singhal
-- **M 11/8** Discussion -- Presentations. Due: Abstract algebra & [SS9](ps/hw9.pdf)
-- **W 11/10** Lecture by Dain Kim
-- **M 11/15** Discussion -- Presentations. Due: Polynomials & [SS10](ps/hw10.pdf)
-- **W 11/17** Lecture by Allen Liu
-- **M 11/22** Discussion -- Presentations. Due: Linear algebra & [SS11](ps/hw11.pdf)
-- **W 11/24** Discussion -- More presentations (on any problem set)
-- **M 11/29** Discussion -- Presentation of [Putnam 2019 problems](https://kskedlaya.org/putnam-archive/2019.pdf)
-- **W 12/1** Discussion -- Presentations of [Putnam 2020 problems](https://kskedlaya.org/putnam-archive/2020.pdf)
-- **_Saturday 12/4 Putnam Competition_** _(to be confirmed)_
-- **M 12/6** Discussion -- Presentations of Putnam 2021 A problems
-- **W 12/8** Discussion -- Presentations of Putnam 2021 B problems
-
 ## Homework
+
+See [**Dropbox folder**](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0&lst=)
 
 Each problem set contains a (sometimes long) list of problems on a specific topic. You are encouraged to work on as many as you like, but only hand in **your six best solutions** (do not submit more than six):
 
