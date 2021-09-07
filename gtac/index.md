@@ -189,6 +189,8 @@ Unfortunately, many of topics in combinatorics are poorly represented on Wikiped
 
 **Your assignment:** pick a some topic (related to this course, even if tangentially) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
 
+[Tutorial in editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
+
 You are asked to do more than simply editing.
 This is a literature search and expository writing assignment. 
 It is your job to look up and learn a topic and then distill the most important information in the format of a Wikipedia article.
@@ -198,6 +200,7 @@ How to select a topic:
 - Hear a concept you don't know? What happens if you Google keywords related to the topic? Is there a Wikipedia page? Is it actually helpful?
 - Go for general concepts of wide interest and applicability.
 - Avoid overly specialized topics (e.g., some specific recent research result). They are unsuitable for Wikipedia.
+- Make sure that any new article satisfies the Wikipedia [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability) criteria, to avoid risk of article deletion.
 - Do not ask me for suggestions. Part of your job is to find a good topic. Use your experience to judge what makes a good Wikipedia article.
 
 Some components of a good Wikipedia article:
@@ -213,7 +216,7 @@ We will do this assignment in several stages, mimicking a double-blind review pr
 
 Everyone should contribute individually (not working in groups).
 
-For this assignment, use "private" post on Piazza (your name hidden to other students but visible to me) in the folder "wiki." 
+For this assignment, use "private" post on Piazza (your name hidden to other students but visible to me) in the folder `wiki`. 
 
 
 ### Stage I - proposal (due Sat Nov 13)
