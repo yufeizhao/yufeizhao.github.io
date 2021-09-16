@@ -83,7 +83,8 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
   - [Wikipedia assignment](#wikipedia-assignment)
   - [comments on book draft](#book-draft)
   - general participation and discussion (in class, office hours, and on Piazza)
-  These are graded holistically at the end of term and can be used for deciding borderline grades.
+
+These are graded holistically at the end of term and can be used for deciding borderline grades.
 
 Final letter grade cutoffs: 
 * A− : ≥ 85%

@@ -19,15 +19,16 @@ The contents will be based on the [lecture notes](../gtac/gtac.pdf) from a [cour
 
 The current (very tentative) plan for the table of contents:
 
-1. Introduction: a bridge
-2. Forbidding subgraphs
-3. Graph regularity
-4. Spectral graph theory and pseudorandomness
-5. Graph limits
-6. Fourier analysis
-7. Roth's theorem
-8. Structure of set addition
-9. The sum-product problem
+0. Appetizer
+1. Forbidding a subgraph
+2. The graph regularity method
+3. Pseudorandom graphs
+4. Graph limits
+5. Graph homomorphism inequalities
+6. Forbidding 3-term arithmetic progressions
+7. Structure of set addition
+8. The sum-product problem
+9. Progressions in sparse pseudorandom sets
 
-I will update this page with progress. 
-In the meantime, you are welcome to read these [lecture notes](../gtac/gtac.pdf) (≈ version 0 of the book draft).
+I am currently teaching a class covering this material.
+The latest public version of the book draft may be found on the [class homepage](../gtac/).
