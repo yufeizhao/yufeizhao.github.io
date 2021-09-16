@@ -79,12 +79,11 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 
 - 90% based on [problem sets](#problem-sets)
   -  Only non-starred problems are considered for the calculations of letter grades other than A and A+
-- 10% based on 
+- 10% based on (graded holistically at the end of term and can be used for deciding borderline grades)
   - [Wikipedia assignment](#wikipedia-assignment)
   - [comments on book draft](#book-draft)
   - general participation and discussion (in class, office hours, and on Piazza)
 
-These are graded holistically at the end of term and can be used for deciding borderline grades.
 
 Final letter grade cutoffs: 
 * A− : ≥ 85%
