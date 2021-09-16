@@ -21,12 +21,12 @@ _Quick links:_
 
 **Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
-**Grader:** TBD
+**Graders:** [Yibo Gao](mailto:gaoyibo@mit.edu) (lead), [Milan Haiman](mailto:mhaiman@mit.edu), [Anqi Li](mailto:anqili@mit.edu), 
 
 **Emails and Piazza**
 - My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
 - Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
-- Email the grader and cc me if it is homework related (submission, extensions, grading, etc.)
+- Email the lead grader and cc me if it is homework related (submission, extensions, grading, etc.)
 - Begin your email subject line with "\[18.225\]"
 
 **Office hours**
@@ -84,7 +84,6 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
   - [comments on book draft](#book-draft)
   - general participation and discussion (in class, office hours, and on Piazza)
 
-
 Final letter grade cutoffs: 
 * A− : ≥ 85%
 * B− : ≥ 70%
@@ -136,9 +135,9 @@ It will be essential to start thinking about these problems early.
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
    * The final submission should include everything, with the late problems clearly marked as "late" in the PDF.
-   * Please email the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
+   * Please email the lead grader if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
    * This policy is provided as a courtesy; it may be rescinded if abused.
-* **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the grader and me **in advance** or have S3 send us a message. Let us know how many days extension you would need.
+* **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the lead grader and me **in advance** or have S3 send us a message. Let us know how many days extension you would need.
   * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 

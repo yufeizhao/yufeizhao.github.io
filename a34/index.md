@@ -46,7 +46,8 @@ See below for policies on lecture attendance.
 
 - **Lectures** are open to all MIT students.
 - **Discussions** (i.e., non-lectures) are only open to registered class members. Most sessions will begin with a brief meta-discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
-  - Students should volunteer at the beginning of each presentation class by writing on the blackboard their name and the solution they wish to present, along with "requests" for specific solutions. 
+  - Students should volunteer at the beginning of each presentation class by writing on the blackboard their name and the solution they wish to present, along with "requests" for specific solutions.
+  - Aim for no more than 10 minutes per presentation. You should skip routine or uninteresting calculations. I will cut you off if the presentation runs unnecessarily long.
 - **UA office hours** will give opportunities for students to practice presentations with the UAs in small group setting, and also to discuss writing and problem solving techniques.
 Every student will be **required** to attend a certain number of UA office hours, as will be explained during class announcements on Canvas.
 
