@@ -168,7 +168,12 @@ and my [CV](cv.pdf)
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
 
   {%include side_image height="80" src="pic_2dist.svg" %}
-- [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
+- [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) 
+(with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
+
+- [Graphs with high second eigenvalue multiplicity](https://arxiv.org/abs/2109.13131)
+(with Milan Haiman, Carl Schildkraut, and Shengtong Zhang)
+
 
 ### Incidence geometry
 
