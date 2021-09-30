@@ -163,7 +163,8 @@ and my [CV](cv.pdf)
 
   {%include side_image height="80" src="icosahedron.png" %}
 
-- [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) 
+- [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
+  _Annals of Mathematics_ 195 (2022), to appear.
   {%include button href="slides/equiangular.pdf" text="slides" %}
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
 

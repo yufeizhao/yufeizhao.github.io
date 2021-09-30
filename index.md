@@ -64,7 +64,8 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _FOCS_ 2020.
-* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
+* [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
+  _Annals of Mathematics_ 195 (2022), to appear.
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Inventiones Mathematicae_ 221 (2020), 665--711.
 * [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
