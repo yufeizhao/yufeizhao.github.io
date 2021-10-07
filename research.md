@@ -36,7 +36,7 @@ and my [CV](cv.pdf)
 
 - **Discrete geometry**: I am interested in extremal problems in discrete geometry, e.g., what is the largest size of a geometric configuration satisfying certain properties. Solutions often apply a variety of tools such as linear programming bounds, the polynomial method, spectral graph theory, group representation theory.
   - Sphere packing, spherical codes
-  - Equiangular lines, spherical two-distance sets 
+  - Equiangular lines, spherical two-distance sets   {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
   - Incidence geometry, e.g., the joints problem
   - The geometry of transitive sets, applications to Cayley graphs
   - Extension complexity of polytopes
