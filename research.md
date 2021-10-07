@@ -36,7 +36,7 @@ and my [CV](cv.pdf)
 
 - **Discrete geometry**: I am interested in extremal problems in discrete geometry, e.g., what is the largest size of a geometric configuration satisfying certain properties. Solutions often apply a variety of tools such as linear programming bounds, the polynomial method, spectral graph theory, group representation theory.
   - Sphere packing, spherical codes
-  - Equiangular lines, spherical two-distance sets
+  - Equiangular lines, spherical two-distance sets 
   - Incidence geometry, e.g., the joints problem
   - The geometry of transitive sets, applications to Cayley graphs
   - Extension complexity of polytopes
@@ -167,6 +167,7 @@ and my [CV](cv.pdf)
   _Annals of Mathematics_ 195 (2022), to appear.
   {%include button href="slides/equiangular.pdf" text="slides" %}
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
+  {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
 
   {%include side_image height="80" src="pic_2dist.svg" %}
 - [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) 
