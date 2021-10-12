@@ -47,7 +47,6 @@ and my [CV](cv.pdf)
 
 {%include side_image src="relative-szemeredi.svg" height="80" %}
 
-
 - [A relative Szemerédi theorem](http://arxiv.org/abs/1305.5440)
   (with David Conlon and Jacob Fox) \\
   _Geometric and Functional Analysis_ 25 (2015), 733--762. \\
@@ -70,7 +69,7 @@ and my [CV](cv.pdf)
 
 ### Sparse graph regularity and counting
 
-{%include side_image src="pic_extremal_pseudorandom.svg" height="100" %}
+{%include side_image src="extremal_pseudorandom.svg" height="100" %}
 
 - [Extremal results in sparse pseudorandom graphs](http://arxiv.org/abs/1204.6645)
   (with David Conlon and Jacob Fox) \\
@@ -85,7 +84,7 @@ and my [CV](cv.pdf)
 - [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
   (with Jacob Fox)
 
-{%include side_image height="60" src="pic_c4-free-counting.svg" %}
+{%include side_image height="60" src="c4-free-counting.svg" %}
 
 - [Which graphs can be counted in $C_4$-free graphs?](https://arxiv.org/abs/2106.03261)
   (with David Conlon, Jacob Fox, and Benny Sudakov)
@@ -100,9 +99,9 @@ and my [CV](cv.pdf)
   (with Jacob Fox and László Miklós Lovász) \\
   _Combinatorics, Probability and Computing_ 28 (2019), 777--790.
 
-### Popular differences
-
 {%include side_image height="40" src="triforce.svg" %}
+
+### Popular differences
 
 - [Triforce and corners](https://arxiv.org/abs/1903.04863) (with Jacob Fox, Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Mathematical Proceedings of the Cambridge Philosophical Society_, 169 (2020), 209--223.
@@ -128,7 +127,7 @@ and my [CV](cv.pdf)
   _Israel Journal of Mathematics_, to appear.
 
 - [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
-  _FOCS_ 2020.
+  _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020.
 
 ### Topics in additive combinatorics
 
@@ -143,7 +142,6 @@ and my [CV](cv.pdf)
 - [Hypergraph expanders of all uniformities from Cayley graphs](https://arxiv.org/abs/1809.06342) (with David Conlon and Jonathan Tidor) \\
   _Proceedings of the London Mathematical Society_ 121 (2020), 1311--1336.
 
-    {%include side_image height="100" src="transitive-set-width.png" %}
 
 ### Cayley graphs and transitive sets
 
@@ -155,13 +153,16 @@ and my [CV](cv.pdf)
 - [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney) \\
   _International Mathematics Research Notices. IMRN_, to appear.
 
+  {%include side_image width="100" src="transitive-set-width.png" %}
+
 - [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney) \\
   _Israel Journal of Mathematics_, to appear.
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
-### Equiangular lines and eigenvalue multiplicities
 
   {%include side_image height="80" src="icosahedron.png" %}
+
+### Equiangular lines and eigenvalue multiplicities
 
 - [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
   _Annals of Mathematics_ 195 (2022), to appear.
@@ -169,17 +170,17 @@ and my [CV](cv.pdf)
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
   {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
 
-  {%include side_image height="80" src="pic_2dist.svg" %}
+  {%include side_image height="80" src="2dist.svg" %}
 - [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) 
 (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
 
 - [Graphs with high second eigenvalue multiplicity](https://arxiv.org/abs/2109.13131)
 (with Milan Haiman, Carl Schildkraut, and Shengtong Zhang)
 
+{%include side_image height="100" src="joint.svg" %}
 
 ### Incidence geometry
 
-  {%include side_image height="100" src="joint.svg" %}
 
 - [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
   {%include button href="/blog/2019/11/20/joints-tightened/" text="blog" %}
@@ -189,11 +190,19 @@ and my [CV](cv.pdf)
   {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
   {%include button href="slides/joints_varieties.pdf" text="slides" %}
 
-### Extension complexity and nonnegative rank
 
  {%include side_image height="70" src="polytope-extension.png" %}
 
+### Extension complexity and nonnegative rank
+
 - [Extension complexity of low-dimensional polytopes](https://arxiv.org/abs/2006.08836) (with Matthew Kwan and Lisa Sauermann)
+
+  {%include side_image width="60" src="zone.svg" %}
+
+### Plank problem
+
+- [Exploring a planet, revisited](https://arxiv.org/abs/2110.04376), \\
+  _American Mathematical Monthly_, to appear.
 
 ### Independent sets and graph homomorphisms
 
@@ -231,9 +240,12 @@ and my [CV](cv.pdf)
   {%include button href="slides/reverse_sidorenko_slides.pdf" text="slides" %}
   {%include button href="/blog/2018/09/25/a-reverse-sidorenko-inequality/" text="blog" %}
 
+
+
 ### Sphere packing and energy minimization
 
 {%include side_image height="80" src="spherebounds.svg" width="104"%}
+
 - [Sphere packing bounds via spherical codes](http://arxiv.org/abs/1212.5966)
   (with Henry Cohn) \\
   _Duke Mathematical Journal_ 163 (2014), 1965--2002.
@@ -249,7 +261,8 @@ and my [CV](cv.pdf)
 ### Asymptotic enumeration
 
 - [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233) 
-  (with Dingding Dong and Nitya Mani)
+  (with Dingding Dong and Nitya Mani) \\
+  _ACM-SIAM Symposium on Discrete Algorithms (SODA)_ 2022.
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
