@@ -15,20 +15,20 @@ This is the homepage for a textbook that I plan to write:
 _Graph Theory and Additive Combinatorics_  
 _by [Yufei Zhao](http://yufeizhao.com)_  
 
-The contents will be based on the [lecture notes](../gtac/gtac.pdf) from a [course](../gtac/gtac.pdf) that I have been teaching on this subject (the course also has a complete set of lecture videos).
+[Latest version of the book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)
+(will be updated as I teach my class Fall 2021)
 
-The current (very tentative) plan for the table of contents:
+[Class website](../gtac/gtac.pdf) (includes links to a complete set of lecture videos from Fall 2019).
 
-0. Appetizer
-1. Forbidding a subgraph
-2. The graph regularity method
-3. Pseudorandom graphs
-4. Graph limits
-5. Graph homomorphism inequalities
-6. Forbidding 3-term arithmetic progressions
-7. Structure of set addition
-8. The sum-product problem
-9. Progressions in sparse pseudorandom sets
+Draft table of contents:
 
-I am currently teaching a class covering this material.
-The latest public version of the book draft may be found on the [class homepage](../gtac/).
+1. Appetizer
+2. Forbidding a subgraph
+3. The graph regularity method
+4. Pseudorandom graphs
+5. Graph limits
+6. Graph homomorphism inequalities
+7. Forbidding 3-term arithmetic progressions
+8. Structure of set addition
+9. The sum-product problem
+10. Progressions in sparse pseudorandom sets

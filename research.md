@@ -190,16 +190,16 @@ and my [CV](cv.pdf)
   {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
   {%include button href="slides/joints_varieties.pdf" text="slides" %}
 
-
- {%include side_image height="70" src="polytope-extension.png" %}
+  {%include side_image height="70" src="polytope-extension.png" %}
 
 ### Extension complexity and nonnegative rank
 
 - [Extension complexity of low-dimensional polytopes](https://arxiv.org/abs/2006.08836) (with Matthew Kwan and Lisa Sauermann)
 
-  {%include side_image width="60" src="zone.svg" %}
 
 ### Plank problem
+
+  {%include side_image width="60" src="zone.svg" %}
 
 - [Exploring a planet, revisited](https://arxiv.org/abs/2110.04376), \\
   _American Mathematical Monthly_, to appear.
