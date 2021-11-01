@@ -191,7 +191,7 @@ Unfortunately, many of topics in combinatorics are poorly represented on Wikiped
 [Tutorial in editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
 
 You are asked to do more than simply editing.
-This is a literature search and expository writing assignment. 
+This is a **literature research and expository writing assignment**. 
 It is your job to look up and learn a topic and then distill the most important information in the format of a Wikipedia article.
 
 How to select a topic:
@@ -221,11 +221,12 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 ### Stage I - proposal (due Sat Nov 13)
 
 - Post on Piazza, with post title _\[Wiki\] (Title of your Wikipedia page)_,  your proposed page to add/edit on Wikipedia.
-- Instead of edit an entire Wikipedia page, you may also claim a substantial section (or multiple sections) of an existing Wikipedia page.
+- You may claim either an entire Wikipedia page (new or existing) or a substantial section (or multiple sections) of an existing Wikipedia page.
 - If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
-- Explain why this page needs to be added/edited, and what you propose to do.
-- Topics are chosen first-come first-serve by Piazza posting.
+- Explain why this page needs to be added/edited, and what you propose to do. For new pages, briefly make a case for [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability).
 - Other students are welcome to comment on the proposals, or suggest additional content to add to the topic.
+- Based on the comments or other considerations, you may decide to revise your topic at a later point in the process.
+- Topics are chosen first-come first-serve by Piazza posting (though you may discuss through anonymous comments if you feel that a task is big enough to warrant splitting into multiple well defined tasks).
 
 ### Stage II - initial edit (due Sat Nov 27)
 
@@ -235,13 +236,15 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 
 ### Stage III - comments (due Sat Dec 4)
 
-- Provide constructive feedback to other students' Wikipedia edits. Suggest places for improvement as well as additional content that would be helpful to add.
+- Provide substantive and constructive feedback to other students' Wikipedia edits.
+- Suggest improvements, e.g., what to add/delete/revise.
 - Every student needs to respond to at least three posts. (More is fine.)
 - Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three.
 
-### Stage IV - revision (due Wed Dec 8):
+### Stage IV - revision (due Wed Dec 8)
+
 - Revise your Wikipedia entry accounting for the comments.
-- Summarize of your revisions by revising your initial Piazza post.
+- Summarize of your revisions by revising and adding to your initial Piazza post.
 - Explain if you disagree with comments you received.
 
 Please edit your initial Piazza post for all the stages rather than creating new ones (one post per student).
