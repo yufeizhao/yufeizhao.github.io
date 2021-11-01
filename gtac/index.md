@@ -221,6 +221,7 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 ### Stage I - proposal (due Sat Nov 13)
 
 - Post on Piazza, with post title _\[Wiki\] (Title of your Wikipedia page)_,  your proposed page to add/edit on Wikipedia.
+- Instead of edit an entire Wikipedia page, you may also claim a substantial section (or multiple sections) of an existing Wikipedia page.
 - If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
 - Explain why this page needs to be added/edited, and what you propose to do.
 - Topics are chosen first-come first-serve by Piazza posting.
