@@ -240,7 +240,8 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 - Provide substantive and constructive feedback to other students' Wikipedia edits.
 - Suggest improvements, e.g., what to add/delete/revise.
 - Every student needs to respond to at least three posts. (More is fine.)
-- Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three.
+- Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three. 
+- Use best effort to preserve double-blind anonymity throughout this process (it won't be perfect, but do your best)
 
 ### Stage IV - revision (due Wed Dec 8)
 
