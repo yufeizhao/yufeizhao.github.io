@@ -188,7 +188,7 @@ Unfortunately, many of topics in combinatorics are poorly represented on Wikiped
 
 **Your assignment:** pick a some topic (related to this course, even if tangentially) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
 
-[Tutorial in editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
+[Tutorial: editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
 
 You are asked to do more than simply editing.
 This is a **literature research and expository writing assignment**. 
@@ -204,9 +204,10 @@ How to select a topic:
 
 Some components of a good Wikipedia article:
 - A useful blurb at the beginning of each article, conveying the concept to an appropriately general audience;
-- Precisely stated theorems, if applicable;
-- Discussions of history, context, record results, etc;
-- Explanations and examples;
+- Precisely stated definitions and theorems, if suitable;
+- Discussions of history, context, bounds, etc;
+- Explanations, examples, counterexamples, figures;
+- Short proofs;
 - References pointing to additional resources;
 - Not a simply a laundry list;
 - Not a textbook or a research journal (don't just copy theorems and proofs onto there).
@@ -220,7 +221,7 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 
 ### Stage I - proposal (due Sat Nov 13)
 
-- Post on Piazza, with post title _\[Wiki\] (Title of your Wikipedia page)_,  your proposed page to add/edit on Wikipedia.
+- Post on Piazza, with post title `\[Wiki\] (Title of your Wikipedia page)`,  your proposed page to add/edit on Wikipedia.
 - You may claim either an entire Wikipedia page (new or existing) or a substantial section (or multiple sections) of an existing Wikipedia page.
 - If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
 - Explain why this page needs to be added/edited, and what you propose to do. For new pages, briefly make a case for [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability).
