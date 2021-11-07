@@ -165,7 +165,7 @@ and my [CV](cv.pdf)
 ### Equiangular lines and eigenvalue multiplicities
 
 - [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
-  _Annals of Mathematics_ 195 (2022), to appear.
+  _Annals of Mathematics_ 194 (2021), 729--743.
   {%include button href="slides/equiangular.pdf" text="slides" %}
   {%include button href="/blog/2019/07/29/equiangular-lines-with-a-fixed-angle/" text="blog" %}
   {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
