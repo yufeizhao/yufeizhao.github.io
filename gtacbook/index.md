@@ -15,8 +15,8 @@ This is the homepage for a textbook that I plan to write:
 _Graph Theory and Additive Combinatorics_  
 _by [Yufei Zhao](http://yufeizhao.com)_  
 
-[Latest version of the book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)
-(will be updated as I teach my class Fall 2021)
+[Latest version of the book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
+(will be updated and more chapters will be added)
 
 [Class website](../gtac/gtac.pdf) (includes links to a complete set of lecture videos from Fall 2019).
 
