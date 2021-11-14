@@ -186,7 +186,7 @@ Your active participation in giving feedback on the book draft contributes to th
 Wikipedia is often the first landing page for students (and even researchers) when looking to learn about a new concept.
 Unfortunately, many of topics in combinatorics are poorly represented on Wikipedia.
 
-**Your assignment:** pick a some topic (related to this course, even if tangentially) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
+**Your assignment:** pick some topic related to this course (even tangentially related is okay) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
 
 [Tutorial: editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
 
@@ -233,6 +233,7 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 
 - Edit your proposed Wikipedia page.
 - Revise your initial Piazza post with a summary of your changes.
+- Mention in your Piazza summary what resources you have found useful / drawn from for this assignment (this should be more than lectures / GTAC book) 
 - Also add a link to the current frozen page (View history) immediately after your edit
 
 ### Stage III - comments (due Sat Dec 4)
@@ -276,6 +277,6 @@ Additional references for material covered in the course
 - Tao and Vu, [Additive Combinatorics](https://www.amazon.com/gp/product/0521136563/)
 
 
-**Previous version of the course:** 
+**Previous versions of the course:** 
 [Fall 2017](fa17/),
 [Fall 2019](fa19/)
