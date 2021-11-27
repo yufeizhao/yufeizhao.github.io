@@ -236,7 +236,7 @@ For this assignment, use "private" post on Piazza (your name hidden to other stu
 - Mention in your Piazza summary what resources you have found useful / drawn from for this assignment (this should be more than lectures / GTAC book) 
 - Also add a link to the current frozen page (View history) immediately after your edit
 
-### Stage III - comments (due Sat Dec 4)
+### Stage III - peer review and comments (due Sat Dec 4)
 
 - Provide substantive and constructive feedback to other students' Wikipedia edits.
 - Suggest improvements, e.g., what to add/delete/revise.
