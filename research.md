@@ -82,7 +82,8 @@ and my [CV](cv.pdf)
     {%include button href="slides/sparse-reg-c4.pdf" text="slides" %}
 
 - [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
-  (with Jacob Fox)
+  (with Jacob Fox) \\
+  _Combinatorics, Probability and Computing_, to appear.
 
 {%include side_image height="60" src="c4-free-counting.svg" %}
 
