@@ -33,6 +33,7 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 
 **Current PhD students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
+[Dingding Dong](https://www.math.harvard.edu/people/dong-dingding/),
 [Ashwin Sah](http://www.mit.edu/~asah/),
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/),
 [Jonathan Tidor](https://www.mit.edu/~jtidor/)
