@@ -14,7 +14,8 @@ image: /gtac/bridge.png
 **Fall 2021, MIT, graduate level**
 
 _Quick links:_
-[\[Class files on Dropbox\]](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=)
+[\[Book draft\]](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
+[\[Problem set\]](ps.pdf)
 [\[Canvas\]](https://canvas.mit.edu/courses/10355)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-153
@@ -36,11 +37,11 @@ _Quick links:_
 I will ask you to first explain on the board the progress you have made so far.
 
 
-**Course files**: [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=).
+<!-- **Course files**: [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=).
 Will be updated throughout the term. 
 - Lectures outline
 - Problem sets
-- Book draft
+- Book draft -->
 
 
 ## Course description
@@ -96,9 +97,65 @@ Note that for MIT students, ± grade modifiers do not count towards the GPA and 
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
 
+### Lectures
+
+1. **W 9/8** A bridge between graph theory and additive combinatorics §0
+
+2. **M 9/13** Forbidding a subgraph: Mantel’s Theorem and Turán’s Theorem §1.1–1.2
+
+3. **W 9/15** Forbidding a subgraph: supersaturation, Kővári–Sós–Turán, Erdős–Stone–Simonovits §1.3–1.5
+
+4. **M 9/20** Forbidding a subgraph: forbidding cycles, dependent random choice, randomized lower bounds constructions §1.6–1.9
+
+5. **W 9/22** Forbidding a subgraph: algebraic and randomized algebraic lower bound constructions §1.10–1.11
+
+6. **M 9/27** Graph regularity: statement and proof §2.1
+
+7. **W 9/29** Graph regularity: triangle counting and removal lemmas, proof of Roth’s theorem §2.2–2.4
+
+8. **M 10/4** Graph regularity: Behrend's construction of 3-AP-free sets, graph counting and removal, Erdős–Stone–Simonovits again, graph property testing. §2.5–2.6, 2.9
+
+9. **W 10/6** Graph regularity: induced removal and strong regularity, hypergraph removal and regularity §2.10–2.11
+
+10. **W 10/13** Pseudorandom graphs: Chung–Graham–Wilson equivalences for quasirandom graphs, §3.1
+
+11. **M 10/18** Pseudorandom graphs: expander mixing lemma, Cayley graphs on Z/pZ, §3.2–3.3
+
+12. **W 10/20** Pseudorandom graphs: quasirandom groups, quasirandom Cayley graphs, §3.4–3.5
+
+13. **M 10/25** Pseudorandom graphs: second eigenvalue bound §3.6
+
+14. **W 10/27** Graph limits: introduction, graphon, cut distance §4.1–4.3
+
+15. **M 11/1** Graph limits: homomorphism density, counting lemma, weak regularity lemma, §4.3, 4.5–4.6
+
+16. **W 11/3** Graph limits: martingale convergence theorem, compactness of the graphon space, equivalence of convergence, §4.7–4.9
+
+17. **M 11/8** Graph homomorphism inequalities: edge-triangle region, Cauchy–Schwarz §5.1–5.2
+
+18. **W 11/10** Graph homomorphism inequalities: flag algebra, Hölder, Lagrangian §5.3–5.4
+
+19. **M 11/15** Forbidding 3-term arithmetic progressions: finite field §6.1–6.2
+
+20. **W 11/17** Forbidding 3-term arithmetic progressions: integers §6.3–6.4
+
+21. **M 11/22** Forbidding 3-term arithmetic progressions: polynomial method §6.5. Structure of set addition: statement of Freiman's theorem §7.1
+
+22. **W 11/24** Structure of set addition: Ruzsa triangle inequality, Plünnecke's inequality, Ruzsa covering lemma, Freiman’s theorem in groups of bounded exponent §7.2–7.5
+
+23. **M 11/29** Structure of set addition: Freiman homomorphisms, Ruzsa’s model lemma, Bogolyubov’s lemma §7.6–7.8
+
+24. **W 12/1** Structure of set addition: Geometry of numbers, proof of Freiman's theorem, polynomial Freiman—Ruzsa conjecture §7.9–7.12
+
+25. **M 12/6** Structure of set addition: Additive energy and the Balog—Szemerédi—Gowers theorem §7.13
+
+26. **W 12/8** Sum-product problem §8
+
 ## Problem sets
 
-See [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=) for the problem set. It will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
+[Problem set PDF](ps.pdf)
+
+The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 
 You should only submit the designated problems, but are encouraged to try the rest as well.
 
@@ -166,7 +223,7 @@ Intentional violations of the above policies may be considered academic dishones
 
 I am in the process of editing and rewriting the 
 [course notes from Fall 2019](gtac.pdf) into a textbook.
-I will be updating the book draft in the Dropbox folder as the semester progresses.
+I will be updating the [book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf) as the semester progresses.
 Check there for the latest available version.
 This book draft will also serve as course notes.
 
