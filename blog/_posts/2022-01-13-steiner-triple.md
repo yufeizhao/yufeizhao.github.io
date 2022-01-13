@@ -54,7 +54,7 @@ In a graph, the *girth* is defined to be the length of a shortest cycle. The gir
 
 Here is the main result of the new paper, which settles the Erdős conjecture.
 
-**Theorem** ([Kwan—Sah—Sawhney–Simkin](https://arxiv.org/abs/2201.04554)). For all sufficiently large $n \equiv 1,3 \pmod{6}$, there exists a Steiner triple system whose girth tends to infinity as $n \to \infty$.
+**Theorem** ([Kwan–Sah–Sawhney–Simkin](https://arxiv.org/abs/2201.04554)). For all $n \equiv 1,3 \pmod{6}$, there exists a Steiner triple system whose girth tends to infinity as $n \to \infty$.
 
 They build on previous works by
 [Glock, Kühn, Lo, and Osthus](https://arxiv.org/abs/1802.04227)
