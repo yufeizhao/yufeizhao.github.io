@@ -1,7 +1,7 @@
 ---
 title: "Kwan–Sah–Sawhney–Simkin: High-girth Steiner triple systems"
 layout: blogpost
-image: /blog/kwan-sah-sawhney-simkin-2022.jpg
+image: /blog/images/kwan-sah-sawhney-simkin-2022.jpg
 description: Resolution of a 1973 Erdős conjecture showing the existence of Steiner triple systems with arbitrarily high girth.
 twitter_large_image: true
 ---
