@@ -187,12 +187,16 @@ Additional links to my work:
 
 - [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
   {%include button href="/blog/2019/11/20/joints-tightened/" text="blog" %}
+  \\
   _American Journal of Mathematics_, to appear.
 
 - [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
   {%include button href="/blog/2020/09/12/joints-varieties/" text="blog" %}
   {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
-  {%include button href="slides/joints_varieties.pdf" text="slides" %}
+  {%include button href="slides/joints_varieties.pdf" text="slides" %} 
+  \\
+  _Geometric and Functional Analysis_, to appear.
+
 
 
 

@@ -62,7 +62,8 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 
 ## Selected publications
 
-* [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
+* [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu) \\
+  _Geometric and Functional Analysis_, to appear.
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _FOCS_ 2020.
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
