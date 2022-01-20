@@ -10,7 +10,6 @@ Book project: Graph Theory and Additive Combinatorics
 <img src="../gtac/bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
-This is the homepage for a textbook that I plan to write:
 
 _Graph Theory and Additive Combinatorics_  
 _by [Yufei Zhao](http://yufeizhao.com)_  
