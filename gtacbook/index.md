@@ -20,15 +20,15 @@ _by [Yufei Zhao](http://yufeizhao.com)_
 
 [Class website](../gtac/gtac.pdf) (includes links to a complete set of lecture videos from Fall 2019).
 
-Draft table of contents:
+Table of contents:
 
-1. Appetizer
-2. Forbidding a subgraph
-3. The graph regularity method
-4. Pseudorandom graphs
-5. Graph limits
-6. Graph homomorphism inequalities
-7. Forbidding 3-term arithmetic progressions
-8. Structure of set addition
-9. The sum-product problem
-10. Progressions in sparse pseudorandom sets
+- Appetizer
+- Forbidding subgraphs
+- Graph regularity method
+- Pseudorandom graphs
+- Graph limits
+- Graph homomorphism inequalities
+- Forbidding 3-term arithmetic progressions
+- Structure of set addition
+- The sum-product problem
+- Progressions in sparse pseudorandom sets
