@@ -45,6 +45,13 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
  title="The bridge between graph theory and additive combinatorics"></a>
  -->
 
+
+### [Book project: Graph Theory and Additive Combinatorics](gtacbook/)
+
+[<img src="gtac/bridge.png" width="600" height="181" style="max-width: 40%; height: auto;"
+ title="The bridge between graph theory and additive combinatorics">](gtacbook/)
+
+
 ## Teaching
 
 * [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021

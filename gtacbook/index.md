@@ -11,22 +11,29 @@ Book project: Graph Theory and Additive Combinatorics
  title="The bridge between graph theory and additive combinatorics">
 
 
-_Graph Theory and Additive Combinatorics_  
-_by [Yufei Zhao](http://yufeizhao.com)_  
+By [Yufei Zhao](http://yufeizhao.com)
 
-[Latest version of the book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
+## [Latest version of the book draft (Dropbox)](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
 
-[Class website](../gtac/gtac.pdf) (includes links to a complete set of lecture videos from Fall 2019).
+Please send me any comments
 
-Table of contents:
+### Table of contents:
 
 - Appetizer
-- Forbidding subgraphs
+- Forbidding a subgraph
 - Graph regularity method
 - Pseudorandom graphs
 - Graph limits
 - Graph homomorphism inequalities
 - Forbidding 3-term arithmetic progressions
 - Structure of set addition
-- The sum-product problem
+- Sum-product problem
 - Progressions in sparse pseudorandom sets
+
+
+### Video lectures from Fall 2019:
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
+- [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+
+
+[Class website from Fall 2021](../gtac/gtac.pdf)
