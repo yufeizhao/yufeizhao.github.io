@@ -15,11 +15,13 @@ By [Yufei Zhao](http://yufeizhao.com)
 
 ## [Latest version of the book draft (Dropbox)](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
 
-Please send me any comments
+[Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
+
+I appreciate any feedback on the book (e.g., typos, corrections, expositional improvements suggestions). Please email me or post in the Discord server.
 
 ### Table of contents:
 
-- Appetizer
+- Appetizer: triangles and equations
 - Forbidding a subgraph
 - Graph regularity method
 - Pseudorandom graphs
@@ -36,4 +38,4 @@ Please send me any comments
 - [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
 
-[Class website from Fall 2021](../gtac/gtac.pdf)
+[Class website from Fall 2021](../gtac/)

@@ -114,7 +114,8 @@ Additional links to my work:
    {%include button href="https://www.youtube.com/watch?v=TCGZgTUjE3s" text="video" %}
    {%include button href="slides/popular_difference.pdf" text="slides" %}
 
-- [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham)
+- [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham) \\
+  _Journal of the European Mathematical Society_, to appear.
 
 ### Arithmetic regularity and applications
 
