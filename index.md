@@ -48,7 +48,7 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 
 ### [Book project: Graph Theory and Additive Combinatorics](gtacbook/)
 
-[<img src="gtac/bridge.png" width="600" height="181" style="max-width: 40%; height: auto;"
+[<img src="gtac/bridge.png" width="600" height="181" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">](gtacbook/)
 
 
