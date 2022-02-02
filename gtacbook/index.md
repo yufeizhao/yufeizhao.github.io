@@ -13,6 +13,8 @@ Book project: Graph Theory and Additive Combinatorics
 
 By [Yufei Zhao](http://yufeizhao.com)
 
+An introductory graduate level textbook
+
 ## [Latest version of the book draft (Dropbox)](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
 
 [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
