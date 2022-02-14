@@ -41,16 +41,11 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 **Former PhD students**:
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard PhD '21 → Rutgers postdoc)
 
-<!-- <a href="gtacbook/"><img src="/gtac/bridge.png" width="300" style="float:right; max-width: 30%; height: auto;" class="side"
- title="The bridge between graph theory and additive combinatorics"></a>
- -->
-
 
 ### [Book project: Graph Theory and Additive Combinatorics](gtacbook/)
 
-[<img src="gtac/bridge.png" width="600" style="max-width: 100%; height: auto;"
+[<img src="gtacbook/bridge.png" width="600" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">](gtacbook/)
-
 
 ## Teaching
 
@@ -64,7 +59,6 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 * [18.211 Combinatorial Analysis](211/), Fall 2018
 * [Polynomial Method in Combinatorics](pm16/) (grad), Trinity Term 2016, Oxford
 * [Math Olympiad training handouts](olympiad/)
-
 
 
 ## Selected publications

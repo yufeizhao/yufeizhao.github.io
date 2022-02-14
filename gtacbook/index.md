@@ -11,7 +11,7 @@ Book project: Graph Theory and Additive Combinatorics
 By [Yufei Zhao](http://yufeizhao.com)
 
 
-<img src="../gtac/bridge.png" width="600" style="max-width: 100%; height: auto;"
+<img src="bridge.png" width="600" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">
 
  An introductory graduate level textbook
