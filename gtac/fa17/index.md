@@ -7,7 +7,7 @@ description: "MIT Fall 2017. 18.S997 Special Subject: Graph Theory and Additive 
 18.S997 Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
+<img src="../bridge.png" width="600" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
 **Fall 2017, MIT** ([Link to the most current version of the course](..))

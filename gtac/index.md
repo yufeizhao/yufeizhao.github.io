@@ -14,7 +14,7 @@ image: /gtac/bridge.png
 **Fall 2021, MIT, graduate level**
 
 _Quick links:_
-[\[Book draft\]](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
+[\[Book draft\]](/gtacbook/)
 [\[Problem set\]](ps.pdf)
 [\[Canvas\]](https://canvas.mit.edu/courses/10355)
 
@@ -223,7 +223,7 @@ Intentional violations of the above policies may be considered academic dishones
 
 I am in the process of editing and rewriting the 
 [course notes from Fall 2019](gtac.pdf) into a textbook.
-I will be updating the [book draft](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf) as the semester progresses.
+I will be updating the [book draft](/gtacbook/) as the semester progresses.
 Check there for the latest available version.
 This book draft will also serve as course notes.
 

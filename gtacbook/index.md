@@ -7,15 +7,17 @@ description: "Graph Theory and Additive Combinatorics (book project) by Prof. Yu
 Book project: Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="../gtac/bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
- title="The bridge between graph theory and additive combinatorics">
-
 
 By [Yufei Zhao](http://yufeizhao.com)
 
-An introductory graduate level textbook
 
-## [Latest version of the book draft (Dropbox)](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf)
+<img src="../gtac/bridge.png" width="600" style="max-width: 100%; height: auto;"
+ title="The bridge between graph theory and additive combinatorics">
+
+ An introductory graduate level textbook
+
+
+## [Latest version of the book draft](gtacbook.pdf)
 
 [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
 

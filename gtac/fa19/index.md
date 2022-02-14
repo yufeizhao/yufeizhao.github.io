@@ -7,7 +7,7 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 18.217 Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
+<img src="../bridge.png" width="600" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
 **Fall 2019, MIT** ([Link to the most current version of the course](..))
