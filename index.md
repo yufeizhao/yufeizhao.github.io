@@ -88,7 +88,7 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 
 * [Extremal problems in discrete geometry](/research/slides/extremal_discrete_geometry.pdf)
 * [The joints problem for varieties](/research/slides/joints_varieties.pdf)
-* [Equiangular lines, spherical two-distance sets, and spectral graph theory](research/slides/equiangular.pdf)
+* [Equiangular lines and eigenvalue multiplicities](research/slides/equiangular.pdf)
 * [Popular common difference](research/slides/popular_difference.pdf)
 * [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
 * [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
