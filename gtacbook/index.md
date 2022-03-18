@@ -46,6 +46,5 @@ I appreciate any feedback on the book (e.g., typos, corrections, expositional im
 
 [Class website from Fall 2021](../gtac/)
 
-<!-- ### [Chinese translation](gtacnotes-chinese.pdf)
 
-of the Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators -->
+[Chinese translation](https://zhuanlan.zhihu.com/p/461470594) of Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators
