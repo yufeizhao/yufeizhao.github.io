@@ -20,7 +20,7 @@ By [Yufei Zhao](http://yufeizhao.com)
 ## [Latest version of the book draft](gtacbook.pdf)
 
 
-I appreciate any feedback on the book (e.g., typos, corrections, expositional improvements suggestions). Please email me or post in the Discord server.
+I appreciate any feedback on the book (e.g., typos, corrections, expositional improvements suggestions). Please submit on the [Google Form](https://bit.ly/gtac-form), or email me or post in the Discord server.
 
 [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
 
