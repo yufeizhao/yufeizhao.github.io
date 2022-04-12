@@ -155,7 +155,7 @@ Additional links to my work:
 - [Group representations that resist worst-case sampling](http://arxiv.org/abs/1705.04675)
   
 - [Cayley graphs without a bounded eigenbasis](https://arxiv.org/abs/2005.04502) (with Ashwin Sah and Mehtaab Sawhney) \\
-  _International Mathematics Research Notices. IMRN_, to appear.
+  _International Mathematics Research Notices. IMRN_ 2022 (2022), 6157--6185.
 
   {%include side_image width="100" src="transitive-set-width.png" %}
 
