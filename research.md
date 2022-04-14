@@ -176,7 +176,8 @@ Additional links to my work:
 
   {%include side_image height="80" src="2dist.svg" %}
 - [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) 
-(with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)
+(with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
+  _Combinatorica_, to appear.
 
 - [Graphs with high second eigenvalue multiplicity](https://arxiv.org/abs/2109.13131)
 (with Milan Haiman, Carl Schildkraut, and Shengtong Zhang) \\
