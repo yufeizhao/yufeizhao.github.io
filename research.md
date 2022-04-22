@@ -131,7 +131,8 @@ Additional links to my work:
   _Israel Journal of Mathematics_, to appear.
 
 - [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
-  _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020.
+  _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
+  _SIAM Journal on Computing_, to appear.
 
 ### Topics in additive combinatorics
 
