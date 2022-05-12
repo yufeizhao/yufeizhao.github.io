@@ -14,7 +14,7 @@ By [Yufei Zhao](http://yufeizhao.com)
 <img src="bridge.png" width="600" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">
 
- An introductory graduate level textbook
+An introductory graduate level textbook to be published by the Cambridge University Press
 
 
 ## [Latest version of the book draft](gtacbook.pdf)
