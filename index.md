@@ -64,7 +64,7 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 ## Selected publications
 
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu) \\
-  _Geometric and Functional Analysis_, to appear
+  _Geometric and Functional Analysis_ 32 (2022) 302--339
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
   _SIAM Journal on Computing_, to appear.

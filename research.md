@@ -199,9 +199,7 @@ _Bulletin of the London Mathematical Society_, to appear
   {%include button href="https://www.youtube.com/watch?v=dsnU8iPL-WI" text="video" %}
   {%include button href="slides/joints_varieties.pdf" text="slides" %} 
   \\
-  _Geometric and Functional Analysis_, to appear
-
-
+  _Geometric and Functional Analysis_ 32 (2022) 302--339
 
 
 ### Extension complexity and nonnegative rank
