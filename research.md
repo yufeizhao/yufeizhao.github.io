@@ -80,7 +80,7 @@ Additional links to my work:
 
 - [The regularity method for graphs with few 4-cycles](https://arxiv.org/abs/2004.10180) 
   (with David Conlon, Jacob Fox, and Benny Sudakov) \\
-  _Journal of the London Mathematical Society_, to appear
+  _Journal of the London Mathematical Society_ 104 (2021), 2376--2401
     {%include button href="slides/sparse-reg-c4.pdf" text="slides" %}
 
 - [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
@@ -128,7 +128,7 @@ Additional links to my work:
 - [Induced arithmetic removal: complexity 1 patterns over finite fields](https://arxiv.org/abs/1911.03427)
   (with Jacob Fox and Jonathan Tidor)
   \\
-  _Israel Journal of Mathematics_, to appear
+  _Israel Journal of Mathematics_ 248 (2022), 1--38
 
 - [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
@@ -137,7 +137,7 @@ Additional links to my work:
 ### Topics in additive combinatorics
 
 - [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
-  _The Quarterly Journal of Mathematics_, to appear
+  _The Quarterly Journal of Mathematics_  72 (2021), 1223--1234
 
 - [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson) \\
   _Comptes Rendus Mathématique_ 358 (2020), 957--959
