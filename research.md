@@ -207,7 +207,7 @@ _Bulletin of the London Mathematical Society_, to appear
   {%include side_image height="70" src="polytope-extension.png" %}
 
 - [Extension complexity of low-dimensional polytopes](https://arxiv.org/abs/2006.08836) (with Matthew Kwan and Lisa Sauermann) \\
-  _Transactions of the American Mathematical Society_, to appear
+  _Transactions of the American Mathematical Society_ 375 (2022),  4209--4250
 
 ### Plank problem
 
@@ -276,6 +276,9 @@ _Bulletin of the London Mathematical Society_, to appear
   (with Dingding Dong and Nitya Mani) \\
   _ACM-SIAM Symposium on Discrete Algorithms (SODA)_ 2022
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
+
+- [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
+  (with Dingding Dong and Nitya Mani) \\
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
