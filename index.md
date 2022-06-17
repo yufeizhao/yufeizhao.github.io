@@ -36,10 +36,10 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 [Dingding Dong](https://www.math.harvard.edu/people/dong-dingding/),
 [Ashwin Sah](http://www.mit.edu/~asah/),
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/),
-[Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 **Former PhD students**:
-[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home) (Harvard PhD '21 → Rutgers postdoc)
+[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home),
+[Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 
 ### [Book project: Graph Theory and Additive Combinatorics](gtacbook/)
