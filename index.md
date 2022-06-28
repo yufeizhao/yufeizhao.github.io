@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Yufei Zhao | MIT Mathematics
-description: "Assistant Professor of Mathematics at MIT"
+description: "Associate Professor of Mathematics at MIT"
 image: /photo.jpg
 ---
 
 <div class="row">
 <div class="col-md-6">
-<p>Assistant Professor of Mathematics<br>
+<p>Associate Professor of Mathematics<br>
 Department of Mathematics<br>
 Massachusetts Institute of Technology</p>
 
@@ -42,7 +42,11 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 [Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
 
-### [Book project: Graph Theory and Additive Combinatorics](gtacbook/)
+### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
+
+_To be published by Cambridge University Press_
+
+Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
 [<img src="gtacbook/bridge.png" width="600" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">](gtacbook/)
@@ -51,9 +55,14 @@ Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/
 
 * [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021
   {%include button href="gtacbook/" text="Book project" %} 
-  {%include button href="https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/" text="OCW videos" %} 
+  {%include button href="https://ocw.mit.edu/18-217F19" text="OCW videos" %} 
   {%include button href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX" text="YouTube" %} 
-* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2021
+* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2021 \\
+  _Putnam Competition_ 
+  [_2021 results_](a34/putnam/2021winners.pdf)
+  {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
+  [_2019 results_](a34/putnam/2019winners.pdf)
+  {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %}
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2020
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
 * [18.211 Combinatorial Analysis](211/), Fall 2018

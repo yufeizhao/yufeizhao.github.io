@@ -4,11 +4,11 @@ title: "Graph Theory and Additive Combinatorics: book project"
 description: "Graph Theory and Additive Combinatorics (book project) by Prof. Yufei Zhao"
 ---
 
-Book project: Graph Theory and Additive Combinatorics
+Graph Theory and Additive Combinatorics
 ===============================================
+## Exploring Structure and Randomness
 
-
-By [Yufei Zhao](http://yufeizhao.com)
+by [Yufei Zhao](http://yufeizhao.com)
 
 
 <img src="bridge.png" width="600" style="max-width: 100%; height: auto;"
@@ -16,35 +16,30 @@ By [Yufei Zhao](http://yufeizhao.com)
 
 An introductory graduate level textbook to be published by the Cambridge University Press
 
+## [Book manuscript PDF](gtacbook.pdf)
 
-## [Latest version of the book draft](gtacbook.pdf)
-
-
-I appreciate any feedback on the book (e.g., typos, corrections, expositional improvements suggestions). Please submit on the [Google Form](https://bit.ly/gtac-form), or email me or post in the Discord server.
+Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-form).
 
 [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
 
-
 ### Chapters
 
-- Appetizer: triangles and equations
-- Forbidding a subgraph
-- Graph regularity method
-- Pseudorandom graphs
-- Graph limits
-- Graph homomorphism inequalities
-- Forbidding 3-term arithmetic progressions
-- Structure of set addition
-- Sum-product problem
-- Progressions in sparse pseudorandom sets
+- Appetizer: Triangles and Equations
+- Forbidding a Subgraph
+- Graph Regularity Method
+- Pseudorandom Graphs
+- Graph Limits
+- Graph Homomorphism Inequalities
+- Forbidding 3-term Arithmetic Progressions
+- Structure of Set Addition
+- Sum-product Problem
+- Progressions in Sparse Pseudorandom Sets
 
 
-### Video lectures from Fall 2019:
-- [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
+### Video lectures from Fall 2019 class:
+- [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) 
 - [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
-
 [Class website from Fall 2021](../gtac/)
-
 
 [中文翻译 Chinese translation](https://zhuanlan.zhihu.com/p/461470594) of Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators

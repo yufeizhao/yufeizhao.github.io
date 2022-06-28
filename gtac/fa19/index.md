@@ -13,7 +13,7 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 **Fall 2019, MIT** ([Link to the most current version of the course](..))
 
 _Quick links_:
-\[Lecture videos: [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
+\[Lecture videos: [MIT OCW](https://ocw.mit.edu/18-217F19), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
 \[[Notes](../gtac.pdf)\]
 \[[Homework](ps.pdf)\]
 

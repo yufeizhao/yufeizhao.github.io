@@ -67,7 +67,7 @@ The course will explore these and related topics, including:
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
 Lecture video recordings from Fall 2019 (may not correspond exactly to the current semester) may be found on
-[MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) 
+[MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) 
 and 
 [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX).
 

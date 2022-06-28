@@ -101,7 +101,7 @@ A central theme of my research is that graph theory and additive combinatorics a
 
 When I started teaching as an MIT faculty, I developed a graduate-level math class titled [Graph theory and additive combinatorics](https://yufeizhao.com/gtac/) introducing the students to these two beautiful subjects and highlighting the themes that connect them. It gives me great pleasure to see many students in my class later producing excellent research on this topic. 
 
-In Fall 2019, I worked with MIT OpenCourseWare and filmed all my lecture videos for this class. They are now available for free on [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX). I have also made available my lecture notes, which I am currently in the process of editing into a [textbook](https://yufeizhao.com/gtacbook/).
+In Fall 2019, I worked with MIT OpenCourseWare and filmed all my lecture videos for this class. They are now available for free on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX). I have also made available my lecture notes, which I am currently in the process of editing into a [textbook](https://yufeizhao.com/gtacbook/).
 
 In my first lecture, I tell the class about the connections between graph theory and additive combinatorics as first observed by the work of Issai Schur from over a hundred years ago. Thanks to enormous research progress over the past century, we now understand a lot more, but there is still a ton of mystery that remains. 
 
