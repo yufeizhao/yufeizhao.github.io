@@ -55,7 +55,7 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 
 * [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021
   {%include button href="gtacbook/" text="Book project" %} 
-  {%include button href="https://ocw.mit.edu/18-217F19" text="OCW videos" %} 
+  {%include button href="https://ocw.mit.edu/18-217F19" text="MIT OCW" %} 
   {%include button href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX" text="YouTube" %} 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2021 \\
   _Putnam Competition_ 
