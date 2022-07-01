@@ -334,7 +334,7 @@ _Bulletin of the London Mathematical Society_, to appear
 ### Random matrices
 
 - [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain) \\
-  _Combinatorics, Probability and Computing_, to appear
+  _Combinatorics, Probability and Computing_ Combin. (2022), no. 3, 455--477
 
 ### Extremal subgraph density problems in directed graphs and tournaments
 
