@@ -164,6 +164,8 @@ Additional links to my work:
   _Israel Journal of Mathematics_, to appear
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
+- [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney)
+
 
   {%include side_image height="80" src="icosahedron.png" %}
 
