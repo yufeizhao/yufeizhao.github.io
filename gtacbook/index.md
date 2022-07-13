@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Graph Theory and Additive Combinatorics: book project"
+title: "Graph Theory and Additive Combinatorics"
 description: "Graph Theory and Additive Combinatorics (book project) by Prof. Yufei Zhao"
 ---
 
