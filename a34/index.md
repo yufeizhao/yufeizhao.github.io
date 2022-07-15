@@ -116,7 +116,7 @@ SS = Supplementary set
 -  **M 11/22** Discussion — Presentations. **Due:** [Linear algebra](ps/linear-algebra.pdf) & [SS11](ps/hw11.pdf)
 
 -  **W 11/24** Discussion — More presentations (on any problem set)
--
+
 -  **M 11/29** Discussion — Presentation of [Putnam 2019 problems](https://kskedlaya.org/putnam-archive/2019.pdf)
 
 -  **W 12/1** Discussion — Presentations of [Putnam 2020 problems](https://kskedlaya.org/putnam-archive/2020.pdf)
