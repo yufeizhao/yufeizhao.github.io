@@ -217,7 +217,7 @@ _Bulletin of the London Mathematical Society_, to appear
   {%include side_image width="60" src="zone.svg" %}
 
 - [Exploring a planet, revisited](https://arxiv.org/abs/2110.04376), \\
-  _American Mathematical Monthly_, to appear
+  _American Mathematical Monthly_ 129 (2022), 678--680.
 
 ### Independent sets and graph homomorphisms
 
