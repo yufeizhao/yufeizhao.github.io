@@ -76,7 +76,7 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
   _Geometric and Functional Analysis_ 32 (2022) 302--339
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
-  _SIAM Journal on Computing_, to appear.
+  _SIAM Journal on Computing_ 51 (2022), 1230--1279
 * [Equiangular lines with a fixed angle](https://arxiv.org/abs/1907.12466) (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
   _Annals of Mathematics_ 194 (2021), 729--743. {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\

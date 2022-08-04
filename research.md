@@ -132,7 +132,7 @@ Additional links to my work:
 
 - [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
   _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
-  _SIAM Journal on Computing_, to appear
+  _SIAM Journal on Computing_ 51 (2022), 1230--1279
 
 ### Topics in additive combinatorics
 
