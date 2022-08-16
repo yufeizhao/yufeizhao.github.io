@@ -90,7 +90,8 @@ Additional links to my work:
 {%include side_image height="60" src="c4-free-counting.svg" %}
 
 - [Which graphs can be counted in $C_4$-free graphs?](https://arxiv.org/abs/2106.03261)
-  (with David Conlon, Jacob Fox, and Benny Sudakov)
+  (with David Conlon, Jacob Fox, and Benny Sudakov) \\
+  _Pure and Applied Mathematics Quarterly_, to appear
 
 ### Algorithmic graph regularity
 
