@@ -103,12 +103,12 @@ _Tentative_
 * **Penalty.** Late submissions will be penalized by 20% per each late day (24-hour increments, without fractional accounting).
   * Example: for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth 0.6_x_ points if submitted on Tuesday.
 * **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
-   * If you take this option, you must (1) email the graders explaining which problems were submitted on time and which ones were late and by how many dates, and (2) clearly indicate this information also on your problem set. 
+   * If you take this option, you must (1) email the graders explaining which problems were submitted on time and which ones were late and by how many dates, and (2) clearly indicate this information also in your write-up. 
    * Multiple submissions complicate our grading process. If you do not do the above, your entire submission may receive a late penalty as if all problems were submitted by the last submission time.
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
-   * The final submission should include everything, with lateness clearly marked in the PDF
-   * This policy is provided as a courtesy; it may be rescinded if abused.
+   * The final submission should include everything, with each problem's lateness clearly marked in the PDF.
+   * This policy is provided as a courtesy. It may be rescinded if abused.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the graders and me **in advance** or have S3 send us a message. Let us know how many days extension you need.
   * My policy is to not grant extension based on forseeable circumstances including academic workload, extracurriculars, and poor study habits.
 
@@ -126,7 +126,7 @@ _Tentative_
 
 It is required to acknowledge your sources (even if you worked independently)
 
-- At the beginning of the submission for **each problem**, write _Collaborators and sources:_ followed by a list of collaborators and sources consulted (people, books, papers, websites, software, etc.), or write _none_ if you did not use any such resources.
+- At the beginning of the submission for **each problem**, write `Collaborators and sources:` followed by a list of collaborators and sources consulted (people, books, papers, websites, software, etc.), or write `none` if you did not use any such resources.
 - Failure to acknowledge will result in an automatic 1pt penalty per problem.
 - Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation (no need to mention lecture notes or textbook)
 - Unacceptable uses of resources include: directly looking up the problem online or in the research literature for a solution.
