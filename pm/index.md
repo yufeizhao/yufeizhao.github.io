@@ -6,35 +6,40 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 # 18.226 Probabilistic Methods in Combinatorics	
 
-**Fall 2020, MIT**
+**Fall 2022, MIT**
 
-_Quick links_:
+<!-- _Quick links_:
 \[[Notes](probmethod_notes.pdf)\]
-\[[Homework](ps.pdf)\]
+\[[Homework](ps.pdf)\] -->
 
+**Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-370 
 
-**Class meetings:** Mondays and Wednesdays 2:30--4pm (lectures will be live and recorded)
+_(First class Wednesday September 7)_
 
-**Instructor:** [Yufei Zhao](http://yufeizhao.com) (see website for contact info)
+**Instructor:** [Yufei Zhao](http://yufeizhao.com) 
 
-**Grader:** [Sergei Korotkikh](https://math.mit.edu/directory/profile.php?pid=2113)
+**Graders:** TBD
 
-Please include "18.226" in the subject line of your emails
+**Emails and Piazza**
+- My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
+- Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
+- Email the graders and cc me if it is homework related (submission, extensions, grading, etc.)
+- Begin your email subject line with "\[18.226\]"
 
-[Link to Canvas](https://canvas.mit.edu/courses/3711) (including Zoom link; MIT Touchstone authentication required for Zoom, Non-MIT individuals must obtain an MIT account, e.g., through cross-registration, to access the lectures)
+**Office hours**
+- I will stay around after class to answer questions -- we may move to the math common room (2-290).
+- I plan to also schedule ad-hoc office hours for each problem set. Stay tuned for Canvas announcements.
+- You may ask me about unstarred problems (but not starred ones) during office hours.
+- I will ask you to first explain on the board the progress you have made so far.
 
-_Unfortunately, due to MIT policies, I cannot release lecture videos to anyone outside MIT. All the publicly accessible material from the course are already contained on this page._
-
-**Office hours:**
-I will stay in the Zoom session after each lecture for around 30 minutes or until all questions have been addressed.
-
-My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead). Clarification questions (about homework or lectures) should be asked in the Piazza forum (link in Canvas), as they may benefit the rest of the class.
 
 ## Course description and policies
 
 A graduate-level introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is the following: to show that some combinatorial object exists, we prove that a certain random construction works with positive probability. The course will focus on methodology as well as combinatorial applications.
 
-_Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice). Available electronically from MIT Libraries
+_Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice). Available electronically from MIT Libraries. 
+
+I will also provide my own lecture notes.
 
 _Prerequisites:_ Mathematical maturity at the level of a first-year math graduate student.
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
@@ -42,102 +47,94 @@ Comfortable with combinatorics (18.211), probability (18.600), and real analysis
 _Grading:_ Primarily based on homework grades (no exams). 
 A modifier up to 5 percentage points may be applied (in either direction) in calculating the final grade, at my discretion based on factors such as participation.
 
-Cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+: 
+Final letter grade cutoffs: Only non-starred problems are considered for the calculations of letter grades other than A and A+. 
 
 * A− : ≥ 85%
 * B− : ≥ 70%
 * C− : ≥ 50%  
   
-Grades of A and A+ are awarded at my discretion based on overall performance, in particular, solving a significant number of starred problems (please don't ask me what "a significant number" means). 
-Note that for MIT students, grade modifiers do not count towards the GPA and do not appear on the external transcript.
+Grades of A and A+ are awarded at my discretion based on overall performance.
+Solving a significant number of starred problems is a requirement for grades of A and A+ (please don't ask me what "a significant number" means). 
 
-[Student Support Services (S<sup>3</sup>) and Student Disability Services](s3)
+Note that for MIT students, ± grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
-## Lectures and notes
+Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
-[Instructor notes](probmethod_notes.pdf) (will be updated after each lecture; [report errors](https://bit.ly/pmnoteserror))
-
-[Handwritten notes](https://www.dropbox.com/sh/iq3mdyavclun6ls/AACuFcJA9hAz9cWHfYABktFca?dl=0) (updated live during lecture)
-
-[Notes from a previous semester](/pm/sp19/pmnotes.pdf) taken by Andrew Lin (may not perfectly align with this semester, but will be largely similar)
-
-_Schedule_
-
-- **9/2** Introduction
-- **9/9** Introduction
-- **9/14** Linearity of expectations
-- **9/16** Linearity of expectations
-- **9/21** Alteration method
-- **9/23** Alteration method / Second moment method
-- **9/28** Second moment method
-- **9/30** Thresholds
-- **10/5** Second moment method
-- **10/7** Chernoff bound
-- **10/13** Lovász local lemma
-- **10/14** Lovász local lemma
-- **10/19** Lovász local lemma
-- **10/21** Correlation inequalities
-- **10/26** Janson inequalities
-- **10/28** Janson inequalities
-- **11/2** Martingale concentration
-- **11/4** Martingale concentration
-- **11/9** Isoperimetric inequalities
-- **11/16** Talagrand inequality
-- **11/18** Talagrand inequality
-- **11/30** Entropy method
-- **12/2** Entropy method
-- **12/7** Entropy method
-- **12/9** Container method
 
 ## Homework
 
-**[Problem set](ps.pdf)**: a list of problems for practice. A subset of these problems will be assigned as homework. You should only submit the designated problems, but are encouraged to try the rest as well.
+_Link to problem set to come_
 
-To get the most out of this course, you are expected to spend a significant amount of time solving these problems. 
-_It will be essential to start thinking about these problems early._
+The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 
-_Schedule_ 
+You should only submit the designated problems, but are encouraged to try the rest as well.
+
+Starred problems are generally more challenging.
+
+To get the most out of this course, you are expected to spend a significant amount of time solving these problems.
+It will be essential to start thinking about these problems early.
+
+
+### Schedule
+
+_Tentative_
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
-| PS 1 | Sunday Sep 20 |
-| PS 2 | Sunday Oct 4 |
-| PS 3 | Sunday Oct 18 |
-| PS 4 | Sunday Nov 1 |
-| PS 5 | Sunday Nov 15 |
-| PS 6 | Wed Dec 9 (10 PM) |
+| PS 1 | Sun Sep 25
+| PS 2 | Sun Oct 9
+| PS 3 | Sun Oct 23
+| PS 4 | Sun Nov 6
+| PS 5 | Sun Nov 20
+| PS 6 | Sun Dec 11
 
-_Submissions_ 
+**Starred problems** on each problem set should be submitted separately, with an automatic 7-day extension without penalty (and no additional lateness permitted).
+
+
+### Submissions
+
 * Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
-* Due time: **11:59pm of each due date** (except for PS 6, which is due at 10 PM). All times refer to US Eastern time
+* Due time: **11:59pm of each due date**
 * Begin each solution on a new page
 * Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
 
-_Late policy_ 
+### Late policy
+
 * **Penalty.** Late submissions will be penalized by 20% per each late day (24-hour increments, without fractional accounting).
   * Example: for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth 0.6_x_ points if submitted on Tuesday.
 * **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
+   * If you take this option, you must (1) email the graders explaining which problems were submitted on time and which ones were late and by how many dates, and (2) clearly indicate this information also on your problem set. 
+   * Multiple submissions complicate our grading process. If you do not do the above, your entire submission may receive a late penalty as if all problems were submitted by the last submission time.
    * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
    * The second batch may not contain any updates or replacement to an already submitted problem.
-   * The final submission should include everything, with the late problems clearly marked.
-   * Please email me and the graders if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
-   * This policy is provided as a courtesy; it may be rescinded if subject to abuse.
-* **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email me **in advance** or have S3 send me a message.
-  * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
-
-_Sources_ 
-
-* **Important!** Please acknowledge, **individually for every problem** at the beginning of each solution, a list of all collaborators and sources consulted (people, books, websites, etc.).
-* If no additional sources are consulted, you must write `sources consulted: none` or equivalent.
-* **Failure to acknowledge sources will lead to an automatic 1 point penalty** (out of 10 points per problem). 
-* You may not look up solutions to homework problems online or offline. 
-* You are strongly discouraged from looking at end-of-textbook hints.
-
-_Collaboration policy_ 
-* Start early and first think about the problems independently; you will gain the most of out the course this way.
-* Reasonable collaboration is permitted, but everyone must write their solutions individually and acknowledge their collaborators.
-* [Pset partners](https://psetpartners.mit.edu/) --- tool for finding problem set collaborators (MIT Touchstone required)
+   * The final submission should include everything, with lateness clearly marked in the PDF
+   * This policy is provided as a courtesy; it may be rescinded if abused.
+* **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the graders and me **in advance** or have S3 send us a message. Let us know how many days extension you need.
+  * My policy is to not grant extension based on forseeable circumstances including academic workload, extracurriculars, and poor study habits.
 
 
-Previous course homepage from [Spring 2019](sp19/) 
-(also [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-218-probabilistic-method-in-combinatorics-spring-2019/))
+### Collaborations
+
+- You are encouraged to first work on the homework problems independently before seeking collaboration.
+- Meaningful collaboration is allowed if it helps with your learning (e.g., solving a problem together)
+- Unacceptable practices include: "dividing up" the problems among a group and then distributing the solutions; asking for a solution from a friend.
+- You must write up your own solutions.
+- [Pset partners](https://psetpartners.mit.edu/) --- a tool for finding problem set collaborators (MIT Touchstone required)
+
+
+### Acknowledging collaborators and sources
+
+It is required to acknowledge your sources (even if you worked independently)
+
+- At the beginning of the submission for **each problem**, write _Collaborators and sources:_ followed by a list of collaborators and sources consulted (people, books, papers, websites, software, etc.), or write _none_ if you did not use any such resources.
+- Failure to acknowledge will result in an automatic 1pt penalty per problem.
+- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation (no need to mention lecture notes or textbook)
+- Unacceptable uses of resources include: directly looking up the problem online or in the research literature for a solution.
+(Once you have solved a problem, it is fine to seek and learn alternate solutions.)
+
+Intentional violations of the above policies may be considered academic dishonesty/misconduct.
+
+
+**Previous version of the class:**
+[Spring 2019](sp19/),
+[Fall 2020](fa20/).
