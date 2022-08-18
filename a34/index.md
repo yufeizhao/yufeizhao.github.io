@@ -20,7 +20,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 and
 [Tomasz Slusarczyk](mailto:tomaszsl@mit.edu)
 
-**Emails and Slack**
+**Emails and Slack:**
 
 - For quick questions, ask me after class
 - Include both UAs in all class related communication, including everything homework related (submission, extensions, grading, etc.)
@@ -35,8 +35,8 @@ and
 - Emphasis on developing mathematical communication skills, including blackboard presentation and proof writing
 - Discussions of academic and career topics relevant for students from a math competition background
 
-**[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):** 
-The Putnam Competition is an annual mathematics contest for undergraduates in the USA and Canada.  
+**[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):**
+The Putnam Competition is an annual mathematics contest for undergraduates in the USA and Canada.
 This year it will be held **Saturday, December 3, 2022**.
 
 All registered students will be required to participate in the Putnam competition. Registration information will be announced later in the semester. 
