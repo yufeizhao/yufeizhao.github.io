@@ -82,7 +82,7 @@ Schedule TBD
 
 Each problem set contains a long list of problems. You are encouraged to try many problems, but please only hand in **your three best solutions** (do not submit more than three):
 
-- At least 2 problems should be from the topic set; at most 1 problem can come from the supplementary problem set.
+- At least two problems should be from the topic set, i.e., at most one problem can come from the supplementary problem set.
 - Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 - For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
 - After each homework is due, you are allowed and encouraged to discuss your solutions on Slack
