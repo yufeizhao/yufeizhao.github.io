@@ -276,13 +276,13 @@ _Bulletin of the London Mathematical Society_, to appear
 
 ### Asymptotic enumeration
 
-- [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233) 
-  (with Dingding Dong and Nitya Mani) \\
+- [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233)
+  (with Dingding Dong and Nitya Mani)  
   _ACM-SIAM Symposium on Discrete Algorithms (SODA)_ 2022
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
 
 - [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
-  (with Dingding Dong and Nitya Mani) \\
+  (with Dingding Dong and Nitya Mani)
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
