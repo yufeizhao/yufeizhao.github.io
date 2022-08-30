@@ -6,8 +6,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 # 18.A34 Mathematical Problem Solving (Putnam Seminar)
 
-<!-- _Quick links:_
-[\[Canvas\]](https://canvas.mit.edu/courses/10424) -->
+[\[Dropbox with schedule and homework PDFs\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0)
 
 **Fall 2022, MIT**
 
@@ -73,7 +72,7 @@ Students needing support should consider reaching out to [Student Support Servic
 Lectures are open to all MIT students.  
 All other sessions are restricted to official seminar participants.
 
-Schedule TBD
+[\[Dropbox with schedule and homework PDFs\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0)
 
 -  **W 9/7** Class introduction (only for registered participants)
 
