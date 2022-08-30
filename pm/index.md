@@ -8,9 +8,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 **Fall 2022, MIT**
 
-<!-- _Quick links_:
-\[[Notes](probmethod_notes.pdf)\]
-\[[Homework](ps.pdf)\] -->
+[\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-370 
 
@@ -63,7 +61,7 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Homework
 
-_Link to problem set to come_
+[\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
 
 The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 
@@ -96,6 +94,7 @@ _Tentative_
 * Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
 * Due time: **11:59pm of each due date**
 * Begin each solution on a new page
+* Select the pages for each problem on Gradescope (or else they will not be graded)
 * Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
 
 ### Late policy
