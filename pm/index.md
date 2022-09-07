@@ -9,6 +9,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 **Fall 2022, MIT**
 
 [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
+[\[Canvas\]](https://canvas.mit.edu/courses/15756)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-370 
 
@@ -21,7 +22,7 @@ _(First class Wednesday September 7)_
 **Emails and Piazza**
 - My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
 - Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
-- Email the graders and cc me if it is homework related (submission, extensions, grading, etc.)
+- Email the graders and cc me for anything homework-related  (submission, extensions, grading, etc.)
 - Begin your email subject line with "\[18.226\]"
 
 **Office hours**

@@ -73,6 +73,8 @@ Lectures are open to all MIT students.
 All other sessions are restricted to official seminar participants.
 
 [\[Dropbox with schedule and homework PDFs\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0)
+[\[Canvas\]](https://canvas.mit.edu/courses/15882)
+
 
 -  **W 9/7** Class introduction (only for registered participants)
 
