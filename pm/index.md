@@ -36,6 +36,18 @@ _(First class Wednesday September 7)_
 
 A graduate-level introduction to the probabilistic method, a fundamental and powerful technique in combinatorics and theoretical computer science. The essence of the approach is the following: to show that some combinatorial object exists, we prove that a certain random construction works with positive probability. The course will focus on methodology as well as combinatorial applications.
 
+Topics:
+* Linearity of expectations
+* Alteration
+* Second moment
+* Chernoff bound
+* Lovász local lemma
+* Correlation inequalities
+* Janson inequalities
+* Concentration of measure
+* Entropy method
+* Container method
+
 _Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice). Available electronically from MIT Libraries. 
 
 I will also provide my own lecture notes.
