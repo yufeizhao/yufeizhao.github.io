@@ -125,6 +125,7 @@ _Tentative_
    * This policy is provided as a courtesy. It may be rescinded if abused.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the graders and me **in advance** or have S3 send us a message. Let us know how many days extension you need.
   * My policy is to not grant extension based on forseeable circumstances including academic workload, extracurriculars, and poor study habits.
+* If you submit your homework late, you should not discuss the homework with other students who have already submitted their homework until you have submitted yourself (this includes reading Piazza discussions).
 
 
 ### Collaborations
