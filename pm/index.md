@@ -21,7 +21,7 @@ _(First class Wednesday September 7)_
 
 **Emails and Piazza**
 - My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
-- Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
+- Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the due date.
 - Email the graders and cc me for anything homework-related  (submission, extensions, grading, etc.)
 - Begin your email subject line with "\[18.226\]"
 
