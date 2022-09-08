@@ -69,6 +69,8 @@ Solving a significant number of starred problems is a requirement for grades of 
 
 Note that for MIT students, ± grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
+If you wish to attend lectures, please register as for credit or listener.
+
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
 
@@ -146,6 +148,9 @@ It is required to acknowledge your sources (even if you worked independently)
 
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
 
+### Additional resources
+
+* [MIT-Harvard-MSR Combinatorics Seminar](https://math.mit.edu/combin/) -- research seminar covering recent research results by various speakers. Intended for graduate students and researchers in combinatorics, but all are welcome. Self-sign up for mailing list.
 
 **Previous version of the class:**
 [Spring 2019](sp19/),
