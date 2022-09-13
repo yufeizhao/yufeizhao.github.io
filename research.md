@@ -284,6 +284,9 @@ _Bulletin of the London Mathematical Society_, to appear
 - [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
   (with Dingding Dong and Nitya Mani)
 
+- [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
+  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)
+
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
 {%include side_image height="79" src="gnp_ldp.png" width="80" %}
