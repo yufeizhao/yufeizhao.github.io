@@ -19,6 +19,7 @@
   <meta property="og:type" content="website">
   {% endif %}
   {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
+  {% if page.image %}<meta property="twitter:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">{% endif %}
   {% if page.favicon %}<link rel="shortcut icon" href="{{page.favicon}}">
   {% else %}<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}"> {% endif %}
 
