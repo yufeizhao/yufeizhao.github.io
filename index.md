@@ -29,7 +29,7 @@ Cambridge, MA 02139, USA</p>
 
 **Research interests**: Combinatorics (extremal, probabilistic, additive, graph theory, discrete geometry)
 
-Co-organizer of [MIT Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+[MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/), co-organizer
 
 **Current PhD students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
@@ -72,6 +72,8 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 
 ## Selected publications
 
+* [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
+  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu) \\
   _Geometric and Functional Analysis_ 32 (2022) 302--339
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
@@ -81,9 +83,6 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
   _Annals of Mathematics_ 194 (2021), 729--743. {%include button href="https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004" text="MIT News" %}
 * [A reverse Sidorenko inequality](https://arxiv.org/abs/1809.09462) (with Ashwin Sah, Mehtaab Sawhney, and David Stoner) \\
   _Inventiones Mathematicae_ 221 (2020), 665--711
-* [An $L^p$ theory of sparse graph convergence I: limits, sparse random graph models, and power law distributions](http://arxiv.org/abs/1401.2906)
-  (with Christian Borgs, Jennifer T. Chayes, and Henry Cohn) \\
-  _Transactions of the American Mathematical Society_ 372 (2019), 3019--3062
 * [Upper tails and independence polynomials in random graphs](http://arxiv.org/abs/1507.04074)
   (with Bhaswar B. Bhattacharya, Shirshendu Ganguly, and Eyal Lubetzky) \\
   _Advances in Mathematics_ 319 (2017), 313--347

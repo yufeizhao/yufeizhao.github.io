@@ -1,0 +1,64 @@
+---
+title: "Nearly all k-SAT functions are unate"
+layout: blogpost
+image: /blog/images/balogh-dong-lidicky-mani.jpg
+description: We proved the Bollobás--Brightwell--Leader conjecture characterizing the structure of a typical k-SAT function.
+twitter_large_image: true
+---
+
+The [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem), specifically _k_-SAT, occupies a central place in theoretical computer science.
+Here is a question that had been open until just now:
+what does a typical _k_-SAT function look like?
+[Bollobás, Brightwell, and Leader (2003)](https://mathscinet.ams.org/mathscinet-getitem?mr=1968421) initiated the study of this question, and they conjectured that a typical _k_-SAT function is [unate](https://en.wikipedia.org/wiki/Unate_function) (meaning monotone up to first negating some variables; more on this below.)
+
+{% include blog_image
+    src = "balogh-dong-lidicky-mani.jpg"
+    width = "600"
+    caption = "József Balogh, Dingding Dong, Bernard Lidický, Nitya Mani"
+%}
+
+In a [new preprint](https://arxiv.org/abs/2209.04894) with the above authors ([Dingding](https://www.math.harvard.edu/people/dong-dingding/) and [Nitya](https://www.mit.edu/~nmani/) are PhD students), we completely settle the Bollobás--Brightwell--Leader conjecture.
+
+**Theorem.** Fix _k_. A $1-o(1)$ proportion of all _k_-SAT functions on _n_ Boolean variables are unate, as $n \to \infty$.
+
+
+Some special cases were known earlier: $k=2$ by [Allen (2007)](https://mathscinet.ams.org/mathscinet-getitem?mr=2350165) and $k=3$ by [Ilinca and Kahn (2012)](https://mathscinet.ams.org/mathscinet-getitem?mr=3009746).
+
+As a reminder, a _k_-SAT function is a function 
+$$f \colon \{ 0, 1 \}^n \to \{0,1\}$$
+that is expressible as a formula of the form
+
+$$ f(x_1, \dots, x_n) = C_1 \land C_2 \land \cdots \land C_m $$
+
+(here $\land$ = AND) where each “clause” $C_i$ is an OR of at most $k$ literals (each "literal" is some $x_i$ or its negation $\overline{x_i}$). 
+Such a function or formula is called _monotone_ if the negatives literals $\overline{x_i}$ do not appear.
+Furthermore, it is called _unate_ if each variable $x_i$ either appears only in its positive form or only in its negative form, but not both simultaneously.
+
+Here is an example of a unate 3-SAT function:
+
+$$ (x_1 \lor \overline{x_2} \lor x_3) \land (x_1 \lor \overline{x_2} \lor \overline{x_4}) \land  \cdots \land (x_3 \lor \overline{x_4} \lor x_5)$$
+
+(the variables $x_1$, $x_3$, $x_5$ appear only in their positive form, and the variables $x_2$, $x_4$ only appear in their negative form).
+
+<br>
+
+Our new paper is the second half of a two-part work proving the Bollobás-Brightwell-Leader conjecture.
+
+The [first part](https://arxiv.org/abs/2107.09233), by Dingding Dong, Nitya Mani, and myself (reported earlier on [this blog]({% post_url /blog/2021-07-21-enumerating-k-sat %})) reduces the Bollobás--Brightwell--Leader conjecture to a Turán problem on partially directed hypergraphs. The reduction applies the [hypergraph container method](https://arxiv.org/abs/1801.04584), a major recent development in combinatorics. 
+
+I presented the first part in an [Oberwolfach meeting](https://www.mfo.de/occasion/2217/www_view) earlier this year, which led to a successful collaboration with József Balogh and Bernard Lidický that resulted in a complete solution to the problem.
+
+In this short new paper we solve the relevant Turán problem. Our solution is partly inspired by the method of [flag algebras](https://www.ams.org/notices/201310/rnoti-p1324.pdf) introduced by Razborov.
+
+We actually prove a stronger statement. A _k_-SAT formula is said to be _minimal_ if deleting any clause changes the function. We prove:
+
+**Theorem.** Fix _k_. A $1−o(1)$ proportion of all minimal _k_-SAT formulae on _n_ Boolean variables are unate, as $n \to \infty$.
+
+As suggested by Bollobás, Brightwell, and Leader, these results open doors to a _theory of random k-SAT functions_. For example, we now know the following.
+
+**Corollary.** A typical _k_-SAT function admits a unique minimal _k_-SAT formula, and furthermore the formula has $(1/2 + o(1)) \binom{n}{k}$ clauses. 
+
+This model is very different from that of random _k_-SAT formulae where clauses are added at random (e.g., the recent breakthrough of [Ding--Sun--Sly](https://mathscinet.ams.org/mathscinet-getitem?mr=4429261) on the satisfiability conjecture). 
+Rather, our result concerns a random _k_-SAT formula conditioned on minimality. In this light, our results are analogous to the theory of Erdős–Rényi random graphs $G(n, p)$ with constant edge probability $p$. 
+It would be interesting to further study the behavior of sparser random _k_-SAT formulae conditioned on minimality.
+This potentially leads to a rich source of problems on thresholds and typical structures.
