@@ -1,7 +1,7 @@
 ---
 title: "Nearly all k-SAT functions are unate"
 layout: blogpost
-image: /blog/images/balogh-dong-lidicky-mani.jpg
+image: /blog/images/balogh-dong-lidicky-mani.jpeg
 description: We proved the Bollobás--Brightwell--Leader conjecture characterizing the structure of a typical k-SAT function.
 twitter_large_image: true
 ---
@@ -12,7 +12,7 @@ what does a typical _k_-SAT function look like?
 [Bollobás, Brightwell, and Leader (2003)](https://mathscinet.ams.org/mathscinet-getitem?mr=1968421) initiated the study of this question, and they conjectured that a typical _k_-SAT function is [unate](https://en.wikipedia.org/wiki/Unate_function) (meaning monotone up to first negating some variables; more on this below.)
 
 {% include blog_image
-    src = "balogh-dong-lidicky-mani.jpg"
+    src = "balogh-dong-lidicky-mani.jpeg"
     width = "600"
     caption = "József Balogh &nbsp;&nbsp;&nbsp;&nbsp; Dingding Dong &nbsp;&nbsp;&nbsp;&nbsp; Bernard Lidický &nbsp;&nbsp;&nbsp;&nbsp; Nitya Mani"
 %}
