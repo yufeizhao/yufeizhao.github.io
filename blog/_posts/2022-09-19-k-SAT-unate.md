@@ -14,7 +14,7 @@ what does a typical _k_-SAT function look like?
 {% include blog_image
     src = "balogh-dong-lidicky-mani.jpg"
     width = "600"
-    caption = "József Balogh, Dingding Dong, Bernard Lidický, Nitya Mani"
+    caption = "József Balogh &nbsp;&nbsp;&nbsp;&nbsp; Dingding Dong &nbsp;&nbsp;&nbsp;&nbsp; Bernard Lidický &nbsp;&nbsp;&nbsp;&nbsp; Nitya Mani"
 %}
 
 In a [new preprint](https://arxiv.org/abs/2209.04894) with the above authors ([Dingding](https://www.math.harvard.edu/people/dong-dingding/) and [Nitya](https://www.mit.edu/~nmani/) are PhD students), we completely settle the Bollobás--Brightwell--Leader conjecture.
