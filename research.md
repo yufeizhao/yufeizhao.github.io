@@ -165,6 +165,9 @@ Additional links to my work:
   _Israel Journal of Mathematics_, to appear
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
+- [Quantum Unique Ergodicity for Cayley graphs of quasirandom groups](https://arxiv.org/abs/2204.10642)
+  (with Michael Magee and Joe Thomas)
+
 - [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney)
 
 
@@ -218,7 +221,7 @@ _Bulletin of the London Mathematical Society_, to appear
   {%include side_image width="60" src="zone.svg" %}
 
 - [Exploring a planet, revisited](https://arxiv.org/abs/2110.04376), \\
-  _American Mathematical Monthly_ 129 (2022), 678--680.
+  _American Mathematical Monthly_ 129 (2022), 678--680
 
 ### Independent sets and graph homomorphisms
 
