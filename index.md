@@ -41,6 +41,7 @@ Cambridge, MA 02139, USA</p>
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/home),
 [Jonathan Tidor](https://www.mit.edu/~jtidor/)
 
+See my [blog](blog/) for discussions of recent research
 
 ### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
 
