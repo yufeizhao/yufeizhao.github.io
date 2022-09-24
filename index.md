@@ -107,7 +107,7 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 
 ## Videos
 
-* [Equiangular lines and eigenvalue multiplicities](https://www.youtube.com/watch?v=3U15EBoisxY)
+* [Equiangular lines and eigenvalue multiplicities](https://www.youtube.com/watch?v=3U15EBoisxY), Waterloo Algebraic Graph Theory Seminar, Aug 2022
 * [The joints problem for varieties](https://youtu.be/dsnU8iPL-WI), Big Seminar by Laboratory of Combinatorial and Geometric Structures, Aug 2020
 * [Popular common difference](https://youtu.be/TCGZgTUjE3s), Webinar in Additive Combinatorics, May 2020
 * [Equiangular lines with a fixed angle](http://www.birs.ca/events/2019/5-day-workshops/19w5009/videos/embed/201909021422-Zhao.mp4), Banff International Research Station, Sep 2019
