@@ -71,7 +71,7 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 * [Math Olympiad training handouts](olympiad/)
 
 
-## Selected publications
+## Selected papers
 
 * [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
   (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)
@@ -97,8 +97,8 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 ## Slides
 
 * [Equiangular lines and eigenvalue multiplicities](research/slides/equiangular.pdf)
-* [Extremal problems in discrete geometry](/research/slides/extremal_discrete_geometry.pdf)
-* [The joints problem for varieties](/research/slides/joints_varieties.pdf)
+* [Extremal problems in discrete geometry](research/slides/extremal_discrete_geometry.pdf)
+* [The joints problem for varieties](research/slides/joints_varieties.pdf)
 * [Popular common difference](research/slides/popular_difference.pdf)
 * [Regularity method for sparse graphs and its applications](research/slides/sparse-reg-c4.pdf)
 * [A reverse Sidorenko inequality: independent sets, colorings, and graph homomorphisms](research/slides/reverse_sidorenko_slides.pdf)
@@ -107,15 +107,15 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 
 ## Videos
 
+* [Equiangular lines and eigenvalue multiplicities](https://www.youtube.com/watch?v=3U15EBoisxY)
 * [The joints problem for varieties](https://youtu.be/dsnU8iPL-WI), Big Seminar by Laboratory of Combinatorial and Geometric Structures, Aug 2020
-* [Equiangular lines, spherical two-distance sets, and spectral graph theory](https://youtu.be/hbmSC7wzn_k), 
-  DIMAP, Dec 2020
 * [Popular common difference](https://youtu.be/TCGZgTUjE3s), Webinar in Additive Combinatorics, May 2020
 * [Equiangular lines with a fixed angle](http://www.birs.ca/events/2019/5-day-workshops/19w5009/videos/embed/201909021422-Zhao.mp4), Banff International Research Station, Sep 2019
 * [Large deviations and exponential random graphs](https://youtu.be/dwUz8c7siDU), Northeastern University Network Science Institute, May 2018
-* [Large deviations for arithmetic progressions](https://youtu.be/G9AJHUAz33o), Simons Institute, Berkeley, Apr 2017
 * [Sparse graph regularity tutorial](https://youtu.be/ZXLtAj4eL0c), Simons Institute, Berkeley, Jan 2017
 * [Green--Tao theorem and a relative Szemerédi theorem](https://youtu.be/vsFFjhYLVrM), Simons Institute, Berkeley, Dec 2013
+
+Also see [Youtube playlist](https://www.youtube.com/playlist?list=PLhQ4Q5PF7ZDkx0ECL2TiRBCHrY0MsXgae) for more videos
 
 ## Short CV
 
