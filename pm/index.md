@@ -17,7 +17,7 @@ _(First class Wednesday September 7)_
 
 **Instructor:** [Yufei Zhao](http://yufeizhao.com) 
 
-**Graders:** [Yuan Yao](mailto:yyao1@mit.edu) and [Anqi Li](anqili@mit.edu)
+**Graders:** [Yuan Yao](mailto:yyao1@mit.edu) and [Anqi Li](mailto:anqili@mit.edu)
 
 **Emails and Piazza**
 - My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
