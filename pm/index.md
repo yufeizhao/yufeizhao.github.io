@@ -111,6 +111,7 @@ _Tentative_
 * Begin each solution on a new page
 * Select the pages for each problem on Gradescope (or else they will not be graded)
 * Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
+* Regrade requests should be submitted on Gradescope within one week of the grades being published
 
 ### Late policy
 
