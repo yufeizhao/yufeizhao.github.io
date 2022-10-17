@@ -188,7 +188,7 @@ Additional links to my work:
 
 - [Graphs with high second eigenvalue multiplicity](https://arxiv.org/abs/2109.13131)
 (with Milan Haiman, Carl Schildkraut, and Shengtong Zhang) \\
-_Bulletin of the London Mathematical Society_, to appear
+_Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
   {%include button href="/blog/2021/09/28/eig-mult/" text="blog" %}
 
 {%include side_image height="100" src="joint.svg" %}
