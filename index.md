@@ -33,7 +33,7 @@ Cambridge, MA 02139, USA</p>
 
 **Current PhD students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
-[Dingding Dong](https://www.math.harvard.edu/people/dong-dingding/),
+[Dingding Dong](https://sites.google.com/view/dingding-dong/),
 [Nitya Mani](https://www.mit.edu/~nmani/),
 [Ashwin Sah](http://www.mit.edu/~asah/),
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
