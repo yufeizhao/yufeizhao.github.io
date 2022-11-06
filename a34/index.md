@@ -39,7 +39,7 @@ and
 The Putnam Competition is an annual mathematics contest for undergraduates in the USA and Canada.
 This year it will be held **Saturday, December 3, 2022**.
 
-All registered students will be required to participate in the Putnam competition. Registration information will be announced later in the semester. 
+All registered students will be required to participate in the Putnam competition. Students should self-register on the official Putnam website.
 
 Seminar participants are selected through the First-year Advising Selection process.
 Unfortunately I cannot add additional students.

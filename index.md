@@ -39,7 +39,7 @@ Cambridge, MA 02139, USA</p>
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
 
 **Former PhD students**:
-[Benjamin Gunby](https://sites.google.com/view/benjamingunby/home),
+[Benjamin Gunby](https://sites.google.com/view/benjamingunby/),
 [Jonathan Tidor](https://web.stanford.edu/~jtidor/)
 
 See my [blog](blog/) for discussions of recent research
