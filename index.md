@@ -58,11 +58,11 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2022
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2022 \\
-  _Putnam Competition_ 
+  _Putnam Competition results_ 
   [_MIT chart_](a34/putnam/mitputnam.pdf),
-  [_2021 results_](a34/putnam/2021winners.pdf)
+  [_2021_](a34/putnam/2021winners.pdf)
   {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
-  [_2019 results_](a34/putnam/2019winners.pdf)
+  [_2019_](a34/putnam/2019winners.pdf)
   {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %}
 * [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021
   {%include button href="gtacbook/" text="Book" %} 
