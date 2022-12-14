@@ -59,6 +59,7 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2022 \\
   _Putnam Competition_ 
+  [_MIT chart_](a34/putnam/mitputnam.pdf),
   [_2021 results_](a34/putnam/2021winners.pdf)
   {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
   [_2019 results_](a34/putnam/2019winners.pdf)
