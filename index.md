@@ -48,7 +48,7 @@ See my [blog](blog/) for discussions of recent research
 
 _To be published by Cambridge University Press_
 
-Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
 [<img src="gtacbook/bridge.png" width="600" style="max-width: 100%; height: auto;"
  title="The bridge between graph theory and additive combinatorics">](gtacbook/)
@@ -57,8 +57,10 @@ Lecture videos on [MIT OCW](https://ocw.mit.edu/18-217F19) and [YouTube](https:/
 
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2022
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
-* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2022 \\
-  _Putnam Competition results_ 
+* [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2022
+  {%include button href="https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214" text="MIT News Profile" %}
+  \\
+  _Putnam Competition results_
   [_MIT chart_](a34/putnam/mitputnam.pdf),
   [_2021_](a34/putnam/2021winners.pdf)
   {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
