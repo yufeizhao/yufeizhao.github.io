@@ -8,8 +8,11 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 
 **Fall 2022, MIT**
 
-[\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
-[\[Canvas\]](https://canvas.mit.edu/courses/15756)
+<!-- [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
+[\[Canvas\]](https://canvas.mit.edu/courses/15756) -->
+
+[\[Notes\]](probmethod_notes.pdf)
+[\[Problem set\]](pm-ps.pdf)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-370 
 
@@ -76,7 +79,9 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Homework
 
-[\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
+<!-- [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0) -->
+
+[Problem set](pm-ps.pdf)
 
 The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 

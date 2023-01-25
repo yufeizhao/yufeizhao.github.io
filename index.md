@@ -57,6 +57,7 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
 
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2022
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
+  {%include button href="pm/pm-ps.pdf" text="Exercises" %} 
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2022
   {%include button href="https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214" text="MIT News Profile" %}
   \\
