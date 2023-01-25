@@ -162,16 +162,17 @@ Additional links to my work:
   {%include side_image width="100" src="transitive-set-width.png" %}
 
 - [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney) \\
-  _Israel Journal of Mathematics_, to appear
+  _Israel Journal of Mathematics_ (2022)
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
 - [Quantum Unique Ergodicity for Cayley graphs of quasirandom groups](https://arxiv.org/abs/2204.10642)
   (with Michael Magee and Joe Thomas)
 
-- [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney)
+- [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney) \\
+  _Israel Journal of Mathematics_, to appear
 
 
-  {%include side_image height="80" src="icosahedron.png" %}
+  {%include side_image height="80" src="icosahedron.png" %} 
 
 ### Equiangular lines and eigenvalue multiplicities
 
