@@ -95,7 +95,35 @@ It will be essential to start thinking about these problems early.
 
 ### Schedule
 
-_Tentative_
+- 9/7 Introduction
+- 9/12 Introduction
+- 9/14 Linearity of expectations
+- 9/19 Linearity of expectations
+- 9/21 Alterations
+- 9/26 Second moment
+- 9/28 Thresholds
+- 10/3 Second moment
+- 10/5 Chernoff bound
+- _10/10 Holiday. No class_
+- 10/12 Lovász local lemma
+- 10/17 Lovász local lemma
+- 10/19 **Special lecture by Joel Spencer**
+- 10/24 Lovász local lemma
+- 10/26 Lovász local lemma
+- 10/31 Correlation inequalities
+- 11/2 Janson inequalities
+- 11/7 Janson inequalities
+- 11/9 Concentration of measure
+- 11/14 Concentration of measure
+- 11/16 Concentration of measure
+- 11/21 Concentration of measure
+- _11/23 Class canceled_
+- 11/28 Concentration of measure
+- 11/30 Concentration of measure
+- 12/5 Entropy method
+- 12/7 Entropy method
+- 12/12 Entropy method
+- 12/14 Container method
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
