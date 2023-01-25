@@ -11,7 +11,7 @@ description: "18.226 The Probabilistic Methods in Combinatorics. Prof. Yufei Zha
 <!-- [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0)
 [\[Canvas\]](https://canvas.mit.edu/courses/15756) -->
 
-[\[Notes\]](probmethod_notes.pdf)
+[\[Lecture notes\]](probmethod_notes.pdf)
 [\[Problem set\]](pm-ps.pdf)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-370 
@@ -53,7 +53,7 @@ Topics:
 
 _Textbook:_ Alon and Spencer, [The probabilistic method](https://www.amazon.com/Probabilistic-Method-Discrete-Mathematics-Optimization/dp/1119061954/ref=dp_ob_title_bk), Wiley (the latest edition is 4th, but earlier editions suffice). Available electronically from MIT Libraries. 
 
-I will also provide my own lecture notes.
+I will also provide my own [lecture notes](probmethod_notes.pdf).
 
 _Prerequisites:_ Mathematical maturity at the level of a first-year math graduate student.
 Comfortable with combinatorics (18.211), probability (18.600), and real analysis (18.100).
