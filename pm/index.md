@@ -77,23 +77,9 @@ If you wish to attend lectures, please register as for credit or listener.
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
 
-## Homework
+### Lectures
 
-<!-- [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0) -->
-
-[Problem set](pm-ps.pdf)
-
-The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
-
-You should only submit the designated problems, but are encouraged to try the rest as well.
-
-Starred problems are generally more challenging.
-
-To get the most out of this course, you are expected to spend a significant amount of time solving these problems.
-It will be essential to start thinking about these problems early.
-
-
-### Schedule
+[\[Lecture notes\]](probmethod_notes.pdf)
 
 - 9/7 Introduction
 - 9/12 Introduction
@@ -124,6 +110,22 @@ It will be essential to start thinking about these problems early.
 - 12/7 Entropy method
 - 12/12 Entropy method
 - 12/14 Container method
+
+
+## Homework
+
+<!-- [\[Class dropbox (notes & ps)\]](https://www.dropbox.com/sh/8gza0fvdhve1c2l/AAAyqldHfkH5pZaqVWeP9Lnfa?dl=0) -->
+
+[Problem set](pm-ps.pdf)
+
+The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
+
+You should only submit the designated problems, but are encouraged to try the rest as well.
+
+Starred problems are generally more challenging.
+
+To get the most out of this course, you are expected to spend a significant amount of time solving these problems.
+It will be essential to start thinking about these problems early.
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
