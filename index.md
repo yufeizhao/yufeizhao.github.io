@@ -46,7 +46,7 @@ See my [blog](blog/) for discussions of recent research
 
 ### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
 
-_To be published by Cambridge University Press_
+_To be published by [Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA)_
 
 Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 

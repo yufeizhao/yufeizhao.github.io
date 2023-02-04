@@ -18,6 +18,8 @@ An introductory graduate level textbook to be published by the Cambridge Univers
 
 ## [Book manuscript PDF](gtacbook.pdf)
 
+[Publisher webpage](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA)
+
 Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-form).
 
 [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
