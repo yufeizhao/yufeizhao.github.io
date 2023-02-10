@@ -27,7 +27,7 @@ Cambridge, MA 02139, USA</p>
 </div>
 </div>
 
-**Research interests**: Combinatorics (extremal, probabilistic, additive, graph theory, discrete geometry)
+**Research interests**: Combinatorics (extremal, probabilistic, and additive combinatorics; graph theory; discrete geometry; applications to computer science)
 
 [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/), co-organizer
 
