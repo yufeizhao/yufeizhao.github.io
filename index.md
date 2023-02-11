@@ -79,7 +79,8 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
 ## Selected papers
 
 * [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
-  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)
+  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani) \\
+  _{ACM Symposium on Theory of Computing (STOC 2023)_
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu) \\
   _Geometric and Functional Analysis_ 32 (2022) 302--339
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
