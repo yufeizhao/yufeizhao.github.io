@@ -27,7 +27,9 @@ Cambridge, MA 02139, USA</p>
 </div>
 </div>
 
-**Research interests**: Combinatorics (extremal, probabilistic, and additive combinatorics; graph theory; discrete geometry; applications to computer science)
+**Research interests**: Combinatorics 
+* extremal, probabilistic, and additive combinatorics
+* graph theory; discrete geometry; applications to computer science
 
 [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/), co-organizer
 
@@ -80,7 +82,7 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
 
 * [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
   (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani) \\
-  _{ACM Symposium on Theory of Computing (STOC 2023)_
+  _ACM Symposium on Theory of Computing (STOC 2023)_
 * [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu) \\
   _Geometric and Functional Analysis_ 32 (2022) 302--339
 * [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
