@@ -132,7 +132,7 @@ Additional links to my work:
   _Israel Journal of Mathematics_ 248 (2022), 1--38
 
 - [Testing linear-invariant properties](https://arxiv.org/abs/1911.06793) (with Jonathan Tidor)  \\
-  _IEEE Symposium on Foundations of Computer Science (FOCS)_ 2020 \\
+  _IEEE Symposium on Foundations of Computer Science (FOCS 2020)_ \\
   _SIAM Journal on Computing_ 51 (2022), 1230--1279
 
 ### Topics in additive combinatorics
@@ -281,15 +281,17 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 ### Asymptotic enumeration
 
 - [Enumerating $k$-SAT functions](https://arxiv.org/abs/2107.09233)
-  (with Dingding Dong and Nitya Mani)  
-  _ACM-SIAM Symposium on Discrete Algorithms (SODA)_ 2022
+  (with Dingding Dong and Nitya Mani)  \\
+  _ACM-SIAM Symposium on Discrete Algorithms (SODA 2022)_
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
 
 - [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
   (with Dingding Dong and Nitya Mani)
 
 - [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
-  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)
+  (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)  \\
+  _{ACM Symposium on Theory of Computing (STOC 2023)_
+
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
 
