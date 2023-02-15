@@ -65,6 +65,7 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   \\
   _Putnam Competition results_
   [_MIT chart_](a34/putnam/mitputnam.pdf),
+  [_2022_](a34/putnam/2022winners.pdf),
   [_2021_](a34/putnam/2021winners.pdf)
   {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
   [_2019_](a34/putnam/2019winners.pdf)
