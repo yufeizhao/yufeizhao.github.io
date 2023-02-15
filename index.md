@@ -64,14 +64,17 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   {%include button href="https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214" text="MIT News Profile" %}
   \\
   _Putnam Competition results_
-  [_MIT chart_](a34/putnam/mitputnam.pdf),
   [_2022_](a34/putnam/2022winners.pdf),
   [_2021_](a34/putnam/2021winners.pdf)
   {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
   [_2019_](a34/putnam/2019winners.pdf)
-  {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %}
+  {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %} \\
+  [<img src="a34/putnam/mitputnam.svg" width="600" style="max-width: 100%; height: auto;"
+ title="MIT Putnam Performance">](a34/putnam/mitputnam.pdf)
+
 * [18.225 Graph Theory and Additive Combinatorics](gtac/) (grad), Fall 2021
   {%include button href="gtacbook/" text="Book" %} 
+  {%include button href="gtac/ps.pdf" text="Exercises" %} 
   {%include button href="https://ocw.mit.edu/18-217F19" text="MIT OCW" %} 
   {%include button href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX" text="YouTube" %} 
 * [18.211 Combinatorial Analysis](211/), Fall 2018
