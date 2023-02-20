@@ -27,20 +27,25 @@ Cambridge, MA 02139, USA</p>
 </div>
 </div>
 
-**Research interests**: Combinatorics 
+**Research Interests:** Combinatorics 
 * extremal, probabilistic, and additive combinatorics
 * graph theory; discrete geometry; applications to computer science
 
-[MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/), co-organizer
 
-**Current PhD students**:
+Co-organizer, [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+
+Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
+
+Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+
+**Current PhD Students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
 [Dingding Dong](https://sites.google.com/view/dingding-dong/),
 [Nitya Mani](https://www.mit.edu/~nmani/),
 [Ashwin Sah](http://www.mit.edu/~asah/),
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
 
-**Former PhD students**:
+**Former PhD Students**:
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/),
 [Jonathan Tidor](https://web.stanford.edu/~jtidor/)
 
