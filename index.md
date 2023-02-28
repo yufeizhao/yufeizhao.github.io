@@ -40,6 +40,7 @@ Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https:
 
 **Current PhD Students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
+[Travis Dillon](https://travisadillon.com/),
 [Dingding Dong](https://sites.google.com/view/dingding-dong/),
 [Nitya Mani](https://www.mit.edu/~nmani/),
 [Ashwin Sah](http://www.mit.edu/~asah/),
