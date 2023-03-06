@@ -62,6 +62,8 @@ We suggested the possibility that perhaps the answer is always at most a constan
 
 So now we know that the answer to the earlier question is between $\Omega(\log\log n)$ and $O(n/\log \log n)$. There is still a huge gap.
 
+Carl managed to get his construction many families of $\lambda$, including some with $k(\lambda) = \infty$, which implies his equiangular lines result stated earlier.
+
 Carl’s construction is quite elegant, incorporating several clever ideas in spectral graph theory. One of the ideas used is the 2-lift technique from the seminal [Bilu-Linial paper](https://mathscinet.ams.org/mathscinet-getitem?mr=2279667). This is a way to transform a graph into another graph with twice as many vertices and in a way that allows us to control the spectrum. 
 
 For Carl’s construction, in order to perform the 2-lift and control the eigenvalues, given a $d$-regular bipartite graph, he needs to select a regular subgraph in a way that is somewhat random. There needs to be enough independent sources of randomness so that he can apply concentration bounds. He does this by, roughly speaking, partitioning the graph into short even cycles, and then for each even cycle, independently choosing one of the two alternating sets of edges.
