@@ -20,7 +20,7 @@ I am excited to share and discuss the latest work by an MIT undergraduate senior
 
 ### Equiangular lines 
 
-In my [previous work on equiangular lines (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)](https://mathscinet.ams.org/mathscinet-getitem?mr=4334975) (previously discussed on [this blog]({% post_url /blog/2019-07-30-equiangular-lines-with-a-fixed-angle %})), we answered the following question:
+In my [previous work on equiangular lines (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)](https://mathscinet.ams.org/mathscinet-getitem?mr=4334975) (previously report on [this blog]({% post_url /blog/2019-07-30-equiangular-lines-with-a-fixed-angle %}) and [MIT News](https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004)), we answered the following question:
 
 **Question (Equiangular lines with a fixed angle).** For a given fixed angle, in sufficiently large dimensions, what is the maximum possible number of lines that can be pairwise separated by the given angle?
 
