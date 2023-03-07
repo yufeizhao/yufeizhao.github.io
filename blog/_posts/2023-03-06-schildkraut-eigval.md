@@ -32,9 +32,9 @@ The answer can be phrased in terms of the **spectral radius order $k(\lambda)$**
 
 In particular, this result determines the first order growth rate of $N_\alpha(d)$ for all $\alpha$. Even better, when the spectral radius order is finite, our result determines the answer exactly in all sufficiently large dimensions. (There is a tantalizing open question on how high the dimension needs to be.) However, when the spectral radius order is infinite, our result gives only an asymptotic $d + o(d)$. Can we hope for a more precise answer?
 
-[Jiang and Polyanskii](https://mathscinet.ams.org/mathscinet-getitem?mr=4093893) conjectured that $N_\alpha(d) = d + O_\lambda(1)$ when $k(\lambda) = \infty$, i.e., the $o(d)$ error term should be at most constant depending on $\lambda$. They verified this conjecture when $\lambda$ is either (a) not a totally real algebraic integer or (b) a totally really algebraic integer that is not the largest among its Galois conjugates. We also reiterated this conjecture in [our paper](https://arxiv.org/abs/1907.12466).
+[Jiang and Polyanskii](https://mathscinet.ams.org/mathscinet-getitem?mr=4093893) conjectured that $N_\alpha(d) = d + O_\alpha(1)$ when $k(\lambda) = \infty$, i.e., the $o(d)$ error term should be at most constant depending on $\lambda$. They verified this conjecture when $\lambda$ is either (a) not a totally real algebraic integer or (b) a totally really algebraic integer that is not the largest among its Galois conjugates. We also reiterated this conjecture in [our paper](https://arxiv.org/abs/1907.12466).
 
-Carl Schildkraut’s new paper gives a counterexample to these conjectures.
+Carl Schildkraut’s new paper gives a counterexample to this conjecture.
 
 **Theorem** ([Schildkraut](https://arxiv.org/abs/2302.12230)). There exist infinitely many $\alpha$ such that $N_{\alpha}(d) \ge d + \Omega_\alpha(\log \log d)$.
 
