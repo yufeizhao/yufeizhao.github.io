@@ -58,7 +58,7 @@ Here is a question relevant to the equiangular lines problem with a fixed angle 
 
 We suggested the possibility that perhaps the answer is always at most a constant depending on $\Delta$ and $\lambda$. I really thought that the answer should be bounded. Carl’s paper shows otherwise.
 
-**Theorem** ([Schildkraut](https://arxiv.org/abs/2302.12230)). For infinitely many values of $\lambda$ and $d$, there exist sequences of connected $d$-regular graphs whose second eigenvalue is exactly $d$ and has multiplicity at least $\Omega_{d, \lambda}(\log \log n)$.
+**Theorem** ([Schildkraut](https://arxiv.org/abs/2302.12230)). For infinitely many values of $\lambda$ and $d$, there exist sequences of connected $d$-regular $n$-vertex graphs whose second eigenvalue is exactly $\lambda$ and has multiplicity at least $\Omega_{d, \lambda}(\log \log n)$.
 
 So now we know that the answer to the earlier question is between $\Omega(\log\log n)$ and $O(n/\log \log n)$. There is still a huge gap.
 
