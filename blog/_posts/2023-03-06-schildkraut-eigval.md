@@ -16,13 +16,13 @@ twitter_large_image: true
  
 I am excited to share and discuss the latest work by an MIT undergraduate senior, Carl Schildkraut, titled [Equiangular lines and large multiplicity of fixed second eigenvalue](https://arxiv.org/abs/2302.12230). In his paper, Carl offers new constructions on two related problems:
 * equiangular lines,
-* graphs with high second eigenvalue multiplicities.
+* graphs with high second eigenvalue multiplicity.
 
 ### Equiangular lines 
 
 In my [previous work on equiangular lines (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang)](https://mathscinet.ams.org/mathscinet-getitem?mr=4334975) (previously reported on [this blog]({% post_url /blog/2019-07-30-equiangular-lines-with-a-fixed-angle %}) and [MIT News](https://news.mit.edu/2021/mathematicians-solve-old-geometry-problem-equiangular-lines-1004)), we solved the following problem:
 
-**Problem (Equiangular lines with a fixed angle).** For a given fixed angle, in sufficiently large dimensions, determine the maximum possible number of lines that can be pairwise separated by the given angle.
+**Problem (Equiangular lines with a fixed angle).** For a given fixed angle, in sufficiently high dimensions, determine the maximum possible number of lines that can be pairwise separated by the given angle.
 
 The answer can be phrased in terms of the **spectral radius order $k(\lambda)$**, defined to be the smallest integer $k$ so that there exists a $k$-vertex graph $G$ whose adjacency matrix has top eigenvalue exactly $\lambda$. Furthermore, we define $k(\lambda) = \infty$ if no such graph $G$ exists.
 
@@ -32,7 +32,7 @@ The answer can be phrased in terms of the **spectral radius order $k(\lambda)$**
 
 In particular, this result determines the first order growth rate of $N_\alpha(d)$ for all $\alpha$. Even better, when the spectral radius order is finite, our result determines the answer exactly in all sufficiently large dimensions. (There is a tantalizing open question on how high the dimension needs to be.) However, when the spectral radius order is infinite, our result gives only an asymptotic $d + o(d)$. Can we hope for a more precise answer?
 
-[Jiang and Polyanskii](https://mathscinet.ams.org/mathscinet-getitem?mr=4093893) conjectured that $N_\alpha(d) = d + O_\alpha(1)$ when $k(\lambda) = \infty$, i.e., the $o(d)$ error term should be at most constant depending on $\lambda$. They verified this conjecture when $\lambda$ is either (a) not a totally real algebraic integer or (b) a totally really algebraic integer that is not the largest among its Galois conjugates. We also reiterated this conjecture in [our paper](https://arxiv.org/abs/1907.12466).
+[Jiang and Polyanskii](https://mathscinet.ams.org/mathscinet-getitem?mr=4093893) conjectured that $N_\alpha(d) = d + O_\alpha(1)$ when $k(\lambda) = \infty$, i.e., the $o(d)$ error term should be at most constant depending on $\lambda$. They verified this conjecture when $\lambda$ is either (a) not a totally real algebraic integer or (b) a totally real algebraic integer that is not the largest among its Galois conjugates. We also reiterated this conjecture in [our paper](https://arxiv.org/abs/1907.12466).
 
 Carl Schildkraut’s new paper gives a counterexample to this conjecture.
 
