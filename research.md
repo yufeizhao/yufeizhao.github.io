@@ -357,7 +357,8 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 {%include side_image height="80" src="tournament-path.svg" %}
 - [Paths of given length in tournaments](https://arxiv.org/abs/2012.00262)
-  (with Ashwin Sah and Mehtaab Sawhney)
+  (with Ashwin Sah and Mehtaab Sawhney) \\
+  _Combinatorial Theory_, to appear
   
 ### Extremal and Ramsey graph theory
 
