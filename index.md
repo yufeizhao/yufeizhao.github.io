@@ -71,10 +71,12 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   \\
   _Putnam Competition results_
   [_2022_](a34/putnam/2022winners.pdf),
-  [_2021_](a34/putnam/2021winners.pdf)
-  {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %} 
-  [_2019_](a34/putnam/2019winners.pdf)
-  {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %} \\
+  [_2021_](a34/putnam/2021winners.pdf),
+  <!-- {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %}  -->
+  [_2019_](a34/putnam/2019winners.pdf),
+  <!-- {%include button href="https://news.mit.edu/2020/mit-students-dominate-putnam-mathematical-competition-0303" text="MIT News" %} \\ -->
+  [_2018_](a34/putnam/2018winners.pdf),
+  [_2017_](a34/putnam/2017winners.pdf)  
   [<img src="a34/putnam/mitputnam.svg" width="600" style="max-width: 100%; height: auto;"
  title="MIT Putnam Performance">](a34/putnam/mitputnam.pdf)
 
