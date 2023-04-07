@@ -31,13 +31,6 @@ Cambridge, MA 02139, USA</p>
 * extremal, probabilistic, and additive combinatorics
 * graph theory; discrete geometry; applications to computer science
 
-
-Co-organizer, [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
-
-Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
-
-Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
-
 **Current PhD Students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
 [Travis Dillon](https://travisadillon.com/),
@@ -51,6 +44,13 @@ Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https:
 [Jonathan Tidor](https://web.stanford.edu/~jtidor/)
 
 See my [blog](blog/) for discussions of recent research
+
+Co-organizer, [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+
+Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
+
+Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+
 
 ### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
 
