@@ -162,7 +162,7 @@ Additional links to my work:
   {%include side_image width="100" src="transitive-set-width.png" %}
 
 - [The cylindrical width of transitive sets](https://arxiv.org/abs/2101.11207) (with Ashwin Sah and Mehtaab Sawhney) \\
-  _Israel Journal of Mathematics_ (2022)
+  _Israel Journal of Mathematics_ 253 (2023), 647--672
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
 - [Quantum Unique Ergodicity for Cayley graphs of quasirandom groups](https://arxiv.org/abs/2204.10642)
@@ -286,7 +286,8 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
   {%include button href="/blog/2021/07/21/enumerating-k-sat/" text="blog" %}
 
 - [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
-  (with Dingding Dong and Nitya Mani)
+  (with Dingding Dong and Nitya Mani) \\
+  _Combinatorics, Probability and Computing_, to appear
 
 - [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
   (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)  \\
