@@ -290,7 +290,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
   (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)  \\
-  _{ACM Symposium on Theory of Computing (STOC 2023)_
+  _ACM Symposium on Theory of Computing (STOC 2023)_
 
 
 ### Large deviations in random graphs {%include button href="slides/large_deviations_random_graphs.pdf" text="slides" %}
@@ -346,7 +346,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 ### Random matrices
 
 - [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain) \\
-  _Combinatorics, Probability and Computing_ Combin. (2022), no. 3, 455--477
+  _Combinatorics, Probability and Computing_ (2022), no. 3, 455--477
 
 ### Extremal subgraph density problems in directed graphs and tournaments
 
