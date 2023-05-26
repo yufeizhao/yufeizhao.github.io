@@ -28,8 +28,8 @@ Cambridge, MA 02139, USA</p>
 </div>
 
 **Research Interests:** Combinatorics 
-* extremal, probabilistic, and additive combinatorics
-* graph theory; discrete geometry; applications to computer science
+* Extremal, probabilistic, and additive combinatorics
+* Graph theory; discrete geometry; applications to computer science
 
 **Current PhD Students**:
 [Aaron Berger](https://web.mit.edu/bergera/www/),
@@ -45,7 +45,7 @@ Cambridge, MA 02139, USA</p>
 
 See my [blog](blog/) for discussions of recent research
 
-Co-organizer, [MIT-Harvard-MSR Combinatorics Seminar](http://math.mit.edu/seminars/combin/)
+Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
 
 Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
 

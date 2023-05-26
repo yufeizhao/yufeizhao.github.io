@@ -367,6 +367,10 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
   (with Jacob Fox and Po-Shen Loh) \\
   _Combinatorica_ 35 (2015), 435--476
 
+- [Set-coloring Ramsey numbers and error-correcting codes near the zero-rate threshold](http://arxiv.org/abs/2305.14132)
+  (with David Conlon, Jacob Fox, and Huy Tuan Pham)
+
+
 ### Intersecting families of graphs
 
 - [$K_4$-intersecting families of graphs](https://arxiv.org/abs/2103.12671) 
