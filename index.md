@@ -32,7 +32,6 @@ Cambridge, MA 02139, USA</p>
 * Graph theory; discrete geometry; applications to computer science
 
 **Current PhD Students**:
-[Aaron Berger](https://web.mit.edu/bergera/www/),
 [Travis Dillon](https://travisadillon.com/),
 [Dingding Dong](https://sites.google.com/view/dingding-dong/),
 [Nitya Mani](https://www.mit.edu/~nmani/),
@@ -41,25 +40,35 @@ Cambridge, MA 02139, USA</p>
 
 **Former PhD Students**:
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/),
-[Jonathan Tidor](https://web.stanford.edu/~jtidor/)
+[Jonathan Tidor](https://web.stanford.edu/~jtidor/),
+[Aaron Berger](https://web.mit.edu/bergera/www/)
 
-See my [blog](blog/) for discussions of recent research
+See my [blog](blog/) for discussions of recent research from my group
 
-Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
+**Service**
 
-Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
+- Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
 
-Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+- Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
 
+- Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+
+
+[<img src="gtacbook/gtaccover.jpg" style="max-height:200px; max-width: 100%"
+ title="Book cover of graph theory and additive combinatorics"> &nbsp;&nbsp;
+  <img src="gtacbook/bridge.png" style="max-height: 200px; max-width: 100%;"
+ title="The bridge between graph theory and additive combinatorics">](gtacbook/)
 
 ### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
 
-_To be published by [Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA)_
+_[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA) 2023_
+  {%include button href="https://www.amazon.com/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941/" text="Amazon" %} 
+  {%include button href="  https://www.barnesandnoble.com/w/graph-theory-and-additive-combinatorics-yufei-zhao/1142747316" text="B&N" %} 
+
+
 
 Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
-[<img src="gtacbook/bridge.png" width="600" style="max-width: 100%; height: auto;"
- title="The bridge between graph theory and additive combinatorics">](gtacbook/)
 
 ## Teaching
 
