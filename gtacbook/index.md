@@ -8,17 +8,21 @@ Graph Theory and Additive Combinatorics
 ===============================================
 ## Exploring Structure and Randomness
 
-by [Yufei Zhao](http://yufeizhao.com)
+[Yufei Zhao](http://yufeizhao.com)
 
-
-<img src="bridge.png" width="600" style="max-width: 100%; height: auto;"
+<img src="gtaccover.jpg" style="max-height:200px; max-width: 100%"
+ title="Book cover of graph theory and additive combinatorics"> &nbsp;&nbsp;
+  <img src="bridge.png" style="max-height: 200px; max-width: 100%;"
  title="The bridge between graph theory and additive combinatorics">
 
-An introductory graduate level textbook to be published by the Cambridge University Press
+
+
+[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA) 2023
+
+
+An introductory graduate level textbook 
 
 ## [Book manuscript PDF](gtacbook.pdf)
-
-[Publisher webpage](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA)
 
 Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-form).
 
