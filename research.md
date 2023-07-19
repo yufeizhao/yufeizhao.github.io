@@ -137,14 +137,14 @@ Additional links to my work:
 
 ### Topics in additive combinatorics
 
-- [Uniform sets with few progressions via colorings](https://arxiv.org/abs/2307.06914)
-  (with Mingyang Deng and Jonathan Tidor) 
-
 - [Common and Sidorenko linear equations](https://arxiv.org/abs/1910.06436) (with Jacob Fox and Huy Tuan Pham) \\
   _The Quarterly Journal of Mathematics_  72 (2021), 1223--1234
 
 - [A short proof of the canonical polynomial van der Waerden theorem](https://arxiv.org/abs/2005.04135) (with Jacob Fox and Yuval Wigderson) \\
   _Comptes Rendus Mathématique_ 358 (2020), 957--959
+
+- [Uniform sets with few progressions via colorings](https://arxiv.org/abs/2307.06914)
+  (with Mingyang Deng and Jonathan Tidor) 
 
 ### Hypergraph expanders
 
