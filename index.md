@@ -137,6 +137,7 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
 ## Videos
 
 * [Nearly all _k_-SAT functions are unate](https://www.youtube.com/watch?v=3qO66qkVTlo), Simons Institute, Berkeley, Jul 2023
+* [Uniform sets with few progressions via colorings](https://www.youtube.com/watch?v=HhYesqixSio), IAS, May 2023
 * [Equiangular lines and eigenvalue multiplicities](https://www.youtube.com/watch?v=3U15EBoisxY), Waterloo Algebraic Graph Theory Seminar, Aug 2022
 * [The joints problem for varieties](https://youtu.be/dsnU8iPL-WI), Big Seminar by Laboratory of Combinatorial and Geometric Structures, Aug 2020
 * [Popular common difference](https://youtu.be/TCGZgTUjE3s), Webinar in Additive Combinatorics, May 2020
