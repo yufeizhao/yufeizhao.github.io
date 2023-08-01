@@ -203,7 +203,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 - [Joints tightened](https://arxiv.org/abs/1911.08605) (with Hung-Hsun Hans Yu)
   {%include button href="/blog/2019/11/20/joints-tightened/" text="blog" %}
   \\
-  _American Journal of Mathematics_, to appear
+  _American Journal of Mathematics_ 145 (2023), 569--583.
 
 - [Joints of varieties](https://arxiv.org/abs/2008.01610) (with Jonathan Tidor and Hung-Hsun Hans Yu)
   {%include button href="/blog/2020/09/12/joints-varieties/" text="blog" %}
@@ -377,7 +377,8 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 ### Intersecting families of graphs
 
 - [$K_4$-intersecting families of graphs](https://arxiv.org/abs/2103.12671) 
-  (with Aaron Berger)
+  (with Aaron Berger) \\
+  Journal of Combinatorial Theory, Series B, to appear
 
 ### More sums than differences sets {%include button href="slides/mstd.pdf" text="slides" %}
 

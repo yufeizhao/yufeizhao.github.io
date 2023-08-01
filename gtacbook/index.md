@@ -24,7 +24,8 @@ Bookstores:
 [Amazon UK](https://www.amazon.co.uk/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941), 
 [Barnes & Noble](https://www.barnesandnoble.com/w/graph-theory-and-additive-combinatorics-yufei-zhao/1142747316)
 
-An introductory graduate level textbook 
+Using the dichotomy of structure and pseudorandomness as a central theme, this accessible text provides a modern introduction to extremal graph theory and additive combinatorics. Readers will explore central results in additive combinatorics-notably the cornerstone theorems of Roth, Szemerédi, Freiman, and Green-Tao-and will gain additional insights into these ideas through graph theoretic perspectives. Topics discussed include the Turán problem, Szemerédi's graph regularity method, pseudorandom graphs, graph limits, graph homomorphism inequalities, Fourier analysis in additive combinatorics, the structure of set addition, and the sum-product problem. Important combinatorial, graph theoretic, analytic, Fourier, algebraic, and geometric methods are highlighted. Students will appreciate the chapter summaries, many figures and exercises, and freely available lecture videos on MIT OpenCourseWare. Meant as an introduction for students and researchers studying combinatorics, theoretical computer science, analysis, probability, and number theory, the text assumes only basic familiarity with abstract algebra, analysis, and linear algebra.
+
 
 ## [Book manuscript PDF](gtacbook.pdf)
 
