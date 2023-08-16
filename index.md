@@ -43,9 +43,6 @@ Cambridge, MA 02139, USA</p>
 [Jonathan Tidor](https://web.stanford.edu/~jtidor/),
 [Aaron Berger](https://web.mit.edu/bergera/www/)
 
-See my [blog](blog/) for discussions of recent research from my group
-
-**Service**
 
 - Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
 
