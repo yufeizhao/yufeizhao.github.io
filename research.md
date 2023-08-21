@@ -169,7 +169,8 @@ Additional links to my work:
   {%include button href="/blog/2021/01/28/cylindrical-width-transitive-set/" text="blog" %}
 
 - [Quantum Unique Ergodicity for Cayley graphs of quasirandom groups](https://arxiv.org/abs/2204.10642)
-  (with Michael Magee and Joe Thomas)
+  (with Michael Magee and Joe Thomas) \\
+  Communications in Mathematical Physics 402 (2023), 3021--3044
 
 - [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney) \\
   _Israel Journal of Mathematics_, to appear
@@ -188,7 +189,7 @@ Additional links to my work:
   {%include side_image height="80" src="2dist.svg" %}
 - [Spherical two-distance sets and eigenvalues of signed graphs](https://arxiv.org/abs/2006.06633) 
 (with Zilin Jiang, Jonathan Tidor, Yuan Yao, and Shengtong Zhang) \\
-  _Combinatorica_, to appear
+  _Combinatorica_ 43 (2023), 203--232
 
 - [Graphs with high second eigenvalue multiplicity](https://arxiv.org/abs/2109.13131)
 (with Milan Haiman, Carl Schildkraut, and Shengtong Zhang) \\
