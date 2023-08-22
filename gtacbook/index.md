@@ -17,7 +17,7 @@ Graph Theory and Additive Combinatorics
 
 
 
-[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA) 2023
+[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA#fndtn-information) 2023
 
 Bookstores:
 [Amazon US](https://www.amazon.com/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941/), 
@@ -56,7 +56,7 @@ Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-fo
 [中文翻译 Chinese translation](https://zhuanlan.zhihu.com/p/461470594) of Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators
 
 
-### [Reviews](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA)
+### [Reviews](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA#fndtn-information)
 
 ‘Yufei Zhao does great mathematics and has an uncanny ability to explain the deepest results with clear understandable prose. For anyone interested in the seminal ideas (and their interrelationships) of recent decades - pseudorandomness, graphons, graph regularity, to name a few - this is the book to read and savor.’
 
