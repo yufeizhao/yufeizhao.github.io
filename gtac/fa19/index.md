@@ -14,7 +14,7 @@ description: "MIT Fall 2019. Graph Theory and Additive Combinatorics, taught by 
 
 _Quick links_:
 \[Lecture videos: [MIT OCW](https://ocw.mit.edu/18-217F19), [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)\]
-\[[Notes](../gtac.pdf)\]
+\[[Notes](gtac19.pdf)\]
 \[[Homework](ps.pdf)\]
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm in 2-190
@@ -60,7 +60,7 @@ There will be no exams. For borderline grades, participation may play a factor i
 
 ## Course notes
 
-[Completed notes available here as PDF](../gtac.pdf)
+[Completed notes available here as PDF](gtac19.pdf)
 
 Registered students may access the write-enabled link to the course notes from the email sent to class at the beginning of term, or via the link in [Stellar](http://stellar.mit.edu/S/course/18/fa19/18.217/).  [Read-only link to course notes on Overleaf](https://www.overleaf.com/read/gykfrmhpwbzm)
 
@@ -73,14 +73,14 @@ Please see the beginning of the document for important information regarding thi
 
 Everyone is encouraged and expected to contribute to editing the notes.
 
-[Notes from the previous version of the course](../gtac17.pdf). They may be consulted but not copied when writing the new course notes.
+[Notes from the previous version of the course](../fa17/gtac17.pdf). They may be consulted but not copied when writing the new course notes.
 
 
 ## Lectures
 
 **Lecture videos**: [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/video-lectures/) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
-Chapter/section numbers (§) refer to the [course notes](../gtac.pdf)
+Chapter/section numbers (§) refer to the [course notes](gtac19.pdf)
 
 - **9/9**  Introduction to the course: the bridge between graph theory and additive combinatorics. Schur's theorem and Ramsey's theorem. Highlights from additive combinatorics. §1
 - **9/11** Mantel's theorem and Turán's theorem. Statement of Erdős--Stone--Simonovits theorem. §2.1--2.4

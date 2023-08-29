@@ -9,7 +9,9 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 <!-- [\[Dropbox (schedule & homework PDFs)\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0)
 [\[Canvas\]](https://canvas.mit.edu/courses/15882) -->
 
-**Fall 2023, MIT**
+[\[Canvas\]](https://canvas.mit.edu/courses/21703)
+
+**Fall 2023, MIT** ([Link to the most current version of the course](..))
 
 **Class meetings:** Mondays and Wednesdays 1--2pm, room 2-132
 
@@ -24,7 +26,7 @@ and
 
 - For quick questions, ask me after class
 - Include both UAs in all class related communication, including everything homework related (submission, extensions, grading, etc.)
-- Begin your email subject line with "\[18.A34\]"
+- Begin your email subject line with `[18.A34]`
 
 ## Course description and policies
 
@@ -84,13 +86,21 @@ This year's problem sets will likely be mostly the same, although there could be
 
 ### Submission
 
-- Begin each solution on a new page. Remember to state your collaborators and sources (even if none is used); see below.
+- Begin each solution on a new page
+- State your sources at the top of each problem (even if you worked independently); see below
 - Homework must be submitted on Gradescope (accessible from Canvas) by 1pm, before the beginning of the class meeting, preferably earlier.
 - Submissions should be typed in **LaTeX** and submitted as PDF. Reach out to the UAs for help with LaTeX if needed.
 - Homework will be graded similarly to the Putnam competition.
 - Problems range widely in difficulty. You are encouraged to challenge yourself and submit your best solutions.
 - Do not worry if a problem set covers an area of mathematics you have not yet formally learned (e.g., algebra, analysis). Try your best.
 - Non-registered students may not hand in solutions.
+
+
+### Late policy
+
+- Late submissions will not be accepted without a valid excuse.
+- If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the UAs and me in advance or have S<sup>3</sup> send us a message. Let us know how many days extension you need.
+- My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 ### Acknowledging collaborators and sources
 
@@ -101,12 +111,6 @@ It is required to acknowledge your sources (even if you worked independently)
 - Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation
 - You may NOT intentionally look up (or ask from others) solutions to homework problems prior to solving the problems yourselves. 
 Once you have solved a problem, it is fine to seek and learn alternate solutions.
-
-### Late policy
-
-- Late submissions will not be accepted without a valid excuse.
-- If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the UAs and me in advance or have S<sup>3</sup> send us a message. Let us know how many days extension you need.
-- My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 ### Collaborations
 

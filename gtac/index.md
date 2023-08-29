@@ -11,38 +11,29 @@ image: /gtac/bridge.png
 <img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
-**Fall 2021, MIT, graduate level**
+**Fall 2023, MIT, graduate level**
 
 _Quick links:_
-[\[Book draft\]](/gtacbook/)
-[\[Problem set\]](ps.pdf)
-[\[Canvas\]](https://canvas.mit.edu/courses/10355)
+[\[Textbook\]](/gtacbook/)
+[\[Canvas\]](https://canvas.mit.edu/courses/21524)
 
-**Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-153
+**Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-261
 
 **Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
-**Graders:** [Yibo Gao](mailto:gaoyibo@mit.edu) (lead), [Milan Haiman](mailto:mhaiman@mit.edu), [Anqi Li](mailto:anqili@mit.edu), 
+**Graders:** TBA
 
 **Emails and Piazza**
-- My policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
+- For quick questions, please ask me after class.
+- The class policy is to not answer by email any math questions related to the class, due to time constraints and also that emails are not a great medium for such Q&As (ask them during office hours instead).
 - Clarification questions (about homework or lectures) should be asked on **Piazza** (link in Canvas), as they may benefit the rest of the class. The same goes for other discussions of general interest. Do not discuss hints or solutions to homework problems on Piazza until after the latest possible submission time after due date.
-- Email the lead grader and cc me if it is homework related (submission, extensions, grading, etc.)
-- Begin your email subject line with "\[18.225\]"
+- For all homework-related questions (submission, extensions, grading, etc.), please email the lead grader
+- Begin your email subject line with `[18.225]`
 
 **Office hours**
-- Instead of holding regular office hours, I will stay around after class to answer questions -- we may move to the math common room (2-290). 
-- I plan to also schedule ad-hoc office hours for each problem set. Stay tuned for Canvas announcements.
-- You may ask me about unstarred problems (but not starred ones) during office hours.
-I will ask you to first explain on the board the progress you have made so far.
-
-
-<!-- **Course files**: [Dropbox folder](https://www.dropbox.com/sh/6ashj34jk6i905n/AADi8iXBLj0U41e9Q-mc0fdNa?dl=0&lst=).
-Will be updated throughout the term. 
-- Lectures outline
-- Problem sets
-- Book draft -->
-
+- I will generally stay around after class to answer questions -- we may move to my office (2-271) if needed.
+- I plan to hold regular office hours Fridays afternoons. Please see Canvas announcements for more information.
+- You may ask me about unstarred problems (but not starred ones) during office hours. I will ask you to first explain on the board the progress you have made so far.
 
 ## Course description
 
@@ -66,7 +57,9 @@ The course will explore these and related topics, including:
 
 Although the course will be largely divided into two parts (graph theory in the first half and additive combinatorics in the second), we will emphasize the interactions between the two topics and highlight the common themes.
 
-Lecture video recordings from Fall 2019 (may not correspond exactly to the current semester) may be found on
+**Textbook:** Yufei Zhao, [Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](https://yufeizhao.com/gtacbook/), Cambridge University Press, 2023
+
+**Lecture video recordings from Fall 2019** (may not correspond exactly to the current semester) may be found on
 [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) 
 and 
 [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX).
@@ -78,82 +71,26 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 
 ### Grading
 
-- 90% based on [problem sets](#problem-sets)
+- Primarily based on [problem sets](#problem-sets)
   -  Only non-starred problems are considered for the calculations of letter grades other than A and A+
-- 10% based on (graded holistically at the end of term and can be used for deciding borderline grades)
-  - [Wikipedia assignment](#wikipedia-assignment)
-  - [comments on book draft](#book-draft)
-  - general participation and discussion (in class, office hours, and on Piazza)
+- The final grade may be adjusted up to ±5% at the end of term holistically based on:
+  - [Research project proposal assignment](#research-project-proposal-assignment)
+  - Participation (in class, office hours, and on Piazza)
+- Final letter grade cutoffs: 
+  * A− : ≥ 85%
+  * B− : ≥ 70%
+  * C− : ≥ 50%  
+- Grades of A and A+ are awarded at my discretion based on overall performance
+  - Solving a significant number of starred problems is a requirement for grades of A and A+ (please don't ask me what "a significant number" means). 
+  - Official MIT grading policy: ± grade modifiers do not count towards the GPA and do not appear on the external transcript
 
-Final letter grade cutoffs: 
-* A− : ≥ 85%
-* B− : ≥ 70%
-* C− : ≥ 50%  
-  
-Grades of A and A+ are awarded at my discretion based on overall performance.
-Solving a significant number of starred problems is a requirement for grades of A and A+ (please don't ask me what "a significant number" means). 
-Note that for MIT students, ± grade modifiers do not count towards the GPA and do not appear on the external transcript.
 
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
 
-### Lectures
-
-1. **W 9/8** A bridge between graph theory and additive combinatorics §0
-
-2. **M 9/13** Forbidding a subgraph: Mantel’s Theorem and Turán’s Theorem §1.1–1.2
-
-3. **W 9/15** Forbidding a subgraph: supersaturation, Kővári–Sós–Turán, Erdős–Stone–Simonovits §1.3–1.5
-
-4. **M 9/20** Forbidding a subgraph: forbidding cycles, dependent random choice, randomized lower bounds constructions §1.6–1.9
-
-5. **W 9/22** Forbidding a subgraph: algebraic and randomized algebraic lower bound constructions §1.10–1.11
-
-6. **M 9/27** Graph regularity: statement and proof §2.1
-
-7. **W 9/29** Graph regularity: triangle counting and removal lemmas, proof of Roth’s theorem §2.2–2.4
-
-8. **M 10/4** Graph regularity: Behrend's construction of 3-AP-free sets, graph counting and removal, Erdős–Stone–Simonovits again, graph property testing. §2.5–2.6, 2.9
-
-9. **W 10/6** Graph regularity: induced removal and strong regularity, hypergraph removal and regularity §2.10–2.11
-
-10. **W 10/13** Pseudorandom graphs: Chung–Graham–Wilson equivalences for quasirandom graphs, §3.1
-
-11. **M 10/18** Pseudorandom graphs: expander mixing lemma, Cayley graphs on Z/pZ, §3.2–3.3
-
-12. **W 10/20** Pseudorandom graphs: quasirandom groups, quasirandom Cayley graphs, §3.4–3.5
-
-13. **M 10/25** Pseudorandom graphs: second eigenvalue bound §3.6
-
-14. **W 10/27** Graph limits: introduction, graphon, cut distance §4.1–4.3
-
-15. **M 11/1** Graph limits: homomorphism density, counting lemma, weak regularity lemma, §4.3, 4.5–4.6
-
-16. **W 11/3** Graph limits: martingale convergence theorem, compactness of the graphon space, equivalence of convergence, §4.7–4.9
-
-17. **M 11/8** Graph homomorphism inequalities: edge-triangle region, Cauchy–Schwarz §5.1–5.2
-
-18. **W 11/10** Graph homomorphism inequalities: flag algebra, Hölder, Lagrangian §5.3–5.4
-
-19. **M 11/15** Forbidding 3-term arithmetic progressions: finite field §6.1–6.2
-
-20. **W 11/17** Forbidding 3-term arithmetic progressions: integers §6.3–6.4
-
-21. **M 11/22** Forbidding 3-term arithmetic progressions: polynomial method §6.5. Structure of set addition: statement of Freiman's theorem §7.1
-
-22. **W 11/24** Structure of set addition: Ruzsa triangle inequality, Plünnecke's inequality, Ruzsa covering lemma, Freiman’s theorem in groups of bounded exponent §7.2–7.5
-
-23. **M 11/29** Structure of set addition: Freiman homomorphisms, Ruzsa’s model lemma, Bogolyubov’s lemma §7.6–7.8
-
-24. **W 12/1** Structure of set addition: Geometry of numbers, proof of Freiman's theorem, polynomial Freiman—Ruzsa conjecture §7.9–7.12
-
-25. **M 12/6** Structure of set addition: Additive energy and the Balog—Szemerédi—Gowers theorem §7.13
-
-26. **W 12/8** Sum-product problem §8
-
 ## Problem sets
 
-[Problem set PDF](ps.pdf)
+See Dropbox link at the top of the page for homework problems.
 
 The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 
@@ -168,34 +105,35 @@ It will be essential to start thinking about these problems early.
 
 | Problem set | Due date  |
 |:---------------:|:-----------:|
-| PS 1 | Sun Sep 26
-| PS 2 | Sun Oct 10
-| PS 3 | Sun Oct 24
-| PS 4 | Sun Nov 7
-| PS 5 | Sun Nov 21
-| PS 6 | Sun Dec 5
+| PS 1 | Sun Sep 24
+| PS 2 | Sun Oct 8
+| PS 3 | Sun Oct 22
+| PS 4 | Sun Nov 5
+| PS 5 | Sun Nov 19
+| PS 6 | Sun Dec 10
 
 **Starred problems** on each problem set should be submitted separately, with an automatic 7-day extension without penalty (and no additional extensions permitted).
 
 ### Submissions
 
-* Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
 * Due time: **11:59pm of each due date**
+* Must be typed in LaTeX and submitted as PDF on Gradescope (accessed from Canvas).
 * Begin each solution on a new page
+* State your sources at the top of each problem (even if you worked independently); see below
 * Each box on the left-margin of the problem set PDF indicates a single problem worth 10 points
 
 ### Late policy
 
 * **Penalty.** Late submissions will be penalized by 20% per each late day (24-hour increments, without fractional accounting).
-  * Example: for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth 0.6_x_ points if submitted on Tuesday.
-* **Multiple submissions.** You are allowed to submit some of the problems on time and some of the problems in a separate "late" batch and have the late penalty applied only to the late batch.
-   * You are allowed to submit at most two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches)
+  * Example: for an assignment due on Sunday, a submission worth _x_ points if turned in on time will be worth 0.6_x_ points points if submitted on Tuesday.
+* **Multiple submissions.** You are allowed to submit up to two batches (i.e., 1 ontime + 1 late batch, or 2 separate late batches) and have the late penalty applied separately.
+   * Please email the graders with a list of your on-time and late problems
+   * The final submission should include everything, with the ontime and late problems clearly marked in the PDF,
    * The second batch may not contain any updates or replacement to an already submitted problem.
-   * The final submission should include everything, with the late problems clearly marked as "late" in the PDF.
    * Please email the lead grader if you submit in two batches, with details on which problems are submitted in which batch, as multiple submissions complicate our grading process.
    * This policy is provided as a courtesy; it may be rescinded if abused.
 * **Extensions.** If you need an extension for valid excuses (e.g., unanticipated health or family issues), please email the lead grader and me **in advance** or have S3 send us a message. Let us know how many days extension you would need.
-  * My policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
+  * The class policy is to not grant extension based on forseeable circumstances including other academic workload, extracurriculars, and poor study habits.
 
 
 ### Collaborations
@@ -219,121 +157,48 @@ It is required to acknowledge your sources (even if you worked independently)
 
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
 
-## Book draft
 
-I am in the process of editing and rewriting the 
-[course notes from Fall 2019](gtac.pdf) into a textbook.
-I will be updating the [book draft](/gtacbook/) as the semester progresses.
-Check there for the latest available version.
-This book draft will also serve as course notes.
+## Research project proposal assignment
 
-The book is still very much in an unfinished state, especially in the later sections.
-
-The numberings (sections, theorems, etc.) in the book draft are unstable. When quoting theorems for homework, please include the statement or a description of the result rather than simply the theorem number.
-
-Your feedback on the book draft is appreciated.
-Please help me find errors (both of the English and math kind). Also point out places where the exposition is unclear. 
-Suggestions are welcome.
-Please post your comments in Piazza in the "book" folder.
-Your active participation in giving feedback on the book draft contributes to the 10% of the grade as discussed in the grading scheme.
+- You will write a proposal for a research project on a topic related to this class.
+  - To write a thoughtful proposal, you are expected to do some literature searches and also think about the problems yourself
+- **Due date:** the same time as ps6
+  - You are welcome to submit the proposal anytime during the semester and then optionally work on the proposed project yourself
+- **Intended audience:** beginning graduate student or a strong undergraduate researcher (REU/UROP/SPUR)
+  - Your submission may actually be used for this purpose in the future
+- **Page limit:** 2 pages + references
+- **Grading:** part of the ±5% modifier
+  - No submission = -5%
+  - Limited effort and thought, more or less just problem statements copied from another source = negative modifier
+  - "Meets expectations" = zero modifier
+  - A proposal that I would be excited to implement = positive modifier
 
 
-## Wikipedia assignment
+**Topic selection:**
+- Either known open problems or new problems that you came up with
+- Should be realistic for the intended audience 
+  - Avoid big and famous open problems, unless you are proposing some interesting and potentially tractable special case
+  - Pick a topic that you would be excited to work on yourself
+- Come to office hours to discuss and hear ideas
 
-Wikipedia is often the first landing page for students (and even researchers) when looking to learn about a new concept.
-Unfortunately, many of topics in combinatorics are poorly represented on Wikipedia.
+**What should be in the proposal?**
+- Background and motivation
+  - Why is it interesting?
+  - Survey existing literature
+- Statements of problems and conjectures
+  - Propose milestones
+  - What would partial progress look like?
+- Suggested background reading
+- Some ideas for getting started
 
-**Your assignment:** pick some topic related to this course (even tangentially related is okay) where the Wikipedia page is either non-existent or has room for substantial improvements. Edit Wikipedia to make it better.
+**Ideas on where to find open problems**
 
-[Tutorial: editing Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction)
-
-You are asked to do more than simply editing.
-This is a **literature research and expository writing assignment**. 
-It is your job to look up and learn a topic and then distill the most important information in the format of a Wikipedia article.
-
-How to select a topic:
-- Look for topics mentioned in the course. Consult references and additional readings. Ask around.
-- Hear a concept you don't know? What happens if you Google keywords related to the topic? Is there a Wikipedia page? Is it actually helpful?
-- Go for general concepts of wide interest and applicability.
-- Avoid overly specialized topics (e.g., some specific recent research result). They are unsuitable for Wikipedia.
-- Make sure that any new article satisfies the Wikipedia [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability) criteria, to avoid risk of article deletion.
-- Do not ask me for suggestions. Part of your job is to find a good topic. Use your experience to judge what makes a good Wikipedia article.
-
-Some components of a good Wikipedia article:
-- A useful blurb at the beginning of each article, conveying the concept to an appropriately general audience;
-- Precisely stated definitions and theorems, if suitable;
-- Discussions of history, context, bounds, etc;
-- Explanations, examples, counterexamples, figures;
-- Short proofs;
-- References pointing to additional resources;
-- Not a simply a laundry list;
-- Not a textbook or a research journal (don't just copy theorems and proofs onto there).
-
-We will do this assignment in several stages, mimicking a double-blind review process.
-
-Everyone should contribute individually (not working in groups).
-
-For this assignment, use "private" post on Piazza (your name hidden to other students but visible to me) in the folder `wiki`. 
-
-
-### Stage I - proposal (due Sat Nov 13)
-
-- Post on Piazza, with post title `[Wiki] Your topic`,  your proposed page to add/edit on Wikipedia.
-- You may claim either an entire Wikipedia page (new or existing) or a substantial section (or multiple sections) of an existing Wikipedia page.
-- If there is an existing page, add a link to both the most current page as well as a link to the current frozen version from its ["View history"](https://en.wikipedia.org/wiki/Help:Page_history).
-- Explain why this page needs to be added/edited, and what you propose to do. For new pages, briefly make a case for [notability](https://en.wikipedia.org/wiki/Wikipedia:Notability).
-- Other students are welcome to comment on the proposals, or suggest additional content to add to the topic.
-- Based on the comments or other considerations, you may decide to revise your topic at a later point in the process.
-- Topics are chosen first-come first-serve by Piazza posting (though you may discuss through anonymous comments if you feel that a task is big enough to warrant splitting into multiple well defined tasks).
-
-### Stage II - initial edit (due Sat Nov 27)
-
-- Edit your proposed Wikipedia page.
-- Revise your initial Piazza post with a summary of your changes.
-- Mention in your Piazza summary what resources you have found useful / drawn from for this assignment (this should be more than lectures / GTAC book) 
-- Also add a link to the current frozen page (View history) immediately after your edit
-
-### Stage III - peer review and comments (due Sat Dec 4)
-
-- Provide substantive and constructive feedback to other students' Wikipedia edits.
-- Suggest improvements, e.g., what to add/delete/revise.
-- Every student needs to respond to at least three posts. (More is fine.)
-- Every post needs to have at least three responses. (More is fine.) It is each student's responsibility to solicit more responses if they do not have at least three. 
-- Use best effort to preserve double-blind anonymity throughout this process (it won't be perfect, but do your best)
-
-### Stage IV - revision (due Wed Dec 8)
-
-- Revise your Wikipedia entry accounting for the comments.
-- Summarize of your revisions by revising and adding to your initial Piazza post.
-- Explain if you disagree with comments you received.
-
-Please edit your initial Piazza post for all the stages rather than creating new ones (one post per student).
-
-Use bold section headers (Stage I, II, IV) to clearly separate different parts of your post.
-
-## References
-
-Additional references for material covered in the course
-
-**Extremal graph theory**
-
-- David Conlon's notes on [extremal graph theory](https://www.dpmms.cam.ac.uk/~dc340/Extremal-course.html)
-- Asaf Shapira's notes on [extremal graph theory](http://www.math.tau.ac.il/~asafico/ext-graph-theory/notes.pdf)
-- Choongbum Lee's notes on [extremal combinatorics](http://math.mit.edu/~cb_lee/18.318/materials.html)
-
-**Pseudorandom graphs and graph limits**
-
-- Chapter 9 of Alon and Spencer, [The Probabilitic Method](https://www.amazon.com/gp/product/1119061954/)
-- László Lovász, [Large Networks and Graph Limits](https://www.amazon.com/gp/product/0821890859/)
-
-**Additive combinatorics**
-
-- Ben Green's notes on [additive combinatorics](http://people.maths.ox.ac.uk/greenbj/notes.html)
-- K. Soundararajan's notes on [additive combinatorics](http://math.stanford.edu/~ksound/Notes.pdf)
-- Adam Sheffer's notes on [additive combinatorics](https://adamsheffer.wordpress.com/pdf-files/)
-- Tao and Vu, [Additive Combinatorics](https://www.amazon.com/gp/product/0521136563/)
-
+- [List of Erdős problems](https://www.erdosproblems.com/all)
+- [Open Problems in Additive Combinatorics](https://ecroot.math.gatech.edu/E2S-01-11.pdf) by Croot and Lev
+- Research papers, textbook, seminars (also videos online)
+- Come to office hours
 
 **Previous versions of the course:** 
 [Fall 2017](fa17/),
-[Fall 2019](fa19/)
+[Fall 2019](fa19/),
+[Fall 2021](fa21/)
