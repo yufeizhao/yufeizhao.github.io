@@ -90,16 +90,11 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Problem sets
 
-See Dropbox link at the top of the page for homework problems.
-
-The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
-
-You should only submit the designated problems, but are encouraged to try the rest as well.
-
-Starred problems are generally more challenging.
-
-To get the most out of this course, you are expected to spend a significant amount of time solving these problems.
-It will be essential to start thinking about these problems early.
+- See Dropbox link at the top of the page for homework problems.
+- The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
+- You should only submit the designated problems, but are encouraged to try the rest as well.
+- Starred problems are generally more challenging.
+- To get the most out of this course, you are expected to spend a significant amount of time solving these problems. It will be essential to start thinking about these problems early.
 
 ### Schedule
 
@@ -161,11 +156,10 @@ Intentional violations of the above policies may be considered academic dishones
 ## Research project proposal assignment
 
 - You will write a proposal for a research project on a topic related to this class.
-  - To write a thoughtful proposal, you are expected to do some literature searches and also think about the problems yourself
+  - Imagine a document that I can hand to a beginning grad student or an undergraduate researcher (UROP/SPUR/REU)
+  - Your submission may actually be used for this purpose in the future
 - **Due date:** the same time as ps6
   - You are welcome to submit the proposal anytime during the semester and then optionally work on the proposed project yourself
-- **Intended audience:** beginning graduate student or a strong undergraduate researcher (REU/UROP/SPUR)
-  - Your submission may actually be used for this purpose in the future
 - **Page limit:** 2 pages + references
 - **Grading:** part of the ±5% modifier
   - No submission = -5%
@@ -177,7 +171,7 @@ Intentional violations of the above policies may be considered academic dishones
 **Topic selection:**
 - Either known open problems or new problems that you came up with
 - Should be realistic for the intended audience 
-  - Avoid big and famous open problems, unless you are proposing some interesting and potentially tractable special case
+  - Avoid big and famous open problems, unless you are proposing some interesting and tractable special cases
   - Pick a topic that you would be excited to work on yourself
 - Come to office hours to discuss and hear ideas
 
@@ -190,6 +184,7 @@ Intentional violations of the above policies may be considered academic dishones
   - What would partial progress look like?
 - Suggested background reading
 - Some ideas for getting started
+  - You'll need to spend some effort to think about the problem yourself in order to write a thoughtful proposal
 
 **Ideas on where to find open problems**
 

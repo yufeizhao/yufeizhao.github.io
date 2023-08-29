@@ -26,7 +26,7 @@ and
 
 - For quick questions, ask me after class
 - Include both UAs in all class related communication, including everything homework related (submission, extensions, grading, etc.)
-- Begin your email subject line with `[18.A34]`
+- Begin your email subject line with "\[18.A34\]"
 
 ## Course description and policies
 
@@ -59,7 +59,7 @@ Every student will be **required** to attend a certain number of UA office hours
 Please notify me in advance if you cannot make it to class (e.g., due to illness).
 Too many unexcused absences is cause for concern and may lead to a non-passing grade.
 
-**Non-registered MIT students** are welcome to attend sessions below marked `lecture`. However, other classes are restricted to official participants.
+**Non-registered MIT students** are welcome to attend sessions below marked "lecture." However, other classes are restricted to official participants.
 
 ### Grading
 
