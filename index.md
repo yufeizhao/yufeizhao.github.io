@@ -74,7 +74,6 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   <!-- {%include button href="gtac/ps.pdf" text="Exercises" %}  -->
   {%include button href="https://ocw.mit.edu/18-217F19" text="MIT OCW" %} 
   {%include button href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX" text="YouTube" %} 
-
 * [18.A34 Mathematical Problem Solving (Putnam Seminar)](a34/), Fall 2023
   {%include button href="https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214" text="MIT News Profile" %}
   \\
@@ -88,7 +87,6 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   [_2017_](a34/putnam/2017winners.pdf)  
   [<img src="a34/putnam/mitputnam.svg" width="600" style="max-width: 100%; height: auto;"
  title="MIT Putnam Performance">](a34/putnam/mitputnam.pdf)
-
 * [18.226 Probabilistic Methods in Combinatorics](pm/) (grad), Fall 2022
   {%include button href="pm/probmethod_notes.pdf" text="Notes" %} 
   {%include button href="pm/pm-ps.pdf" text="Exercises" %} 
