@@ -6,7 +6,7 @@ description: "18.A34 Mathematical Problem Solving (Putnam Seminar). Prof. Yufei 
 
 # 18.A34 Mathematical Problem Solving (Putnam Seminar)
 
-**Fall 2022, MIT**
+**Fall 2022, MIT** ([Link to the most current version of the course](..))
 
 **Class meetings:** Mondays and Wednesdays 1--2pm, room 2-132
 
