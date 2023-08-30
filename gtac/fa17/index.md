@@ -39,7 +39,7 @@ Although the course will be largely divided into two parts (graph theory in the 
 **Prerequisites:** Mathematical maturity at the level of a first-year math graduate student.
 
 
-## [Course notes](gtac.pdf)
+## [Course notes](gtac17.pdf)
 
 Each student taking the class for credit is expected to write course notes on one (or more, depending on class size) lecture(s). The LaTeX files are hosted on our [Overleaf project](https://www.overleaf.com/read/qdwqkgfnrkwr) (registered class participants have received a separate link by email allowing read-write access to the project).
 
