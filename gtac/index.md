@@ -188,7 +188,8 @@ Intentional violations of the above policies may be considered academic dishones
 
 **Ideas on where to find open problems**
 
-- [List of Erdős problems](https://www.erdosproblems.com/all)
+- [List of Erdős problems](https://www.erdosproblems.com/all) by Tom Bloom
+- [Erdős problems on graphs](https://mathweb.ucsd.edu/~erdosproblems/) by Fan Chung
 - [Open Problems in Additive Combinatorics](https://ecroot.math.gatech.edu/E2S-01-11.pdf) by Croot and Lev
 - Research papers, textbook, seminars (also videos online)
 - Come to office hours
