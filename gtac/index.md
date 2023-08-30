@@ -169,7 +169,7 @@ Intentional violations of the above policies may be considered academic dishones
 
 
 **Topic selection:**
-- Either known open problems or new problems that you came up with
+- Either existing open problems or new problems that you came up with
 - Should be realistic for the intended audience 
   - Avoid big and famous open problems, unless you are proposing some interesting and tractable special cases
   - Pick a topic that you would be excited to work on yourself
