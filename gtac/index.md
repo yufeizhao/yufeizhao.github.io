@@ -16,6 +16,7 @@ image: /gtac/bridge.png
 _Quick links:_
 [\[Textbook\]](/gtacbook/)
 [\[Canvas\]](https://canvas.mit.edu/courses/21524)
+[\[Dropbox (ps & schedule)\]](https://www.dropbox.com/scl/fo/kce7go9eew6268buec3kn/h?rlkey=k0t4gp0mwfarm7v6tqy4fad7x&dl=0)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-261
 
