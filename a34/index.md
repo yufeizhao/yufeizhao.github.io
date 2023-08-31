@@ -30,36 +30,34 @@ and
 
 ## Course description and policies
 
-- A first-year undergraduate seminar
+- A first-year undergraduate seminar. Seminar participants are selected through the First-year Advising Selection process.
+Unfortunately I cannot add additional students.
 - Intended for students with previous math competition experience
 - Lectures highlight problem solving techniques as well as connections to further mathematics
 - Emphasis on developing mathematical communication skills, including blackboard presentation and proof writing
 - Discussions of academic and career topics relevant for students from a math competition background
-
-**[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):**
+- **[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):**
 The Putnam Competition is an annual mathematics contest for undergraduates in the USA and Canada.
 This year it will be held **Saturday, December 2, 2023**.
+  - All registered students will be required to participate in the Putnam competition. Students should self-register on the official Putnam website.
 
-All registered students will be required to participate in the Putnam competition. Students should self-register on the official Putnam website.
-
-Seminar participants are selected through the First-year Advising Selection process.
-Unfortunately I cannot add additional students.
-See below for policies on lecture attendance.
 
 ### Class format
 
 - **Lectures** are open to all MIT students.
-- **Presentations/Discussions** (i.e., non-lectures) are only open to registered class members. These classes will begin with a brief discussion, followed by student blackboard presentations of homework solutions. Active participation is expected.
-  - Students can volunteer at the beginning of each presentation class by writing on the blackboard their name and the solution they wish to present.
-  - Aim for no more than 10 minutes per presentation. You should skip routine or uninteresting calculations. I may need to end a presentation if it runs over time.
-- **UA office hours** will give opportunities for students to practice presentations with the UAs in a small group setting, and also to discuss writing and problem solving techniques.
-Every student will be **required** to attend a certain number of UA office hours, roughly once every two weeks. See Canvas announcements for more information.
-
-**Class attendance is required** for registered students.
-Please notify me in advance if you cannot make it to class (e.g., due to illness).
-Too many unexcused absences is cause for concern and may lead to a non-passing grade.
-
-**Non-registered MIT students** are welcome to attend sessions below marked "lecture." However, other classes are restricted to official participants.
+- **Presentations/Discussions** (i.e., non-lectures) are only open to registered class members. 
+  - Each class starts with a brief discussion, followed by student blackboard presentations of homework solutions
+  - Active participation is expected.
+  - Students should volunteer to present via a Google Form sent out in Canvas
+  - 10-minute time limit per presentation. Feel free to skip routine calculations and details
+- **UA evening office hours** 
+  - In small groups lead by a UA, students practice giving presentations and receive feedback from the UA
+  - Attendance is required roughly once every two weeks for each student
+  - See Canvas announcements
+- **Class attendance is required** for registered students.
+  - Please notify me in advance if you cannot make it to class (e.g., due to illness).
+  - Too many unexcused absences is cause for concern and may lead to a non-passing grade.
+- **Non-registered MIT students** are welcome to attend sessions below marked "lecture" but not other sessions
 
 ### Grading
 
@@ -140,7 +138,6 @@ Some resources may be available electronically from [MIT Library](https://librar
 Previous course homepage from
 [2017](fa17/),
 [2018](fa18/),
-(also [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/)),
 [2019](fa19/),
 [2020](fa20/),
 [2021](fa21/),
