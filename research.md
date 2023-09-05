@@ -11,7 +11,7 @@ My papers are listed below by topic.
 
 Additional links to my work:
 [arXiv](http://arxiv.org/a/zhao_y_1) |
-[MathSciNet](http://www.ams.org/mathscinet/search/author.html?mrauthid=864404) |
+[MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=864404) |
 [Google Scholar](http://scholar.google.com/citations?user=H1vNRiUAAAAJ) |
 [CV](cv.pdf)
 
