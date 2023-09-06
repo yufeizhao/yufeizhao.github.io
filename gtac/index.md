@@ -89,6 +89,8 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
 
+---
+
 ## Problem sets
 
 - See Dropbox link at the top of the page for homework problems.
@@ -153,6 +155,7 @@ It is required to acknowledge your sources (even if you worked independently)
 
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
 
+---
 
 ## Research project proposal assignment
 

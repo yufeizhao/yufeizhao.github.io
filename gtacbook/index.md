@@ -19,19 +19,22 @@ Graph Theory and Additive Combinatorics
 
 [Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA#fndtn-information) 2023
 
-Bookstores:
-[Amazon US](https://www.amazon.com/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941/), 
-[Amazon UK](https://www.amazon.co.uk/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941), 
-[Barnes & Noble](https://www.barnesandnoble.com/w/graph-theory-and-additive-combinatorics-yufei-zhao/1142747316)
+
 
 Using the dichotomy of structure and pseudorandomness as a central theme, this accessible text provides a modern introduction to extremal graph theory and additive combinatorics. Readers will explore central results in additive combinatorics-notably the cornerstone theorems of Roth, Szemerédi, Freiman, and Green-Tao-and will gain additional insights into these ideas through graph theoretic perspectives. Topics discussed include the Turán problem, Szemerédi's graph regularity method, pseudorandom graphs, graph limits, graph homomorphism inequalities, Fourier analysis in additive combinatorics, the structure of set addition, and the sum-product problem. Important combinatorial, graph theoretic, analytic, Fourier, algebraic, and geometric methods are highlighted. Students will appreciate the chapter summaries, many figures and exercises, and freely available lecture videos on MIT OpenCourseWare. Meant as an introduction for students and researchers studying combinatorics, theoretical computer science, analysis, probability, and number theory, the text assumes only basic familiarity with abstract algebra, analysis, and linear algebra.
 
+---
 
 ## [Book manuscript PDF](gtacbook.pdf)
 
-Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-form).
+- Has minor differences from the published version; different pagination
+- Please consider purchasing a copy from the publisher or your favorite book store
+    - Some links: [Amazon US](https://www.amazon.com/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941/), 
+        [Amazon UK](https://www.amazon.co.uk/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941), 
+        [Barnes & Noble](https://www.barnesandnoble.com/w/graph-theory-and-additive-combinatorics-yufei-zhao/1142747316)
+- Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-form)
 
-[Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
+---
 
 ### Chapters
 
@@ -46,17 +49,21 @@ Please submit errors and corrections on the [Google Form](https://bit.ly/gtac-fo
 - Sum-product Problem
 - Progressions in Sparse Pseudorandom Sets
 
+---
 
-### Video lectures from Fall 2019 class:
-- [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) 
-- [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+### Additional resources
 
-[Class website from Fall 2021](../gtac/)
+- Video lectures from Fall 2019 class:
+    - [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) 
+    - [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
+- [Class website](../gtac/)
+- [中文翻译 Chinese translation](https://zhuanlan.zhihu.com/p/461470594) of Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators
+- [Discord server: GTAC study group](https://discord.gg/nuR5WBps3T)
 
-[中文翻译 Chinese translation](https://zhuanlan.zhihu.com/p/461470594) of Fall 2019 lecture notes by Chenghua Liu (Tsinghua) and collaborators
+---
 
 
-### [Reviews](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA#fndtn-information)
+## [Reviews](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA#fndtn-information)
 
 ‘Yufei Zhao does great mathematics and has an uncanny ability to explain the deepest results with clear understandable prose. For anyone interested in the seminal ideas (and their interrelationships) of recent decades - pseudorandomness, graphons, graph regularity, to name a few - this is the book to read and savor.’
 
