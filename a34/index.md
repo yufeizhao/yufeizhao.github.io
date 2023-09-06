@@ -77,6 +77,7 @@ Each problem set contains a long list of problems. You are encouraged to try man
 - At least two problems should be from the topic set, i.e., at most one problem can come from the supplementary problem set.
 - Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 - For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
+- A few problems, marked by ♡, are recommended as having potentially high pedagogical value.
 - If you wish to get a head start on later problem sets, you can check out the material from previous semesters (see links at the bottom).
 This year's problem sets will likely be mostly the same, although there could be minor changes and re-numbering.
 
