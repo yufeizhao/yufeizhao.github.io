@@ -37,7 +37,7 @@ Unfortunately I cannot add additional students.
 - **[William Lowell Putnam Mathematics Competition](https://www.maa.org/math-competitions/putnam-competition):**
 The Putnam Competition is an annual mathematics contest for undergraduates in the USA and Canada.
 This year it will be held **Saturday, December 2, 2023**.
-  - All registered students will be required to participate in the Putnam competition. Students should self-register on the official Putnam website.
+  - All registered students will be required to participate in the Putnam competition. Sign up information will be announced.
 
 
 ### Class format
@@ -66,18 +66,17 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Schedule and due dates
 
-TBA
+See Dropbox link at the top
 <!-- [\[Dropbox with schedule and homework PDFs\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0) -->
 
 
 ## Homework
 
-Each problem set contains a long list of problems. You are encouraged to try many problems, but please only hand in **your three best solutions** (do not submit more than three):
-
-- At least two problems should be from the topic set, i.e., at most one problem can come from the supplementary problem set.
+- Each problem set contains a long list of problems
+- You are encouraged to try many problems, but please only hand in **your three best solutions** (do not submit more than three). If you don't know which ones to start, try the ones marked by ♡ first.
+- At least two problems should come from the topic set, i.e., at most one problem can come from the supplementary problem set.
 - Do not hand in supplementary problems rated strictly less than [2]; these are too easy.
 - For multi-part problems, you may decide what counts as "one solution", as long as it is reasonable (i.e., not too trivial).
-- A few problems, marked by ♡, are recommended as having potentially high pedagogical value.
 - If you wish to get a head start on later problem sets, you can check out the material from previous semesters (see links at the bottom).
 This year's problem sets will likely be mostly the same, although there could be minor changes and re-numbering.
 
@@ -127,7 +126,8 @@ Some resources may be available electronically from [MIT Library](https://librar
 **Previous Putnam problems and solutions**
 
 - [Putnam archive](http://kskedlaya.org/putnam-archive/) by Kedlaya
-- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions and Commentary](https://www.amazon.com/William-Lowell-Mathematical-Competition-1985-2000/dp/0883858274) by Kedlaya, Poonen, and Vakil
+- [The William Lowell Putnam Mathematical Competition 2001–-2016: Problems, Solutions, and Commentary](https://bookstore.ams.org/prb-37/) by Kedlaya, Kane, Kane, and O'Dorney
+- [The William Lowell Putnam Mathematical Competition 1985--2000: Problems, Solutions, and Commentary](https://bookstore.ams.org/prb-33/) by Kedlaya, Poonen, and Vakil
 
 **Additional books helpful for preparation**
 
