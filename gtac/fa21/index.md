@@ -8,7 +8,7 @@ image: /gtac/bridge.png
 18.225 Graph Theory and Additive Combinatorics
 ===============================================
 
-<img src="bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
+<img src="../bridge.png" width="600" height="181" style="float:right; max-width: 40%; height: auto;" class="side"
  title="The bridge between graph theory and additive combinatorics">
 
 **Fall 2021, MIT, graduate level** ([Link to the most current version of the course](..))
