@@ -22,7 +22,7 @@ _Quick links:_
 
 **Instructor:** [Prof. Yufei Zhao](http://yufeizhao.com)
 
-**Graders:** TBA
+**Graders:** [Yannick Yao](mailto:yyao1@mit.edu) (lead), [Zi Song Yeoh](mailto:zscoder@mit.edu), [Saba Lepsveridze](mailto:sabal@mit.edu)
 
 **Emails and Piazza**
 - For quick questions, please ask me after class.
