@@ -36,7 +36,7 @@ In particular, this result determines the first order growth rate of $N_\alpha(d
 
 Carl Schildkraut’s new paper gives a counterexample to this conjecture.
 
-**Theorem** ([Schildkraut](https://arxiv.org/abs/2302.12230)). There exist infinitely many $\alpha$ such that $N_{\alpha}(d) \ge d + \Omega_\alpha(\log \log d)$.
+**Theorem** ([Schildkraut](https://arxiv.org/abs/2302.12230)). There exist infinitely many $\alpha$ such that $N_{\alpha}(d) = d + o(d)$ and yet $N_{\alpha}(d) \ge d + \Omega_\alpha(\log \log d)$.
 
 I found this result to be quite surprising. I had expected the opposite to be true.
 

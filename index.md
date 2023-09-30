@@ -59,9 +59,6 @@ Cambridge, MA 02139, USA</p>
 ### [(Book) Graph Theory and Additive Combinatorics: Exploring Structure and Randomness](gtacbook/)
 
 _[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-and-additive-combinatorics/90A4FA3C584FA93E984517D80C7D34CA) 2023_
-  {%include button href="https://www.amazon.com/Graph-Theory-Additive-Combinatorics-Randomness/dp/1009310941/" text="Amazon" %} 
-  {%include button href="  https://www.barnesandnoble.com/w/graph-theory-and-additive-combinatorics-yufei-zhao/1142747316" text="B&N" %} 
-
 
 
 Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
