@@ -173,7 +173,7 @@ Additional links to my work:
   Communications in Mathematical Physics 402 (2023), 3021--3044
 
 - [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney) \\
-  _Israel Journal of Mathematics_, to appear
+  _Israel Journal of Mathematics_ 256 (2023), 599--617
 
 
   {%include side_image height="80" src="icosahedron.png" %} 
