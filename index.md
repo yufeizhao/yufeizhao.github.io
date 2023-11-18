@@ -44,11 +44,12 @@ Cambridge, MA 02139, USA</p>
 [Aaron Berger](https://web.mit.edu/bergera/www/)
 
 
-- Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
+Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
 
-- Associate Editor, [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics)
-
-- Editorial Advisory Board Member, [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+Editorial:
+[Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics),
+[Research in the Mathematical Sciences](https://www.springer.com/journal/40687/editors),
+[Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
 
 
 [<img src="gtacbook/gtaccover.jpg" style="max-height:200px; max-width: 100%"
