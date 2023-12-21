@@ -16,7 +16,7 @@ image: /gtac/bridge.png
 _Quick links:_
 [\[Textbook\]](/gtacbook/)
 [\[Canvas\]](https://canvas.mit.edu/courses/21524)
-[\[Dropbox (ps & schedule)\]](https://www.dropbox.com/scl/fo/kce7go9eew6268buec3kn/h?rlkey=k0t4gp0mwfarm7v6tqy4fad7x&dl=0)
+[\[Homework\]](ps-225-fa23.pdf)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-261
 
@@ -88,12 +88,43 @@ Comfortable with undergraduate real analysis (18.100) and algebra (18.701/3).
 
 Students needing support should consider reaching out to [Student Support Services (S<sup>3</sup>)](https://studentlife.mit.edu/s3), [GradSupport](https://oge.mit.edu/development/gradsupport/), or [Student Disability Services](https://studentlife.mit.edu/das).
 
+### Lectures
+
+- **W 9/6** Appetizer: Triangles and equations §0
+- **M 9/11** Forbidding a subgraph: Mantel’s Theorem and Turán’s Theorem §1.1–1.2
+- **W 9/13** Forbidding a subgraph: supersaturation, Kővári–Sós–Turán, Erdős–Stone–Simonovits §1.3–1.5
+- **M 9/18** Forbidding a subgraph: geometric application, forbidding cycles, dependent random choice §1.4, 1.6-1.7
+- **W 9/20** Forbidding a subgraph: randomized and algebraic lower bound constructions §1.9-1.10
+- **M 9/25** Graph regularity: statement and proof §2.1
+- **W 9/27** Graph regularity: triangle counting and removal lemmas, proof of Roth’s theorem §2.2–2.4
+- **M 10/2** Graph regularity: Behrend’s construction of 3-AP-free sets, graph counting and removal, Erdős–Stone–Simonovits again, graph property testing. §2.5–2.6, 2.9
+- **W 10/4** Graph regularity: induced removal and strong regularity, hypergraph removal and regularity §2.8, 2.10–2.11
+- **W 10/11** Pseudorandom graphs: quasirandom graphs, §3.1
+- **M 10/16** Pseudorandom graphs: expander mixing lemma, Abelian Cayley graphs and eigenvalues, quasirandom groups, §3.2–3.4
+- **W 10/18** Pseudorandom graphs: quasirandom Cayley graphs (sketch), second eigenvalue bound §3.5-3.6
+- **M 10/23** Graph limits: introduction, graphon, cut distance §4.1–4.3
+- **W 10/25** _Guest lecture by [Fan Chung](https://mathweb.ucsd.edu/~fan/)_
+- **M 10/30** Graph limits: homomorphism density, counting lemma, weak regularity lemma, §4.3, 4.5–4.6
+- **W 11/1** Graph limits: martingale convergence theorem, compactness of the graphon space, equivalence of convergence, §4.7–4.9
+- **M 11/6** Graph homomorphism inequalities: edge-triangle region, Cauchy–Schwarz §5.1–5.2
+- **W 11/8** Graph homomorphism inequalities: flag algebra, Hölder, Lagrangian §5.3–5.4
+- **M 11/13** Forbidding 3-term arithmetic progressions: finite field §6.1–6.2
+- **W 11/15** Forbidding 3-term arithmetic progressions: integers §6.3–6.4
+- **M 11/20** Forbidding 3-term arithmetic progressions: polynomial method. Structure of set addition: statement of Freiman’s theorem §6.5, 7.1
+- **W 11/22** _Class canceled. Happy thanksgiving!_
+- **W 11/27** Structure of set addition: Ruzsa triangle inequality, Plünnecke’s inequality, Ruzsa covering lemma, Freiman’s theorem in groups of bounded exponent §7.2–7.5
+- **M 11/29** Structure of set addition: Freiman homomorphisms, Ruzsa’s model lemma, Bogolyubov’s lemma §7.6–7.8
+- **W 12/4** Structure of set addition: Geometry of numbers, proof of Freiman’s theorem, polynomial Freiman—Ruzsa conjecture §7.9–7.12
+- **M 12/6** Structure of set addition: Additive energy and the Balog—Szemerédi—Gowers theorem §7.13
+- **W 12/11** Sum-product problem §8
+- **W 12/13** Progressions in sparse pseudorandom sets: the Green--Tao theorem §9
+
 
 ---
 
 ## Problem sets
 
-- See Dropbox link at the top of the page for homework problems.
+- See link at the top of the page for homework problems.
 - The problem set will be updated over the course of the semester. I will announce on Canvas when each problem set is complete.
 - You should only submit the designated problems, but are encouraged to try the rest as well.
 - Starred problems are generally more challenging.
