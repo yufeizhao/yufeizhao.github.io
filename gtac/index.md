@@ -16,7 +16,7 @@ image: /gtac/bridge.png
 _Quick links:_
 [\[Textbook\]](/gtacbook/)
 [\[Canvas\]](https://canvas.mit.edu/courses/21524)
-[\[Homework\]](ps-225-fa23.pdf)
+[\[Homework\]](ps.pdf)
 
 **Class meetings:** Mondays and Wednesdays 2:30--4pm, room 4-261
 

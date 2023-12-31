@@ -66,9 +66,42 @@ Students needing support should consider reaching out to [Student Support Servic
 
 ## Schedule and due dates
 
-See Dropbox link at the top
-<!-- [\[Dropbox with schedule and homework PDFs\]](https://www.dropbox.com/sh/7665ym3sy0mqcvy/AACMWUULT7COyVwnoDVeYOzVa?dl=0) -->
+_SS = Supplementary set_
 
+_♡ = recommended problems_
+
+- **W 9/6** Class introduction
+- **M 9/11** Discussion & Presentations. Due: [Probability](probability.pdf) & [SS1](ss1.pdf)
+- **W 9/13** Lecture by Yufei Zhao
+- **M 9/18** Discussion & Presentations. Due: [Hidden independence and uniformity](indep.pdf) & [SS2](ss2.pdf)
+- **W 9/20** Lecture by Mehtaab Sawhney
+- **M 9/25** Discussion & Presentations. Due: [Inequalities](ineq.pdf) & [SS3](ss3.pdf)
+- **W 9/27** Lecture by Mingyang Deng
+- **M 10/2** Discussion & Presentations. Due: [Combinatorial configurations](comb.pdf) & [SS4](ss4.pdf)
+- **W 10/4** Lecture by Luke Robitaille
+- _M 10/9 No class: Indigenous Peoples Day_
+- **W 10/11** Discussion & Presentations. Due: [Congruences and divisibility](cong.pdf) & [SS5](ss5.pdf)
+- **M 10/16** Discussion & Presentations. Due: [Generating functions](genfunc.pdf) & [SS6](ss6.pdf)
+- **W 10/18** Lecture by Dain Kim
+- **M 10/23** Discussion & Presentations. Due: [Polynomials](polynomials.pdf) & [SS7](ss7.pdf)
+- **W 10/25** Lecture by Ashwin Sah
+- **M 10/30** Discussion & Presentations. Due: [Analysis](analysis.pdf) & [SS8](ss8.pdf)
+- **W 11/1** Lecture by Edward Wan
+- **M 11/6** Discussion & Presentations. Due: [Sums and integrals](sum_integrals.pdf) ([notes](sum_integrals_lecture.pdf)) & [SS9](ss9.pdf)
+- **W 11/8** Lecture by Papon Lapate
+- **M 11/13** Discussion & Presentations. Due: [Abstract algebra](algebra.pdf) & [SS10](ss10.pdf)
+- **W 11/15** Lecture by Allen Liu
+- **M 11/20** Discussion & Presentations. Due: [Linear algebra](linalg.pdf) & [SS11](ss11.pdf)
+- **W 11/22** Discussion & Presentations (on any assigned problem)
+- **M 11/27** Discussion & Presentations: Putnam 2021
+- **W 11/29** Discussion & Presentations: Putnam 2022
+- **Saturday 12/2** Putnam Competition
+- **M 12/4** Discussion & Presentations: Putnam 2023 A
+- **W 12/6** Discussion & Presentations: Putnam 2023 A
+- **M 12/11** Discussion & Presentations: Putnam 2023 B
+- **W 12/13** Discussion & Presentations: Putnam 2023 B
+
+Past Putnam problems: [Putnam Archive](https://kskedlaya.org/putnam-archive)
 
 ## Homework
 
