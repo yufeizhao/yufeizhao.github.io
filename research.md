@@ -116,7 +116,7 @@ Additional links to my work:
    {%include button href="slides/popular_difference.pdf" text="slides" %}
 
 - [Tower-type bounds for Roth's theorem with popular differences](https://arxiv.org/abs/2004.13690) (with Jacob Fox and Huy Tuan Pham) \\
-  _Journal of the European Mathematical Society_, to appear
+  _Journal of the European Mathematical Society_ 25 (2023), 3795--3831
 
 ### Arithmetic regularity and applications
 
@@ -170,7 +170,7 @@ Additional links to my work:
 
 - [Quantum Unique Ergodicity for Cayley graphs of quasirandom groups](https://arxiv.org/abs/2204.10642)
   (with Michael Magee and Joe Thomas) \\
-  Communications in Mathematical Physics 402 (2023), 3021--3044
+  _Communications in Mathematical Physics_ 402 (2023), 3021--3044
 
 - [Cayley graphs that have a quantum ergodic eigenbasis](https://arxiv.org/abs/2207.05527) (with Assaf Naor, Ashwin Sah, and Mehtaab Sawhney) \\
   _Israel Journal of Mathematics_ 256 (2023), 599--617
@@ -354,7 +354,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 ### Random matrices
 
 - [On the number of Hadamard matrices via anti-concentration](https://arxiv.org/abs/1808.07222) (with Asaf Ferber and Vishesh Jain) \\
-  _Combinatorics, Probability and Computing_ (2022), no. 3, 455--477
+  _Combinatorics, Probability and Computing_ (2022), 455--477
 
 ### Extremal subgraph density problems in directed graphs and tournaments
 
@@ -366,7 +366,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 {%include side_image height="80" src="tournament-path.svg" %}
 - [Paths of given length in tournaments](https://arxiv.org/abs/2012.00262)
   (with Ashwin Sah and Mehtaab Sawhney) \\
-  _Combinatorial Theory_, to appear
+  _Combinatorial Theory_ 3 (2023), #5
   
 ### Extremal and Ramsey graph theory
 
@@ -383,7 +383,8 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [$K_4$-intersecting families of graphs](https://arxiv.org/abs/2103.12671) 
   (with Aaron Berger) \\
-  Journal of Combinatorial Theory, Series B, to appear
+  Journal of Combinatorial Theory, Series B 163 (2023), 112--132
+
 
 ### More sums than differences sets {%include button href="slides/mstd.pdf" text="slides" %}
 
