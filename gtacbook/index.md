@@ -92,3 +92,9 @@ _Noga Alon - Princeton University_
 ‘This is a wonderful, well-written account of additive combinatorics from the graph theoretic perspective. Zhao skillfully ties in this approach to the usual statements and gives a thorough development of the subject. This book is indispensable for any serious researcher in this area. Beginners will find a thorough account of the subject with plenty of motivation. The more experienced reader will appreciate the authors' insights and elegant development of some difficult ideas.’
 
 _Andrew Granville - University of Montréal_
+
+---
+
+### Anonymous MIT student end-of-term subject evaluation comment 
+
+> Yufei's textbook is extremely well written. The class is very challenging but teaches a vast amount of useful math. Now whenever I'm faced with a problem in graph theory, extremal combinatorics, or additive combinatorics I often will remember useful examples and techniques from this class. Yufei helps his students really *master* the techniques, through challenging psets. After struggling with some of the questions for hours I usually found that I had internalized why all the theorems presented in the chapter were true and could give reasonable sketches of how to demonstrate them. Truly an amazing class.
