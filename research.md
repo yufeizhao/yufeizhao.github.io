@@ -198,6 +198,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [Uniacute Spherical Codes](https://arxiv.org/abs/2311.17734) (with Saba Lepsveridze and Aleksandre Saatashvili) 
 
+- [Spectral non-concentration near the top for unimodular random graphs](https://arxiv.org/abs/2401.07165) (with Mikolaj Fraczyk, Ben Hayes, and Madhu Sudan)
 
 {%include side_image height="100" src="joint.svg" %}
 
