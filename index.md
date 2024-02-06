@@ -64,7 +64,7 @@ _[Cambridge University Press](https://www.cambridge.org/core/books/graph-theory-
 
 Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX)
 
-### [(Lecture Notes) Probabilistic Method in Combinatorics](pm/probmethod_notes.pdf)
+### [(Lecture Notes) Probabilistic Methods in Combinatorics](pm/probmethod_notes.pdf)
 
 
 ## Teaching
