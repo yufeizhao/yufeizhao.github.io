@@ -78,6 +78,7 @@ Lecture videos on [MIT OpenCourseWare](https://ocw.mit.edu/18-217F19) and [YouTu
   {%include button href="https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214" text="MIT News Profile" %}
   \\
   _Putnam Competition results_
+  [_2023_](a34/putnam/2023winners.pdf),
   [_2022_](a34/putnam/2022winners.pdf),
   [_2021_](a34/putnam/2021winners.pdf),
   <!-- {%include button href="https://news.mit.edu/2022/mit-students-take-first-place-82nd-putnam-mathematical-competition-0311" text="MIT News" %}  -->
