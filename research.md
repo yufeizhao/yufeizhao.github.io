@@ -85,7 +85,7 @@ Additional links to my work:
 
 - [Removal lemmas and approximate homomorphisms](https://arxiv.org/abs/2104.11626)
   (with Jacob Fox) \\
-  _Combinatorics, Probability and Computing_, to appear
+  _Combinatorics, Probability and Computing_ 31 (2022), 721--736
 
 {%include side_image height="60" src="c4-free-counting.svg" %}
 
@@ -145,6 +145,9 @@ Additional links to my work:
 
 - [Uniform sets with few progressions via colorings](https://arxiv.org/abs/2307.06914)
   (with Mingyang Deng and Jonathan Tidor) 
+
+- [Uncommon linear systems of two equations](https://arxiv.org/abs/2404.17005)
+  (with Dingding Dong and Anqi Li)
 
 ### Hypergraph expanders
 
@@ -295,7 +298,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [On the number of error correcting codes](https://arxiv.org/abs/2205.12363)
   (with Dingding Dong and Nitya Mani) \\
-  _Combinatorics, Probability and Computing_, to appear
+  _Combinatorics, Probability and Computing_, 32 (2023), 819--832
 
 - [Nearly all $k$-SAT functions are unate](https://arxiv.org/abs/2209.04894)
   (with József Balogh, Dingding Dong, Bernard Lidický, and Nitya Mani)  \\
