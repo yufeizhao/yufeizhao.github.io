@@ -380,7 +380,7 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [Set-coloring Ramsey numbers and error-correcting codes near the zero-rate threshold](http://arxiv.org/abs/2305.14132)
   (with David Conlon, Jacob Fox, and Huy Tuan Pham) \\
-  _IEEE Transactions on Information Theory_, to appear
+  _IEEE Transactions on Information Theory_ 70 (2024), 4074--4078
 
 
 ### Intersecting families of graphs

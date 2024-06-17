@@ -35,13 +35,13 @@ Cambridge, MA 02139, USA</p>
 [Travis Dillon](https://travisadillon.com/),
 [Dingding Dong](https://sites.google.com/view/dingding-dong/),
 [Nitya Mani](https://www.mit.edu/~nmani/),
-[Ashwin Sah](http://www.mit.edu/~asah/),
-[Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
 
 **Former PhD Students**:
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/),
 [Jonathan Tidor](https://web.stanford.edu/~jtidor/),
-[Aaron Berger](https://web.mit.edu/bergera/www/)
+[Aaron Berger](https://web.mit.edu/bergera/www/),
+[Ashwin Sah](http://www.mit.edu/~asah/),
+[Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
 
 
 Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
