@@ -38,16 +38,16 @@ Using the dichotomy of structure and pseudorandomness as a central theme, this a
 
 ### Chapters
 
-- Appetizer: Triangles and Equations
-- Forbidding a Subgraph
-- Graph Regularity Method
-- Pseudorandom Graphs
-- Graph Limits
-- Graph Homomorphism Inequalities
-- Forbidding 3-term Arithmetic Progressions
-- Structure of Set Addition
-- Sum-product Problem
-- Progressions in Sparse Pseudorandom Sets
+- [Appetizer: Triangles and Equations](0.pdf)
+- [Forbidding a Subgraph](1.pdf)
+- [Graph Regularity Method](2.pdf)
+- [Pseudorandom Graphs](3.pdf)
+- [Graph Limits](4.pdf)
+- [Graph Homomorphism Inequalities](5.pdf)
+- [Forbidding 3-term Arithmetic Progressions](6.pdf)
+- [Structure of Set Addition](7.pdf)
+- [Sum-product Problem](8.pdf)
+- [Progressions in Sparse Pseudorandom Sets](9.pdf)
 
 ---
 
