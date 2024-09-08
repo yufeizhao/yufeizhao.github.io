@@ -14,12 +14,6 @@ Massachusetts Institute of Technology</p>
 <p><strong>Email:</strong>
 {% include email.html %}</p>
 
-<p><strong>Office:</strong> <a href="http://whereis.mit.edu/?go=2" target="_blank">2-271</a></p>
-
-<p><strong>Mail:</strong><br>
-MIT Department of Mathematics<br>
-77 Massachusetts Ave, Bldg 2-271<br>
-Cambridge, MA 02139, USA</p>
 
 </div>
 <div class="col-md-6">
@@ -44,12 +38,12 @@ Cambridge, MA 02139, USA</p>
 [Mehtaab Sawhney](http://www.mit.edu/~msawhney/)
 
 
-Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)
+<!--Co-organizer, [Richard P. Stanley Seminar in Combinatorics](http://math.mit.edu/seminars/combin/)-->
 
-Editorial:
-[Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics),
-[Research in the Mathematical Sciences](https://www.springer.com/journal/40687/editors),
-[Springer Graduate Texts in Mathematics](https://www.springer.com/series/136)
+<!-- Editorial: -->
+<!-- [Advances in Mathematics](https://www.journals.elsevier.com/advances-in-mathematics), -->
+<!--[Research in the Mathematical Sciences](https://www.springer.com/journal/40687/editors),-->
+<!-- [Springer Graduate Texts in Mathematics](https://www.springer.com/series/136) -->
 
 
 [<img src="gtacbook/gtaccover.jpg" style="max-height:200px; max-width: 100%"
@@ -147,6 +141,7 @@ Also see [Youtube playlist](https://www.youtube.com/playlist?list=PLhQ4Q5PF7ZDkx
 
 ## Short CV
 
+* [Fulkerson Prize](https://www.ams.org/news?news_id=7345), 2024
 * NSF CAREER award, 2021
 * [Sloan Research Fellowship](http://news.mit.edu/2019/four-from-mit-named-sloan-research-fellows-0221), 2019
 * [Dénes König Prize](https://www.siam.org/prizes/sponsored/konig.php), 2018
