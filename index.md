@@ -28,7 +28,7 @@ Massachusetts Institute of Technology</p>
 **Current PhD Students**:
 [Travis Dillon](https://travisadillon.com/),
 [Dingding Dong](https://sites.google.com/view/dingding-dong/),
-[Nitya Mani](https://www.mit.edu/~nmani/),
+[Nitya Mani](https://www.mit.edu/~nmani/)
 
 **Former PhD Students**:
 [Benjamin Gunby](https://sites.google.com/view/benjamingunby/),

@@ -199,7 +199,8 @@ Additional links to my work:
 _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
   {%include button href="/blog/2021/09/28/eig-mult/" text="blog" %}
 
-- [Uniacute Spherical Codes](https://arxiv.org/abs/2311.17734) (with Saba Lepsveridze and Aleksandre Saatashvili) 
+- [Uniacute Spherical Codes](https://arxiv.org/abs/2311.17734) (with Saba Lepsveridze and Aleksandre Saatashvili)  \\
+  _Combinatorica_, to appear
 
 - [Spectral non-concentration near the top for unimodular random graphs](https://arxiv.org/abs/2401.07165) (with Mikolaj Fraczyk, Ben Hayes, and Madhu Sudan)
 
