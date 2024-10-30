@@ -204,6 +204,9 @@ _Bulletin of the London Mathematical Society_ 54 (2022), 1630--1652.
 
 - [Spectral non-concentration near the top for unimodular random graphs](https://arxiv.org/abs/2401.07165) (with Mikolaj Fraczyk, Ben Hayes, and Madhu Sudan)
 
+- [Equiangular lines and eigenvalue multiplicities](https://arxiv.org/abs/2410.20738),  \\
+  _Notices of the American Mathematical Society_ 71 (2024), 1151--1159
+
 {%include side_image height="100" src="joint.svg" %}
 
 ### Incidence geometry
